@@ -1,5 +1,4 @@
-name: Update Civic XML
-
+name: Update All RSS Feeds
 on:
   schedule:
     - cron: "*/30 * * * *"
