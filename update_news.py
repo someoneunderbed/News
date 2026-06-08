@@ -88,7 +88,6 @@ for site in SITELER:
             if not ("/hy/material/" in href):
                 continue
         if site["name"] == "Shamshyan.news":
-            # Added dynamic matching for Shamshyan specific paths
             if not ("/hy/article/" in href or "/article/" in href):
                 continue
 
@@ -116,13 +115,11 @@ for site in SITELER:
             parent = a_tag.parent
             if parent:
                 img_tag = parent.find('img')
-                # Check siblings if nothing is found directly above
                 if not img_tag and parent.parent:
                     img_tag = parent.parent.find('img')
 
         if img_tag and img_tag.get('src'):
             img_src = img_tag['src'].strip()
-            # Extended match filters to support Shamshyan image structures
             if "thumbs/" in img_src or "storage/" in img_src or "uploads/" in img_src or "preview/" in img_src:
                 img_url = img_src.split()[0]
                 if img_url.startswith('/'):
