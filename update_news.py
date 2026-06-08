@@ -71,7 +71,7 @@ for site in SITELER:
         if site["name"] == "5tv.am":
             if not ("/news-feed" in href):
                 continue
-              if site["name"] == "armenpress.am":
+        if site["name"] == "armenpress.am/hy":
             if not ("/hy/articles" in href):
                 continue
         if site["name"] == "Shamshyan.news":
