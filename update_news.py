@@ -28,6 +28,14 @@ SITELER = [
         # Standard fallback to their high-res icon/favicon asset
         "logo_url": "https://oragir.news/assets/images/favicon.png"
     }
+{
+        "name": "Shamshyan.news",
+        "url": "https://shamshyan.com/hy/articles/all",
+        "xml_filename": "shamshyan.xml",
+        "base_url": "https://shamshyan.com",
+        # Standard fallback to their high-res icon/favicon asset
+        "logo_url": "https://shamshyan.com/build/assets/logotype.351a3a34.png""
+    }
 ]
 
 def fetch_html(url):
