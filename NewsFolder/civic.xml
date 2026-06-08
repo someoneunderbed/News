@@ -5,14 +5,27 @@
     <link>https://civic.am/last-news</link>
     <description>Cleaned RSS feed updated from Civic.am.</description>
     <language>hy</language>
-    <lastBuildDate>Mon, 08 Jun 2026 20:06:10 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 21:30:41 -0000</lastBuildDate>
+    <image>
+      <url>https://civic.am/templates/newshub/images/logo.png</url>
+      <title>Վերջին Լուրեր - Civic.am</title>
+      <link>https://civic.am/last-news</link>
+    </image>
+    <item>
+      <title>09.06.2026, 00:24ՔաղաքականությունՀանձնառու ենք առաջ մղել Վաշինգտոնի խաղաղության գագաթնաժողովի նպատակները, ներառյալ՝ ԹՐԻՓՓ-ը․ Ռուբիոն շնորհավորել է վարչապետին</title>
+      <link>https://civic.am/news/117246</link>
+      <description>09.06.2026, 00:24ՔաղաքականությունՀանձնառու ենք առաջ մղել Վաշինգտոնի խաղաղության գագաթնաժողովի նպատակները, ներառյալ՝ ԹՐԻՓՓ-ը․ Ռուբիոն շնորհավորել է վարչապետին - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/117246</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/06/09/34040a961d5d11134857e777cf8062fdb3964bcd.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 08 Jun 2026 21:30:41 -0000</pubDate>
+    </item>
     <item>
       <title>08.06.2026, 16:48ՔաղաքականությունԱվտորիտարիզմի էջը Հայաստանում փակված է. Արարատ Միրզոյան</title>
       <link>https://civic.am/news/117222</link>
       <description>08.06.2026, 16:48ՔաղաքականությունԱվտորիտարիզմի էջը Հայաստանում փակված է. Արարատ Միրզոյան - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/117222</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/06/08/a890cf0e20d0ffad5e92fc629837ecc2a0d21c8c.webp" length="1000000" type="image/webp" />
-      <pubDate>Mon, 08 Jun 2026 20:06:10 -0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 21:28:41 -0000</pubDate>
     </item>
     <item>
       <title>08.06.2026, 16:06ՔաղաքականությունՇատ խոսուն է և շատ պատասխանատու 3-րդ անգամ մեր կողմից կառավարության միանձնյա ձևավորումը. Միրզոյան</title>
@@ -20,7 +33,7 @@
       <description>08.06.2026, 16:06ՔաղաքականությունՇատ խոսուն է և շատ պատասխանատու 3-րդ անգամ մեր կողմից կառավարության միանձնյա ձևավորումը. Միրզոյան - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/117210</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/06/08/63cf55d5201e4a08a29b89148d16246411f4a903.webp" length="1000000" type="image/webp" />
-      <pubDate>Mon, 08 Jun 2026 20:04:10 -0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 21:26:41 -0000</pubDate>
     </item>
     <item>
       <title>08.06.2026, 14:10ՔաղաքականությունՄեր համոզիչ հաղթանակը կդառնա համոզիչ արդյունքներ. քրեաօլիգարխիայի դեմ պայքար՝ առանց հետաձգումների. Փաշինյան</title>
@@ -28,23 +41,15 @@
       <description>08.06.2026, 14:10ՔաղաքականությունՄեր համոզիչ հաղթանակը կդառնա համոզիչ արդյունքներ. քրեաօլիգարխիայի դեմ պայքար՝ առանց հետաձգումների. Փաշինյան - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/117206</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/06/08/d658d0b34469076591c9631747d2d576b5670f33.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 08 Jun 2026 20:02:10 -0000</pubDate>
-    </item>
-    <item>
-      <title>08.06.2026, 14:09ՔաղաքականությունՇաբաթն ուրբաթից շուտ եկավ. ՀՀ-ից գյուղմթերքը ԵՄ կարտահանվի առանց մաքսատուրքի. Փաշինյան</title>
-      <link>https://civic.am/news/117205</link>
-      <description>08.06.2026, 14:09ՔաղաքականությունՇաբաթն ուրբաթից շուտ եկավ. ՀՀ-ից գյուղմթերքը ԵՄ կարտահանվի առանց մաքսատուրքի. Փաշինյան - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/117205</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/06/08/c4dc6255800ae63c92b6d415c41a12ffcace2a6c.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 08 Jun 2026 20:00:10 -0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 21:24:41 -0000</pubDate>
     </item>
     <item>
       <title>08.06.2026, 23:14Բոլորը՝ բացի Կրեմլից․ ինչ ուղերձներ է ստանում Փաշինյանը</title>
       <link>https://civic.am/news/117245</link>
       <description>08.06.2026, 23:14Բոլորը՝ բացի Կրեմլից․ ինչ ուղերձներ է ստանում Փաշինյանը - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/117245</guid>
-      <enclosure url="https://civic.am/thumbs/696x444/2026/06/08/b0d3e406e0b0586e13600f9ce6dec5f79cb7d8a8.webp" length="1000000" type="image/webp" />
-      <pubDate>Mon, 08 Jun 2026 19:58:10 -0000</pubDate>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/06/08/b0d3e406e0b0586e13600f9ce6dec5f79cb7d8a8.webp" length="1000000" type="image/webp" />
+      <pubDate>Mon, 08 Jun 2026 21:22:41 -0000</pubDate>
     </item>
     <item>
       <title>08.06.2026, 23:10ՔաղաքականությունՀայտնի է նոր Ազգային ժողովի առաջին նիստի օրը</title>
@@ -52,7 +57,7 @@
       <description>08.06.2026, 23:10ՔաղաքականությունՀայտնի է նոր Ազգային ժողովի առաջին նիստի օրը - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/117244</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/06/08/31fcf88589243cab5df563a22201450bb9569e6e.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 08 Jun 2026 19:56:10 -0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 21:20:41 -0000</pubDate>
     </item>
     <item>
       <title>08.06.2026, 22:46ԱշխարհԱրաղչին հայերենով շնորհավորել է Նիկոլ Փաշինյանին</title>
@@ -60,7 +65,7 @@
       <description>08.06.2026, 22:46ԱշխարհԱրաղչին հայերենով շնորհավորել է Նիկոլ Փաշինյանին - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/117243</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/06/08/b57a75a1530cc0a4dd2bdf1e7adc2e73f49644af.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 08 Jun 2026 19:54:10 -0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 21:18:41 -0000</pubDate>
     </item>
     <item>
       <title>08.06.2026, 22:37ՔաղաքականությունԽոստանում էր, որ ամսի 7-ից հետո տղան հետ կգա, անհամբեր սպասում ենք Ծառուկյանի որդուն․ Չախոյան</title>
@@ -68,15 +73,15 @@
       <description>08.06.2026, 22:37ՔաղաքականությունԽոստանում էր, որ ամսի 7-ից հետո տղան հետ կգա, անհամբեր սպասում ենք Ծառուկյանի որդուն․ Չախոյան - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/117242</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/06/08/7b8ff8b443edae5ecd48b5273798a0d14fe6ae96.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 08 Jun 2026 19:52:10 -0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 21:16:41 -0000</pubDate>
     </item>
     <item>
-      <title>08.06.2026, 22:07ԱշխարհՀայաստանի ժողովուրդը վերահաստատել է վստահությունը Փաշինյանի կառավարության նկատմամբ․ Իրանի նախագահ</title>
+      <title>08.06.2026, 22:07Հայաստանի ժողովուրդը վերահաստատել է վստահությունը Փաշինյանի կառավարության նկատմամբ․ Իրանի նախագահ</title>
       <link>https://civic.am/news/117241</link>
-      <description>08.06.2026, 22:07ԱշխարհՀայաստանի ժողովուրդը վերահաստատել է վստահությունը Փաշինյանի կառավարության նկատմամբ․ Իրանի նախագահ - Read on Civic.am.</description>
+      <description>08.06.2026, 22:07Հայաստանի ժողովուրդը վերահաստատել է վստահությունը Փաշինյանի կառավարության նկատմամբ․ Իրանի նախագահ - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/117241</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/06/08/574c12a6fe2a43ddd7037e2a542661750c5e0c10.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 08 Jun 2026 19:50:10 -0000</pubDate>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/06/08/574c12a6fe2a43ddd7037e2a542661750c5e0c10.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 08 Jun 2026 21:14:41 -0000</pubDate>
     </item>
     <item>
       <title>08.06.2026, 22:05Վարչապետ Փաշինյանը հեռախոսազրույց է ունեցել Եվրոպական խորհրդի նախագահ Անտոնիու Կոշտայի հետ</title>
@@ -84,14 +89,14 @@
       <description>08.06.2026, 22:05Վարչապետ Փաշինյանը հեռախոսազրույց է ունեցել Եվրոպական խորհրդի նախագահ Անտոնիու Կոշտայի հետ - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/117240</guid>
       <enclosure url="https://civic.am/thumbs/540x362/2026/06/08/a7a1cb2828070cfb64c3189818a5da6ea3f03ed9.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 08 Jun 2026 19:48:10 -0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 21:12:41 -0000</pubDate>
     </item>
     <item>
       <title>08.06.2026, 21:37Այսօր Երկրին կարող է հարվածել ուժեղ՝ G3 մակարդակի մագնիսական փոթորիկ. Լևոն Ազիզյան</title>
       <link>https://civic.am/news/117239</link>
       <description>08.06.2026, 21:37Այսօր Երկրին կարող է հարվածել ուժեղ՝ G3 մակարդակի մագնիսական փոթորիկ. Լևոն Ազիզյան - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/117239</guid>
-      <pubDate>Mon, 08 Jun 2026 19:46:10 -0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 21:10:41 -0000</pubDate>
     </item>
     <item>
       <title>08.06.2026, 21:25Հունաստանի վարչապետը շնորհավորել է Նիկոլ Փաշինյանին հաղթանակի կապակցությամբ</title>
@@ -99,7 +104,7 @@
       <description>08.06.2026, 21:25Հունաստանի վարչապետը շնորհավորել է Նիկոլ Փաշինյանին հաղթանակի կապակցությամբ - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/117238</guid>
       <enclosure url="https://civic.am/thumbs/540x362/2026/06/08/fddc3fa18decee1fecb78ecf1f2b0ae0bd608856.webp" length="1000000" type="image/webp" />
-      <pubDate>Mon, 08 Jun 2026 19:44:10 -0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 21:08:41 -0000</pubDate>
     </item>
     <item>
       <title>08.06.2026, 20:46Ընդդիմության «բացահայտման» շնորհիվ ՔՊ-ի ձայները միայն երկու տեղամասում ավելացան 650-ով. Վահագն Ալեքսանյան</title>
@@ -107,7 +112,7 @@
       <description>08.06.2026, 20:46Ընդդիմության «բացահայտման» շնորհիվ ՔՊ-ի ձայները միայն երկու տեղամասում ավելացան 650-ով. Վահագն Ալեքսանյան - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/117237</guid>
       <enclosure url="https://civic.am/thumbs/540x362/2026/06/08/9d1a91159599661021eed5d5a70dd46af9a7d1aa.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 08 Jun 2026 19:42:10 -0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 21:06:41 -0000</pubDate>
     </item>
     <item>
       <title>08.06.2026, 20:27Նիդերլանդների Թագավորության վարչապետը շնորհավորել է վարչապետին ԱԺ ընտրություններում ՔՊ-ի հաղթանակի առիթով</title>
@@ -115,22 +120,14 @@
       <description>08.06.2026, 20:27Նիդերլանդների Թագավորության վարչապետը շնորհավորել է վարչապետին ԱԺ ընտրություններում ՔՊ-ի հաղթանակի առիթով - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/117236</guid>
       <enclosure url="https://civic.am/thumbs/540x362/2026/06/08/e5dc852ec5c5e556fae7bf074dee9fe07aa9ffdb.webp" length="1000000" type="image/webp" />
-      <pubDate>Mon, 08 Jun 2026 19:40:10 -0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 21:04:41 -0000</pubDate>
     </item>
     <item>
       <title>08.06.2026, 20:17Լոռիում գրանցվեց ջախջախում, բայց եռագլուխների ողնաշարի․ Արեն Մկրտչյան</title>
       <link>https://civic.am/news/117235</link>
       <description>08.06.2026, 20:17Լոռիում գրանցվեց ջախջախում, բայց եռագլուխների ողնաշարի․ Արեն Մկրտչյան - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/117235</guid>
-      <pubDate>Mon, 08 Jun 2026 19:38:10 -0000</pubDate>
-    </item>
-    <item>
-      <title>08.06.2026, 20:16Վրաստանի խորհրդարանի խոսնակը շնորհավորել է Ալեն Սիմոնյանին ընտրություններում հաղթանակի կապակցությամբ</title>
-      <link>https://civic.am/news/117234</link>
-      <description>08.06.2026, 20:16Վրաստանի խորհրդարանի խոսնակը շնորհավորել է Ալեն Սիմոնյանին ընտրություններում հաղթանակի կապակցությամբ - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/117234</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/06/08/9bd7d9efa64a7a083c5912a8c6722896714a77c0.webp" length="1000000" type="image/webp" />
-      <pubDate>Mon, 08 Jun 2026 19:36:10 -0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 21:02:41 -0000</pubDate>
     </item>
   </channel>
 </rss>
