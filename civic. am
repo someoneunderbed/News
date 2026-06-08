@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>Civic.am - Last News</title>
+  <link>https://civic.am/last-news</link>
+  <description>Latest news updates from Civic.am</description>
+  <language>hy</language>
+
+  <item>
+    <title>Ամփոփվել են 541 ընտրատեղամասերից ստացված նախնական արդյունքները. ԿԸՀ</title>
+    <link>https://civic.am/last-news</link>
+    <description>The Central Electoral Commission summarizes the preliminary election results collected from 541 polling stations across Armenia.</description>
+    <pubDate>Mon, 08 Jun 2026 03:51:00 +0400</pubDate>
+    <enclosure url="https://civic.am/assets/images/news-placeholder1.jpg" length="12345" type="image/jpeg" />
+  </item>
+
+  <item>
+    <title>424 տեղամասերի նախնական արդյունքներով ՔՊ-ն առաջատար է, հաջորդում են «Ուժեղ Հայաստան»-ը, «Հայաստան» դաշինքը և «Բարգավաճ Հայաստան»-ը. ԿԸՀ</title>
+    <link>https://civic.am/last-news</link>
+    <description>Preliminary figures from 424 locations show the Civil Contract party leading, followed by Strong Armenia, the Armenia Alliance, and Prosperous Armenia.</description>
+    <pubDate>Mon, 08 Jun 2026 03:39:00 +0400</pubDate>
+    <enclosure url="https://civic.am/assets/images/news-placeholder2.jpg" length="12345" type="image/jpeg" />
+  </item>
+
+  <item>
+    <title>Մեր առաջնային նպատակն է՝ անել այնպես, որ ՀՀ-ն համապատասխանի ԵՄ ստանդարտներին․ Փաշինյան</title>
+    <link>https://civic.am/last-news</link>
+    <description>Prime Minister Pashinyan details the state goal of bringing Armenia to complete alignment with European Union benchmarks.</description>
+    <pubDate>Mon, 08 Jun 2026 03:37:00 +0400</pubDate>
+    <enclosure url="https://civic.am/assets/images/news-placeholder3.jpg" length="12345" type="image/jpeg" />
+  </item>
+
+  <item>
+    <title>Հայաստանն այս պահին հնարավոր ամենաանռիսկ մակարդակում է գտնվում. Փաշինյան</title>
+    <link>https://civic.am/last-news</link>
+    <description>Prime Minister Nikol Pashinyan states that Armenia currently resides within its lowest risk environment possible.</description>
+    <pubDate>Mon, 08 Jun 2026 03:36:00 +0400</pubDate>
+    <enclosure url="https://civic.am/assets/images/news-placeholder4.jpg" length="12345" type="image/jpeg" />
+  </item>
+</channel>
+</r
+ss>
