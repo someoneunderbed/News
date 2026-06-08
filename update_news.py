@@ -2,7 +2,7 @@ import os
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 import urllib.request
-from bs4 import BeautifulSoup
+import re
 
 # Civic.am son haberler sayfası
 url = "https://civic.am/last-news"
@@ -22,9 +22,7 @@ except Exception as e:
     print(f"Siteye erişilemedi: {e}")
     exit(1)
 
-soup = BeautifulSoup(html, 'html.parser')
-
-# RSS Kök Yapısı
+# RSS Kök Yapısı ve Başlık Tanımlamaları
 rss = ET.Element("rss", version="2.0")
 rss.set("xmlns:atom", "http://www.w3.org/2005/Atom")
 
@@ -45,57 +43,44 @@ lang_elem.text = "hy"
 last_build = ET.SubElement(channel, "lastBuildDate")
 last_build.text = datetime.now().strftime("%a, %d %b %Y %H:%M:%S -0000")
 
+# Sitedeki tüm haber bloklarını (Link, Resim ve Başlık) ham HTML üzerinden yakalayan esnek Regex yapısı
+# Görselleri ve başlıkları kaçırmamak için en geniş HTML alanlarını yakalar
+news_blocks = re.findall(r'href="(/news/\d+[^"]*)"[^>]*>(.*?)</a>', html, re.DOTALL)
+
 seen_links = set()
 count = 0
-
-# Sitedeki tüm haber linklerini tam olarak üstten aşağıya (en güncelden eskiye) sırayla buluyoruz
-# Civic.am üzerindeki her haber linki mutlaka /news/ ile başlar
-all_links = []
-for a in soup.find_all('a', href=True):
-    href = a['href']
-    if href.startswith('/news/') and href not in seen_links:
-        all_links.append(a)
-        seen_links.add(href)
-
-# Zaman sıralamasının FocusReader'da düzgün görünmesi için her habere geriye doğru dakika düşüyoruz
 base_time = datetime.now()
 
-for index, a_tag in enumerate(all_links):
-    href = a_tag['href']
+# HTML içindeki resim yollarını (data-src, src vb.) topluca listele
+all_images = re.findall(r'<img[^>]+(?:data-src|src)="([^"]+)"', html)
+
+for index, (href, inner_html) in enumerate(news_blocks):
+    if href in seen_links:
+        continue
+
     full_link = f"https://civic.am{href}"
 
-    # 1. BAŞLIK: Link etiketinin içindeki veya en yakınındaki metni temizle
-    title_text = a_tag.get_text()
+    # 1. BAŞLIK TEMİZLİĞİ: HTML etiketlerini tamamen kaldır ve boşlukları temizle
+    clean_title = re.sub(r'<[^>]+>', '', inner_html).strip()
+    clean_title = " ".join(clean_title.split())
 
-    # Eğer linkin içi boşsa, parent element üzerinden metni aramaya çalış
-    if not title_text.strip() and a_tag.find_parent():
-        title_text = a_tag.find_parent().get_text()
-
-    clean_title = " ".join(title_text.split())
-
-    # Çok kısa başlıkları (reklam, kategori adı vb.) ele
+    # Başlık geçerli değilse veya çok kısaysa bir sonraki bloğa geç
     if len(clean_title) < 15 or clean_title.isdigit():
         continue
 
-    # 2. RESİM: Sitedeki tembel yükleme (lazy-load) yapısını çözüyoruz
-    # Önce linkin içinde veya en yakın div'de bir img arıyoruz
-    img_tag = a_tag.find('img')
-    if not img_tag and a_tag.find_parent():
-        img_tag = a_tag.find_parent().find('img')
-
+    # 2. RESMİ DOĞRU EŞLEŞTİRME: Bloğun kendi içindeki resmi ara, yoksa sıradaki resmi tahmin et
+    img_match = re.search(r'(?:data-src|src)="([^"]+)"', inner_html)
     img_url = ""
-    if img_tag:
-        # Sitenin asıl resmi sakladığı modern etiketleri sırasıyla kontrol et
-        img_url = img_tag.get('data-src') or img_tag.get('data-srcset') or img_tag.get('src') or ""
 
-        # Eğer data-srcset kullanılmışsa birden fazla link gelebilir, ilkini ayır
-        if img_url and " " in img_url:
-            img_url = img_url.split()[0]
+    if img_match:
+        img_url = img_match.group(1)
+    elif index < len(all_images):
+        img_url = all_images[index]
 
-        # Resim adresini tam URL'e dönüştür
-        if img_url and not img_url.startswith('http'):
-            img_url = f"https://civic.am{img_url}"
+    if img_url and not img_url.startswith('http'):
+        img_url = f"https://civic.am{img_url}"
 
+    seen_links.add(href)
     count += 1
 
     item = ET.SubElement(channel, "item")
@@ -121,8 +106,18 @@ for index, a_tag in enumerate(all_links):
         img_type = "image/webp" if "webp" in img_url else "image/jpeg"
         ET.SubElement(item, "enclosure", url=img_url, length="1000000", type=img_type)
 
-    # Zaman Karışıklığını Çözen Kronolojik Saat Ayarı
-    # Her bir alt sıradaki haber için zamanı 2 dakika geriye çekiyoruz, böylece FocusReader sıralamayı asla karıştırmaz
+    # Kronolojik Sıralama Ayarı: Her haber için zamanı geriye çekerek FocusReader sırasını korur
     pub_time = base_time - timedelta(minutes=(index * 2))
     i_pub = ET.SubElement(item, "pubDate")
-    i_pub.text = pub_time.strftime
+    i_pub.text = pub_time.strftime("%a, %d %b %Y %H:%M:%S -0000")
+
+    if count >= 20:
+        break
+
+# Klasör kontrolü ve dosyaya yazdırma işlemi
+os.makedirs("NewsFolder", exist_ok=True)
+tree = ET.ElementTree(rss)
+ET.indent(tree, space="  ", level=0)
+tree.write("NewsFolder/civic.xml", encoding="utf-8", xml_declaration=True)
+
+print(f"Başarıyla güncellendi. {count} adet güncel haber listelendi.")
