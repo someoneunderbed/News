@@ -2,7 +2,7 @@ import os
 import xml.etree.ElementTree as ET
 from datetime import datetime
 import urllib.request
-import re
+from bs4 import BeautifulSoup
 
 # Civic.am son haberler sayfası
 url = "https://civic.am/last-news"
@@ -22,13 +22,15 @@ except Exception as e:
     print(f"Siteye erişilemedi: {e}")
     exit(1)
 
-# RSS Kök Yapısı ve Atom Özelliği
+# HTML'i profesyonelce ayrıştır
+soup = BeautifulSoup(html, 'html.parser')
+
+# RSS Kök Yapısı
 rss = ET.Element("rss", version="2.0")
 rss.set("xmlns:atom", "http://www.w3.org/2005/Atom")
 
 channel = ET.SubElement(rss, "channel")
 
-# Ana kanal bilgileri (PolitePaul çıktısıyla birebir uyumlu)
 title_elem = ET.SubElement(channel, "title")
 title_elem.text = "Վերջին Լուրեր"
 
@@ -44,72 +46,70 @@ lang_elem.text = "hy"
 last_build = ET.SubElement(channel, "lastBuildDate")
 last_build.text = datetime.now().strftime("%a, %d %b %Y %H:%M:%S -0000")
 
-# Geliştirilmiş esnek veri yakalama bloku
-# Haber kutularını ve içindeki görsel + link + başlık üçlüsünü arar
-items_pattern = re.compile(r'<a[^>]+href="(/news/\d+[^"]*)"[^>]*>.*?<img[^>]+src="([^"]+)"[^>]*>.*?<div[^>]*>(.*?)</div>', re.DOTALL)
-matches = items_pattern.findall(html)
-
-# Eğer spesifik div yapısı yakalanamadıysa geniş kapsamlı yedek desen
-if not matches:
-    # Sitedeki tüm /news/ linklerini ve ilişkili resimleri kaba kuvvete yakın tarar
-    links_and_titles = re.findall(r'href="(/news/(\d+)[^"]*)"[^>]*>(.*?)</a>', html, re.DOTALL)
-    images = re.findall(r'<img[^>]+src="([^"]+)"', html)
-
-    matches = []
-    for i, (l_url, l_id, l_title) in enumerate(links_and_titles):
-        if i < len(images):
-            matches.append((l_url, images[i], l_title))
-        else:
-            matches.append((l_url, "", l_title))
-
 seen_links = set()
 count = 0
 
-for link, img_url, title in matches:
-    # İçerideki tüm HTML etiketlerini ayıkla ve başlığı temizle
-    clean_title = re.sub(r'<[^>]+>', '', title).strip()
-    # Satır başı ve sonu boşluklarını, sekme (tab) karakterlerini tamamen temizle
-    clean_title = " ".join(clean_title.split())
+# Sitedeki tüm link etiketlerini (a href) tara
+for a_tag in soup.find_all('a', href=True):
+    href = a_tag['href']
 
-    full_link = f"https://civic.am{link}"
+    # Sadece gerçek haber linklerini filtrele (Örn: /news/117236 gibi)
+    if href.startswith('/news/') and href not in seen_links:
+        full_link = f"https://civic.am{href}"
 
-    # Geçerli bir başlık varsa ve mükerrer değilse ekle
-    if full_link not in seen_links and clean_title and len(clean_title) > 10 and count < 20:
-        seen_links.add(full_link)
+        # Linkin içindeki metni (başlığı) al ve temizle
+        title_text = a_tag.get_text()
+        clean_title = " ".join(title_text.split())
+
+        # Linkin içinde bir görsel (img) var mı kontrol et
+        img_tag = a_tag.find('img')
+        img_url = ""
+        if img_tag and img_tag.get('src'):
+            img_url = img_tag['src']
+            if not img_url.startswith('http'):
+                img_url = f"https://civic.am{img_url}"
+
+        # Eğer başlık çok kısaysa veya boşsa, bu bir menü veya tasarım elemanıdır, atla
+        if len(clean_title) < 15:
+            continue
+
+        seen_links.add(href)
         count += 1
 
         item = ET.SubElement(channel, "item")
 
-        # 1. BAŞLIK (Temizlenmiş)
+        # Doğru Konum 1: BAŞLIK
         i_title = ET.SubElement(item, "title")
         i_title.text = clean_title
 
-        # 2. LİNK
+        # Doğru Konum 2: LİNK
         i_link = ET.SubElement(item, "link")
         i_link.text = full_link
 
-        # 3. AÇIKLAMA (Boş kalmasın diye başlığı veya sabit metni ekliyoruz)
+        # Doğru Konum 3: AÇIKLAMA
         i_desc = ET.SubElement(item, "description")
-        i_desc.text = "Civic.am üzerinden oku"
+        i_desc.text = f"{clean_title} - Civic.am üzerinden oku."
 
-        # 4. GUID
+        # Doğru Konum 4: GUID
         i_guid = ET.SubElement(item, "guid", isPermaLink="false")
         i_guid.text = full_link
 
-        # 5. GÖRSEL (Enclosure) - FocusReader'ın resmi görebilmesi için
+        # Doğru Konum 5: GÖRSEL (Enclosure)
         if img_url:
-            full_img_url = img_url if img_url.startswith("http") else f"https://civic.am{img_url}"
-            img_type = "image/webp" if "webp" in full_img_url else "image/jpeg"
-            ET.SubElement(item, "enclosure", url=full_img_url, length="1000000", type=img_type)
+            img_type = "image/webp" if "webp" in img_url else "image/jpeg"
+            ET.SubElement(item, "enclosure", url=img_url, length="1000000", type=img_type)
 
-        # 6. TARİH
+        # Doğru Konum 6: TARİH
         i_pub = ET.SubElement(item, "pubDate")
         i_pub.text = datetime.now().strftime("%a, %d %b %Y %H:%M:%S -0000")
 
-# Klasör kontrolü ve yazma işlemi
+        if count >= 20:  # En güncel 20 haberi al
+            break
+
+# Kayıt İşlemi
 os.makedirs("NewsFolder", exist_ok=True)
 tree = ET.ElementTree(rss)
 ET.indent(tree, space="  ", level=0)
 tree.write("NewsFolder/civic.xml", encoding="utf-8", xml_declaration=True)
 
-print(f"Başarıyla tamamlandı. {count} adet temizlenmiş haber eklendi.")
+print(f"Başarıyla senkronize edildi. {count} adet tam verili haber eklendi.")
