@@ -4,11 +4,13 @@ from datetime import datetime, timedelta
 import urllib.request
 import re
 
-# ORTAK BAĞLANTI AYARLARI
+# Geliştirilmiş ve Gerçekçi Tarayıcı Kimliği (Blokajları Aşmak İçin)
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-    'Accept-Language': 'hy,am,tr,en;q=0.8'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+    'Accept-Language': 'hy,am,tr,en-US,en;q=0.9',
+    'Cache-Control': 'no-cache',
+    'Pragma': 'no-cache'
 }
 
 # SİTE AYARLARI VE AYIKLAMA KURALLARI
@@ -17,21 +19,23 @@ SITELER = [
         "ad": "Civic.am",
         "url": "https://civic.am/last-news",
         "xml_adi": "civic.xml",
-        "mod": "html_scrape"  # Ham HTML kazıma yöntemi
+        "mod": "html_scrape"
     },
     {
         "ad": "Oragir.news",
-        "url": "https://oragir.news/hy/materials/all",
-        "xml_adi": "oragirnews.xml",
-        "mod": "rss_proxy"   # Doğrudan var olan bir RSS'i temizleme/yeniden dizme yöntemi
+        # ÇÖZÜM: Buraya web sayfasını değil, PolitePaul servisinin ürettiği gerçek XML linkini koymalıyız!
+        "url": "https://politepaul.com/fd/3eJKKpfqxj6E.xml",
+        "xml_adi": "oragir.xml",
+        "mod": "rss_proxy"
     }
 ]
 
 def html_cek(url):
     req = urllib.request.Request(url, headers=headers)
     try:
-        with urllib.request.urlopen(req) as response:
-            return response.read().decode('utf-8')
+        # timeout=20 ekleyerek sitenin yavaş yanıt verme durumunda donmasını engelliyoruz
+        with urllib.request.urlopen(req, timeout=20) as response:
+            return response.read().decode('utf-8', errors='ignore')
     except Exception as e:
         print(f"Bağlantı hatası ({url}): {e}")
         return None
@@ -44,7 +48,8 @@ for site in SITELER:
     print(f"\n>>> {site['ad']} işleniyor...")
     kaynak_veri = html_cek(site["url"])
 
-    if not kaynak_veri:
+    if not kaynak_veri or len(kaynak_veri.strip()) == 0:
+        print(f"Hata: {site['ad']} kaynağından veri alınamadı veya boş döndü!")
         continue
 
     # Yeni RSS Yapısı Kurulumu
@@ -64,6 +69,11 @@ for site in SITELER:
     if site["mod"] == "html_scrape":
         news_links = re.findall(r'href="(/news/\d+[^"]*)"[^>]*>(.*?)</a>', kaynak_veri, re.DOTALL)
         all_images = [img for img in re.findall(r'<img[^>]+src="([^"]+)"', kaynak_veri) if "thumbs/" in img]
+
+        if not news_links:
+            print("Uyarı: Civic.am sayfasında eşleşen haber linki bulunamadı! HTML yapısı değişmiş veya bloklanmış olabilir.")
+            # Eğer boş döndüyse eski XML dosyasını korumak için üzerine yazma yapmıyoruz ve döngüyü geçiyoruz.
+            continue
 
         seen_links = set()
         img_index = 0
@@ -94,7 +104,6 @@ for site in SITELER:
 
             seen_links.add(href)
 
-            # XML Element Ekleme
             item = ET.SubElement(channel, "item")
             ET.SubElement(item, "title").text = clean_title
             ET.SubElement(item, "link").text = full_link
@@ -118,12 +127,15 @@ for site in SITELER:
             root = ET.fromstring(kaynak_veri)
             items = root.findall(".//item")
 
+            if not items:
+                print("Uyarı: Oragir RSS içeriğinde <item> bulunamadı!")
+                continue
+
             for index, old_item in enumerate(items):
                 title = old_item.find("title").text if old_item.find("title") is not None else ""
                 link = old_item.find("link").text if old_item.find("link") is not None else ""
                 desc = old_item.find("description").text if old_item.find("description") is not None else ""
 
-                # PolitePaul yazısını ve boşlukları temizle
                 if desc:
                     desc = desc.replace("Delivered by PolitePaul service", "").strip()
                     desc = " ".join(desc.split())
@@ -150,10 +162,13 @@ for site in SITELER:
             print(f"Oragir RSS ayrıştırma hatası: {e}")
             continue
 
-    # Dosyaya Yazma İşlemi
-    tree = ET.ElementTree(rss)
-    ET.indent(tree, space="  ", level=0)
-    tree.write(f"NewsFolder/{site['xml_adi']}", encoding="utf-8", xml_declaration=True)
-    print(f"Başarılı: NewsFolder/{site['xml_adi']} kaydedildi. ({count} haber)")
+    # Sadece içerik başarıyla üretildiyse dosyaya yaz (Boş XML yazılmasını engeller)
+    if count > 0:
+        tree = ET.ElementTree(rss)
+        ET.indent(tree, space="  ", level=0)
+        tree.write(f"NewsFolder/{site['xml_adi']}", encoding="utf-8", xml_declaration=True)
+        print(f"Başarılı: NewsFolder/{site['xml_adi']} güncellendi. ({count} haber)")
+    else:
+        print(f"Hata: {site['ad']} için hiçbir haber işlenemediği için XML dosyası güncellenmedi.")
 
-print("\nTüm sitelerin güncelleme işlemi başarıyla tamamlandı!")
+print("\nİşlem tamamlandı!")
