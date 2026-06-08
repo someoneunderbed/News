@@ -1,1 +1,24 @@
+name: Update Civic XML
 
+on:
+  schedule:
+    - cron: "0 0 * * *" # Her gün gece yarısı otomatik çalışır
+  workflow_dispatch: # İstediğinizde elle de başlatabilirsiniz
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Latest Data
+        run: |
+          curl -o "News Folder/civic.xml" "https://github.com/someoneunderbed/News/blob/main/News%20Folder/civic.xml"
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add "News Folder/civic.xml"
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Otomatik civic.xml güncellemesi" && git push)
