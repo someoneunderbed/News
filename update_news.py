@@ -21,7 +21,8 @@ SITELER = [
     {
         "ad": "Oragir.news",
         "url": "https://oragir.news/hy/materials/all",
-        "xml_adi": "oragir.xml",
+        # ÇÖZÜM: İsmi senin depondaki gibi 'oragirnews.xml' yaptık!
+        "xml_adi": "oragirnews.xml",
         "base_url": "https://oragir.news"
     }
 ]
@@ -60,11 +61,9 @@ for site in SITELER:
     count = 0
     seen_links = set()
 
-    # Sitedeki tüm linkleri tara
     for a_tag in soup.find_all('a', href=True):
         href = a_tag['href']
 
-        # Siteye göre haber linki doğrulama filtreleri
         if site["ad"] == "Civic.am" and not href.startswith("/news/"):
             continue
         if site["ad"] == "Oragir.news" and not href.startswith("/hy/material/"):
@@ -75,7 +74,6 @@ for site in SITELER:
         if full_link in seen_links:
             continue
 
-        # Başlık temizleme
         title_text = a_tag.get_text(strip=True)
         title_text = " ".join(title_text.split())
         title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s+[^\s]+\s+', '', title_text)
@@ -83,18 +81,15 @@ for site in SITELER:
         if len(title_text) < 10 or title_text.isdigit():
             continue
 
-        # Görsel bulma (Haber kutusunun içindeki veya en yakınındaki img etiketini ara)
         img_url = ""
         img_tag = a_tag.find('img')
         if not img_tag:
-            # Eğer link etiketinin içinde resim yoksa, bir üst kutuda (parent) resim ara
             parent = a_tag.parent
             if parent:
                 img_tag = parent.find('img')
 
         if img_tag and img_tag.get('src'):
             img_src = img_tag['src'].strip()
-            # Sadece gerçek haber görsellerini yakala (logo veya simgeleri ele)
             if "thumbs/" in img_src or "storage/" in img_src:
                 img_url = img_src.split()[0]
                 if img_url.startswith('/'):
@@ -102,7 +97,6 @@ for site in SITELER:
 
         seen_links.add(full_link)
 
-        # XML Düğümü Ekleme
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = title_text
         ET.SubElement(item, "link").text = full_link
