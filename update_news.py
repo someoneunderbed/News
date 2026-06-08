@@ -27,8 +27,8 @@ SITELER = [
         "base_url": "https://oragir.news",
         # Standard fallback to their high-res icon/favicon asset
         "logo_url": "https://oragir.news/assets/images/favicon.png"
-    }
-{
+    },
+    {
         "name": "Shamshyan.news",
         "url": "https://shamshyan.com/hy/articles/all",
         "xml_filename": "shamshyan.xml",
