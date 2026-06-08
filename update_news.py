@@ -11,7 +11,7 @@ headers = {
     'Accept-Language': 'hy,am,tr,en;q=0.9'
 }
 
-# SITE SETTINGS (Added logo URLs for FocusReader)
+# SITE SETTINGS
 SITELER = [
     {
         "name": "Civic.am",
@@ -20,22 +20,18 @@ SITELER = [
         "base_url": "https://civic.am",
         "logo_url": "https://civic.am/templates/newshub/images/logo.png"
     },
-
     {
         "name": "Oragir.news",
         "url": "https://oragir.news/hy/materials/all",
         "xml_filename": "oragirnews.xml",
         "base_url": "https://oragir.news",
-        # Standard fallback to their high-res icon/favicon asset
         "logo_url": "https://oragir.news/assets/images/favicon.png"
     },
-
     {
         "name": "Shamshyan.news",
         "url": "https://shamshyan.com/hy/articles/all",
         "xml_filename": "shamshyan.xml",
         "base_url": "https://shamshyan.com",
-        # Standard fallback to their high-res icon/favicon asset
         "logo_url": "https://shamshyan.com/build/assets/logotype.351a3a34.png"
     }
 ]
@@ -71,12 +67,12 @@ for site in SITELER:
     ET.SubElement(channel, "language").text = "hy"
     ET.SubElement(channel, "lastBuildDate").text = base_time.strftime("%a, %d %b %Y %H:%M:%S -0000")
 
-    # FIX: Adding the Image/Logo block for the RSS Reader
     if "logo_url" in site and site["logo_url"]:
         image_tag = ET.SubElement(channel, "image")
         ET.SubElement(image_tag, "url").text = site["logo_url"]
         ET.SubElement(image_tag, "title").text = f"Վերջին Լուրեր - {site['name']}"
-        ET.SubElement(image_tag, "link").text = site["url"]
+        image_link = site["url"].replace(".com", ".news") if site["name"] == "Shamshyan.news" else site["url"]
+        ET.SubElement(image_tag, "link").text = image_link
 
     count = 0
     seen_links = set()
@@ -84,11 +80,16 @@ for site in SITELER:
     for a_tag in soup.find_all('a', href=True):
         href = a_tag['href'].strip()
 
+        # LINK FILTERS
         if site["name"] == "Civic.am":
             if not ("/news/" in href):
                 continue
         if site["name"] == "Oragir.news":
             if not ("/hy/material/" in href):
+                continue
+        if site["name"] == "Shamshyan.news":
+            # Added dynamic matching for Shamshyan specific paths
+            if not ("/hy/article/" in href or "/article/" in href):
                 continue
 
         if href.startswith('/'):
@@ -108,16 +109,21 @@ for site in SITELER:
         if len(title_text) < 10 or title_text.isdigit():
             continue
 
+        # IMAGE EXTRACTION LOGIC
         img_url = ""
         img_tag = a_tag.find('img')
         if not img_tag:
             parent = a_tag.parent
             if parent:
                 img_tag = parent.find('img')
+                # Check siblings if nothing is found directly above
+                if not img_tag and parent.parent:
+                    img_tag = parent.parent.find('img')
 
         if img_tag and img_tag.get('src'):
             img_src = img_tag['src'].strip()
-            if "thumbs/" in img_src or "storage/" in img_src:
+            # Extended match filters to support Shamshyan image structures
+            if "thumbs/" in img_src or "storage/" in img_src or "uploads/" in img_src or "preview/" in img_src:
                 img_url = img_src.split()[0]
                 if img_url.startswith('/'):
                     img_url = f"{site['base_url']}{img_url}"
