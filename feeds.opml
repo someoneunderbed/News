@@ -10,7 +10,7 @@
   </head>
   <body>
     <outline text="Armenian News" title="Armenian News">
-      <outline type="rss" text="Civic.am - Latest News" title="Վերջին Լուրեր" xmlUrl="https://civic.am/last-news" htmlUrl="https://civic.am/last-news">
+      <outline type="rss" text="Civic.am - Latest News" title="Վերջին Լուրեր" xmlUrl="https://civic.am/last-news.xml" htmlUrl="https://civic.am/last-news">
         <description>Scrapes title, description, image, and date from civic.am/last-news</description>
         <image>https://civic.am/favicon.ico</image>
         <category>News</category>
