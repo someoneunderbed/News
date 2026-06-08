@@ -53,7 +53,7 @@ for site in SITELER:
     if "logo_url" in site and site["logo_url"]:
         image_tag = ET.SubElement(channel, "image")
         ET.SubElement(image_tag, "url").text = site["logo_url"]
-        ET.SubElement(image_tag, "title").text = f"Վերջին Լուրեր - {site['name']}"
+        ET.SubElement(image_tag, "title").text = site['name']
         image_link = site["url"].replace(".com", ".news") if site["name"] == "Shamshyan.news" else site["url"]
         ET.SubElement(image_tag, "link").text = image_link
 
