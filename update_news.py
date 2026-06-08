@@ -34,7 +34,7 @@ SITELER = [
         "xml_filename": "shamshyan.xml",
         "base_url": "https://shamshyan.com",
         # Standard fallback to their high-res icon/favicon asset
-        "logo_url": "https://shamshyan.com/build/assets/logotype.351a3a34.png""
+        "logo_url": "https://shamshyan.com/build/assets/logotype.351a3a34.png"
     }
 ]
 
