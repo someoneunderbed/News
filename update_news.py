@@ -11,19 +11,22 @@ headers = {
     'Accept-Language': 'hy,am,tr,en;q=0.9'
 }
 
-# SİTE AYARLARI (Tamamen İngilizce standartlarında düzenlendi)
+# SITE SETTINGS (Added logo URLs for FocusReader)
 SITELER = [
     {
         "name": "Civic.am",
         "url": "https://civic.am/last-news",
         "xml_filename": "civic.xml",
-        "base_url": "https://civic.am"
+        "base_url": "https://civic.am",
+        "logo_url": "https://civic.am/templates/newshub/images/logo.png"
     },
     {
         "name": "Oragir.news",
         "url": "https://oragir.news/hy/materials/all",
         "xml_filename": "oragirnews.xml",
-        "base_url": "https://oragir.news"
+        "base_url": "https://oragir.news",
+        # Standard fallback to their high-res icon/favicon asset
+        "logo_url": "https://oragir.news/assets/images/favicon.png"
     }
 ]
 
@@ -58,14 +61,19 @@ for site in SITELER:
     ET.SubElement(channel, "language").text = "hy"
     ET.SubElement(channel, "lastBuildDate").text = base_time.strftime("%a, %d %b %Y %H:%M:%S -0000")
 
+    # FIX: Adding the Image/Logo block for the RSS Reader
+    if "logo_url" in site and site["logo_url"]:
+        image_tag = ET.SubElement(channel, "image")
+        ET.SubElement(image_tag, "url").text = site["logo_url"]
+        ET.SubElement(image_tag, "title").text = f"Վերջին Լուրեր - {site['name']}"
+        ET.SubElement(image_tag, "link").text = site["url"]
+
     count = 0
     seen_links = set()
 
-    # Sitedeki tüm link etiketlerini tara
     for a_tag in soup.find_all('a', href=True):
         href = a_tag['href'].strip()
 
-        # Link filtreleri
         if site["name"] == "Civic.am":
             if not ("/news/" in href):
                 continue
@@ -73,7 +81,6 @@ for site in SITELER:
             if not ("/hy/material/" in href):
                 continue
 
-        # Link formatını tam adrese dönüştür
         if href.startswith('/'):
             full_link = f"{site['base_url']}{href}"
         elif href.startswith('http'):
@@ -84,7 +91,6 @@ for site in SITELER:
         if full_link in seen_links:
             continue
 
-        # Haber başlığı temizliği
         title_text = a_tag.get_text(strip=True)
         title_text = " ".join(title_text.split())
         title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s+[^\s]+\s+', '', title_text)
@@ -92,7 +98,6 @@ for site in SITELER:
         if len(title_text) < 10 or title_text.isdigit():
             continue
 
-        # Görsel yakalama mantığı
         img_url = ""
         img_tag = a_tag.find('img')
         if not img_tag:
@@ -111,7 +116,6 @@ for site in SITELER:
 
         seen_links.add(full_link)
 
-        # XML Elemanlarını Oluşturma
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = title_text
         ET.SubElement(item, "link").text = full_link
@@ -129,7 +133,6 @@ for site in SITELER:
         if count >= 20:
             break
 
-    # Eğer haber bulunduysa dosyaya yaz (site['xml_filename'] burada otomatik dosya adı olur)
     if count > 0:
         tree = ET.ElementTree(rss)
         ET.indent(tree, space="  ", level=0)
