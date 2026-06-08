@@ -19,6 +19,7 @@ SITELER.append({"name": "Shamshyan.news", "url": "https://shamshyan.com/hy/artic
 SITELER.append({"name": "5tv.am", "url": "https://news.5tv.am/news-feed", "xml_filename": "5tv.xml", "base_url": "https://5tv.am", "logo_url": "https://news.5tv.am//storage/settings/main-logo.png"})
 SITELER.append({"name": "armenpress.am", "url": "https://armenpress.am/hy/articles", "xml_filename": "armenpress.xml", "base_url": "https://armenpress.am", "logo_url": "https://armenpress.am/assets/companies/armenpress-indigo-hy.svg"})
 SITELER.append({"name": "tert.am", "url": "https://tert.am/am/news", "xml_filename": "tert.xml", "base_url": "https://tert.am", "logo_url": "https://tert.am/resources/favicons/apple-icon-precomposed.png"})
+SITELER.append({"name": "radar.am", "url": "https://radar.am/hy/feed/", "xml_filename": "radar.xml", "base_url": "https://radar.am", "logo_url": "https://radar.am/static/radar/images/logo-white.4c8b6b003ba3.svg"})
 def fetch_html(url):
     req = urllib.request.Request(url, headers=headers)
     try:
@@ -77,6 +78,9 @@ for site in SITELER:
                 continue
         if site["name"] == "tert.am":
             if not ("/am/news" in href):
+                continue
+        if site["name"] == "radar.am":
+            if not ("/hy/feed/" in href):
                 continue
         if site["name"] == "Shamshyan.news":
             if not ("/hy/article/" in href or "/article/" in href):
