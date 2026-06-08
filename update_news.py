@@ -1,6 +1,6 @@
 import os
 import xml.etree.ElementTree as ET
-from datetime import datetime
+from datetime import datetime, timedelta
 import urllib.request
 from bs4 import BeautifulSoup
 
@@ -48,72 +48,81 @@ last_build.text = datetime.now().strftime("%a, %d %b %Y %H:%M:%S -0000")
 seen_links = set()
 count = 0
 
-# Sitedeki tüm haber kartlarını taramak için en kararlı yöntem:
-# Önce sitedeki tüm /news/ linklerini buluyoruz
-for a_tag in soup.find_all('a', href=True):
-    href = a_tag['href']
-
+# Sitedeki tüm haber linklerini tam olarak üstten aşağıya (en güncelden eskiye) sırayla buluyoruz
+# Civic.am üzerindeki her haber linki mutlaka /news/ ile başlar
+all_links = []
+for a in soup.find_all('a', href=True):
+    href = a['href']
     if href.startswith('/news/') and href not in seen_links:
-        full_link = f"https://civic.am{href}"
-
-        # Başlığı bulmak için: a etiketinin içindeki metne bak,
-        # yoksa en yakınındaki div veya başlık etiketlerini kontrol et
-        title_text = a_tag.get_text()
-
-        # Eğer a etiketinin içi boşsa (sadece resim barındırıyorsa) yanındaki metin alanını ara
-        if not title_text.strip():
-            parent = a_tag.find_parent()
-            if parent:
-                title_text = parent.get_text()
-
-        clean_title = " ".join(title_text.split())
-
-        # Başlık temizlendikten sonra çok kısaysa veya sadece sayı/tarihten ibaretse atla
-        if len(clean_title) < 15 or clean_title.isdigit():
-            continue
-
-        # Görseli bulmak için: a etiketinin içindeki veya en yakınındaki img elementini ara
-        img_tag = a_tag.find('img')
-        if not img_tag and a_tag.find_parent():
-            img_tag = a_tag.find_parent().find('img')
-
-        img_url = ""
-        if img_tag and img_tag.get('src'):
-            img_url = img_tag['src']
-            if not img_url.startswith('http'):
-                img_url = f"https://civic.am{img_url}"
-
+        all_links.append(a)
         seen_links.add(href)
-        count += 1
 
-        item = ET.SubElement(channel, "item")
+# Zaman sıralamasının FocusReader'da düzgün görünmesi için her habere geriye doğru dakika düşüyoruz
+base_time = datetime.now()
 
-        i_title = ET.SubElement(item, "title")
-        i_title.text = clean_title
+for index, a_tag in enumerate(all_links):
+    href = a_tag['href']
+    full_link = f"https://civic.am{href}"
 
-        i_link = ET.SubElement(item, "link")
-        i_link.text = full_link
+    # 1. BAŞLIK: Link etiketinin içindeki veya en yakınındaki metni temizle
+    title_text = a_tag.get_text()
 
-        i_desc = ET.SubElement(item, "description")
-        i_desc.text = f"{clean_title} - Civic.am üzerinden oku."
+    # Eğer linkin içi boşsa, parent element üzerinden metni aramaya çalış
+    if not title_text.strip() and a_tag.find_parent():
+        title_text = a_tag.find_parent().get_text()
 
-        i_guid = ET.SubElement(item, "guid", isPermaLink="false")
-        i_guid.text = full_link
+    clean_title = " ".join(title_text.split())
 
-        if img_url:
-            img_type = "image/webp" if "webp" in img_url else "image/jpeg"
-            ET.SubElement(item, "enclosure", url=img_url, length="1000000", type=img_type)
+    # Çok kısa başlıkları (reklam, kategori adı vb.) ele
+    if len(clean_title) < 15 or clean_title.isdigit():
+        continue
 
-        i_pub = ET.SubElement(item, "pubDate")
-        i_pub.text = datetime.now().strftime("%a, %d %b %Y %H:%M:%S -0000")
+    # 2. RESİM: Sitedeki tembel yükleme (lazy-load) yapısını çözüyoruz
+    # Önce linkin içinde veya en yakın div'de bir img arıyoruz
+    img_tag = a_tag.find('img')
+    if not img_tag and a_tag.find_parent():
+        img_tag = a_tag.find_parent().find('img')
 
-        if count >= 20:
-            break
+    img_url = ""
+    if img_tag:
+        # Sitenin asıl resmi sakladığı modern etiketleri sırasıyla kontrol et
+        img_url = img_tag.get('data-src') or img_tag.get('data-srcset') or img_tag.get('src') or ""
 
-# Klasör doğrulama ve yazma
-os.makedirs("NewsFolder", exist_ok=True)
-tree = ET.ElementTree(rss)
-ET.indent(tree, space="  ", level=0)
-tree.write("NewsFolder/civic.xml", encoding="utf-8", xml_declaration=True)
+        # Eğer data-srcset kullanılmışsa birden fazla link gelebilir, ilkini ayır
+        if img_url and " " in img_url:
+            img_url = img_url.split()[0]
 
-print(f"Senkronizasyon bitti. {count} adet güncel haber eklendi.")
+        # Resim adresini tam URL'e dönüştür
+        if img_url and not img_url.startswith('http'):
+            img_url = f"https://civic.am{img_url}"
+
+    count += 1
+
+    item = ET.SubElement(channel, "item")
+
+    # Başlık Ataması
+    i_title = ET.SubElement(item, "title")
+    i_title.text = clean_title
+
+    # Link Ataması
+    i_link = ET.SubElement(item, "link")
+    i_link.text = full_link
+
+    # Açıklama
+    i_desc = ET.SubElement(item, "description")
+    i_desc.text = f"{clean_title} - Civic.am üzerinden oku."
+
+    # Benzersiz ID
+    i_guid = ET.SubElement(item, "guid", isPermaLink="false")
+    i_guid.text = full_link
+
+    # Kesin Eşleşen Görsel (Enclosure)
+    if img_url:
+        img_type = "image/webp" if "webp" in img_url else "image/jpeg"
+        ET.SubElement(item, "enclosure", url=img_url, length="1000000", type=img_type)
+
+    # Zaman Karışıklığını Çözen Kronolojik Saat Ayarı
+    # Her bir alt sıradaki haber için zamanı 2 dakika geriye çekiyoruz, böylece FocusReader sıralamayı asla karıştırmaz
+    pub_time = base_time - timedelta(minutes=(index * 2))
+    i_pub = ET.SubElement(item, "pubDate")
+    i_pub.text = pub_time.strftime
