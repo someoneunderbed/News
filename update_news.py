@@ -11,37 +11,37 @@ headers = {
     'Accept-Language': 'hy,am,tr,en;q=0.9'
 }
 
+# SİTE AYARLARI (Tamamen İngilizce standartlarında düzenlendi)
 SITELER = [
     {
-        "ad": "Civic.am",
+        "name": "Civic.am",
         "url": "https://civic.am/last-news",
-        "xml_adi": "civic.xml",
+        "xml_filename": "civic.xml",
         "base_url": "https://civic.am"
     },
     {
-        "ad": "Oragir.news",
+        "name": "Oragir.news",
         "url": "https://oragir.news/hy/materials/all",
-        # ÇÖZÜM: İsmi senin depondaki gibi 'oragirnews.xml' yaptık!
-        "xml_adi": "oragirnews.xml",
-        "base_url": "https://oragir.news/hy"
+        "xml_filename": "oragirnews.xml",
+        "base_url": "https://oragir.news"
     }
 ]
 
-def html_cek(url):
+def fetch_html(url):
     req = urllib.request.Request(url, headers=headers)
     try:
         with urllib.request.urlopen(req, timeout=20) as response:
             return response.read().decode('utf-8', errors='ignore')
     except Exception as e:
-        print(f"Bağlantı hatası ({url}): {e}")
+        print(f"Connection error ({url}): {e}")
         return None
 
 base_time = datetime.now()
 os.makedirs("NewsFolder", exist_ok=True)
 
 for site in SITELER:
-    print(f"\n>>> {site['ad']} işleniyor...")
-    html_content = html_cek(site["url"])
+    print(f"\n>>> Processing {site['name']}...")
+    html_content = fetch_html(site["url"])
 
     if not html_content:
         continue
@@ -52,28 +52,39 @@ for site in SITELER:
     rss.set("xmlns:atom", "http://www.w3.org/2005/Atom")
     channel = ET.SubElement(rss, "channel")
 
-    ET.SubElement(channel, "title").text = f"Վերջին Լուրեր - {site['ad']}"
+    ET.SubElement(channel, "title").text = f"Վերջին Լուրեր - {site['name']}"
     ET.SubElement(channel, "link").text = site["url"]
-    ET.SubElement(channel, "description").text = f"{site['ad']} sitesinden güncellenen temiz akış."
+    ET.SubElement(channel, "description").text = f"Cleaned RSS feed updated from {site['name']}."
     ET.SubElement(channel, "language").text = "hy"
     ET.SubElement(channel, "lastBuildDate").text = base_time.strftime("%a, %d %b %Y %H:%M:%S -0000")
 
     count = 0
     seen_links = set()
 
+    # Sitedeki tüm link etiketlerini tara
     for a_tag in soup.find_all('a', href=True):
-        href = a_tag['href']
+        href = a_tag['href'].strip()
 
-        if site["ad"] == "Civic.am" and not href.startswith("/news/"):
-            continue
-        if site["ad"] == "Oragir.news" and not href.startswith("/hy/material/"):
-            continue
+        # Link filtreleri
+        if site["name"] == "Civic.am":
+            if not ("/news/" in href):
+                continue
+        if site["name"] == "Oragir.news":
+            if not ("/hy/material/" in href):
+                continue
 
-        full_link = f"{site['base_url']}{href}" if href.startswith('/') else href
+        # Link formatını tam adrese dönüştür
+        if href.startswith('/'):
+            full_link = f"{site['base_url']}{href}"
+        elif href.startswith('http'):
+            full_link = href
+        else:
+            full_link = f"{site['base_url']}/{href}"
 
         if full_link in seen_links:
             continue
 
+        # Haber başlığı temizliği
         title_text = a_tag.get_text(strip=True)
         title_text = " ".join(title_text.split())
         title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s+[^\s]+\s+', '', title_text)
@@ -81,6 +92,7 @@ for site in SITELER:
         if len(title_text) < 10 or title_text.isdigit():
             continue
 
+        # Görsel yakalama mantığı
         img_url = ""
         img_tag = a_tag.find('img')
         if not img_tag:
@@ -94,13 +106,16 @@ for site in SITELER:
                 img_url = img_src.split()[0]
                 if img_url.startswith('/'):
                     img_url = f"{site['base_url']}{img_url}"
+                elif not img_url.startswith('http'):
+                    img_url = f"{site['base_url']}/{img_url}"
 
         seen_links.add(full_link)
 
+        # XML Elemanlarını Oluşturma
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = title_text
         ET.SubElement(item, "link").text = full_link
-        ET.SubElement(item, "description").text = f"{title_text} - {site['ad']} üzerinden oku."
+        ET.SubElement(item, "description").text = f"{title_text} - Read on {site['name']}."
         ET.SubElement(item, "guid", isPermaLink="false").text = full_link
 
         if img_url:
@@ -114,12 +129,13 @@ for site in SITELER:
         if count >= 20:
             break
 
+    # Eğer haber bulunduysa dosyaya yaz (site['xml_filename'] burada otomatik dosya adı olur)
     if count > 0:
         tree = ET.ElementTree(rss)
         ET.indent(tree, space="  ", level=0)
-        tree.write(f"NewsFolder/{site['xml_adi']}", encoding="utf-8", xml_declaration=True)
-        print(f"Başarılı: NewsFolder/{site['xml_adi']} kaydedildi. ({count} haber)")
+        tree.write(f"NewsFolder/{site['xml_filename']}", encoding="utf-8", xml_declaration=True)
+        print(f"Success: NewsFolder/{site['xml_filename']} has been saved. ({count} articles)")
     else:
-        print(f"Hata: {site['ad']} için hiçbir eşleşen eleman bulunamadı.")
+        print(f"Error: No matching elements found for {site['name']}.")
 
-print("\nTüm işlemler tamamlandı!")
+print("\nAll processes completed successfully!")
