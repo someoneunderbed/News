@@ -3,10 +3,10 @@ name: Update Civic XML
 on:
   schedule:
     - cron: "*/30 * * * *" # Her 30 dakikada bir otomatik çalışır
-  workflow_dispatch: # İstediğinizde elle de başlatabilirsiniz
+  workflow_dispatch: # İstediğiniz zaman elle başlatabilmeniz için
 
 permissions:
-  contents: write # GitHub'ın dosyayı güncelleyebilmesi için gerekli izin
+  contents: write # GitHub'ın dosyayı değiştirip kaydedebilmesi için izin
 
 jobs:
   update:
@@ -15,9 +15,13 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Fetch Latest Data
-        run: |
-          curl -o "News Folder/civic.xml" "https://github.com/someoneunderbed/News/blob/main/News%20Folder/civic.xml"
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Run Scraper Script
+        run: python update_news.py
 
       - name: Commit and Push Changes
         run: |
