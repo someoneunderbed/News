@@ -23,7 +23,7 @@ SITELER = [
         "url": "https://oragir.news/hy/materials/all",
         # ÇÖZÜM: İsmi senin depondaki gibi 'oragirnews.xml' yaptık!
         "xml_adi": "oragirnews.xml",
-        "base_url": "https://oragir.news"
+        "base_url": "https://oragir.news/hy/"
     }
 ]
 
