@@ -59,9 +59,9 @@ for link, title in matches:
         i_pub.text = datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0400")
 
 # Klasör kontrolü ve dosyaya yazma
-os.makedirs("News Folder", exist_ok=True)
+os.makedirs("NewsFolder", exist_ok=True)
 tree = ET.ElementTree(rss)
 ET.indent(tree, space="  ", level=0)
-tree.write("News Folder/civic.xml", encoding="utf-8", xml_declaration=True)
+tree.write("NewsFolder/civic.xml", encoding="utf-8", xml_declaration=True)
 
 print("civic.xml başarıyla güncellendi!")
