@@ -2,8 +2,11 @@ name: Update Civic XML
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Her gün gece yarısı otomatik çalışır
+    - cron: "*/30 * * * *" # Her 30 dakikada bir otomatik çalışır
   workflow_dispatch: # İstediğinizde elle de başlatabilirsiniz
+
+permissions:
+  contents: write # GitHub'ın dosyayı güncelleyebilmesi için gerekli izin
 
 jobs:
   update:
