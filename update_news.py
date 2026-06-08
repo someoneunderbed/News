@@ -18,6 +18,7 @@ SITELER.append({"name": "Oragir.news", "url": "https://oragir.news/hy/materials/
 SITELER.append({"name": "Shamshyan.news", "url": "https://shamshyan.com/hy/articles/all", "xml_filename": "shamshyan.xml", "base_url": "https://shamshyan.com", "logo_url": "https://shamshyan.com/build/assets/logotype.351a3a34.png"})
 SITELER.append({"name": "5tv.am", "url": "https://news.5tv.am/news-feed", "xml_filename": "5tv.xml", "base_url": "https://5tv.am", "logo_url": "https://news.5tv.am//storage/settings/main-logo.png"})
 SITELER.append({"name": "armenpress.am", "url": "https://armenpress.am/hy/articles", "xml_filename": "armenpress.xml", "base_url": "https://armenpress.am", "logo_url": "https://armenpress.am/assets/companies/armenpress-indigo-hy.svg"})
+SITELER.append({"name": "tert.am", "url": "https://tert.am/am/news", "xml_filename": "tert.xml", "base_url": "https://tert.am", "logo_url": "https://tert.am/resources/favicons/apple-icon-precomposed.png"})
 def fetch_html(url):
     req = urllib.request.Request(url, headers=headers)
     try:
@@ -43,7 +44,7 @@ for site in SITELER:
     rss.set("xmlns:atom", "http://www.w3.org/2005/Atom")
     channel = ET.SubElement(rss, "channel")
 
-    ET.SubElement(channel, "title").text = f"Վերջին Լուրեր - {site['name']}"
+    ET.SubElement(channel, "title").text = site['name']
     ET.SubElement(channel, "link").text = site["url"]
     ET.SubElement(channel, "description").text = f"Cleaned RSS feed updated from {site['name']}."
     ET.SubElement(channel, "language").text = "hy"
@@ -73,6 +74,9 @@ for site in SITELER:
                 continue
         if site["name"] == "armenpress.am/hy":
             if not ("/hy/articles" in href):
+                continue
+        if site["name"] == "tert.am":
+            if not ("/am/news" in href):
                 continue
         if site["name"] == "Shamshyan.news":
             if not ("/hy/article/" in href or "/article/" in href):
