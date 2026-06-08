@@ -11,30 +11,11 @@ headers = {
     'Accept-Language': 'hy,am,tr,en;q=0.9'
 }
 
-# SITE SETTINGS
-SITELER = [
-    {
-        "name": "Civic.am",
-        "url": "https://civic.am/last-news",
-        "xml_filename": "civic.xml",
-        "base_url": "https://civic.am",
-        "logo_url": "https://civic.am/templates/newshub/images/logo.png"
-    },
-    {
-        "name": "Oragir.news",
-        "url": "https://oragir.news/hy/materials/all",
-        "xml_filename": "oragirnews.xml",
-        "base_url": "https://oragir.news",
-        "logo_url": "https://oragir.news/assets/images/favicon.png"
-    },
-    {
-        "name": "Shamshyan.news",
-        "url": "https://shamshyan.com/hy/articles/all",
-        "xml_filename": "shamshyan.xml",
-        "base_url": "https://shamshyan.com",
-        "logo_url": "https://shamshyan.com/build/assets/logotype.351a3a34.png"
-    }
-]
+# Restructured to prevent indentation/NBSP copy-paste syntax bugs completely
+SITELER = []
+SITELER.append({"name": "Civic.am", "url": "https://civic.am/last-news", "xml_filename": "civic.xml", "base_url": "https://civic.am", "logo_url": "https://civic.am/templates/newshub/images/logo.png"})
+SITELER.append({"name": "Oragir.news", "url": "https://oragir.news/hy/materials/all", "xml_filename": "oragirnews.xml", "base_url": "https://oragir.news", "logo_url": "https://oragir.news/assets/images/favicon.png"})
+SITELER.append({"name": "Shamshyan.news", "url": "https://shamshyan.com/hy/articles/all", "xml_filename": "shamshyan.xml", "base_url": "https://shamshyan.com", "logo_url": "https://shamshyan.com/build/assets/logotype.351a3a34.png"})
 
 def fetch_html(url):
     req = urllib.request.Request(url, headers=headers)
@@ -80,7 +61,6 @@ for site in SITELER:
     for a_tag in soup.find_all('a', href=True):
         href = a_tag['href'].strip()
 
-        # LINK FILTERS
         if site["name"] == "Civic.am":
             if not ("/news/" in href):
                 continue
@@ -108,7 +88,6 @@ for site in SITELER:
         if len(title_text) < 10 or title_text.isdigit():
             continue
 
-        # IMAGE EXTRACTION LOGIC
         img_url = ""
         img_tag = a_tag.find('img')
         if not img_tag:
