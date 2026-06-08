@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Վերջին Լուրեր</title>
 <link>https://civic.am/last-news</link>
 <description/>
 <language>en</language>
 <lastBuildDate>Mon, 08 Jun 2026 02:50:51 -0000</lastBuildDate>
-<atom:link href="https://politepaul.com/fd/sNHLxbxNzjFm.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="https://civic.am/last-news.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>
 1029 ընտրատեղամասերում քվեարկության նախնական արդյունքները․ ԿԸՀ
 </title>
 <link>https://civic.am/news/117184</link>
 <description>
-<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 04:50</div> </div> Delivered by PolitePaul service
+<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 04:50</div> </div> Delivered by Civic.am service
 </description>
 <pubDate>Mon, 08 Jun 2026 02:50:51 -0000</pubDate>
 <guid isPermaLink="false">https://civic.am/news/117184</guid>
@@ -24,7 +24,7 @@
 </title>
 <link>https://civic.am/news/117183</link>
 <description>
-<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 03:51</div> </div> Delivered by PolitePaul service
+<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 03:51</div> </div> Delivered by Civic.am service
 </description>
 <pubDate>Mon, 08 Jun 2026 02:35:51 -0000</pubDate>
 <guid isPermaLink="false">https://civic.am/news/117183</guid>
@@ -35,7 +35,7 @@
 </title>
 <link>https://civic.am/news/117182</link>
 <description>
-<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 03:39</div> </div> Delivered by PolitePaul service
+<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 03:39</div> </div> Delivered by Civic.am service
 </description>
 <pubDate>Mon, 08 Jun 2026 02:20:51 -0000</pubDate>
 <guid isPermaLink="false">https://civic.am/news/117182</guid>
@@ -46,7 +46,7 @@
 </title>
 <link>https://civic.am/news/117181</link>
 <description>
-<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 03:37</div> </div> Delivered by PolitePaul service
+<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 03:37</div> </div> Delivered by Civic.am service
 </description>
 <pubDate>Mon, 08 Jun 2026 02:05:51 -0000</pubDate>
 <guid isPermaLink="false">https://civic.am/news/117181</guid>
@@ -57,7 +57,7 @@
 </title>
 <link>https://civic.am/news/117180</link>
 <description>
-<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 03:36</div> </div> Delivered by PolitePaul service
+<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 03:36</div> </div> Delivered by Civic.am service
 </description>
 <pubDate>Mon, 08 Jun 2026 01:50:51 -0000</pubDate>
 <guid isPermaLink="false">https://civic.am/news/117180</guid>
@@ -68,7 +68,7 @@
 </title>
 <link>https://civic.am/news/117179</link>
 <description>
-<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 03:23</div> </div> Delivered by PolitePaul service
+<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 03:23</div> </div> Delivered by Civic.am service
 </description>
 <pubDate>Mon, 08 Jun 2026 01:35:51 -0000</pubDate>
 <guid isPermaLink="false">https://civic.am/news/117179</guid>
@@ -79,7 +79,7 @@
 </title>
 <link>https://civic.am/news/117178</link>
 <description>
-<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 03:18</div> </div> Delivered by PolitePaul service
+<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 03:18</div> </div> Delivered by Civic.am service
 </description>
 <pubDate>Mon, 08 Jun 2026 01:20:51 -0000</pubDate>
 <guid isPermaLink="false">https://civic.am/news/117178</guid>
@@ -90,7 +90,7 @@
 </title>
 <link>https://civic.am/news/117177</link>
 <description>
-<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 03:12</div> </div> Delivered by PolitePaul service
+<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 03:12</div> </div> Delivered by Civic.am service
 </description>
 <pubDate>Mon, 08 Jun 2026 01:05:51 -0000</pubDate>
 <guid isPermaLink="false">https://civic.am/news/117177</guid>
@@ -101,7 +101,7 @@
 </title>
 <link>https://civic.am/news/117176</link>
 <description>
-<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 03:07</div> </div> Delivered by PolitePaul service
+<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 03:07</div> </div> Delivered by Civic.am service
 </description>
 <pubDate>Mon, 08 Jun 2026 00:50:51 -0000</pubDate>
 <guid isPermaLink="false">https://civic.am/news/117176</guid>
@@ -112,7 +112,7 @@
 </title>
 <link>https://civic.am/news/117175</link>
 <description>
-<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 03:05</div> </div> Delivered by PolitePaul service
+<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 03:05</div> </div> Delivered by Civic.am service
 </description>
 <pubDate>Mon, 08 Jun 2026 00:35:51 -0000</pubDate>
 <guid isPermaLink="false">https://civic.am/news/117175</guid>
@@ -123,7 +123,7 @@
 </title>
 <link>https://civic.am/news/117173</link>
 <description>
-<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 02:54</div> </div> Delivered by PolitePaul service
+<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 02:54</div> </div> Delivered by Civic.am service
 </description>
 <pubDate>Mon, 08 Jun 2026 00:20:51 -0000</pubDate>
 <guid isPermaLink="false">https://civic.am/news/117173</guid>
@@ -134,7 +134,7 @@
 </title>
 <link>https://civic.am/news/117172</link>
 <description>
-<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 02:28</div> </div> Delivered by PolitePaul service
+<div class="info-pair"> <div class="info-pair__item info-pair__item_date caption">08.06.2026, 02:28</div> </div> Delivered by Civic.am service
 </description>
 <pubDate>Mon, 08 Jun 2026 00:05:51 -0000</pubDate>
 <guid isPermaLink="false">https://civic.am/news/117172</guid>
