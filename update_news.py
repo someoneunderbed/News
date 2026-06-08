@@ -13,8 +13,8 @@ headers = {
 
 # Restructured to prevent indentation/NBSP copy-paste syntax bugs completely
 SITELER = []
-SITELER.append({"name": "Civic.am", "url": "https://civic.am/last-news", "xml_filename": "civic.xml", "base_url": "https://civic.am", "logo_url": "https://civic.am/templates/newshub/images/logo.png"})
-SITELER.append({"name": "Oragir.news", "url": "https://oragir.news/hy/materials/all", "xml_filename": "oragirnews.xml", "base_url": "https://oragir.news", "logo_url": "https://oragir.news/assets/images/favicon.png"})
+SITELER.append({"name": "Civic.am", "url": "https://civic.am/last-news", "xml_filename": "civic.xml", "base_url": "https://civic.am", "logo_url": "https://civic.am/assets/img/logo.svg"})
+SITELER.append({"name": "Oragir.news", "url": "https://oragir.news/hy/materials/all", "xml_filename": "oragirnews.xml", "base_url": "https://oragir.news", "logo_url": "https://st2.oragir.news/header-logo2.png"})
 SITELER.append({"name": "Shamshyan.news", "url": "https://shamshyan.com/hy/articles/all", "xml_filename": "shamshyan.xml", "base_url": "https://shamshyan.com", "logo_url": "https://shamshyan.com/build/assets/logotype.351a3a34.png"})
 
 def fetch_html(url):
