@@ -20,6 +20,7 @@ SITELER = [
         "base_url": "https://civic.am",
         "logo_url": "https://civic.am/templates/newshub/images/logo.png"
     },
+
     {
         "name": "Oragir.news",
         "url": "https://oragir.news/hy/materials/all",
@@ -28,6 +29,7 @@ SITELER = [
         # Standard fallback to their high-res icon/favicon asset
         "logo_url": "https://oragir.news/assets/images/favicon.png"
     },
+
     {
         "name": "Shamshyan.news",
         "url": "https://shamshyan.com/hy/articles/all",
