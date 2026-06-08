@@ -22,7 +22,7 @@ SITELER = [
     {
         "ad": "Oragir.news",
         "url": "https://oragir.news/hy/materials/all",
-        "xml_adi": "oragir.xml",
+        "xml_adi": "oragirnews.xml",
         "mod": "rss_proxy"   # Doğrudan var olan bir RSS'i temizleme/yeniden dizme yöntemi
     }
 ]
