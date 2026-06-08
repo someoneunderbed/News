@@ -2,173 +2,130 @@ import os
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 import urllib.request
+from bs4 import BeautifulSoup
 import re
 
-# Geliştirilmiş ve Gerçekçi Tarayıcı Kimliği (Blokajları Aşmak İçin)
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
-    'Accept-Language': 'hy,am,tr,en-US,en;q=0.9',
-    'Cache-Control': 'no-cache',
-    'Pragma': 'no-cache'
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+    'Accept-Language': 'hy,am,tr,en;q=0.9'
 }
 
-# SİTE AYARLARI VE AYIKLAMA KURALLARI
 SITELER = [
     {
         "ad": "Civic.am",
         "url": "https://civic.am/last-news",
         "xml_adi": "civic.xml",
-        "mod": "html_scrape"
+        "base_url": "https://civic.am"
     },
     {
         "ad": "Oragir.news",
-        # ÇÖZÜM: Buraya web sayfasını değil, PolitePaul servisinin ürettiği gerçek XML linkini koymalıyız!
-        "url": "https://politepaul.com/fd/3eJKKpfqxj6E.xml",
+        "url": "https://oragir.news/hy/materials/all",
         "xml_adi": "oragir.xml",
-        "mod": "rss_proxy"
+        "base_url": "https://oragir.news"
     }
 ]
 
 def html_cek(url):
     req = urllib.request.Request(url, headers=headers)
     try:
-        # timeout=20 ekleyerek sitenin yavaş yanıt verme durumunda donmasını engelliyoruz
         with urllib.request.urlopen(req, timeout=20) as response:
             return response.read().decode('utf-8', errors='ignore')
     except Exception as e:
         print(f"Bağlantı hatası ({url}): {e}")
         return None
 
-# ANA ÇALIŞMA DÖNGÜSÜ
 base_time = datetime.now()
 os.makedirs("NewsFolder", exist_ok=True)
 
 for site in SITELER:
     print(f"\n>>> {site['ad']} işleniyor...")
-    kaynak_veri = html_cek(site["url"])
+    html_content = html_cek(site["url"])
 
-    if not kaynak_veri or len(kaynak_veri.strip()) == 0:
-        print(f"Hata: {site['ad']} kaynağından veri alınamadı veya boş döndü!")
+    if not html_content:
         continue
 
-    # Yeni RSS Yapısı Kurulumu
+    soup = BeautifulSoup(html_content, 'html.parser')
+
     rss = ET.Element("rss", version="2.0")
     rss.set("xmlns:atom", "http://www.w3.org/2005/Atom")
     channel = ET.SubElement(rss, "channel")
 
-    ET.SubElement(channel, "title").text = "Վերջին Լուրեր - " + site["ad"]
+    ET.SubElement(channel, "title").text = f"Վերջին Լուրեր - {site['ad']}"
     ET.SubElement(channel, "link").text = site["url"]
     ET.SubElement(channel, "description").text = f"{site['ad']} sitesinden güncellenen temiz akış."
     ET.SubElement(channel, "language").text = "hy"
     ET.SubElement(channel, "lastBuildDate").text = base_time.strftime("%a, %d %b %Y %H:%M:%S -0000")
 
     count = 0
+    seen_links = set()
 
-    # METHOT 1: CIVIC.AM İÇİN HTML KAZIMA
-    if site["mod"] == "html_scrape":
-        news_links = re.findall(r'href="(/news/\d+[^"]*)"[^>]*>(.*?)</a>', kaynak_veri, re.DOTALL)
-        all_images = [img for img in re.findall(r'<img[^>]+src="([^"]+)"', kaynak_veri) if "thumbs/" in img]
+    # Sitedeki tüm linkleri tara
+    for a_tag in soup.find_all('a', href=True):
+        href = a_tag['href']
 
-        if not news_links:
-            print("Uyarı: Civic.am sayfasında eşleşen haber linki bulunamadı! HTML yapısı değişmiş veya bloklanmış olabilir.")
-            # Eğer boş döndüyse eski XML dosyasını korumak için üzerine yazma yapmıyoruz ve döngüyü geçiyoruz.
+        # Siteye göre haber linki doğrulama filtreleri
+        if site["ad"] == "Civic.am" and not href.startswith("/news/"):
+            continue
+        if site["ad"] == "Oragir.news" and not href.startswith("/hy/material/"):
             continue
 
-        seen_links = set()
-        img_index = 0
+        full_link = f"{site['base_url']}{href}" if href.startswith('/') else href
 
-        for index, (href, inner_html) in enumerate(news_links):
-            if href in seen_links:
-                continue
-
-            full_link = f"https://civic.am{href}"
-            clean_title = re.sub(r'<[^>]+>', '', inner_html).strip()
-            clean_title = " ".join(clean_title.split())
-            clean_title = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s+[^\s]+\s+', '', clean_title)
-
-            if len(clean_title) < 10 or clean_title.isdigit():
-                continue
-
-            img_url = ""
-            inner_img = re.search(r'src="([^"]+)"', inner_html)
-            if inner_img and "thumbs/" in inner_img.group(1):
-                img_url = inner_img.group(1)
-            elif img_index < len(all_images):
-                img_url = all_images[img_index]
-                img_index += 1
-
-            if img_url:
-                img_url = img_url.split()[0].lstrip('/')
-                img_url = f"https://civic.am/{img_url}"
-
-            seen_links.add(href)
-
-            item = ET.SubElement(channel, "item")
-            ET.SubElement(item, "title").text = clean_title
-            ET.SubElement(item, "link").text = full_link
-            ET.SubElement(item, "description").text = f"{clean_title} - {site['ad']} üzerinden oku."
-            ET.SubElement(item, "guid", isPermaLink="false").text = full_link
-
-            if img_url:
-                img_type = "image/webp" if "webp" in img_url else "image/jpeg"
-                ET.SubElement(item, "enclosure", url=img_url, length="1000000", type=img_type)
-
-            pub_time = base_time - timedelta(minutes=(index * 2))
-            ET.SubElement(item, "pubDate").text = pub_time.strftime("%a, %d %b %Y %H:%M:%S -0000")
-
-            count += 1
-            if count >= 20:
-                break
-
-    # METHOT 2: ORAGIR.NEWS İÇİN MEVCUT BESLEMEYİ TEMİZLEME
-    elif site["mod"] == "rss_proxy":
-        try:
-            root = ET.fromstring(kaynak_veri)
-            items = root.findall(".//item")
-
-            if not items:
-                print("Uyarı: Oragir RSS içeriğinde <item> bulunamadı!")
-                continue
-
-            for index, old_item in enumerate(items):
-                title = old_item.find("title").text if old_item.find("title") is not None else ""
-                link = old_item.find("link").text if old_item.find("link") is not None else ""
-                desc = old_item.find("description").text if old_item.find("description") is not None else ""
-
-                if desc:
-                    desc = desc.replace("Delivered by PolitePaul service", "").strip()
-                    desc = " ".join(desc.split())
-
-                enclosure = old_item.find("enclosure")
-                img_url = enclosure.get("url") if enclosure is not None else ""
-
-                item = ET.SubElement(channel, "item")
-                ET.SubElement(item, "title").text = title
-                ET.SubElement(item, "link").text = link
-                ET.SubElement(item, "description").text = desc if desc else f"{title} - {site['ad']} üzerinden oku."
-                ET.SubElement(item, "guid", isPermaLink="false").text = link
-
-                if img_url:
-                    ET.SubElement(item, "enclosure", url=img_url, length="1000000", type="image/jpeg")
-
-                pub_time = base_time - timedelta(minutes=(index * 2))
-                ET.SubElement(item, "pubDate").text = pub_time.strftime("%a, %d %b %Y %H:%M:%S -0000")
-
-                count += 1
-                if count >= 20:
-                    break
-        except Exception as e:
-            print(f"Oragir RSS ayrıştırma hatası: {e}")
+        if full_link in seen_links:
             continue
 
-    # Sadece içerik başarıyla üretildiyse dosyaya yaz (Boş XML yazılmasını engeller)
+        # Başlık temizleme
+        title_text = a_tag.get_text(strip=True)
+        title_text = " ".join(title_text.split())
+        title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s+[^\s]+\s+', '', title_text)
+
+        if len(title_text) < 10 or title_text.isdigit():
+            continue
+
+        # Görsel bulma (Haber kutusunun içindeki veya en yakınındaki img etiketini ara)
+        img_url = ""
+        img_tag = a_tag.find('img')
+        if not img_tag:
+            # Eğer link etiketinin içinde resim yoksa, bir üst kutuda (parent) resim ara
+            parent = a_tag.parent
+            if parent:
+                img_tag = parent.find('img')
+
+        if img_tag and img_tag.get('src'):
+            img_src = img_tag['src'].strip()
+            # Sadece gerçek haber görsellerini yakala (logo veya simgeleri ele)
+            if "thumbs/" in img_src or "storage/" in img_src:
+                img_url = img_src.split()[0]
+                if img_url.startswith('/'):
+                    img_url = f"{site['base_url']}{img_url}"
+
+        seen_links.add(full_link)
+
+        # XML Düğümü Ekleme
+        item = ET.SubElement(channel, "item")
+        ET.SubElement(item, "title").text = title_text
+        ET.SubElement(item, "link").text = full_link
+        ET.SubElement(item, "description").text = f"{title_text} - {site['ad']} üzerinden oku."
+        ET.SubElement(item, "guid", isPermaLink="false").text = full_link
+
+        if img_url:
+            img_type = "image/webp" if "webp" in img_url else "image/jpeg"
+            ET.SubElement(item, "enclosure", url=img_url, length="1000000", type=img_type)
+
+        pub_time = base_time - timedelta(minutes=(count * 2))
+        ET.SubElement(item, "pubDate").text = pub_time.strftime("%a, %d %b %Y %H:%M:%S -0000")
+
+        count += 1
+        if count >= 20:
+            break
+
     if count > 0:
         tree = ET.ElementTree(rss)
         ET.indent(tree, space="  ", level=0)
         tree.write(f"NewsFolder/{site['xml_adi']}", encoding="utf-8", xml_declaration=True)
-        print(f"Başarılı: NewsFolder/{site['xml_adi']} güncellendi. ({count} haber)")
+        print(f"Başarılı: NewsFolder/{site['xml_adi']} kaydedildi. ({count} haber)")
     else:
-        print(f"Hata: {site['ad']} için hiçbir haber işlenemediği için XML dosyası güncellenmedi.")
+        print(f"Hata: {site['ad']} için hiçbir eşleşen eleman bulunamadı.")
 
-print("\nİşlem tamamlandı!")
+print("\nTüm işlemler tamamlandı!")
