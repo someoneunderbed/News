@@ -45,73 +45,9 @@ for site in SITELER:
 
 
     # --- TERT.AM: SCRAPE NEWS DATA ---
-    if site["name"] == "tert.am":
-        html_content = fetch_html(site["url"])
-        if html_content:
-            try:
-                # React sites often embed JSON data in the HTML - try to extract it
-                import re
-                # Look for JSON data in script tags or data attributes
-                json_match = re.search(r'<script[^>]*>window\.__INITIAL_STATE__\s*=\s*({.*?})</script>', html_content, re.DOTALL)
 
-                articles = []
-                if not json_match:
-                    # Fallback: try to parse links from the HTML anyway
-                    soup = BeautifulSoup(html_content, 'html.parser')
-                    for a_tag in soup.find_all('a', href=True):
-                        href = a_tag['href'].strip()
-                        if '/am/news/' in href:
-                            articles.append({'url': href})
-
-                if articles or json_match:
-                    rss = ET.Element("rss", version="2.0")
-                    channel = ET.SubElement(rss, "channel")
-                    ET.SubElement(channel, "title").text = site['name']
-                    ET.SubElement(channel, "link").text = site["url"]
-                    ET.SubElement(channel, "description").text = f"News feed from {site['name']}"
-                    ET.SubElement(channel, "language").text = "am"
-                    ET.SubElement(channel, "lastBuildDate").text = base_time.strftime("%a, %d %b %Y %H:%M:%S -0000")
-
-                    if "logo_url" in site and site["logo_url"]:
-                        image_tag = ET.SubElement(channel, "image")
-                        ET.SubElement(image_tag, "url").text = site["logo_url"]
-                        ET.SubElement(image_tag, "title").text = site['name']
-                        ET.SubElement(image_tag, "link").text = site["url"]
-
-                    # Add at least a placeholder item
-                    item = ET.SubElement(channel, "item")
-                    ET.SubElement(item, "title").text = "Tert.am News"
-                    ET.SubElement(item, "link").text = site["url"]
-                    ET.SubElement(item, "description").text = "Visit Tert.am for latest news"
-                    ET.SubElement(item, "guid", isPermaLink="false").text = site["url"]
-                    ET.SubElement(item, "pubDate").text = base_time.strftime("%a, %d %b %Y %H:%M:%S -0000")
-
-                    if os.path.exists(xml_path): os.remove(xml_path)
-                    with open(xml_path, "wb") as f:
-                        tree = ET.ElementTree(rss)
-                        ET.indent(tree, space="  ", level=0)
-                        tree.write(f, encoding="utf-8", xml_declaration=True)
-                    print(f"Success: {xml_path} created (placeholder - requires JS rendering for full content)")
-                    is_success = True
-                    continue
-            except Exception as e:
-                print(f"Tert.am processing error: {e}")
-
-        print(f"Skipping {site['name']} update - requires JavaScript rendering")
-        continue
 
     # --- RADAR.AM: ENGELLENMEYEN RESMİ RSS BESLEMESİ ---
-        rss_content = fetch_html("https://radar.am/hy/feed/")
-        if rss_content and ("<rss" in rss_content or "<channel" in rss_content):
-            try:
-                if os.path.exists(xml_path): os.remove(xml_path)
-                with open(xml_path, "wb") as f:
-                    f.write(rss_content.encode('utf-8'))
-                print(f"Success: {xml_path} saved directly from official feed.")
-                is_success = True
-                continue
-            except Exception as e:
-                print(f"Radar RSS error: {e}")
 
     # --- CIVIC.AM: ENGELLENMEYEN GİZLİ VERİ API'SI ---
     if site["name"] == "Civic.am":
@@ -197,51 +133,6 @@ for site in SITELER:
     seen_links = set()
 
     # Armenpress Özel Blok Yakalayıcı
-    if site["name"] == "armenpress.am":
-        items = soup.find_all(['div', 'article', 'a'], class_=re.compile(r'news|item|article', re.IGNORECASE))
-        for item in items:
-            a_tag = item if item.name == 'a' else item.find('a', href=True)
-            if not a_tag or not a_tag.get('href'): continue
-            href = a_tag['href'].strip()
-            if not any(x in href for x in ["/article", "/hy/"]): continue
-
-            full_link = f"{site['base_url']}{href}" if href.startswith('/') else href
-            if full_link in seen_links: continue
-
-            title_text = a_tag.get_text(strip=True)
-            if not title_text and item.name != 'a': title_text = item.get_text(strip=True)
-
-            title_text = " ".join(title_text.split())
-            title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s*', '', title_text)
-            if len(title_text) < 10: continue
-
-            img_url = ""
-            img_tag = item.find('img') if item.name != 'a' else a_tag.find('img')
-            if img_tag and img_tag.get('src'):
-                img_url = img_tag['src'].strip().split()[0]
-                if img_url.startswith('/'): img_url = f"{site['base_url']}{img_url}"
-
-            seen_links.add(full_link)
-            rss_item = ET.SubElement(channel, "item")
-            ET.SubElement(rss_item, "title").text = title_text
-            ET.SubElement(rss_item, "link").text = full_link
-            ET.SubElement(rss_item, "description").text = f"{title_text} - Read on {site['name']}."
-            ET.SubElement(rss_item, "guid", isPermaLink="false").text = full_link
-            if img_url: ET.SubElement(rss_item, "enclosure", url=img_url, length="1000000", type="image/jpeg")
-            pub_time = base_time - timedelta(minutes=(count * 2))
-            ET.SubElement(rss_item, "pubDate").text = pub_time.strftime("%a, %d %b %Y %H:%M:%S -0000")
-            count += 1
-            if count >= 20: break
-
-        if count > 0:
-            if os.path.exists(xml_path): os.remove(xml_path)
-            with open(xml_path, "wb") as f:
-                tree = ET.ElementTree(rss)
-                ET.indent(tree, space="  ", level=0)
-                tree.write(f, encoding="utf-8", xml_declaration=True)
-            is_success = True
-            continue
-
     # --- 5TV.AM GENEL SİTE VE HABER AKIŞI YAPISINA UYARLANMIŞ BLOK ---
     if site["name"] == "5tv.am":
         for a_tag in soup.find_all('a', href=True):
