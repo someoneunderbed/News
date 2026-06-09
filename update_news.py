@@ -1,5 +1,5 @@
 import os
-import xml.etree.ElementTree as ET
+import xml.etree.ElementTree as
 from datetime import datetime, timedelta
 import urllib.request
 from bs4 import BeautifulSoup
