@@ -1,103 +1,155 @@
-<!DOCTYPE HTML>
-<html lang="hy">
-  <head>
-    <meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, viewport-fit=cover"/>
-		<meta name="format-detection" content="telephone=no"/>
-
-    <link rel="apple-touch-icon" href="/resources/favicons/apple-icon.png">
-    <link rel="apple-touch-icon" sizes="57x57" href="/resources/favicons/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="/resources/favicons/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/resources/favicons/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="/resources/favicons/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/resources/favicons/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="/resources/favicons/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="/resources/favicons/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/resources/favicons/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/resources/favicons/apple-icon-180x180.png">
-    <link rel="apple-touch-icon-precomposed" href="/resources/favicons/apple-icon-precomposed.png">
-    <link rel="icon" href="/resources/favicons/favicon.ico"/>
-    <link rel="icon" type="image/png" sizes="36x36" href="/resources/favicons/android-icon-36x36.png">
-    <link rel="icon" type="image/png" sizes="48x48" href="/resources/favicons/android-icon-48x48.png">
-    <link rel="icon" type="image/png" sizes="72x72" href="/resources/favicons/android-icon-72x72.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="/resources/favicons/android-icon-96x96.png">
-    <link rel="icon" type="image/png" sizes="144x144" href="/resources/favicons/android-icon-144x144.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="/resources/favicons/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/resources/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="/resources/favicons/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/resources/favicons/favicon-16x16.png">
-    <link rel="manifest" crossorigin="use-credentials" href="/resources/favicons/manifest.json" />
-    <meta name="msapplication-TileColor" content="#ffffff" />
-    <meta name="msapplication-TileImage" content="/resources/favicons/ms-icon-70x70.png">
-    <meta name="msapplication-config" content="/resources/favicons/browserconfig.xml" />
-
-    <meta property="fb:app_id" content="3483030335245859" />
-    <meta property="fb:admins" content="797039667"/>
-    <meta property="fb:pages" content="330537565808"/>
-    <meta name="google-site-verification" content="-Q4WHZIeqlorCq6vdzDeN5eLtyU_37tA_IRgeqC8SbA"/>
-    <meta name='yandex-verification' content="6bb662fc53ca7c67"/>
-
-    <title>Լուրեր Հայաստանից - Tert.am</title>
-    <script type="module" crossorigin src="/index.CGoP8egR.js"></script>
-    <link rel="modulepreload" crossorigin href="/classnames.BZlRbMms.js">
-    <link rel="modulepreload" crossorigin href="/react.DwOj_Qm0.js">
-    <link rel="modulepreload" crossorigin href="/scheduler.CzFDRTuY.js">
-    <link rel="modulepreload" crossorigin href="/react-dom.BeQHjpKF.js">
-    <link rel="modulepreload" crossorigin href="/react-is.8JwjhRSi.js">
-    <link rel="modulepreload" crossorigin href="/hoist-non-react-statics.BTHvrGvh.js">
-    <link rel="modulepreload" crossorigin href="/use-sync-external-store.7ySd_K_0.js">
-    <link rel="modulepreload" crossorigin href="/react-redux.DVbx7q7w.js">
-    <link rel="modulepreload" crossorigin href="/invariant.C7XMtSyz.js">
-    <link rel="modulepreload" crossorigin href="/shallowequal.Dlhd_Vcs.js">
-    <link rel="modulepreload" crossorigin href="/react-helmet-async.rKM1jKUM.js">
-    <link rel="modulepreload" crossorigin href="/tslib.tG84muYP.js">
-    <link rel="modulepreload" crossorigin href="/intl-messageformat.C0uW-RaT.js">
-    <link rel="modulepreload" crossorigin href="/@formatjs.F_QovctZ.js">
-    <link rel="modulepreload" crossorigin href="/react-intl.CCIMW4fm.js">
-    <link rel="modulepreload" crossorigin href="/@babel.DqjER__m.js">
-    <link rel="modulepreload" crossorigin href="/date-fns.xtrZRERy.js">
-    <link rel="modulepreload" crossorigin href="/react-onclickoutside.D9deL0Vi.js">
-    <link rel="modulepreload" crossorigin href="/@popperjs.BQBsAJpH.js">
-    <link rel="modulepreload" crossorigin href="/warning.CncY-mst.js">
-    <link rel="modulepreload" crossorigin href="/react-popper.DSvoR9Ak.js">
-    <link rel="modulepreload" crossorigin href="/react-datepicker.BhCi5lwV.js">
-    <link rel="modulepreload" crossorigin href="/@remix-run.DXtzjFCd.js">
-    <link rel="modulepreload" crossorigin href="/react-router.CwdhMfSl.js">
-    <link rel="modulepreload" crossorigin href="/react-router-dom.BR5z3EIT.js">
-    <link rel="modulepreload" crossorigin href="/memoize-one.jCwfssLS.js">
-    <link rel="modulepreload" crossorigin href="/prop-types.BKNjMPK8.js">
-    <link rel="modulepreload" crossorigin href="/load-script.DghppdYS.js">
-    <link rel="modulepreload" crossorigin href="/react-player.B_qAXLh9.js">
-    <link rel="modulepreload" crossorigin href="/lodash.CrOwwnqj.js">
-    <link rel="modulepreload" crossorigin href="/immer.BNrqi0cU.js">
-    <link rel="modulepreload" crossorigin href="/redux.CpPuAJcp.js">
-    <link rel="modulepreload" crossorigin href="/redux-thunk.CY0Q9z1Q.js">
-    <link rel="modulepreload" crossorigin href="/@reduxjs.DEnyd6Bf.js">
-    <link rel="modulepreload" crossorigin href="/@redux-saga.DnLb0sXK.js">
-    <link rel="modulepreload" crossorigin href="/axios.CoYoscUW.js">
-    <link rel="modulepreload" crossorigin href="/rc-util.BS2QsedB.js">
-    <link rel="modulepreload" crossorigin href="/@emotion.CW87jbl0.js">
-    <link rel="modulepreload" crossorigin href="/stylis.OW4gUFyn.js">
-    <link rel="modulepreload" crossorigin href="/resize-observer-polyfill.B1PUzC5B.js">
-    <link rel="modulepreload" crossorigin href="/@ctrl.DOFZgDuz.js">
-    <link rel="modulepreload" crossorigin href="/@ant-design.DqPjjqmq.js">
-    <link rel="modulepreload" crossorigin href="/rc-resize-observer.D9Ou0dUJ.js">
-    <link rel="modulepreload" crossorigin href="/rc-motion.C34Dc7zk.js">
-    <link rel="modulepreload" crossorigin href="/rc-overflow.BSsEM08w.js">
-    <link rel="modulepreload" crossorigin href="/@rc-component.D67JHgg7.js">
-    <link rel="modulepreload" crossorigin href="/rc-virtual-list.DqK9sLYm.js">
-    <link rel="modulepreload" crossorigin href="/rc-select._rJzWJx-.js">
-    <link rel="modulepreload" crossorigin href="/rc-field-form.B_Bl2UAs.js">
-    <link rel="modulepreload" crossorigin href="/rc-pagination.Dqsrf-Z7.js">
-    <link rel="modulepreload" crossorigin href="/throttle-debounce.CUWDS_la.js">
-    <link rel="modulepreload" crossorigin href="/rc-picker.BUprBmuJ.js">
-    <link rel="modulepreload" crossorigin href="/rc-notification.DKXMemOc.js">
-    <link rel="modulepreload" crossorigin href="/antd.BfyJCpQL.js">
-    <link rel="stylesheet" crossorigin href="/assets/react-datepicker-By7hXovs.css">
-    <link rel="stylesheet" crossorigin href="/assets/index-Bow9yJT3.css">
-  </head>
-  <body>
-    <div id="root"></div>
-  <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"fe477a4c320240b7a5cb916ff51f6a66","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-</body>
-</html>
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>tert.am</title>
+    <link>https://tert.am</link>
+    <description>Cleaned RSS feed from tert.am via Google News.</description>
+    <language>hy</language>
+    <lastBuildDate>Tue, 09 Jun 2026 16:57:19 -0000</lastBuildDate>
+    <image>
+      <url>https://tert.am/resources/favicons/apple-icon-precomposed.png</url>
+      <title>tert.am</title>
+      <link>https://tert.am</link>
+    </image>
+    <item>
+      <title>Новости из Армении</title>
+      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE80eE5IZ2RDbXZHS0NMN0l4czJwWFlOOUd1QTVHWXNzMG9fMUNEN0FQV0Qtc0JQSDRYSjZqOFVFTnlnc1oyNFhVaW1BZHlNdkxVdUQzZHBQekZVcjV4bUV5YmRhVVh3dUt2Q2FLQUJBWXVQM1lEOGVLZUpIYmU?oc=5</link>
+      <description>Новости из Армении - Read on tert.am.</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMifEFVX3lxTE80eE5IZ2RDbXZHS0NMN0l4czJwWFlOOUd1QTVHWXNzMG9fMUNEN0FQV0Qtc0JQSDRYSjZqOFVFTnlnc1oyNFhVaW1BZHlNdkxVdUQzZHBQekZVcjV4bUV5YmRhVVh3dUt2Q2FLQUJBWXVQM1lEOGVLZUpIYmU?oc=5</guid>
+      <pubDate>Tue, 09 Jun 2026 16:57:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Новости из Армении</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OTW01QlB0UWNndVd0eW1ycXlRdjVlTUtMZlgyOEplcWk4cXREaHlmbkV5Q2ZIbmg2RWFaVE05YnE2X1FidEZLSW9oaW82Vk9ObHJya0xpMjd2QQ?oc=5</link>
+      <description>Новости из Армении - Read on tert.am.</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OTW01QlB0UWNndVd0eW1ycXlRdjVlTUtMZlgyOEplcWk4cXREaHlmbkV5Q2ZIbmg2RWFaVE05YnE2X1FidEZLSW9oaW82Vk9ObHJya0xpMjd2QQ?oc=5</guid>
+      <pubDate>Tue, 09 Jun 2026 16:55:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Новости из Армении</title>
+      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VY0NEODVqa0xwbFVLc0NOTk84bnB5UkRXa1Y2RjA2REdsbGd0VHFtMWllY3pnaU9WZERyNUNDSGRoeEE5UUxsSTRoM0RtOG8xY2JTc19mUmhXVEo0b3JJRDFEZ003WHZa?oc=5</link>
+      <description>Новости из Армении - Read on tert.am.</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VY0NEODVqa0xwbFVLc0NOTk84bnB5UkRXa1Y2RjA2REdsbGd0VHFtMWllY3pnaU9WZERyNUNDSGRoeEE5UUxsSTRoM0RtOG8xY2JTc19mUmhXVEo0b3JJRDFEZ003WHZa?oc=5</guid>
+      <pubDate>Tue, 09 Jun 2026 16:53:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Вступление Армении в ЕС к 2030 году маловероятно. депутата Европарламента</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iOEw3ZnM4dkJxV2hFVnlSeTY1YUNLRUh2aHZibWRMVV9CREU1WE5JZURCNkdwWTVDWkUyUVBRZ3pWU0otZEt3enl2UmVOdExqWUZnc25nQm9jU1FtVWc?oc=5</link>
+      <description>Вступление Армении в ЕС к 2030 году маловероятно. депутата Европарламента - Read on tert.am.</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iOEw3ZnM4dkJxV2hFVnlSeTY1YUNLRUh2aHZibWRMVV9CREU1WE5JZURCNkdwWTVDWkUyUVBRZ3pWU0otZEt3enl2UmVOdExqWUZnc25nQm9jU1FtVWc?oc=5</guid>
+      <pubDate>Tue, 09 Jun 2026 16:51:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Путин предупредил Армению о последствиях выхода из ЕАЭС</title>
+      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDdDBwdDBPa0dzN0R0SUwyLUVHZ3JFenBjZXZfTjIzb2dwd3ItWmxrYlVwNmtXcGprVk5LUjNVSkp0eS1tOGVUSnpHTmpHdThLanRrRW4zdVYyajRLckNienQwOS05ZEtO?oc=5</link>
+      <description>Путин предупредил Армению о последствиях выхода из ЕАЭС - Read on tert.am.</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDdDBwdDBPa0dzN0R0SUwyLUVHZ3JFenBjZXZfTjIzb2dwd3ItWmxrYlVwNmtXcGprVk5LUjNVSkp0eS1tOGVUSnpHTmpHdThLanRrRW4zdVYyajRLckNienQwOS05ZEtO?oc=5</guid>
+      <pubDate>Tue, 09 Jun 2026 16:49:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Общественно-политическая инициатива европейской модели в Армении востребована</title>
+      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOc2JrYkdQX05Hek55WE85ajZ5WHY2Uy1ubjZvY09pa2tsN1lnVFFFMHlKZVY5d056V3d3aXNVSy1BeTlmWGJNOWxLVENIaU1MZTZnUG1NSHlTWXp2?oc=5</link>
+      <description>Общественно-политическая инициатива европейской модели в Армении востребована - Read on tert.am.</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOc2JrYkdQX05Hek55WE85ajZ5WHY2Uy1ubjZvY09pa2tsN1lnVFFFMHlKZVY5d056V3d3aXNVSy1BeTlmWGJNOWxLVENIaU1MZTZnUG1NSHlTWXp2?oc=5</guid>
+      <pubDate>Tue, 09 Jun 2026 16:47:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Наука/теxника</title>
+      <link>https://news.google.com/rss/articles/CBMiRkFVX3lxTE1xczY4ZWtseHV4NTBaX0NRWjJzQ215bzA1dWZ1VXF3SVRqVXB2Mno2UXRDTTRsaVh1SWFfbV9EWWJmNWxKOXc?oc=5</link>
+      <description>Наука/теxника - Read on tert.am.</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiRkFVX3lxTE1xczY4ZWtseHV4NTBaX0NRWjJzQ215bzA1dWZ1VXF3SVRqVXB2Mno2UXRDTTRsaVh1SWFfbV9EWWJmNWxKOXc?oc=5</guid>
+      <pubDate>Tue, 09 Jun 2026 16:45:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>В Грузии к фамилиям армян добавляется частица «и»</title>
+      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE9TWExGcFhxOTdBRXplMGJiSF9sa1BvR2t2bVFPdjIyZl80YjBHMGRoN2piZTEzaEgwUHJseXFEeHdSTmpKTVhJai1LYTlKTlkwWW1IUjg2eEdBUjRmUGxuUUdXQUd5X25tOVFpcGdxaw?oc=5</link>
+      <description>В Грузии к фамилиям армян добавляется частица «и» - Read on tert.am.</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMib0FVX3lxTE9TWExGcFhxOTdBRXplMGJiSF9sa1BvR2t2bVFPdjIyZl80YjBHMGRoN2piZTEzaEgwUHJseXFEeHdSTmpKTVhJai1LYTlKTlkwWW1IUjg2eEdBUjRmUGxuUUdXQUd5X25tOVFpcGdxaw?oc=5</guid>
+      <pubDate>Tue, 09 Jun 2026 16:43:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Новости из Армении</title>
+      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tUTloS29SVmxCOWNTVF9peTJnTFlycEFtX1FjWERhR0w1VTV3ZEo2RFVEYWVHUTE3WHJWeTZQVHRHUXZ1b0ZyT3NEUmc2QmROa3VHS0tTdHc?oc=5</link>
+      <description>Новости из Армении - Read on tert.am.</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tUTloS29SVmxCOWNTVF9peTJnTFlycEFtX1FjWERhR0w1VTV3ZEo2RFVEYWVHUTE3WHJWeTZQVHRHUXZ1b0ZyT3NEUmc2QmROa3VHS0tTdHc?oc=5</guid>
+      <pubDate>Tue, 09 Jun 2026 16:41:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ашот Арсенян не продавал свои акции в какой-либо компании</title>
+      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LQmRwdUtUaEI1MHNLQ1k3Y2pVTVFUYnR4QmhRRmlwNnY4MzhyeXlvWHp6WUo5RkZRWHBCUWFUZExDNC10T2J5TFZKd05Mcy1RSFBRb2wxY085cExBd2g5TUZFbTVaNllZ?oc=5</link>
+      <description>Ашот Арсенян не продавал свои акции в какой-либо компании - Read on tert.am.</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LQmRwdUtUaEI1MHNLQ1k3Y2pVTVFUYnR4QmhRRmlwNnY4MzhyeXlvWHp6WUo5RkZRWHBCUWFUZExDNC10T2J5TFZKd05Mcy1RSFBRb2wxY085cExBd2g5TUZFbTVaNllZ?oc=5</guid>
+      <pubDate>Tue, 09 Jun 2026 16:39:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Анжела Саргсян продолжит сниматься в многосерийном фильме «Каргин сериал»</title>
+      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiQ25Ld1JKajVaRkU5RDVMOXNyU2doaWFNbjZ1dmh6aW52Y1JMSXFKeVFibUVvbV9sT0d1M3ZCV09OcnoxWWlvdWcwMHJmazh6TEVZQlBsREo?oc=5</link>
+      <description>Анжела Саргсян продолжит сниматься в многосерийном фильме «Каргин сериал» - Read on tert.am.</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiQ25Ld1JKajVaRkU5RDVMOXNyU2doaWFNbjZ1dmh6aW52Y1JMSXFKeVFibUVvbV9sT0d1M3ZCV09OcnoxWWlvdWcwMHJmazh6TEVZQlBsREo?oc=5</guid>
+      <pubDate>Tue, 09 Jun 2026 16:37:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Новости из Армении</title>
+      <link>https://news.google.com/rss/articles/CBMiNkFVX3lxTE9WLVYtNFJqWVhNYTV3NHFFNUNRejZBdXRpUDh1RGRGMHhyaXA3THRaRVI4TVhRdw?oc=5</link>
+      <description>Новости из Армении - Read on tert.am.</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiNkFVX3lxTE9WLVYtNFJqWVhNYTV3NHFFNUNRejZBdXRpUDh1RGRGMHhyaXA3THRaRVI4TVhRdw?oc=5</guid>
+      <pubDate>Tue, 09 Jun 2026 16:35:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Стармер не хочет, чтобы украинский конфликт забыли из-за ситуации с Ираном</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zOHhiRWlWUHpsMFJZT3Z4ZHI3SzJnbWpibUxJY0FBUlNPQm9LVVF3aWlEUWV3c3VKM3dpalNZdkJtUTk3SjJQUHFtX3lGX3pzZWdpS1lHUlNNdw?oc=5</link>
+      <description>Стармер не хочет, чтобы украинский конфликт забыли из-за ситуации с Ираном - Read on tert.am.</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zOHhiRWlWUHpsMFJZT3Z4ZHI3SzJnbWpibUxJY0FBUlNPQm9LVVF3aWlEUWV3c3VKM3dpalNZdkJtUTk3SjJQUHFtX3lGX3pzZWdpS1lHUlNNdw?oc=5</guid>
+      <pubDate>Tue, 09 Jun 2026 16:33:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Транспортная система Еревана продолжает модернизироваться, уже эксплуатируется 171 новый автобус. (видео)</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE9qSEpZU1V4VFJrcE5qQXY4emFXQ1NrYzBYY1l0TDRVSDN5c2JqNlpWYU5HYmgxRUpQdXhXdWZoemg0amZ3aTh0WVFzRXhmdFBXM1RPZ0JVOEhlVkFqQzFPYWQ3TkU2alBYbTRoYw?oc=5</link>
+      <description>Транспортная система Еревана продолжает модернизироваться, уже эксплуатируется 171 новый автобус. (видео) - Read on tert.am.</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMibEFVX3lxTE9qSEpZU1V4VFJrcE5qQXY4emFXQ1NrYzBYY1l0TDRVSDN5c2JqNlpWYU5HYmgxRUpQdXhXdWZoemg0amZ3aTh0WVFzRXhmdFBXM1RPZ0JVOEhlVkFqQzFPYWQ3TkU2alBYbTRoYw?oc=5</guid>
+      <pubDate>Tue, 09 Jun 2026 16:31:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Российско-азербайджанские военные учения не направлены против российско-армянского сотрудничествo</title>
+      <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE9SN0NXLWxhMVE4Ymd4SWQ3dGlWQ0RxdzF3MFdmY2VuQS1wZzJNamZwa2czVWYyQzlIUG50UUh0a1o4WHFKQmk1elBPd3JpZHpiOURNdjFMWHBhUVlBbzd5RE1RVGk5cmxTa0k3ZzV5Z3BnTXc?oc=5</link>
+      <description>Российско-азербайджанские военные учения не направлены против российско-армянского сотрудничествo - Read on tert.am.</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMic0FVX3lxTE9SN0NXLWxhMVE4Ymd4SWQ3dGlWQ0RxdzF3MFdmY2VuQS1wZzJNamZwa2czVWYyQzlIUG50UUh0a1o4WHFKQmk1elBPd3JpZHpiOURNdjFMWHBhUVlBbzd5RE1RVGk5cmxTa0k3ZzV5Z3BnTXc?oc=5</guid>
+      <pubDate>Tue, 09 Jun 2026 16:29:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Надо открыто говорить с нашим народом. Гагик Царукян</title>
+      <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE11NGo0WFBlcVNnSURGVzdhTVdYMjk1cDJud2xkUWZIU25keHpXSVFlNng1SVUxUElXQXNhelpRNE1GU3RZaXZQUUdaWXlublhwQWxRbDFrckNYcTc1R21pVA?oc=5</link>
+      <description>Надо открыто говорить с нашим народом. Гагик Царукян - Read on tert.am.</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYEFVX3lxTE11NGo0WFBlcVNnSURGVzdhTVdYMjk1cDJud2xkUWZIU25keHpXSVFlNng1SVUxUElXQXNhelpRNE1GU3RZaXZQUUdaWXlublhwQWxRbDFrckNYcTc1R21pVA?oc=5</guid>
+      <pubDate>Tue, 09 Jun 2026 16:27:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>9 мая в Степанакерте состоится грандиозный военный парад</title>
+      <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLR0FJaFJIRFd0RmtuUU9mUDdDcHZEYzRVOUJUZHN1YVlZRFo3N3lHeC1vbmRFVFJwdHJ6QUNoTEl2SHFkeWpmZjhQQnRaRjdKcGVjanpsUXljekNsTy1yczJB?oc=5</link>
+      <description>9 мая в Степанакерте состоится грандиозный военный парад - Read on tert.am.</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLR0FJaFJIRFd0RmtuUU9mUDdDcHZEYzRVOUJUZHN1YVlZRFo3N3lHeC1vbmRFVFJwdHJ6QUNoTEl2SHFkeWpmZjhQQnRaRjdKcGVjanpsUXljekNsTy1yczJB?oc=5</guid>
+      <pubDate>Tue, 09 Jun 2026 16:25:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Опыт и справедливость для меня первостепенны: интервью с Сарибеком Сукиасяном</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTFBOejJNRTZ4ek1RR2paWE1rTkNaNEhaZzhubWlQVHdiZ3VodC1Xd0ZyVUJvZ2hWS1pDZVBscFo2c3g2VEw1ZkFYVWN4NzJET2dNOFlndE9jc2ZGemQza2oyWTVGaVZVWWYyRlU3Sw?oc=5</link>
+      <description>Опыт и справедливость для меня первостепенны: интервью с Сарибеком Сукиасяном - Read on tert.am.</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMibEFVX3lxTFBOejJNRTZ4ek1RR2paWE1rTkNaNEhaZzhubWlQVHdiZ3VodC1Xd0ZyVUJvZ2hWS1pDZVBscFo2c3g2VEw1ZkFYVWN4NzJET2dNOFlndE9jc2ZGemQza2oyWTVGaVZVWWYyRlU3Sw?oc=5</guid>
+      <pubDate>Tue, 09 Jun 2026 16:23:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>Tert.am лидирует среди армянских сайтов</title>
+      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qUkVRd285Q3p1R3g2cjFmQTBpc2Itb1k5RWdRckdFMEx2WENfaVZ0YzdmWkhnY0RWOGI5QXpVUGxPOU54dmZ5QWY3allydnhUMWJYOUhVMWxsUU8z?oc=5</link>
+      <description>Tert.am лидирует среди армянских сайтов - Read on tert.am.</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qUkVRd285Q3p1R3g2cjFmQTBpc2Itb1k5RWdRckdFMEx2WENfaVZ0YzdmWkhnY0RWOGI5QXpVUGxPOU54dmZ5QWY3allydnhUMWJYOUhVMWxsUU8z?oc=5</guid>
+      <pubDate>Tue, 09 Jun 2026 16:21:19 -0000</pubDate>
+    </item>
+    <item>
+      <title>В Ереване с сегодняшнего дня действуют дорожные камеры (карта)</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ub3k4cW1XZG1VUXFpR0ppNnlLWHBtVkl3bXRQN3FsdmlpX2JQTS03cVUwV0tCS0ZxdU9XNWs4V21Obmg0STdURzhvNU50d1BfZ2FaQm9OMTFtdVh3Q2c?oc=5</link>
+      <description>В Ереване с сегодняшнего дня действуют дорожные камеры (карта) - Read on tert.am.</description>
+      <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ub3k4cW1XZG1VUXFpR0ppNnlLWHBtVkl3bXRQN3FsdmlpX2JQTS03cVUwV0tCS0ZxdU9XNWs4V21Obmg0STdURzhvNU50d1BfZ2FaQm9OMTFtdVh3Q2c?oc=5</guid>
+      <pubDate>Tue, 09 Jun 2026 16:19:19 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
