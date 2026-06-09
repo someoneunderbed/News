@@ -11,7 +11,6 @@ headers = {
     'Accept-Language': 'hy,am,tr,en;q=0.9'
 }
 
-# Sitelerin listesi
 SITELER = []
 SITELER.append({"name": "Civic.am", "url": "https://civic.am/last-news", "xml_filename": "civic.xml", "base_url": "https://civic.am", "logo_url": "https://civic.am/assets/img/logo.svg"})
 SITELER.append({"name": "Oragir.news", "url": "https://oragir.news/hy/materials/all", "xml_filename": "oragirnews.xml", "base_url": "https://oragir.news", "logo_url": "https://st2.oragir.news/header-logo2.png"})
@@ -46,8 +45,6 @@ for site in SITELER:
 
     rss = ET.Element("rss", version="2.0")
     rss.set("xmlns:atom", "http://www.w3.org/2005/Atom")
-
-    # Hatalı locals() kontrolü düzeltildi, doğrudan kanal oluşturuluyor
     channel = ET.SubElement(rss, "channel")
 
     ET.SubElement(channel, "title").text = site['name']
@@ -98,24 +95,15 @@ for site in SITELER:
         if full_link in seen_links:
             continue
 
-        # --- Gelişmiş ve Kesin Başlık Ayıklama Mantığı ---
-        if site["name"] == "Civic.am":
-            # Tarih ve kategori içerebilecek alt etiketleri (span, div, p vb.) bul ve temizle
-            tags_to_clear = a_tag.find_all(['span', 'div', 'p', 'time'])
-            for target in tags_to_clear:
-                # Başlık karmaşasını önlemek için tarih/kategori elementlerini geçici olarak devredışı bırakıyoruz
-                target.extract()
+        title_text = a_tag.get_text(strip=True)
+        title_text = " ".join(title_text.split())
 
-            # Alt etiketler temizlendikten sonra kalan saf metin doğrudan haber başlığıdır
-            title_text = a_tag.get_text(strip=True)
-            title_text = " ".join(title_text.split())
+        # --- YENİ ERMENİCE VE TARİH TEMİZLEME REGEXİ ---
+        # Bu kural: Başta bulunan Tarih, Saat yapısını ve ona hemen bitişik gelen tüm Ermenice harfleri (Kategoriyi) tamamen siler.
+        title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}[\u0531-\u058F]*\s*', '', title_text)
 
-            # Eğer hâlâ temizlenmemiş kalıntı regex varsa son bir kontrolle uçuruyoruz
-            title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s*', '', title_text)
-        else:
-            title_text = a_tag.get_text(strip=True)
-            title_text = " ".join(title_text.split())
-            title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s+[^\s]+\s+', '', title_text)
+        # Ekstra önlem olarak genel temizlik
+        title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s+', '', title_text)
 
         if len(title_text) < 10 or title_text.isdigit():
             continue
