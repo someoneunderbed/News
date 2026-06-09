@@ -1,161 +1,155 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Լրահոս</title>
-        <link>https://politik.am/am/newsfeed/1</link>
-        <description></description>
-        <language>en</language>
-        <lastBuildDate>Tue, 09 Jun 2026 01:40:11 -0000</lastBuildDate>
-        <atom:link href="https://politepaul.com/fd/nL7Lh6qHiKom.xml" rel="self"
-            type="application/rss+xml"></atom:link>
-        <item>
-            <title>Խախտումներին, հետապնդումներին գնահատական տրվելու է. Արամ Վարդևանյան</title>
-            <link>
-                https://politik.am/am/khakhtumnerin-hetapndumnerin-gnahatakan-trvelu-e-aram-vardevanyan</link>
-            <description>Խախտումներին, հետապնդումներին գնահատական տրվելու է։ Այս մասին գրել է «Ուժեղ
-                Հայաստան» կուսակցության պատգամավորության թեկնածու Արամ Վարդևանյանը։ «Քվեարկության
-                օրը և դրան նախորդած օրերին պաշտոնյաների կողմից ակնհայտ և համակարգված խախտումներ են
-                թույլ տրվել, վարչական ռեսուրս...
-                Delivered by PolitePaul service</description>
-            <pubDate>Tue, 09 Jun 2026 01:40:11 -0000</pubDate>
-            <guid isPermaLink="false">
-                https://politik.am/am/khakhtumnerin-hetapndumnerin-gnahatakan-trvelu-e-aram-vardevanyan</guid>
-            <enclosure length="1000000" type="image/webp"
-                url="https://politik.am/imgs/posts/medium/2026/06/394f116.webp"></enclosure>
-        </item>
-        <item>
-            <title>Հայաստանի ժողովուրդը վերահաստատել է վստահությունը Փաշինյանի կառավարության
-                նկատմամբ․ Իրանի նախագահ</title>
-            <link>
-                https://politik.am/am/hayastani-zhoxovurdy-verahastatel-e-vstahutyuny-pashinyani-karavarutyan-nkatmamb-irani-nakhagah</link>
-            <description>Հայաստանի Հանրապետության Ազգային ժողովի ընտրություններում «Քաղաքացիական
-                պայմանագիր» կուսակցության հաղթանակի կապակցությամբ Իրանի նախագահը ուղերձ է հղել
-                Հայաստանի վարչապետին։ Իրանի Իսլամական Հանրապետության նախագահ դոկտոր Մասուդ
-                Փեզեշքիանն իր ուղերձում շնորհավորել է Նիկոլ...
-                Delivered by PolitePaul service</description>
-            <pubDate>Tue, 09 Jun 2026 01:25:11 -0000</pubDate>
-            <guid isPermaLink="false">
-                https://politik.am/am/hayastani-zhoxovurdy-verahastatel-e-vstahutyuny-pashinyani-karavarutyan-nkatmamb-irani-nakhagah</guid>
-            <enclosure length="1000000" type="image/webp"
-                url="https://politik.am/imgs/posts/medium/2026/06/fb81435.webp"></enclosure>
-        </item>
-        <item>
-            <title>Բազմաթիվ ընտրատարածքներում ևս արձանագրվել են բացթողումներ և խախտումներ, որոնց
-                վերաբերյալ փաստերը հավաքագրվում և ուսումնասիրվում են. ԲՀԿ</title>
-            <link>
-                https://politik.am/am/bazmativ-yntrataratsqnerum-evs-ardzanagrvel-en-bactoxumner-ev-khakhtumner-voronc-veraberyal-pastery-havaqagrvum</link>
-            <description>ԲՀԿ առաջնորդի մամուլի խոսնակ Իվետա Տոնոյանն արձագանքել է Վահագն Ալեքսանյանի
-                այն հայտարարությանը, թե իր կողմից հրապարակված փաստաթղթերից հետո որոշ
-                ընտրատարածքներում ավելացել են «Քաղաքացիական պայմանագիր» կուսակցության ձայները։ «Նախ՝
-                մեր խնդիրը երբեք չի եղել պարզել, թե մեր...
-                Delivered by PolitePaul service</description>
-            <pubDate>Tue, 09 Jun 2026 01:10:11 -0000</pubDate>
-            <guid isPermaLink="false">
-                https://politik.am/am/bazmativ-yntrataratsqnerum-evs-ardzanagrvel-en-bactoxumner-ev-khakhtumner-voronc-veraberyal-pastery-havaqagrvum</guid>
-            <enclosure length="1000000" type="image/webp"
-                url="https://politik.am/imgs/posts/medium/2026/06/e172f4b.webp"></enclosure>
-        </item>
-        <item>
-            <title>ԿԸՀ-ն վերջնական արդյունքները կհրապարակի հունիսի 14-ին</title>
-            <link>https://politik.am/am/kyh-n-verjnakan-ardyunqnery-khraparaki-hunisi-14-in</link>
-            <description>Կենտրոնական ընտրական հանձնաժողովը հունիսի յոթին կայացած ԱԺ ընտրությունների
-                վերջնական արդյունքները կհրապարակի հունիսի 14-ին։ Այս մասին Հանրային
-                հեռուստաընկերության եթերում հայտարարել է ԿԸՀ նախագահ Վահագն Հովակիմյանը։ «Իսկ
-                հունիսի 19-ն այն օրն է, երբ քաղաքական ուժերը կարո...
-                Delivered by PolitePaul service</description>
-            <pubDate>Tue, 09 Jun 2026 00:55:11 -0000</pubDate>
-            <guid isPermaLink="false">
-                https://politik.am/am/kyh-n-verjnakan-ardyunqnery-khraparaki-hunisi-14-in</guid>
-            <enclosure length="1000000" type="image/webp"
-                url="https://politik.am/imgs/posts/medium/2026/06/6530906.webp"></enclosure>
-        </item>
-        <item>
-            <title>Թուրքիայի, Ադրբեջանի և Վրաստանի արտաքին գործերի նախարարները ստորագրել են
-                Ստամբուլի հռչակագիրը</title>
-            <link>
-                https://politik.am/am/turqiayi-adrbejani-ev-vrastani-artaqin-gortseri-nakhararnery-storagrel-en-stambuli-hrchakagiry</link>
-            <description>Ստամբուլում տեղի է ունեցելԹուրքիայի, Ադրբեջանի և Վրաստանի արտաքին գործերի
-                նախարարների 10-րդ եռակողմ հանդիպումը, որի արդյունքում ստորագրվելէհամատեղ հռչակագիր։
-                Փաստաթուղթը ստորագրել ենԹուրքիայի արտաքին գործերի նախարար Հաքան Ֆիդանը, Վրաստանի
-                փոխվարչապետ և արտաքին գործերի ն...
-                Delivered by PolitePaul service</description>
-            <pubDate>Tue, 09 Jun 2026 00:40:11 -0000</pubDate>
-            <guid isPermaLink="false">
-                https://politik.am/am/turqiayi-adrbejani-ev-vrastani-artaqin-gortseri-nakhararnery-storagrel-en-stambuli-hrchakagiry</guid>
-            <enclosure length="1000000" type="image/jpeg"
-                url="https://politik.am/imgs/posts/medium/2026/06/20173be.jpeg"></enclosure>
-        </item>
-        <item>
-            <title>Իսրայելը և Իրանը դադարեցնում միմյանց հարվածելը</title>
-            <link>https://politik.am/am/israyely-ev-irany-dadarecnum-mimyanc-harvatsely</link>
-            <description>Իրանը հայտարարել է, որ կդադարեցնի Իսրայելին հարվածելը, սակայն երկրի
-                բարձրագույն ռազմական հրամանատարության շտաբըզգուշացրելէ, որ եթե Իսրայելը շարունակի
-                հարվածել հարավային Լիբանանին, կստանա«ավելի խիստ» պատասխան։ Դա տեղի է ունեցել այն
-                բանից հետո, երբ Դոնալդ Թրամփը Իրանին և...
-                Delivered by PolitePaul service</description>
-            <pubDate>Tue, 09 Jun 2026 00:25:11 -0000</pubDate>
-            <guid isPermaLink="false">
-                https://politik.am/am/israyely-ev-irany-dadarecnum-mimyanc-harvatsely</guid>
-            <enclosure length="1000000" type="image/jpeg"
-                url="https://politik.am/imgs/posts/medium/2026/06/f516dfd.jpeg"></enclosure>
-        </item>
-        <item>
-            <title>Մենք վիճարկելու ենք ընտրությունների արդյունքները. Ռոբերտ Քոչարյան</title>
-            <link>
-                https://politik.am/am/menq-vicharkelu-enq-yntrutyunneri-ardyunqnery-robert-qocharyan</link>
-            <description>Շնորհակալ եմ «Հայաստան» դաշինքին տված վստահության յուրաքանչյուր քվեի համար։
-                Այս մասին գրել է «Հայաստան» դաշինքի վարչապետի թեկնածու, ՀՀ երկրորդ նախագահ Ռոբերտ
-                Քոչարյանը։ «Այս ընտրություններն անցել են իշխանական համատարած ճնշումների,
-                ընդդիմադիրների ձերբակալությունների, վար...
-                Delivered by PolitePaul service</description>
-            <pubDate>Tue, 09 Jun 2026 00:10:11 -0000</pubDate>
-            <guid isPermaLink="false">
-                https://politik.am/am/menq-vicharkelu-enq-yntrutyunneri-ardyunqnery-robert-qocharyan</guid>
-            <enclosure length="1000000" type="image/webp"
-                url="https://politik.am/imgs/posts/medium/2026/06/a73bde2.webp"></enclosure>
-        </item>
-        <item>
-            <title>ԱՄՆ ռազմածովային ուժերն Օմանի մոտ հարձակվել են տանկերի վրա</title>
-            <link>https://politik.am/am/amn-razmatsovayin-uzhern-omani-mot-hardzakvel-en-tankeri-vra</link>
-            <description>ԱՄՆ ռազմածովային ուժերը հարձակվել են Օմանի մոտիրանական պատժամիջոցների ներքո
-                նավարկողտանկերի վրա, հաղորդելէ CNN-ը՝ հղում անելով Հնդկաստանի ծովայինների միությանը։
-                Այսօր կեսօրին հրդեհ է բռնկվել «MT Marivex» նավթային տանկերի վրա Օմանի ափերի մոտ՝
-                Հորմուզի նեղուցի հարավում։ Հ...
-                Delivered by PolitePaul service</description>
-            <pubDate>Mon, 08 Jun 2026 23:55:11 -0000</pubDate>
-            <guid isPermaLink="false">
-                https://politik.am/am/amn-razmatsovayin-uzhern-omani-mot-hardzakvel-en-tankeri-vra</guid>
-            <enclosure length="1000000" type="image/jpeg"
-                url="https://politik.am/imgs/posts/medium/2026/06/57158ef.jpeg"></enclosure>
-        </item>
-        <item>
-            <title>Խոշոր վթար Գեղարքունիքի մարզում. կա 3 տուժած</title>
-            <link>https://politik.am/am/khoshor-vtar-gexarquniqi-marzum-ka-3-tuzhats</link>
-            <description>Այսօր՝ հունիսի 8-ին, ավտովթար է տեղի ունեցել Գեղարքունիքի մարզում։ Ժամը
-                15։00-ի սահմաններում Սևան-Մարտունի-Գետափ ավտոճանապարհի 63-րդ կմ հատվածում բախվել են
-                Գեղարքունիքի մարզի բնակիչներ 38-ամյա Դերենիկ Հ․-ի վարած «Tata» մակնիշի շտապօգնության
-                ավտոմեքենան, 78-ամյա Աշոտիկ Մ...
-                Delivered by PolitePaul service</description>
-            <pubDate>Mon, 08 Jun 2026 23:40:11 -0000</pubDate>
-            <guid isPermaLink="false">
-                https://politik.am/am/khoshor-vtar-gexarquniqi-marzum-ka-3-tuzhats</guid>
-            <enclosure length="1000000" type="image/webp"
-                url="https://politik.am/imgs/posts/medium/2026/06/29d440d.webp"></enclosure>
-        </item>
-        <item>
-            <title>«Սուրբ Հովհաննես» մատուռի մոտակայքում քաղաքացին ընկել և վնասել էր ոտքը</title>
-            <link>
-                https://politik.am/am/surb-hovhannes-maturi-motakayqum-qaxaqacin-ynkel-ev-vnasel-er-votqy</link>
-            <description>Հունիսի 8-ին՝ ժամը 14։14-ին, Լոռու մարզային օպերատիվ կառավարման կենտրոն
-                ահազանգ է ստացվել, որ «Սուրբ Հովհաննես» մատուռի մոտակայքում քաղաքացին ընկել և վնասել
-                է ոտքը. անհրաժեշտ է փրկարարների օգնությունը։ Դեպքի վայր է մեկնել ՆԳՆ ՓԾ մարզային
-                փրկարարական վարչության հրշեջ-փրկ...
-                Delivered by PolitePaul service</description>
-            <pubDate>Mon, 08 Jun 2026 23:25:11 -0000</pubDate>
-            <guid isPermaLink="false">
-                https://politik.am/am/surb-hovhannes-maturi-motakayqum-qaxaqacin-ynkel-ev-vnasel-er-votqy</guid>
-            <enclosure length="1000000" type="image/webp"
-                url="https://politik.am/imgs/posts/medium/2026/06/5267d52.webp"></enclosure>
-        </item>
-    </channel>
+  <channel>
+    <title>politik.am</title>
+    <link>https://politik.am/am/newsfeed/1</link>
+    <description>Cleaned RSS feed updated from politik.am.</description>
+    <language>hy</language>
+    <lastBuildDate>Tue, 09 Jun 2026 01:58:39 -0000</lastBuildDate>
+    <image>
+      <url>https://politik.am/imgs/page/header-logo-am.png</url>
+      <title>politik.am</title>
+      <link>https://politik.am/am/newsfeed/1</link>
+    </image>
+    <item>
+      <title>Ռեալ պոլիտիկ</title>
+      <link>https://politik.am/am/category/real-politik</link>
+      <description>Ռեալ պոլիտիկ - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/category/real-politik</guid>
+      <pubDate>Tue, 09 Jun 2026 01:58:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ներքին կյանք</title>
+      <link>https://politik.am/am/category/nerqin-kyanq</link>
+      <description>Ներքին կյանք - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/category/nerqin-kyanq</guid>
+      <pubDate>Tue, 09 Jun 2026 01:56:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Պաշտոնական</title>
+      <link>https://politik.am/am/category/pashtonakan</link>
+      <description>Պաշտոնական - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/category/pashtonakan</guid>
+      <pubDate>Tue, 09 Jun 2026 01:54:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Միջազգային</title>
+      <link>https://politik.am/am/category/mijazgayin</link>
+      <description>Միջազգային - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/category/mijazgayin</guid>
+      <pubDate>Tue, 09 Jun 2026 01:52:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>No Politik</title>
+      <link>https://politik.am/am/category/no-politik</link>
+      <description>No Politik - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/category/no-politik</guid>
+      <pubDate>Tue, 09 Jun 2026 01:50:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Կապ մեզ հետ</title>
+      <link>https://politik.am/am/contacts</link>
+      <description>Կապ մեզ հետ - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/contacts</guid>
+      <pubDate>Tue, 09 Jun 2026 01:48:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Գովազդ կայքում</title>
+      <link>https://politik.am/am/page/1</link>
+      <description>Գովազդ կայքում - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/page/1</guid>
+      <pubDate>Tue, 09 Jun 2026 01:46:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Խախտումներին, հետապնդումներին գնահատական տրվելու է. Արամ Վարդևանյան</title>
+      <link>https://politik.am/am/khakhtumnerin-hetapndumnerin-gnahatakan-trvelu-e-aram-vardevanyan</link>
+      <description>Խախտումներին, հետապնդումներին գնահատական տրվելու է. Արամ Վարդևանյան - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/khakhtumnerin-hetapndumnerin-gnahatakan-trvelu-e-aram-vardevanyan</guid>
+      <pubDate>Tue, 09 Jun 2026 01:44:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Հայաստանի ժողովուրդը վերահաստատել է վստահությունը Փաշինյանի կառավարության նկատմամբ․ Իրանի նախագահ</title>
+      <link>https://politik.am/am/hayastani-zhoxovurdy-verahastatel-e-vstahutyuny-pashinyani-karavarutyan-nkatmamb-irani-nakhagah</link>
+      <description>Հայաստանի ժողովուրդը վերահաստատել է վստահությունը Փաշինյանի կառավարության նկատմամբ․ Իրանի նախագահ - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/hayastani-zhoxovurdy-verahastatel-e-vstahutyuny-pashinyani-karavarutyan-nkatmamb-irani-nakhagah</guid>
+      <pubDate>Tue, 09 Jun 2026 01:42:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Բազմաթիվ ընտրատարածքներում ևս արձանագրվել են բացթողումներ և խախտումներ, որոնց վերաբերյալ փաստերը հավաքագրվում և ուսումնասիրվում են. ԲՀԿ</title>
+      <link>https://politik.am/am/bazmativ-yntrataratsqnerum-evs-ardzanagrvel-en-bactoxumner-ev-khakhtumner-voronc-veraberyal-pastery-havaqagrvum</link>
+      <description>Բազմաթիվ ընտրատարածքներում ևս արձանագրվել են բացթողումներ և խախտումներ, որոնց վերաբերյալ փաստերը հավաքագրվում և ուսումնասիրվում են. ԲՀԿ - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/bazmativ-yntrataratsqnerum-evs-ardzanagrvel-en-bactoxumner-ev-khakhtumner-voronc-veraberyal-pastery-havaqagrvum</guid>
+      <pubDate>Tue, 09 Jun 2026 01:40:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>ԿԸՀ-ն վերջնական արդյունքները կհրապարակի հունիսի 14-ին</title>
+      <link>https://politik.am/am/kyh-n-verjnakan-ardyunqnery-khraparaki-hunisi-14-in</link>
+      <description>ԿԸՀ-ն վերջնական արդյունքները կհրապարակի հունիսի 14-ին - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/kyh-n-verjnakan-ardyunqnery-khraparaki-hunisi-14-in</guid>
+      <pubDate>Tue, 09 Jun 2026 01:38:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Թուրքիայի, Ադրբեջանի և Վրաստանի արտաքին գործերի նախարարները ստորագրել են Ստամբուլի հռչակագիրը</title>
+      <link>https://politik.am/am/turqiayi-adrbejani-ev-vrastani-artaqin-gortseri-nakhararnery-storagrel-en-stambuli-hrchakagiry</link>
+      <description>Թուրքիայի, Ադրբեջանի և Վրաստանի արտաքին գործերի նախարարները ստորագրել են Ստամբուլի հռչակագիրը - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/turqiayi-adrbejani-ev-vrastani-artaqin-gortseri-nakhararnery-storagrel-en-stambuli-hrchakagiry</guid>
+      <pubDate>Tue, 09 Jun 2026 01:36:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Իսրայելը և Իրանը դադարեցնում միմյանց հարվածելը</title>
+      <link>https://politik.am/am/israyely-ev-irany-dadarecnum-mimyanc-harvatsely</link>
+      <description>Իսրայելը և Իրանը դադարեցնում միմյանց հարվածելը - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/israyely-ev-irany-dadarecnum-mimyanc-harvatsely</guid>
+      <pubDate>Tue, 09 Jun 2026 01:34:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Մենք վիճարկելու ենք ընտրությունների արդյունքները. Ռոբերտ Քոչարյան</title>
+      <link>https://politik.am/am/menq-vicharkelu-enq-yntrutyunneri-ardyunqnery-robert-qocharyan</link>
+      <description>Մենք վիճարկելու ենք ընտրությունների արդյունքները. Ռոբերտ Քոչարյան - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/menq-vicharkelu-enq-yntrutyunneri-ardyunqnery-robert-qocharyan</guid>
+      <pubDate>Tue, 09 Jun 2026 01:32:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>ԱՄՆ ռազմածովային ուժերն Օմանի մոտ հարձակվել են տանկերի վրա</title>
+      <link>https://politik.am/am/amn-razmatsovayin-uzhern-omani-mot-hardzakvel-en-tankeri-vra</link>
+      <description>ԱՄՆ ռազմածովային ուժերն Օմանի մոտ հարձակվել են տանկերի վրա - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/amn-razmatsovayin-uzhern-omani-mot-hardzakvel-en-tankeri-vra</guid>
+      <pubDate>Tue, 09 Jun 2026 01:30:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Խոշոր վթար Գեղարքունիքի մարզում. կա 3 տուժած</title>
+      <link>https://politik.am/am/khoshor-vtar-gexarquniqi-marzum-ka-3-tuzhats</link>
+      <description>Խոշոր վթար Գեղարքունիքի մարզում. կա 3 տուժած - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/khoshor-vtar-gexarquniqi-marzum-ka-3-tuzhats</guid>
+      <pubDate>Tue, 09 Jun 2026 01:28:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>«Սուրբ Հովհաննես» մատուռի մոտակայքում քաղաքացին ընկել և վնասել էր ոտքը</title>
+      <link>https://politik.am/am/surb-hovhannes-maturi-motakayqum-qaxaqacin-ynkel-ev-vnasel-er-votqy</link>
+      <description>«Սուրբ Հովհաննես» մատուռի մոտակայքում քաղաքացին ընկել և վնասել էր ոտքը - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/surb-hovhannes-maturi-motakayqum-qaxaqacin-ynkel-ev-vnasel-er-votqy</guid>
+      <pubDate>Tue, 09 Jun 2026 01:26:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Զելենսկու բաց նամակը «պարունակում է անքաղաքավարության տարրեր»․ Պուտին</title>
+      <link>https://politik.am/am/zelensku-bac-namaky-parunakum-e-anqaxaqavarutyan-tarrer-putin</link>
+      <description>Զելենսկու բաց նամակը «պարունակում է անքաղաքավարության տարրեր»․ Պուտին - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/zelensku-bac-namaky-parunakum-e-anqaxaqavarutyan-tarrer-putin</guid>
+      <pubDate>Tue, 09 Jun 2026 01:24:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Հունիսի 5, 2026Այսօր սպասվում են նոր ձերբակալություններ ու բացահայտումներ. Փաշինյանը «թույն» ելույթ է ունենալու․ «Իրավունք»</title>
+      <link>https://politik.am/am/aysor-spasvum-en-nor-dzerbakalutyunner-u-bacahaytumner-pashinyany-tuyn-eluyt-e-unenalu-iravunq</link>
+      <description>Հունիսի 5, 2026Այսօր սպասվում են նոր ձերբակալություններ ու բացահայտումներ. Փաշինյանը «թույն» ելույթ է ունենալու․ «Իրավունք» - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/aysor-spasvum-en-nor-dzerbakalutyunner-u-bacahaytumner-pashinyany-tuyn-eluyt-e-unenalu-iravunq</guid>
+      <pubDate>Tue, 09 Jun 2026 01:22:39 -0000</pubDate>
+    </item>
+    <item>
+      <title>Հունիսի 5, 2026Ով կլինի հունիսի 7-ի քաղաքական «սյուրպրիզը». «Ժողովուրդ»</title>
+      <link>https://politik.am/am/vov-klini-hunisi-7-i-qaxaqakan-syurprizy-zhoxovurd</link>
+      <description>Հունիսի 5, 2026Ով կլինի հունիսի 7-ի քաղաքական «սյուրպրիզը». «Ժողովուրդ» - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/vov-klini-hunisi-7-i-qaxaqakan-syurprizy-zhoxovurd</guid>
+      <pubDate>Tue, 09 Jun 2026 01:20:39 -0000</pubDate>
+    </item>
+  </channel>
 </rss>
