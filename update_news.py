@@ -11,6 +11,7 @@ headers = {
     'Accept-Language': 'hy,am,tr,en;q=0.9'
 }
 
+# Sitelerin listesi
 SITELER = []
 SITELER.append({"name": "Civic.am", "url": "https://civic.am/last-news", "xml_filename": "civic.xml", "base_url": "https://civic.am", "logo_url": "https://civic.am/assets/img/logo.svg"})
 SITELER.append({"name": "Oragir.news", "url": "https://oragir.news/hy/materials/all", "xml_filename": "oragirnews.xml", "base_url": "https://oragir.news", "logo_url": "https://st2.oragir.news/header-logo2.png"})
@@ -45,7 +46,9 @@ for site in SITELER:
 
     rss = ET.Element("rss", version="2.0")
     rss.set("xmlns:atom", "http://www.w3.org/2005/Atom")
-    channel = ET.SubElement(rss["channel"] if "channel" in locals() else rss, "channel")
+
+    # Hatalı locals() kontrolü düzeltildi, doğrudan kanal oluşturuluyor
+    channel = ET.SubElement(rss, "channel")
 
     ET.SubElement(channel, "title").text = site['name']
     ET.SubElement(channel, "link").text = site["url"]
@@ -95,20 +98,19 @@ for site in SITELER:
         if full_link in seen_links:
             continue
 
-        # --- BAŞLIK TEMİZLEME ALGORİTMASI ---
+        # --- Gelişmiş ve Kesin Başlık Ayıklama Mantığı ---
         if site["name"] == "Civic.am":
-            # Eğer a etiketinin altında div veya span varsa, sadece son metin düğümünü veya p/span elementini almayı dene
-            sub_elements = a_tag.find_all(['span', 'div', 'p'])
-            if sub_elements:
-                # Genellikle asıl başlık metni elementlerin en sonundadır veya belirli sınıfsız düz metindir
-                texts = [el.get_text(strip=True) for el in sub_elements]
-                # En uzun metin parçası muhtemelen başlıktır (tarih ve kategori kısa kelimelerdir)
-                title_text = max(texts, key=len) if texts else a_tag.get_text(strip=True)
-            else:
-                title_text = a_tag.get_text(strip=True)
+            # Tarih ve kategori içerebilecek alt etiketleri (span, div, p vb.) bul ve temizle
+            tags_to_clear = a_tag.find_all(['span', 'div', 'p', 'time'])
+            for target in tags_to_clear:
+                # Başlık karmaşasını önlemek için tarih/kategori elementlerini geçici olarak devredışı bırakıyoruz
+                target.extract()
 
-            # Garanti olması için genel regex temizliğini tekrar çalıştır (Genişletilmiş Unicode kuralı)
-            title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s*[^\s\d\.\,]{2,20}\s*', '', title_text)
+            # Alt etiketler temizlendikten sonra kalan saf metin doğrudan haber başlığıdır
+            title_text = a_tag.get_text(strip=True)
+            title_text = " ".join(title_text.split())
+
+            # Eğer hâlâ temizlenmemiş kalıntı regex varsa son bir kontrolle uçuruyoruz
             title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s*', '', title_text)
         else:
             title_text = a_tag.get_text(strip=True)
