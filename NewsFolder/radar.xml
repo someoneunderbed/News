@@ -1,155 +1,2125 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>radar.am</title>
-    <link>https://radar.am/hy/feed/</link>
-    <description>Cleaned RSS feed updated from radar.am.</description>
-    <language>hy</language>
-    <lastBuildDate>Tue, 09 Jun 2026 16:46:38 -0000</lastBuildDate>
-    <image>
-      <url>https://radar.am/static/radar/images/logo-white.4c8b6b003ba3.svg</url>
-      <title>radar.am</title>
-      <link>https://radar.am/hy/feed/</link>
-    </image>
-    <item>
-      <title>Հասարակություն</title>
-      <link>https://radar.am/hy/category/social</link>
-      <description>Հասարակություն - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/category/social</guid>
-      <pubDate>Tue, 09 Jun 2026 16:46:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>Միջազգային</title>
-      <link>https://radar.am/hy/category/world</link>
-      <description>Միջազգային - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/category/world</guid>
-      <pubDate>Tue, 09 Jun 2026 16:44:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>Վերլուծություն</title>
-      <link>https://radar.am/hy/category/opinion</link>
-      <description>Վերլուծություն - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/category/opinion</guid>
-      <pubDate>Tue, 09 Jun 2026 16:42:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>Հարցազրույց</title>
-      <link>https://radar.am/hy/category/interview</link>
-      <description>Հարցազրույց - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/category/interview</guid>
-      <pubDate>Tue, 09 Jun 2026 16:40:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>Գիտություն</title>
-      <link>https://radar.am/hy/category/science</link>
-      <description>Գիտություն - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/category/science</guid>
-      <pubDate>Tue, 09 Jun 2026 16:38:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>Ցուցադրել բոլորը</title>
-      <link>https://radar.am/hy/category/armenia</link>
-      <description>Ցուցադրել բոլորը - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/category/armenia</guid>
-      <pubDate>Tue, 09 Jun 2026 16:36:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>ՌԴ սրտով չէ. ընդդիմությունը կգնա ԱԺԱյսօր, 20:32Radar Armenia-ի «Ռադար զրույց» հաղորդաշարի հյուրն է քաղաքագետ Արմեն Վարդանյանը։</title>
-      <link>https://radar.am/hy/news/radar-interview-2762033317/</link>
-      <description>ՌԴ սրտով չէ. ընդդիմությունը կգնա ԱԺԱյսօր, 20:32Radar Armenia-ի «Ռադար զրույց» հաղորդաշարի հյուրն է քաղաքագետ Արմեն Վարդանյանը։ - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/news/radar-interview-2762033317/</guid>
-      <pubDate>Tue, 09 Jun 2026 16:34:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>Պարզ է, որ տոտալ ընտրակաշառք է բաժանվել. ՔամալյանԱյսօր, 20:15Շատ դրական եմ գնահատում:</title>
-      <link>https://radar.am/hy/news/interview-2762039862/</link>
-      <description>Պարզ է, որ տոտալ ընտրակաշառք է բաժանվել. ՔամալյանԱյսօր, 20:15Շատ դրական եմ գնահատում: - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/news/interview-2762039862/</guid>
-      <pubDate>Tue, 09 Jun 2026 16:32:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>Այսօր, 20:00Ավելի քան 1.1 մլն դոլար՝ Հայաստանի դեմ քարոզչական արշավի համար. ՌԴ հատուկ ծառայությունների գաղտնի փաստաթղթերԱրշավի շրջանակներում նախատեսվում է նաև լայնածավալ SMM ակտիվություն ադրբեջանական և թուրքական Telegram ալիքներում՝ յուրաքանչյուր նախագծի համար առանձին թիրախավորմամբ։</title>
-      <link>https://radar.am/hy/news/politics-2762091758/</link>
-      <description>Այսօր, 20:00Ավելի քան 1.1 մլն դոլար՝ Հայաստանի դեմ քարոզչական արշավի համար. ՌԴ հատուկ ծառայությունների գաղտնի փաստաթղթերԱրշավի շրջանակներում նախատեսվում է նաև լայնածավալ SMM ակտիվություն ադրբեջանական և թուրքական Telegram ալիքներում՝ յուրաքանչյուր նախագծի համար առանձին թիրախավորմամբ։ - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/news/politics-2762091758/</guid>
-      <pubDate>Tue, 09 Jun 2026 16:30:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>Այսօր, 19:42Կովկասի ամենաբարձր գագաթը կորցնում է իր սառույցըՍառցադաշտերի կրճատումը միայն բնապահպանական խնդիր չէ։</title>
-      <link>https://radar.am/hy/news/science-2761915557/</link>
-      <description>Այսօր, 19:42Կովկասի ամենաբարձր գագաթը կորցնում է իր սառույցըՍառցադաշտերի կրճատումը միայն բնապահպանական խնդիր չէ։ - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/news/science-2761915557/</guid>
-      <pubDate>Tue, 09 Jun 2026 16:28:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>Այսօր, 19:20Ե՞րբ է լինելու ամենակարճ գիշերըԱմենակարճ գիշերը կլինի հունիսի 21-ի ամենաերկար լուսավոր օրվանից հետո:</title>
-      <link>https://radar.am/hy/news/science-2761945695/</link>
-      <description>Այսօր, 19:20Ե՞րբ է լինելու ամենակարճ գիշերըԱմենակարճ գիշերը կլինի հունիսի 21-ի ամենաերկար լուսավոր օրվանից հետո: - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/news/science-2761945695/</guid>
-      <pubDate>Tue, 09 Jun 2026 16:26:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>Այսօր, 19:09Մեսսին Իսլանդիայի դեմ խաղում պատրաստ է դուրս գալ դաշտՀանդիպումը կկայանա հունիսի 10-ին։</title>
-      <link>https://radar.am/hy/news/sport-2762076516/</link>
-      <description>Այսօր, 19:09Մեսսին Իսլանդիայի դեմ խաղում պատրաստ է դուրս գալ դաշտՀանդիպումը կկայանա հունիսի 10-ին։ - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/news/sport-2762076516/</guid>
-      <pubDate>Tue, 09 Jun 2026 16:24:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>Այսօր, 18:55Արեգակի հզոր հարվածը վրիպել է․ Երկիրը խուսափել է գեոմագնիսական փոթորիկիցՆման սխալներ երբեմն տեղի են ունենում։</title>
-      <link>https://radar.am/hy/news/science-2762033189/</link>
-      <description>Այսօր, 18:55Արեգակի հզոր հարվածը վրիպել է․ Երկիրը խուսափել է գեոմագնիսական փոթորիկիցՆման սխալներ երբեմն տեղի են ունենում։ - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/news/science-2762033189/</guid>
-      <pubDate>Tue, 09 Jun 2026 16:22:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>Այսօր, 18:40Վերջին 2 ամիսներին դատարան է ներկայացվել խափանման միջոց կիրառելու ավելի քան 160 միջնորդությունԱյս պահին դատարանում առկա են միջնորդություններ, որոնք դեռ քննարկման փուլում են։</title>
-      <link>https://radar.am/hy/news/social-2762018347/</link>
-      <description>Այսօր, 18:40Վերջին 2 ամիսներին դատարան է ներկայացվել խափանման միջոց կիրառելու ավելի քան 160 միջնորդությունԱյս պահին դատարանում առկա են միջնորդություններ, որոնք դեռ քննարկման փուլում են։ - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/news/social-2762018347/</guid>
-      <pubDate>Tue, 09 Jun 2026 16:20:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>Հանրային քրեական հետապնդում է հարուցվել Կարապետ Գուլոյանի նկատմամբԱյսօր, 18:37Դատախազը հանրային քրեական հետապնդում է հարուցել Կոտայքի նախկին մարզպետ Կարապետ Գուլոյանի նկատմամբ</title>
-      <link>https://radar.am/hy/news/social-2762021347/</link>
-      <description>Հանրային քրեական հետապնդում է հարուցվել Կարապետ Գուլոյանի նկատմամբԱյսօր, 18:37Դատախազը հանրային քրեական հետապնդում է հարուցել Կոտայքի նախկին մարզպետ Կարապետ Գուլոյանի նկատմամբ - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/news/social-2762021347/</guid>
-      <pubDate>Tue, 09 Jun 2026 16:18:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>NASA-ն կկրի Prada. Տիեզերագնացների համար ստեղծվել է հագուստԱյսօր, 18:28Նոր նախագիծը շարունակությունն է Prada-ի 2024 թվականի նախաձեռնության։</title>
-      <link>https://radar.am/hy/news/entertainment-2761949720/</link>
-      <description>NASA-ն կկրի Prada. Տիեզերագնացների համար ստեղծվել է հագուստԱյսօր, 18:28Նոր նախագիծը շարունակությունն է Prada-ի 2024 թվականի նախաձեռնության։ - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/news/entertainment-2761949720/</guid>
-      <pubDate>Tue, 09 Jun 2026 16:16:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>Ռադար-Զրույց</title>
-      <link>https://radar.am/hy/category/radar-interview/</link>
-      <description>Ռադար-Զրույց - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/category/radar-interview/</guid>
-      <pubDate>Tue, 09 Jun 2026 16:14:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>5 Հունիսի, 20:34100 հազար մարդ գործուղել են Հայաստան (ՏԵՍԱՆՅՈՒԹ)</title>
-      <link>https://radar.am/hy/news/radar-interview-2761127341/</link>
-      <description>5 Հունիսի, 20:34100 հազար մարդ գործուղել են Հայաստան (ՏԵՍԱՆՅՈՒԹ) - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/news/radar-interview-2761127341/</guid>
-      <pubDate>Tue, 09 Jun 2026 16:12:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>3 Հունիսի, 20:33Իմ, հորս, Թաթոյանի ու ընկերների միջոցներով ենք ֆինանսավորում (ՏԵՍԱՆՅՈՒԹ)</title>
-      <link>https://radar.am/hy/news/radar-interview-2760910744/</link>
-      <description>3 Հունիսի, 20:33Իմ, հորս, Թաթոյանի ու ընկերների միջոցներով ենք ֆինանսավորում (ՏԵՍԱՆՅՈՒԹ) - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/news/radar-interview-2760910744/</guid>
-      <pubDate>Tue, 09 Jun 2026 16:10:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>Առանց ֆիլտրի</title>
-      <link>https://radar.am/hy/category/unfiltered/</link>
-      <description>Առանց ֆիլտրի - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/category/unfiltered/</guid>
-      <pubDate>Tue, 09 Jun 2026 16:08:38 -0000</pubDate>
-    </item>
-  </channel>
-</rss>
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+
+<html>
+    <head>
+        
+        <!-- meta tags START -->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        
+    <title>
+        
+            Լրահոս
+        
+         - Լուրեր Հայաստանից - Radar.am
+    </title>
+
+
+        <!-- TODO uncomment meta tags -->
+        
+            
+
+<meta name="description" content="Լուրեր, նորություններ, հարցազրույցներ տելեգրամ, ֆեյսբուք, ինստագրամ, յութուբ հարթակներում։" />
+<meta name="keywords" content="նորություններ, լուրեր, լուր, մամուլ, լրատվական, զլմ, վերլուծություն lurer norutyunner lurer hayastanic aysorva lurer" />
+
+<!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="Լուրեր Հայաստանից - Radar.am">
+<meta itemprop="description" content="Լուրեր, նորություններ, հարցազրույցներ տելեգրամ, ֆեյսբուք, ինստագրամ, յութուբ հարթակներում։">
+<meta itemprop="image" content="https://media.radar.am/media/meta/0202223488dcb6b0014500b09b7880fdcc6f4d.jpg">
+<meta name="copyright" content="Copyright &copy; 2026 Radar.am. All rights reserved." />
+
+<!-- Twitter Card data -->
+<meta name="twitter:title" content="Լուրեր Հայաստանից - Radar.am">
+<meta name="twitter:description" content="Լուրեր, նորություններ, հարցազրույցներ տելեգրամ, ֆեյսբուք, ինստագրամ, յութուբ հարթակներում։">
+<!-- Twitter summary card with large image must be at least 280x150px -->
+<meta name="twitter:image:src" content="https://media.radar.am/media/meta/0202223488dcb6b0014500b09b7880fdcc6f4d.jpg">
+
+<!-- Open Graph data -->
+<meta property="og:title" content="Լուրեր Հայաստանից - Radar.am" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://radar.am/" />
+<meta property="og:image" content="https://media.radar.am/media/meta/0202223488dcb6b0014500b09b7880fdcc6f4d.jpg" />
+<meta property="og:description" content="Լուրեր, նորություններ, հարցազրույցներ տելեգրամ, ֆեյսբուք, ինստագրամ, յութուբ հարթակներում։" />
+<meta property="og:site_name" content="Radar.am"/>
+<meta name="facebook-domain-verification" content="q9qwi6hzom05e17s5pa8o70egwaepm" />
+        
+        <!-- meta tags END -->
+
+        <!-- google analytics -->
+        <!-- Google Tag Manager --> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-MWZK2CN4');</script> <!-- End Google Tag Manager -->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WGM3YF32RG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WGM3YF32RG');
+</script>
+        
+        <!--favico START -->
+        <link rel="canonical" href="https://radar.am/hy/feed/" >
+        <link rel="apple-touch-icon" sizes="57x57" href="/static/radar/favico/apple-icon-57x57.18860b75e962.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/static/radar/favico/apple-icon-60x60.a7a2e525874e.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/static/radar/favico/apple-icon-72x72.2b98753f0b64.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/static/radar/favico/apple-icon-76x76.d46088a669e7.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/static/radar/favico/apple-icon-114x114.847efb9c0345.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/static/radar/favico/apple-icon-120x120.1906e6d3431a.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/static/radar/favico/apple-icon-144x144.8f958e3e2740.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/static/radar/favico/apple-icon-152x152.1d49c0324456.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/static/radar/favico/apple-icon-180x180.49c1442b441b.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="/static/radar/favico/android-icon-192x192.e8abe9ce3d31.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/static/radar/favico/favicon-32x32.f178dd3e9a75.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/static/radar/favico/favicon-96x96.112621604e38.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/static/radar/favico/favicon-16x16.5cbe4d0a72d6.png">
+        
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+        <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
+        <!-- favico END-->
+
+        <!-- styles START-->
+        <script type="text/javascript">
+            // Notice how this gets configured before we load Font Awesome
+            window.FontAwesomeConfig = { autoReplaceSvg: false }
+        </script>
+        <link rel="stylesheet" href="/static/radar/fontawesome/css/all.b1c4924b8f78.css">
+        <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+        <link rel="stylesheet" href="/static/radar/dist/reset.48332f9d65ac.css">
+        <link rel="stylesheet" href="/static/radar/dist/main.31ef1102dcdd.css">
+
+        
+
+        
+        <!-- styles END-->
+
+        <!-- jquery uncompressed -->
+        <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+        <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
+        <!-- Meta Pixel Code -->
+        <script>
+            !function(f,b,e,v,n,t,s)
+            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '213919120922382');
+            fbq('track', 'PageView');
+        </script>
+        <noscript><img height="1" width="1" style="display:none"
+        src="https://www.facebook.com/tr?id=213919120922382&ev=PageView&noscript=1"
+        /></noscript>
+    <!-- End Meta Pixel Code -->
+    </head>
+    <body data-lang="hy">
+        <div class="wrap-main-content light-mode">
+        <!-- TODO REMOVE THIS STYLE dark-mode -->
+        <style>
+            /* CSS animation for slide-up effect */
+            .slide-up {
+                opacity: 0;
+                transform: translateY(50px);
+                /* Adjust as needed */
+                transition: opacity 0.5s ease-in, transform 0.5s ease-in;
+                /* Adjust the duration */
+            }
+
+            .slide-up.active {
+                opacity: 1;
+                transform: translateY(0);
+            }
+            .ad_zone_below_featured_categories1 {
+                width: 100%;
+                height: 250px;
+                margin: 16px auto;
+                padding: 16px 0;
+                border-top: 1px solid #c1c1c1;
+                border-bottom: 1px solid #c1c1c1;
+            }
+            @media (max-width: 64em){
+                .ad_zone_below_featured_categories1 {
+                    height: 100px;
+                }
+            }
+            /*
+            @media (max-width: 39.9375em){
+                .ad_zone_below_featured_categories1 {
+                    width: 100%;
+                    height: 85px;
+                }
+            } */
+            
+            .ad_zone_below_featured_categories1 a div {
+                width: 970px;
+                height: 100%;
+                margin: 0 auto;
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+            }
+            @media (max-width: 64em){
+                .ad_zone_below_featured_categories1 {
+                    height: 100px;
+                }
+                .ad_zone_below_featured_categories1 a div{
+                    width: 100%;
+                }
+            }
+            .footer-h1-section {
+                padding: 20px 0;
+                margin: 0;
+                text-align: center;
+            }
+            
+            .footer-h1-text {
+                color: var(--primary-color, #333);
+                margin: 0;
+                line-height: 1.2;
+                margin: 0 auto;
+            }
+            
+            @media (max-width: 768px) {
+                .footer-h1-section {
+                    padding: 15px 0;
+                }
+                
+                .footer-h1-text {
+                    padding: 0 20px;
+                }
+            }
+            
+            @media (max-width: 480px) {
+                .footer-h1-section {
+                    padding: 10px 0;
+                }
+                
+                .footer-h1-text {
+                    padding: 0 15px;
+                    line-height: 1.3;
+                }
+            }
+            
+            @media (prefers-color-scheme: dark) {
+                .footer-h1-section {
+                    background: var(--dark-bg-color, #1a1a1a);
+                    border-top-color: var(--dark-border-color, #333);
+                }
+                
+                .footer-h1-text {
+                    color: var(--dark-text-color, #fff);
+                }
+            }
+        </style>
+        <!-- header -->
+        
+
+
+
+
+
+
+
+
+
+<!--dark-mode-->
+<header class="header light-mode">
+    <div class="header-box container flex flex__aln-center">
+        <div class="header-box__item  flex flex__1 flex__row">
+            <div class="menu-ico">
+                <img class="open" alt="menu-open" src="/static/radar/images/menu-open.a7d060a323d5.svg"/>
+                <img class="close" alt="menu" src="/static/radar/images/menu.395ea97cee7f.svg"/>
+            </div>
+            <ul class="nav__lists desktop-menu flex flex__1 flex__aln-center">
+                
+                
+                    
+                        <li class=" dropdown-item  header_nav_item nav__list-item flex flex__aln-center flex__jfy-center " data-url="/hy/category/armenia">
+                            
+                                <a href="/hy/category/armenia" class="toggle-menu">
+                                    <h2  class="flex flex__row flex__aln-center flex__jfy-center" >Հայաստան <i class="fa fa-angle-down"></i></h2>
+                                </a> 
+                                
+                                    <ul>
+                                        
+                                            <li><a href="/hy/category/politics">Քաղաքական</a></li>
+                                        
+                                            <li><a href="/hy/category/social">Հասարակություն</a></li>
+                                        
+                                            <li><a href="/hy/category/nagorno-karabakh">Արցախ</a></li>
+                                        
+                                            <li><a href="/hy/category/yerevan">Երևան</a></li>
+                                        
+                                            <li><a href="/hy/category/press">Մամուլ</a></li>
+                                        
+                                            <li><a href="/hy/category/viewpoint">Տեսակետ</a></li>
+                                        
+                                    </ul>
+                                
+                            
+                        </li>
+                    
+                
+                    
+                        <li class=" header_nav_item nav__list-item flex flex__aln-center flex__jfy-center " data-url="/hy/category/world">
+                            
+                                <a href="/hy/category/world" class="">
+                                    <h2 >Միջազգային </h2>
+                                </a> 
+                                
+                            
+                        </li>
+                    
+                
+                    
+                        <li class=" header_nav_item nav__list-item flex flex__aln-center flex__jfy-center " data-url="/hy/category/opinion">
+                            
+                                <a href="/hy/category/opinion" class="">
+                                    <h2 >Վերլուծություն </h2>
+                                </a> 
+                                
+                            
+                        </li>
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                                          
+            </ul>
+        </div>
+        <div class="header-box__logo ">
+            <a href="/">
+                <img alt="Radar.am" class="light" src="/static/radar/images/logo.11539e98ecf1.svg"/>
+                <img alt="Radar.am" class="dark" src="/static/radar/images/logo-white.4c8b6b003ba3.svg"/>
+            </a>
+        </div>
+        <div class="header-box__item flex flex__1 flex__row flex__jfy-end flex__aln-center">
+            <div class="header-box__btns flex flex__row">
+                <div class="nav__lang-bar flex flex__col">
+                    
+                        <span class="toggle-menu" >Հայ <i class="fa fa-angle-down"></i></span>
+                    
+                    <ul>
+                        
+                        
+                            
+                        
+                            
+                            <span class="change-language" data-code="ru">Рус</span>
+                            
+                        
+                            
+                            <span class="change-language" data-code="en">Eng</span>
+                            
+                        
+                    </ul>
+                </div>
+                <a class="btn telegram-btn flex flex__aln-center" href="https://t.me/RadarARM" target="_blank">
+                    <i class="fab fa-telegram-plane"></i>
+                </a>
+                <a class="btn btn-dark"  href="/hy/category/radar-tv"><i class="fa fa-circle"></i>
+                    
+                        <span>Radar </span>TV
+                    
+                </a>
+                
+            </div>
+        </div>
+    </div>
+</header>
+<script>
+    $(document).ready(function(){
+        $(document).on('click','.open',function(e){
+            e.preventDefault();
+            $('.open').hide();
+            $('.close').show();
+            $('#nav_popup').show();
+            $('.nav-overlay').show();
+        });
+        $(document).on('click','.close',function(e){
+            e.preventDefault();
+            $('.open').show();
+            $('.close').hide();
+            $('#nav_popup').hide();
+            $('.nav-overlay').hide();
+        });
+        $(document).on('click','.toggle-menu',function(e){
+            e.preventDefault();
+            $(this).parent().children('ul').toggle();
+        });
+    });
+</script>
+
+        <!-- navigation -->
+        
+
+
+
+
+
+
+<div class="nav-overlay"></div>
+<nav class="nav light-mode" id="nav_popup">
+    <div class="flex flex__col">
+        <div class="nav__wrap-menu flex flex-row">
+           <div class="search-bar">
+                <div class="container">
+                    <div class="search-bar__inner flex flex__row flex__aln-center row__100">
+                        <div class="flex flex__row flex__1 flex__aln-center data-row">
+                            
+                            
+                            <div class="nav__weather">
+                                <p class="flex flex__row flex__aln-center">
+                                    <img alt="weather" src="/static/radar/images/weather.b50849285253.svg"/>
+                                    <span>
+                                        
+                                            Երևան
+                                        
+                                    </span>
+                                    16 &#8451;
+                                </p>
+                            </div>
+                            
+                            <div class="nav__date">
+                                Երեքշաբթի, 9 Հունիսի 2026
+                            </div>
+                        </div>
+                        <div class="nav__search flex flex__row flex__1 flex__aln-center">
+                            <form id="search_form" action="/hy/search/" method="get">
+                                <div class="nav__search-icon">
+                                    <i id="search_btn" class="fas fa-search"></i>
+                                </div>
+                                <input id="search_term" type="text" name="q" placeholder="Որոնել" />
+                            </form>
+                        </div>
+                    </div>
+                </div>
+           </div>
+        </div>
+        <ul class="nav__lists mobile-menu flex flex__1 flex__aln-center">
+            
+                
+                    <li class=" dropdown-item  header_nav_item nav__list-item flex flex__aln-center flex__jfy-center " data-url="/hy/category/armenia">
+                        <a href="/hy/category/armenia" class="toggle-menu">
+                            <h2  class="flex flex__row flex__aln-center flex__jfy-center" >Հայաստան <i class="fa fa-angle-down"></i></h2>
+                        </a> 
+                        
+                            <ul>
+                                
+                                    <li><a href="/hy/category/politics">Քաղաքական</a></li>
+                                
+                                    <li><a href="/hy/category/social">Հասարակություն</a></li>
+                                
+                                    <li><a href="/hy/category/nagorno-karabakh">Արցախ</a></li>
+                                
+                                    <li><a href="/hy/category/yerevan">Երևան</a></li>
+                                
+                                    <li><a href="/hy/category/press">Մամուլ</a></li>
+                                
+                                    <li><a href="/hy/category/viewpoint">Տեսակետ</a></li>
+                                
+                            </ul>
+                        
+                    </li>
+                
+            
+                
+                    <li class=" header_nav_item nav__list-item flex flex__aln-center flex__jfy-center " data-url="/hy/category/world">
+                        <a href="/hy/category/world" class="">
+                            <h2 >Միջազգային </h2>
+                        </a> 
+                        
+                    </li>
+                
+            
+                
+                    <li class=" header_nav_item nav__list-item flex flex__aln-center flex__jfy-center " data-url="/hy/category/opinion">
+                        <a href="/hy/category/opinion" class="">
+                            <h2 >Վերլուծություն </h2>
+                        </a> 
+                        
+                    </li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                           
+        </ul>
+        <div class="container">
+            <div class="nav__menu-items flex flex__row">
+                <div class="nav__menu-ul flex flex__row">
+                    <ul>
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                                
+                                <script>
+                                    $(function() {
+                                        getArticles('14');
+                                    });
+                                </script>
+                                
+                                
+                                    
+                                        <li class="cats " data-link="/hy/category/finance"  data-id="14"><a href="/hy/category/finance">Ֆինանսներ</a></li>
+                                    
+                                
+                                
+                            
+                        
+                            
+                                
+                                
+                                    
+                                        <li class="cats " data-link="/hy/category/culture"  data-id="5"><a href="/hy/category/culture">Մշակույթ</a></li>
+                                    
+                                
+                                
+                            
+                        
+                            
+                                
+                                
+                                    
+                                        <li class="cats " data-link="/hy/category/sport"  data-id="8"><a href="/hy/category/sport">Սպորտ</a></li>
+                                    
+                                
+                                
+                            
+                        
+                            
+                                
+                                
+                                
+                            
+                        
+                            
+                                
+                                
+                                    
+                                        <li class="cats " data-link="/hy/category/interview"  data-id="34"><a href="/hy/category/interview">Հարցազրույց</a></li>
+                                    
+                                
+                                
+                            
+                        
+                            
+                                
+                                
+                                    
+                                
+                                
+                                </ul>
+                                <ul>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    
+                                        
+                                            <li class="cats" data-link="/hy/category/radar-photos" data-id="17"><a href="/hy/category/radar-photos" >Ֆոտոշարք</a></li>
+                                        
+                                            <li class="cats" data-link="/hy/category/entertainment" data-id="7"><a href="/hy/category/entertainment" >Ժամանց</a></li>
+                                        
+                                            <li class="cats" data-link="/hy/category/retro" data-id="10"><a href="/hy/category/retro" >Ռետրո</a></li>
+                                        
+                                            <li class="cats" data-link="/hy/category/tech" data-id="13"><a href="/hy/category/tech" >Տեխնէ</a></li>
+                                        
+                                            <li class="cats" data-link="/hy/category/numbers" data-id="33"><a href="/hy/category/numbers" >Թվեր</a></li>
+                                        
+                                        
+                                    
+                                
+                                
+                            
+                        
+                            
+                                
+                                
+                                    
+                                        <li class="cats " data-link="/hy/category/euro-2024"  data-id="36"><a href="/hy/category/euro-2024">Եվրո-2024</a></li>
+                                    
+                                
+                                
+                            
+                        
+                            
+                                
+                                
+                                    
+                                        <li class="cats " data-link="/hy/category/science"  data-id="37"><a href="/hy/category/science">Գիտություն</a></li>
+                                    
+                                
+                                
+                            
+                        
+                        <li><a href="/hy/about">Մեր Մասին</a></li>
+                    </ul>
+                    
+                </div>
+                <div class="flex flex__col nav__menu-list flex__1">
+                    <div class="news-section__category-row flex flex__row">
+                        <a class="flex flex__1" href="/hy/category/armenia" id="menu-cat-title">
+                            <h3 class="news-section__category-title">
+                                Ֆինանսներ
+                            </h3>
+                        </a>
+                        <a class="show-more" id="menu-cat-link" href="/hy/category/armenia">
+                            
+                                Ցուցադրել բոլորը 
+                            
+                             <i class="fa fa-angle-right"></i></a>
+                    </div>
+                    <div class="flex flex__1 flex__row" id="nav-articles">                
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="nav__bottom">
+            <div class="container">
+                <div class="nav__bottom-inner flex flex__row flex__aln-center flex__jfy-center">
+                    <div class="nav__rate flex flex__1 flex__row">
+                        
+                        
+                            
+        
+                            
+        
+                            
+                        
+                    </div>
+                    
+
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<script>
+        /*const toggleMobileMenu = document.querySelector('#mobile-menu');
+        const nav = document.querySelector('.nav');
+        const navList = document.querySelector('.nav__lists');
+        const hasFade = document.querySelectorAll('.has-fade');
+
+        toggleMobileMenu.addEventListener("click", function(e){ 
+            if(nav.classList.contains('open')){ // close menu
+                nav.classList.remove('open');
+                hasFade.forEach(function(el){
+                    el.classList.remove('fade-in');
+                    el.classList.add('fade-out');
+                });
+                
+            }else{
+                nav.classList.add('open');
+                hasFade.forEach(function(el){
+                    el.classList.remove('fade-out');
+                    el.classList.add('fade-in');
+                });
+
+            } 
+        });
+        
+        window.addEventListener('scroll', () => {
+            const scrollTop = document.body.scrollTop || document.documentElement.scrollTop;
+            const scrollLogo = document.querySelector('.nav__logo');
+            if (scrollTop > 0 && scrollTop > 80) {
+                scrollLogo.style.display = `flex`;
+            } else {
+                scrollLogo.style.display = `none`;
+            }
+
+        })*/
+
+    $(function() {
+        
+        $(document).on('click', '.cats', function(e) {
+            e.preventDefault();
+            if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+            
+                window.location = $(this).data('link');
+            }else{
+                $('.cats').removeClass('active');
+                $(this).addClass('active');
+                getArticles($(this).data('id'));
+                $('#menu-cat-title').attr('href',$(this).data('link'));
+                $('#menu-cat-title').html('<h3 class="news-section__category-title">'+$(this).text()+'</h3>');
+                $('#menu-cat-link').attr('href',$(this).data('link'));
+            }
+            
+        });
+
+        $(document).on('click', '.toggle-menu', function(e) {
+            e.preventDefault();
+            $(this).parent().children('.nav__sub-list-item').slideToggle();
+        });
+        $(document).on('click', '.open-dropdown', function(e) {
+            e.preventDefault();
+        });
+        $(document).on('click', function (event) {
+            if (!$(event.target).closest('.nav').length) {
+                $('.nav__sub-list-item').hide();
+            }
+        });
+    });
+    function stripHtmlTags(htmlString) {
+        if (!htmlString) return '';
+        const tempDiv = document.createElement('div');
+        tempDiv.innerHTML = htmlString;
+        return tempDiv.textContent || tempDiv.innerText || '';
+    }
+    function getArticles(id) {
+        $('#nav-articles').fadeOut();
+        $.ajax({
+            url: "/hy/news/cat_articles/"+id,
+            dataType: "json",
+            type: 'GET',
+            success: function(response){
+                if (response.status === true) {
+                    let feed_html = '';
+                    const articles = response.articles;
+
+                    if (articles) {
+                        $.each(response.articles, function(i, article) {
+                            if(i == 3){return false;}
+                            if(i==1){
+                                feed_html+='<div class="news-feed-col flex flex__col flex__1">';
+                            }
+                            if(i==0){
+                                var article_html = build_cat_article_menu(article,true);
+                            }else{
+                                var article_html = build_cat_article_menu(article,false);
+                            }
+                            feed_html += article_html;
+                        });
+                        feed_html += '</div>';
+                        $('#nav-articles').html(feed_html);
+                        $('#nav-articles').fadeIn("slow");
+                    }
+                } else {
+                    
+                }
+            },
+        });
+    }
+    function build_cat_article_menu(article,first) {
+            if(first){
+                var html = 
+                    `<div class="news-col flex flex__col flex__1">
+                        <a href="${article.links.detail_url}">
+                            <img alt="${stripHtmlTags(article.title)}" src="${article.main_image}"/>
+                            <span>${article.publish_date}</span>
+                            <h6>${article.title}</h6>
+                            <p>${article.short_desc}</p>
+                        </a>
+                    </div>`;
+                    
+            }else{
+                var html = 
+                    `<div class="news-feed-col__item">
+                        <span>${article.publish_date}</span>
+                        <h6>${article.title}</h6>
+                        <p>${article.short_desc}</p>
+                        <a class="link-btn" href="${article.links.detail_url}">
+                                
+                                    Կարդալ
+                                
+                        </a>
+                    </div>`;
+            }
+            return html;
+        }
+</script>
+            <!-- contents -->
+            
+            
+            
+            <div class="container">
+                
+
+<section class="news-box flex flex__row">
+
+    <div class="news-section__left-side">
+        
+        <div class="news-section__news-category">
+            <div class="news-section__wrapper">
+                <div class="news-section__wrapper">
+                    <h1 class="news-section__category-title-black">
+                        
+                        Լուրեր
+                    
+                    </h1>
+                </div>
+        
+                <!-- articles list -->
+                <div class="news-section__grid-row">
+                    
+                        <div class="news-section__category-item">
+                            <a href="/hy/news/radar-interview-2762033317/" class="flex flex__row">
+                                <div class="news-section__category-item-box img-box flex flex__col">
+                                    <h5>
+                                        <i class="far fa-play-circle"></i> ՌԴ սրտով չէ. ընդդիմությունը կգնա ԱԺ
+                                    </h5>
+                                    <span>Այսօր, 20:32</span>
+                                    
+                                        <p>Radar Armenia-ի «Ռադար զրույց» հաղորդաշարի հյուրն է քաղաքագետ Արմեն Վարդանյանը։</p>
+                                    
+                                </div>
+                                <div class="news-section__category-item-img">
+                                    <img alt="ՌԴ սրտով չէ. ընդդիմությունը կգնա ԱԺ" src="https://media.radar.am/media/articles/images/060926f25f549814b743199e9d654476c40fd9.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+                        <div class="news-section__category-item">
+                            <a href="/hy/news/interview-2762039862/" class="flex flex__row">
+                                <div class="news-section__category-item-box img-box flex flex__col">
+                                    <h5>
+                                        Պարզ է, որ տոտալ ընտրակաշառք է բաժանվել. Քամալյան
+                                    </h5>
+                                    <span>Այսօր, 20:15</span>
+                                    
+                                        <p>Շատ դրական եմ գնահատում:</p>
+                                    
+                                </div>
+                                <div class="news-section__category-item-img">
+                                    <img alt="Պարզ է, որ տոտալ ընտրակաշառք է բաժանվել. Քամալյան" src="https://media.radar.am/media/articles/images/0609266cea6234dd8d48eb943028af561e2653.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+                    </div>
+                    <div class="news-section__category-item-col col-item-text flex flex__col">
+                        
+                        <a class="wrap" href="/hy/news/politics-2762091758/">
+                            <div class="flex flex__row">
+                                <div class="news-section__category-item-box img-box flex flex__col">
+                                    <span>Այսօր, 20:00</span>
+                                    <h5>
+                                        Ավելի քան 1.1 մլն դոլար՝ Հայաստանի դեմ քարոզչական արշավի համար. ՌԴ հատուկ ծառայությունների գաղտնի փաստաթղթեր
+                                    </h5>
+                                    <p> Արշավի շրջանակներում նախատեսվում է նաև լայնածավալ SMM ակտիվություն ադրբեջանական և թուրքական Telegram ալիքներում՝ յուրաքանչյուր նախագծի համար առանձին թիրախավորմամբ։ </p>
+                                </div>
+                                <div class="news-section__category-item-img">
+                                    <img alt="Ավելի քան 1.1 մլն դոլար՝ Հայաստանի դեմ քարոզչական արշավի համար. ՌԴ հատուկ ծառայությունների գաղտնի փաստաթղթեր" src="https://media.radar.am/media/articles/images/06092600d1f0093474447198dd6f66b8910768.webp"/>
+                                </div>
+                            </div>    
+                        </a>
+                        
+                        <a class="wrap" href="/hy/news/science-2761915557/">
+                            <div class="flex flex__row">
+                                <div class="news-section__category-item-box img-box flex flex__col">
+                                    <span>Այսօր, 19:42</span>
+                                    <h5>
+                                        Կովկասի ամենաբարձր գագաթը կորցնում է իր սառույցը
+                                    </h5>
+                                    <p> Սառցադաշտերի կրճատումը միայն բնապահպանական խնդիր չէ։ </p>
+                                </div>
+                                <div class="news-section__category-item-img">
+                                    <img alt="Կովկասի ամենաբարձր գագաթը կորցնում է իր սառույցը" src="https://media.radar.am/media/articles/images/0609262cf3598d1737488dbbb6602f77b061b0.webp"/>
+                                </div>
+                            </div>    
+                        </a>
+                        
+                        <a class="wrap" href="/hy/news/science-2761945695/">
+                            <div class="flex flex__row">
+                                <div class="news-section__category-item-box img-box flex flex__col">
+                                    <span>Այսօր, 19:20</span>
+                                    <h5>
+                                        Ե՞րբ է լինելու ամենակարճ գիշերը
+                                    </h5>
+                                    <p> Ամենակարճ գիշերը կլինի հունիսի 21-ի ամենաերկար լուսավոր օրվանից հետո: </p>
+                                </div>
+                                <div class="news-section__category-item-img">
+                                    <img alt="Ե՞րբ է լինելու ամենակարճ գիշերը" src="https://media.radar.am/media/articles/images/0609269278b97e71584055835230ae0fa856fc.webp"/>
+                                </div>
+                            </div>    
+                        </a>
+                        
+                    </div>
+                    <!-- AD ZONE start-->
+                        
+                            
+                        
+                            
+                        
+                    <!-- AD ZONE end-->
+                    <!-- pagination block START -->
+                    <span class="news-section__grid-row">
+                        
+                            
+                            <div class="news-section__category-item col-item flex flex__col">
+                                <a class="wrap" href="/hy/news/sport-2762076516/">
+                                <div class="news-section__category-item-img  large-img">
+                                    <img alt="Մեսսին Իսլանդիայի դեմ խաղում պատրաստ է դուրս գալ դաշտ" src="https://media.radar.am/media/articles/images/0609262e335d7844864112b7943d79cca65951.webp"/>
+                                </div>
+                                
+                                    <div class="flex flex__row">
+                                        <div class="news-section__category-item-box flex flex__col">
+                                            <span>Այսօր, 19:09</span>
+                                            <h5>
+                                                Մեսսին Իսլանդիայի դեմ խաղում պատրաստ է դուրս գալ դաշտ
+                                            </h5>
+                                            <p>Հանդիպումը կկայանա հունիսի 10-ին։</p>
+                                        </div>
+                                    </div>    
+                                </a>
+                            </div>
+                            
+                        
+                            
+                                <div class="news-section__category-item col-item-text flex flex__col">
+                                    <a class="wrap" href="/hy/news/science-2762033189/">
+                                        <div class="flex flex__row">
+                                            <div class="news-section__category-item-box flex flex__col">
+                                                <span>Այսօր, 18:55</span>
+                                                <h5>
+                                                    Արեգակի հզոր հարվածը վրիպել է․ Երկիրը խուսափել է գեոմագնիսական փոթորիկից
+                                                </h5>
+                                                <p>Նման սխալներ երբեմն տեղի են ունենում։</p>
+                                            </div>
+                                        </div>    
+                                    </a>
+                                    
+                            
+                        
+                            
+                                    <a class="wrap" href="/hy/news/social-2762018347/">
+                                        <div class="flex flex__row">
+                                            <div class="news-section__category-item-box flex flex__col">
+                                                <span>Այսօր, 18:40</span>
+                                                <h5>
+                                                    Վերջին 2 ամիսներին դատարան է ներկայացվել խափանման միջոց կիրառելու ավելի քան 160 միջնորդություն
+                                                </h5>
+                                                <p>Այս պահին դատարանում առկա են միջնորդություններ, որոնք դեռ քննարկման փուլում են։</p>
+                                            </div>
+                                        </div>    
+                                    </a>
+                                </div>
+                            
+                        
+                    </span>
+                    <div class="flex flex__col news-section__grid-col">
+                        
+                            <div class="news-section__category-item">
+                                <a href="/hy/news/social-2762021347/" class="flex flex__row">
+                                    <div class="news-section__category-item-box flex flex__col">
+                                        <h5>
+                                            Հանրային քրեական հետապնդում է հարուցվել Կարապետ Գուլոյանի նկատմամբ
+                                        </h5>
+                                        <span>Այսօր, 18:37</span>
+                                        
+                                            <p>Դատախազը հանրային քրեական հետապնդում է հարուցել Կոտայքի նախկին մարզպետ Կարապետ Գուլոյանի նկատմամբ</p>
+                                        
+                                    </div>
+                                    <div class="news-section__category-item-img">
+                                        <img alt="Հանրային քրեական հետապնդում է հարուցվել Կարապետ Գուլոյանի նկատմամբ" src="https://media.radar.am/media/articles/images/0609268e0a3a573b544f2e91e7cf7c196f504f.webp"/>
+                                    </div>
+                                </a>
+                            </div>
+                        
+                            <div class="news-section__category-item">
+                                <a href="/hy/news/entertainment-2761949720/" class="flex flex__row">
+                                    <div class="news-section__category-item-box flex flex__col">
+                                        <h5>
+                                            NASA-ն կկրի Prada. Տիեզերագնացների համար ստեղծվել է հագուստ
+                                        </h5>
+                                        <span>Այսօր, 18:28</span>
+                                        
+                                            <p>Նոր նախագիծը շարունակությունն է Prada-ի 2024 թվականի նախաձեռնության։</p>
+                                        
+                                    </div>
+                                    <div class="news-section__category-item-img">
+                                        <img alt="NASA-ն կկրի Prada. Տիեզերագնացների համար ստեղծվել է հագուստ" src="https://media.radar.am/media/articles/images/0609264dd5e88178f64263be99e8a5e3708cd8.jpg"/>
+                                    </div>
+                                </a>
+                            </div>
+                        
+                    </div>
+            </div>
+            <!-- pagination block START -->
+            
+            <ul class="pagination flex flex__jfy-center flex__aln-center">
+                
+        
+                
+                    
+                        <li class="active"><span>1 <span class="sr-only"></span></span></li>
+                    
+                
+                    
+                        <li><a href="/hy/feed/2/">2</a></li>
+                    
+                
+                    
+                        <li><a href="/hy/feed/3/">3</a></li>
+                    
+                
+                    
+                        <li><a href="/hy/feed/4/">4</a></li>
+                    
+                
+                    
+                        <li><a href="/hy/feed/5/">5</a></li>
+                    
+                
+                
+                
+                    <li><a href="/hy/feed/2/">&raquo;</a></li>
+                
+            </ul>
+            
+            <!-- pagination block END -->
+        </div>
+
+    </div>
+
+    <!-- right sidebar -->
+    
+
+
+
+
+
+
+<!--dark-mode-->
+<div class="news-section__right-side light-mode">
+    <div class="sticky-div">
+        
+        
+        <!-- news feed -->
+        
+        <!-- photo_report -->
+       
+            
+
+
+
+
+
+
+
+    <div class="wrap-newsblog" id="side-cats">
+        
+        <div class="flex flex__col news-section__newsblog light-mode">
+            <div class="news-section__category-row flex flex__row">
+                <a href="/hy/category/radar-interview/">
+                    <h3 class="news-section__category-title">
+                        Ռադար-Զրույց
+                    </h3>
+                </a>
+            </div>
+            <div class="flex flex__col">
+                
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/radar-interview-2762033317/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>Այսօր, 20:32</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            <i class="far fa-play-circle"></i> ՌԴ սրտով չէ. ընդդիմությունը կգնա ԱԺ
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="ՌԴ սրտով չէ. ընդդիմությունը կգնա ԱԺ" src="https://media.radar.am/media/articles/images/060926f25f549814b743199e9d654476c40fd9.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/radar-interview-2761127341/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>5 Հունիսի, 20:34</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            <i class="far fa-play-circle"></i> 100 հազար մարդ գործուղել են Հայաստան (ՏԵՍԱՆՅՈՒԹ)
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="100 հազար մարդ գործուղել են Հայաստան (ՏԵՍԱՆՅՈՒԹ)" src="https://media.radar.am/media/articles/images/060426cf8c5e8ae81c4325bc141af7849a9308.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/radar-interview-2760910744/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>3 Հունիսի, 20:33</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            <i class="far fa-play-circle"></i> Իմ, հորս, Թաթոյանի ու ընկերների միջոցներով ենք ֆինանսավորում (ՏԵՍԱՆՅՈՒԹ)
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="Իմ, հորս, Թաթոյանի ու ընկերների միջոցներով ենք ֆինանսավորում (ՏԵՍԱՆՅՈՒԹ)" src="https://media.radar.am/media/articles/images/06032647c6d277f8a741edb1401d341dbfa875.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+                
+            </div>
+        </div>
+        
+        <div class="flex flex__col news-section__newsblog light-mode">
+            <div class="news-section__category-row flex flex__row">
+                <a href="/hy/category/unfiltered/">
+                    <h3 class="news-section__category-title">
+                        Առանց ֆիլտրի
+                    </h3>
+                </a>
+            </div>
+            <div class="flex flex__col">
+                
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/unfiltered-2760418657/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>31 Մայիսի, 20:30</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            <i class="far fa-play-circle"></i> Վանոյի դատը, Քոչարյանի կուտը, Վազգենը և Դեմիրճյանը, Տեր-Պետրոսյանի նամակները, Գարեգին Բ-ի ընտրությունը (ՏԵՍԱՆՅՈՒԹ)
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="Վանոյի դատը, Քոչարյանի կուտը, Վազգենը և Դեմիրճյանը, Տեր-Պետրոսյանի նամակները, Գարեգին Բ-ի ընտրությունը (ՏԵՍԱՆՅՈՒԹ)" src="https://media.radar.am/media/articles/images/05312648c3a1ca929b4e0ba4ceadeb8ec2425c.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/unfiltered-2759218573/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>24 Մայիսի, 20:30</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            <i class="far fa-play-circle"></i> Ասպիրանտուրան Ռուսաստանում, ԱԱԾ-ի հետ հանդիպումները, հարաբերությունները Նարեկի հետ, բլոտը (ՏԵՍԱՆՅՈՒԹ)
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="Ասպիրանտուրան Ռուսաստանում, ԱԱԾ-ի հետ հանդիպումները, հարաբերությունները Նարեկի հետ, բլոտը (ՏԵՍԱՆՅՈՒԹ)" src="https://media.radar.am/media/articles/images/05242693e96757f0924ce7a62a735b27b3d3ee.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/unfiltered-2758011198/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>17 Մայիսի, 20:30</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            <i class="far fa-play-circle"></i> Քոչարյանի դավը, Դեմիրճյանի ասածը, Վազգենի ուժը, ռուսական թագը, ԿԳԲ-ի պադվալը (ՏԵՍԱՆՅՈՒԹ)
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="Քոչարյանի դավը, Դեմիրճյանի ասածը, Վազգենի ուժը, ռուսական թագը, ԿԳԲ-ի պադվալը (ՏԵՍԱՆՅՈՒԹ)" src="https://media.radar.am/media/articles/images/051726b0b02a4165154744adb61668d0683b74.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+                
+            </div>
+        </div>
+        
+        <div class="flex flex__col news-section__newsblog light-mode">
+            <div class="news-section__category-row flex flex__row">
+                <a href="/hy/category/politics-1/">
+                    <h3 class="news-section__category-title">
+                        ՊալիԾիկա
+                    </h3>
+                </a>
+            </div>
+            <div class="flex flex__col">
+                
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/politics-1-2761374732/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>6 Հունիսի, 20:30</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            <i class="far fa-play-circle"></i> Դեմոկրատիա՞
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="Դեմոկրատիա՞" src="https://media.radar.am/media/articles/images/060526ca7d737ecf8d4f9fb74512efa2aa3782.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/politics-1-2760122105/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>30 Մայիսի, 20:45</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            <i class="far fa-play-circle"></i> Բացահայտումներ. ինչո՞ւ են խառնվել իրար  (ՏԵՍԱՆՅՈՒԹ)
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="Բացահայտումներ. ինչո՞ւ են խառնվել իրար  (ՏԵՍԱՆՅՈՒԹ)" src="https://media.radar.am/media/articles/images/0529265a8ed4ce63894e6b9b990eb2b9e346eb.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/politics-1-2758914668/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>23 Մայիսի, 20:30</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            <i class="far fa-play-circle"></i> Հիբրիդային հարձակում և ընտրություններ
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="Հիբրիդային հարձակում և ընտրություններ" src="https://media.radar.am/media/articles/images/052226a61a729267514ca0a02686fb914a843b.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+                
+            </div>
+        </div>
+        
+        <div class="flex flex__col news-section__newsblog light-mode">
+            <div class="news-section__category-row flex flex__row">
+                <a href="/hy/category/opinion/">
+                    <h3 class="news-section__category-title">
+                        Վերլուծություն
+                    </h3>
+                </a>
+            </div>
+            <div class="flex flex__col">
+                
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/opinion-2761814346/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>Երեկ, 21:30</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            Քաղաքական դեժավյու. խորհրդարանական նոր իրականություն՝ հին կանոններով
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="Քաղաքական դեժավյու. խորհրդարանական նոր իրականություն՝ հին կանոններով" src="https://media.radar.am/media/articles/images/0608267787193ca8be4d65be351e16c8f77c5e.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/opinion-2761133190/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>6 Հունիսի, 21:30</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            Խաղաղության «երաշխավորների փնտրտուքը» աշխարհաքաղաքական թակարդ է Հայաստանի համար
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="Խաղաղության «երաշխավորների փնտրտուքը» աշխարհաքաղաքական թակարդ է Հայաստանի համար" src="https://media.radar.am/media/articles/images/06042682708d5d0cac4b42b6738a385dbfbaa5.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/opinion-2760974602/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>4 Հունիսի, 20:30</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            Եռյակի իրական սպառնալիքը. «արդար» խաղաղության փնտրտուքով
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="Եռյակի իրական սպառնալիքը. «արդար» խաղաղության փնտրտուքով" src="https://media.radar.am/media/articles/images/0603266903dab70dee4b5cb6dfa622b5c41ddc.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+                
+            </div>
+        </div>
+        
+        <div class="flex flex__col news-section__newsblog light-mode">
+            <div class="news-section__category-row flex flex__row">
+                <a href="/hy/category/radar-society/">
+                    <h3 class="news-section__category-title">
+                        Radar Սոցիում
+                    </h3>
+                </a>
+            </div>
+            <div class="flex flex__col">
+                
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/radar-society-2754529928/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>27 Ապրիլի, 20:30</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            <i class="far fa-play-circle"></i> Գրպանից  դուրս ծախսերը նվազում են. ծանրաբեռնվածությունը  ազդում է որակի վրա
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="Գրպանից  դուրս ծախսերը նվազում են. ծանրաբեռնվածությունը  ազդում է որակի վրա" src="https://media.radar.am/media/articles/images/04272635920ad7d77c407c830a3e6b43f9542e.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/reportage-2752121931/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>13 Ապրիլի, 20:30</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            <i class="far fa-play-circle"></i> Գները բարձրացել են, բայց զբոսաշրջիկները ՀՀ-ում զգում են ինչպես տանը
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="Գները բարձրացել են, բայց զբոսաշրջիկները ՀՀ-ում զգում են ինչպես տանը" src="https://media.radar.am/media/articles/images/041326164d9ee31d0048f8973557d8ec9fc44f.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/radar-interview-2750932546/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>6 Ապրիլի, 20:30</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            <i class="far fa-play-circle"></i> Կա խտրականություն. պետք է վերանայենք օրենսդրությունը
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="Կա խտրականություն. պետք է վերանայենք օրենսդրությունը" src="https://media.radar.am/media/articles/images/0406263e12b2258688462da6e977d08759c490.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+                
+            </div>
+        </div>
+        
+        <div class="flex flex__col news-section__newsblog light-mode">
+            <div class="news-section__category-row flex flex__row">
+                <a href="/hy/category/numbers/">
+                    <h3 class="news-section__category-title">
+                        Թվեր
+                    </h3>
+                </a>
+            </div>
+            <div class="flex flex__col">
+                
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/numbers-2760922706/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>3 Հունիսի, 18:41</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            Դրանից չի հետևում, թե ամեն «բլթոց» կարելի է արձակել. Աթանեսյան
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="Դրանից չի հետևում, թե ամեն «բլթոց» կարելի է արձակել. Աթանեսյան" src="https://media.radar.am/media/articles/images/101025cb5f3f9d5a234c6786da01a56e841650.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/numbers-2756180828/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>19 Մայիսի, 22:15</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            Հայաստանում քանի՞ մարդ չունի տարրական կրթություն
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="Հայաստանում քանի՞ մարդ չունի տարրական կրթություն" src="https://media.radar.am/media/articles/images/05152640b933c5c81843e98b46490d5131493a.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/numbers-2757325523/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>13 Մայիսի, 21:45</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            Հայաստանի արտաքին առևտրաշրջանառության աշխարհագրությունը վերափոխվել է
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="Հայաստանի արտաքին առևտրաշրջանառության աշխարհագրությունը վերափոխվել է" src="https://media.radar.am/media/articles/images/051326494d8ef77b734e5e9a773615d0ec1174.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+                
+            </div>
+        </div>
+        
+        <div class="flex flex__col news-section__newsblog light-mode">
+            <div class="news-section__category-row flex flex__row">
+                <a href="/hy/category/viewpoint/">
+                    <h3 class="news-section__category-title">
+                        Տեսակետ
+                    </h3>
+                </a>
+            </div>
+            <div class="flex flex__col">
+                
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/viewpoint-2762059477/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>Այսօր, 16:22</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            Ընդդիմությունը ապագաղափարական է. Աթանեսյան
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="Ընդդիմությունը ապագաղափարական է. Աթանեսյան" src="https://media.radar.am/media/articles/images/101025cb5f3f9d5a234c6786da01a56e841650.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/viewpoint-2761811025/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>Երեկ, 17:47</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            Ինչպե՞ս չծախսել միլիարդները. Թոքմաջյան
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="Ինչպե՞ս չծախսել միլիարդները. Թոքմաջյան" src="https://media.radar.am/media/articles/images/06082661dae7a46499437aa639d78ee87cf511.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/viewpoint-2761823195/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>Երեկ, 12:18</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            Քվեարկության արդյունքների կեղծման մասին հասցեական ահազանգ չկա. Իոաննիսյան
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="Քվեարկության արդյունքների կեղծման մասին հասցեական ահազանգ չկա. Իոաննիսյան" src="https://media.radar.am/media/articles/images/06072644caa326306c403bb4aa69d041a9a268.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+                
+            </div>
+        </div>
+        
+        <div class="flex flex__col news-section__newsblog light-mode">
+            <div class="news-section__category-row flex flex__row">
+                <a href="/hy/category/interview/">
+                    <h3 class="news-section__category-title">
+                        Հարցազրույց
+                    </h3>
+                </a>
+            </div>
+            <div class="flex flex__col">
+                
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/interview-2762039862/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>Այսօր, 20:15</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            Պարզ է, որ տոտալ ընտրակաշառք է բաժանվել. Քամալյան
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="Պարզ է, որ տոտալ ընտրակաշառք է բաժանվել. Քամալյան" src="https://media.radar.am/media/articles/images/0609266cea6234dd8d48eb943028af561e2653.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/interview-2761824694/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>Երեկ, 20:00</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            Ռուսաստանը բավականին ցավոտ ապտակ է ստացել. Մեհրաբյան
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="Ռուսաստանը բավականին ցավոտ ապտակ է ստացել. Մեհրաբյան" src="https://media.radar.am/media/articles/images/060826472949a917964ed48c4c78317ffbfa0f.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+
+                        <div class="news_feed_item news-section__filter-item">
+                            <a href="/hy/news/interview-2761321320/" class="flex flex__row">
+                                <div class="news-section__filter-item-box flex flex__col">
+                                    <span>6 Հունիսի, 20:05</span>
+                                    <div class="wrap-context">
+                                        <p >
+                                            Ռազմական-դիվանագիտական ճնշումներ են թե՛ Իրանում, թե՛ Ուկրաինայում. Գանտահարյան
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="news-section__filter-item-img">
+                                    <img alt="Ռազմական-դիվանագիտական ճնշումներ են թե՛ Իրանում, թե՛ Ուկրաինայում. Գանտահարյան" src="https://media.radar.am/media/articles/images/060526630e1384c6a7485c94dbb7f5058ce9de.webp"/>
+                                </div>
+                            </a>
+                        </div>
+                    
+                
+            </div>
+        </div>
+        
+    </div>
+    
+
+        
+            
+           
+        <!-- AD ZONE start-->
+            <!--<iframe id="preview" style="border:0px;height:500px;width:100%;" src="https://xn--r1a.website/s/RadarARM"></iframe>-->
+        <!-- TODO REMOVE THIS STYLE -->
+        <style>
+            .ad_zone_below_feed1 {
+                width: 336px;
+                height: 280px;
+                margin: 0 auto;
+            }
+            @media (max-width: 64em){
+                .ad_zone_below_feed1 {
+                    width: 100%;
+                    /* height: 370px; */
+                }
+            }
+            /* @media (max-width: 39.9375em){
+                .ad_zone_below_feed1 {
+                    width: 100%;
+                    height: 340px;
+                }
+            } */
+            
+            .ad_zone_below_feed1 a div {
+                width: 100%;
+                height: 100%;
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+            }
+        </style>
+        
+       
+        
+            
+        
+            
+        
+        <!-- AD ZONE end-->
+        
+        
+    </div>
+</div>
+
+<script>
+    function stripHtmlTags(htmlString) {
+        if (!htmlString) return '';
+        const tempDiv = document.createElement('div');
+        tempDiv.innerHTML = htmlString;
+        return tempDiv.textContent || tempDiv.innerText || '';
+    }
+    function build_feed_article(article) {
+        const html = 
+            `<div class="news_feed_item news-section__filter-item">
+                <a href="${article.links.detail_url}" class="flex flex__row">
+                    <div class="news-section__filter-item-box flex flex__col">
+                        <span>${article.publish_date}</span>
+                        <div class="wrap-context">
+                            <p ${article.orange} >
+                                ${article.title}
+                            </p>
+                        </div>
+                    </div>
+                    <div class="news-section__filter-item-img">
+                        <img alt="${stripHtmlTags(article.title)}" src="${article.thumb_image}"/>
+                    </div>
+                </a>
+            </div>`;
+
+        return html;
+    }
+
+    function get_feed_articles(url) { 
+        $('.feed_infinite_container').addClass('loading_data');
+        $.ajax({
+            url: url,
+            dataType: "json",
+            type: 'GET',
+            success: function(response){
+                if (response.status === true) {
+                    let feed_html = '';
+                    const articles = response.articles;
+                    const next_url = response.next_url ? response.next_url : '';
+
+                    $('.feed_infinite_container').attr('data-next-url', next_url);
+
+                    if (articles) {
+                        $.each(response.articles, function(i, article) {
+                            const article_html = build_feed_article(article);
+                            feed_html += article_html;
+                        });
+                        $('.feed_infinite_container').append(feed_html);
+                    }
+                    $('.feed_infinite_container').removeClass('loading_data');
+                    if(window.location.pathname=="/hy/" || window.location.pathname=="/ru/" || window.location.pathname=="/en/"){
+                        var controller11 = new ScrollMagic.Controller();
+                        var scene11 = new ScrollMagic.Scene({
+                            triggerElement: ".header",
+                            offset: 0,
+                        })
+                        .on("enter", function() {
+                            $(".feed_infinite_container").addClass("slide-up active"); // Add animation classes
+                        })
+                        .addTo(controller11);
+                    }else{
+                        $(".feed_infinite_container").removeClass("slide-up");
+                    }
+
+                } else {
+                    
+                }
+            },
+        });
+    }
+
+    function init_feed() {
+        const url = "/hy/news/feed/1/";
+        get_feed_articles(url);
+    }
+
+    $(function() {
+        init_feed();
+        var controller12 = new ScrollMagic.Controller();
+        var scene12 = new ScrollMagic.Scene({
+            triggerElement: ".header",
+            offset: 700,
+        })
+        .on("enter", function() {
+            $(".ad_zone_below_feed1").addClass("slide-up active"); // Add animation classes
+        })
+        .addTo(controller12);
+        $('.feed_infinite_container').on('scroll', function() {
+            // ignore scroll event while getting data by ajax
+            if($('.feed_infinite_container').hasClass('loading_data')) {
+                return;
+            }
+
+            const url = $('.feed_infinite_container').attr('data-next-url');
+            if (!url) {
+                return;
+            }
+
+            let div = $(this).get(0);
+            const articles_height = $(".news_feed_item").height() * 5;
+            if(div.scrollTop + div.clientHeight >= div.scrollHeight - articles_height) {
+                get_feed_articles(url);
+            }
+        });
+    });
+
+</script>
+
+<script>
+    window.onload = function() {
+        const openFeed = document.querySelector('.feed-mobile-btn');
+        const newsBlog = document.querySelector('.news-section__newsblog.news-feed');
+        const closeFeed = document.querySelector('.close-feed');
+        const hasAnimated = document.querySelectorAll('.hasAnimated');
+
+        openFeed.addEventListener('click', function(e){
+            closeFeed.classList.remove('active');
+            openFeed.classList.add('active');
+            openFeed.classList.add('toggle');
+            hasAnimated.forEach(function(el){
+                el.classList.remove('fade-out');
+                el.classList.add('fade-in');
+                el.classList.add('animate');
+            });
+
+        });
+        
+        closeFeed.addEventListener('click', function(e){
+            openFeed.classList.remove('active');
+            if(openFeed.classList.contains('toggle')){
+                closeFeed.classList.add('active');
+                openFeed.classList.remove('toggle');
+                hasAnimated.forEach(function(el){
+                    el.classList.add('fade-out');
+                    el.classList.remove('fade-in');
+                    el.classList.remove('animate');
+                });
+            }
+        });
+        
+    } 
+
+</script>
+
+</section>
+
+
+            </div>
+            <span id="trigger-span"></span>
+            
+            
+           
+        </div>    
+        <script>
+            function build_cat_article(article) {
+                const html = 
+                    `<div class="photo-gallery__item flex flex__col">
+                        <a href="${article.links.detail_url}">
+                            <div class="photo-gallery__img-box">
+                                <img alt="${stripHtmlTags(article.title)}" src="${article.main_image}"/>
+                            </div>
+                            <span>${article.publish_date}</span>
+                            <h5>${article.title}</h5>
+                        </a>
+                    </div>`;
+                    // <p>${article.short_desc}</p>
+                return html;
+            }
+            function build_cat_article2(article,first,i) {
+                var index = i + 1;
+            if(first){
+                var html = 
+                    `<div class="news-section__category-item">
+                        <a class="wrap  category-item-100" href="${article.links.detail_url}">
+                            <div class="flex flex__row row__100 category-row">
+
+                                    <div class="news-section__category-item-box-large img-box flex flex__col">
+                                        
+                                    <h5>
+                                        <span class="number-big"> 1 </span>
+                                        ${article.title}
+                                    </h5>
+                                    <p>
+                                        ${article.short_desc}
+                                    </p>
+                                </div>
+                                <div class="news-section__category-item-img-large">
+                                    <img alt="${stripHtmlTags(article.title)}" src="${article.main_image}"/>
+                                </div>
+                            </div>  
+                        </a>      
+                    </div>`;
+            }else{
+                var html = 
+                    `<a class="wrap" href="${article.links.detail_url}">
+                        <div class="flex flex__row">
+                            <div class="news-section__category-item-box flex flex__col">
+                                <span>${article.publish_date}</span>
+                                <h5>
+                                    <span class="number"> ${index} </span>
+                                    ${article.title}
+                                </h5>
+                            </div>
+                        </div>    
+                    </a>`;
+            }
+            return html;
+            }
+            function build_cat_article3(article,first) {
+                if(first){
+                    var html = 
+                        `<div class="news-section__slider-info">
+                            <div class="news-section__slider-info-item flex flex__col">
+                                <a class="a-title" href="${article.links.detail_url}">
+                                    ${article.title}
+                                </a>
+                                <p>
+                                    ${article.short_desc}
+                                </p> 
+                                <br />
+                                <button class="btn btn-dark"><i class="fa fa-circle "></i>Radar TV</button>
+                            </div>
+                        </div>
+                        <div class="news-section__slider-img">
+                            <a class="a-title" href="${article.links.detail_url}">
+                            <div class="news-section__slider-img">
+                                <img alt="${stripHtmlTags(article.title)}" src="${article.main_image}"/>
+                            </div>  
+                            </a>     
+                        </div>`;
+                }else{
+                    var html = 
+                        `<div class="news-section__category-item">
+                            <a class="wrap" href="${article.links.detail_url}">
+                                <div class="flex flex__row row__100 category-row">
+                                        <div class="news-section__category-item-box-small flex flex__col">
+                                        <span>${article.publish_date}</span>
+                                        <h5>
+                                            ${article.title}
+                                        </h5>
+                                    </div>
+                                    <div class="news-section__category-item-img-small">
+                                        <img alt="${stripHtmlTags(article.title)}" src="${article.main_image}"/>
+                                    </div>
+                                </div>  
+                            </a>      
+                        </div>`;
+                }
+                return html;
+            }
+        </script>
+
+        
+
+        <!-- footer -->
+        
+
+<!--dark-mode-->
+<footer class="footer light-mode">
+    <div class="container">
+        <div class="footer__inner flex flex__row">
+            <div class="footer__right-side flex flex__1 flex__col">
+                <div class="flex flex__row footer-r">
+                    <div class="footer__logo ">
+                        <a href="/hy/">
+                            <img alt="Radar.am" class="light" src="/static/radar/images/footer-logo.da63ee050409.svg"/>
+                            <img alt="Radar.am" class="dark" src="/static/radar/images/footer-logo-dark.1c594e28cb32.svg"/>
+                        </a>
+                    </div>
+                    <h4 class="footer__socials flex flex__row flex__jfy-center flex__aln-center">
+                        <a class="footer__ico" href="https://www.facebook.com/RadarARM" target="_blank">
+                            <img alt="facebook" class="light" src="/static/radar/images/facebook.f610800e81e2.svg"/>
+                            <img alt="facebook" class="dark" src="/static/radar/images/facebook-white.556393f9b96b.svg"/>
+                        </a>
+                        <a class="footer__ico" href="https://www.instagram.com/RadarARMENIA" target="_blank">
+                            <img alt="instagram" class="light" src="/static/radar/images/instagram.cd04a5fbe4cd.svg"/>
+                            <img alt="instagram" class="dark" src="/static/radar/images/instagram-white.a8d7fbca4bde.svg"/>
+                        </a>
+                        <a class="footer__ico" href="/cdn-cgi/l/email-protection#afc6c1c9c0efddcecbceddceddc2cac1c6ce81cec2" target="_blank">
+                            <img alt="email" class="light" src="/static/radar/images/email.095379c66ba7.svg"/>
+                            <img alt="email" class="dark" src="/static/radar/images/email-white.ac3845a4f847.svg"/>
+                        </a>
+                        <a class="footer__ico" href="https://twitter.com/RadarARMENIA" target="_blank">
+                            <img alt="twitter" class="light" src="/static/radar/images/twitter.052f285c781a.svg"/>
+                            <img alt="twitter" class="dark" src="/static/radar/images/twitter-white.8998ae6a2880.svg"/>
+                        </a>
+                        <a class="footer__ico" href="https://www.youtube.com/@RadarArmenia">
+                            <img alt="youtube" class="light" src="/static/radar/images/youtube.c67e7b991378.svg"/>
+                            <img alt="youtube" class="dark" src="/static/radar/images/youtube-white.0fa515b34754.svg"/>
+                        </a>
+                        <a class="footer__ico" href="https://t.me/RadarARM" target="_blank">
+                            <img alt="telegram" class="light" src="/static/radar/images/telegram.51937a4f4798.svg"/>
+                            <img alt="telegram" class="dark" src="/static/radar/images/telegram-white.2647b9b25295.svg"/>
+                        </a>
+                        <a class="footer__ico" href="/hy/rss" target="_blank">
+                            <i class="light fa fa-rss"></i>
+                            <i class="dark fa fa-rss"></i>
+                        </a>
+                    </h4>
+                </div>
+                <div class="flex flex__row footer-r">
+                    <h4 class="footer__contact">
+                        <p class="flex flex__aln-center">
+                            <img alt="phone" class="light" src="/static/radar/images/phone.ca240451d591.svg"/>
+                            <img alt="phone" class="dark" src="/static/radar/images/phone-white.e3df2a6d204a.svg"/>
+                            +37441843841, +37443000843
+                        </p>
+                    </h4>
+                    <h4 class="footer__location">
+                        <p class="flex flex__aln-center">
+                            <img alt="location" class="light" src="/static/radar/images/location.8ab48842a6ec.svg"/>
+                            <img alt="location" class="dark" src="/static/radar/images/location-white.d65296908186.svg"/>
+                            ք. Երևան, Բրյուսով 28
+                        </p>
+                    </h4>
+                </div>
+            </div>
+            <div class="footer__left-side flex flex__row">
+                <div class="flex flex__row news__wrap row__100">
+                    <ul class="flex flex__row footer-cat-wrap">
+                        <div class="flex flex__col f-item">
+                            
+                            
+                                <li class=" header_nav_item nav__list-item flex flex__aln-center flex__jfy-center " data-url="/hy/category/armenia">
+                                    <a href="/hy/category/armenia">
+                                        <h2>Հայաստան</h2>
+                                    </a> 
+                                </li>
+                                
+                            
+                            
+                                <li class=" header_nav_item nav__list-item flex flex__aln-center flex__jfy-center " data-url="/hy/category/world">
+                                    <a href="/hy/category/world">
+                                        <h2>Միջազգային</h2>
+                                    </a> 
+                                </li>
+                                
+                            
+                            
+                                <li class=" header_nav_item nav__list-item flex flex__aln-center flex__jfy-center " data-url="/hy/category/opinion">
+                                    <a href="/hy/category/opinion">
+                                        <h2>Վերլուծություն</h2>
+                                    </a> 
+                                </li>
+                                
+                            
+                            
+                                <li class=" header_nav_item nav__list-item flex flex__aln-center flex__jfy-center " data-url="/hy/category/finance">
+                                    <a href="/hy/category/finance">
+                                        <h2>Ֆինանսներ</h2>
+                                    </a> 
+                                </li>
+                                
+                            
+                            
+                                <li class=" header_nav_item nav__list-item flex flex__aln-center flex__jfy-center " data-url="/hy/category/culture">
+                                    <a href="/hy/category/culture">
+                                        <h2>Մշակույթ</h2>
+                                    </a> 
+                                </li>
+                                
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                    </ul>
+                    <ul class="flex flex__row footer-cat-wrap">
+                        <div class="flex flex__col f-item">
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                                <li class=" header_nav_item nav__list-item flex flex__aln-center flex__jfy-center " data-url="/hy/category/sport">
+                                    <a href="/hy/category/sport">
+                                        <h2>Սպորտ</h2>
+                                    </a> 
+                                </li>
+                                
+                            
+                            
+                                <li class=" header_nav_item nav__list-item flex flex__aln-center flex__jfy-center " data-url="/hy/category/radar-tv">
+                                    <a href="/hy/category/radar-tv">
+                                        <h2>Radar TV</h2>
+                                    </a> 
+                                </li>
+                                
+                            
+                            
+                                <li class=" header_nav_item nav__list-item flex flex__aln-center flex__jfy-center " data-url="/hy/category/interview">
+                                    <a href="/hy/category/interview">
+                                        <h2>Հարցազրույց</h2>
+                                    </a> 
+                                </li>
+                                
+                            
+                            
+                                <li class=" header_nav_item nav__list-item flex flex__aln-center flex__jfy-center " data-url="/hy/category/before">
+                                    <a href="/hy/category/before">
+                                        <h2>Անցյալում</h2>
+                                    </a> 
+                                </li>
+                                
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            <li class="header_nav_item nav__list-item flex flex__aln-center flex__jfy-center" data-url="/hy/about"><a href="/hy/about">Մեր Մասին</a></li>
+                            
+                            </div>
+                    </ul>
+                    
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+    $(function() {
+        $(document).on('click', '.dropdown-item', function(e) {
+            event.stopPropagation();
+            $(this).children('.footer__sub-list-item').slideToggle();
+        });
+        $(document).on('click', '.open-dropdown', function(e) {
+            e.preventDefault();
+            $(this).children('.nav__sub-list-item').slideToggle();
+        });
+        $(document).on('click', function (event) {
+            if (!$(event.target).closest('.footer__left-side ul').length) {
+                $('.footer__sub-list-item').hide();
+            }
+        });
+    });
+</script>
+
+        <!-- scripts START-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/ScrollMagic.min.js"></script>
+        <script src="/static/radar/fontawesome/js/all.2351a1da4892.js" ></script>
+        
+        <script type="text/javascript" src="/static/assets/js/main.bc615ff52c6a.js"></script>
+        
+        
+
+        
+        <!-- scripts END-->
+    <script>
+        $( document ).ready(function() {
+            $('.tv-nav .open-tv').click(function(){
+               $('.open-tv').hide();
+               $('.tv-ul').show();
+               $('.close-tv').show();
+            });
+
+            $('.tv-nav .close-tv').click(function(){
+                $('.close-tv').hide();
+                $('.open-tv').show();
+                $('.tv-ul').hide();
+            });
+        });
+        function stripHtmlTags(htmlString) {
+            if (!htmlString) return '';
+            const tempDiv = document.createElement('div');
+            tempDiv.innerHTML = htmlString;
+            return tempDiv.textContent || tempDiv.innerText || '';
+        }
+    </script>
+
+
+    </body>
+</html>
