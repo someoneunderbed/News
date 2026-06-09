@@ -63,87 +63,148 @@ for site in SITELER:
     count = 0
     seen_links = set()
 
-    for a_tag in soup.find_all('a', href=True):
-        href = a_tag['href'].strip()
+    # --- SİTEYE ÖZEL AYRIŞTIRMA MANTIĞI ---
+    if site["name"] == "Civic.am":
+        # Civic.am sitesindeki her bir haber kartını buluyoruz
+        news_items = soup.find_all('div', class_=re.compile(r'news-?item|card|post|block', re.IGNORECASE))
+        # Eğer özel div bulamazsa alternatif olarak doğrudan linklerden gidelim
+        if not news_items:
+            news_items = soup.find_all('a', href=True)
 
-        if site["name"] == "Civic.am" and not ("/news/" in href):
-            continue
-        if site["name"] == "Oragir.news" and not ("/hy/material/" in href):
-            continue
-        if site["name"] == "5tv.am" and not ("/news-feed" in href):
-            continue
-        if site["name"] == "armenpress.am" and not ("/hy/articles" in href):
-            continue
-        if site["name"] == "tert.am" and not ("/am/news" in href):
-            continue
-        if site["name"] == "radar.am" and not ("/hy/feed/" in href):
-            continue
-        if site["name"] == "politik.am" and not ("/newsfeed" in href or "/news/" in href):
-            continue
-        if site["name"] == "arka.am" and not ("/am/news/" in href):
-            continue
-        if site["name"] == "Shamshyan.news" and not ("/hy/article/" in href or "/article/" in href):
-            continue
+        for item_node in news_items:
+            a_tag = item_node if item_node.name == 'a' else item_node.find('a', href=True)
+            if not a_tag or not a_tag.get('href'):
+                continue
 
-        if href.startswith('/'):
-            full_link = f"{site['base_url']}{href}"
-        elif href.startswith('http'):
-            full_link = href
-        else:
-            full_link = f"{site['base_url']}/{href}"
+            href = a_tag['href'].strip()
+            if not ("/news/" in href):
+                continue
 
-        if full_link in seen_links:
-            continue
+            full_link = f"{site['base_url']}{href}" if href.startswith('/') else href
+            if full_link in seen_links:
+                continue
 
-        title_text = a_tag.get_text(strip=True)
-        title_text = " ".join(title_text.split())
+            # Burada sadece başlığın saklandığı class'ı veya saf metni hedef alıyoruz
+            title_node = item_node.find(['h1', 'h2', 'h3', 'h4', 'h5', 'p'], class_=re.compile(r'title|name|header', re.IGNORECASE))
+            if title_node:
+                title_text = title_node.get_text(strip=True)
+            else:
+                # Alternatif olarak a etiketinin içindeki span/div öğelerini temizleyip sadece saf text node'ları birleştirelim
+                title_text = "".join([t for t in a_tag.contents if isinstance(t, str)]).strip()
+                if not title_text:
+                    title_text = a_tag.get_text(strip=True)
 
-        # --- YENİ ERMENİCE VE TARİH TEMİZLEME REGEXİ ---
-        # Bu kural: Başta bulunan Tarih, Saat yapısını ve ona hemen bitişik gelen tüm Ermenice harfleri (Kategoriyi) tamamen siler.
-        title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}[\u0531-\u058F]*\s*', '', title_text)
+            # Temizlik ve düzenleme
+            title_text = " ".join(title_text.split())
+            title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s*', '', title_text)
 
-        # Ekstra önlem olarak genel temizlik
-        title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s+', '', title_text)
+            if len(title_text) < 10 or title_text.isdigit():
+                continue
 
-        if len(title_text) < 10 or title_text.isdigit():
-            continue
+            # Resim Bulucu
+            img_url = ""
+            img_tag = item_node.find('img')
+            if img_tag and img_tag.get('src'):
+                img_src = img_tag['src'].strip()
+                if any(x in img_src for x in ["thumbs/", "storage/", "uploads/", "preview/", "upload/"]):
+                    img_url = img_src.split()[0]
+                    img_url = f"{site['base_url']}{img_url}" if img_url.startswith('/') else img_url
 
-        img_url = ""
-        img_tag = a_tag.find('img')
-        if not img_tag:
-            parent = a_tag.parent
-            if parent:
-                img_tag = parent.find('img')
-                if not img_tag and parent.parent:
-                    img_tag = parent.parent.find('img')
+            seen_links.add(full_link)
 
-        if img_tag and img_tag.get('src'):
-            img_src = img_tag['src'].strip()
-            if "thumbs/" in img_src or "storage/" in img_src or "uploads/" in img_src or "preview/" in img_src or "upload/" in img_src:
-                img_url = img_src.split()[0]
-                if img_url.startswith('/'):
-                    img_url = f"{site['base_url']}{img_url}"
-                elif not img_url.startswith('http'):
-                    img_url = f"{site['base_url']}/{img_url}"
+            # RSS Item Oluşturma
+            rss_item = ET.SubElement(channel, "item")
+            ET.SubElement(rss_item, "title").text = title_text
+            ET.SubElement(rss_item, "link").text = full_link
+            ET.SubElement(rss_item, "description").text = f"{title_text} - Read on {site['name']}."
+            ET.SubElement(rss_item, "guid", isPermaLink="false").text = full_link
 
-        seen_links.add(full_link)
+            if img_url:
+                img_type = "image/webp" if "webp" in img_url else "image/jpeg"
+                ET.SubElement(rss_item, "enclosure", url=img_url, length="1000000", type=img_type)
 
-        item = ET.SubElement(channel, "item")
-        ET.SubElement(item, "title").text = title_text
-        ET.SubElement(item, "link").text = full_link
-        ET.SubElement(item, "description").text = f"{title_text} - Read on {site['name']}."
-        ET.SubElement(item, "guid", isPermaLink="false").text = full_link
+            pub_time = base_time - timedelta(minutes=(count * 2))
+            ET.SubElement(rss_item, "pubDate").text = pub_time.strftime("%a, %d %b %Y %H:%M:%S -0000")
 
-        if img_url:
-            img_type = "image/webp" if "webp" in img_url else "image/jpeg"
-            ET.SubElement(item, "enclosure", url=img_url, length="1000000", type=img_type)
+            count += 1
+            if count >= 20:
+                break
+    else:
+        # DİĞER TÜM SİTELER İÇİN STANDART AKIŞ
+        for a_tag in soup.find_all('a', href=True):
+            href = a_tag['href'].strip()
 
-        pub_time = base_time - timedelta(minutes=(count * 2))
-        ET.SubElement(item, "pubDate").text = pub_time.strftime("%a, %d %b %Y %H:%M:%S -0000")
+            if site["name"] == "Oragir.news" and not ("/hy/material/" in href):
+                continue
+            if site["name"] == "5tv.am" and not ("/news-feed" in href):
+                continue
+            if site["name"] == "armenpress.am" and not ("/hy/articles" in href):
+                continue
+            if site["name"] == "tert.am" and not ("/am/news" in href):
+                continue
+            if site["name"] == "radar.am" and not ("/hy/feed/" in href):
+                continue
+            if site["name"] == "politik.am" and not ("/newsfeed" in href or "/news/" in href):
+                continue
+            if site["name"] == "arka.am" and not ("/am/news/" in href):
+                continue
+            if site["name"] == "Shamshyan.news" and not ("/hy/article/" in href or "/article/" in href):
+                continue
 
-        count += 1
-        if count >= 20:
-            break
+            if href.startswith('/'):
+                full_link = f"{site['base_url']}{href}"
+            elif href.startswith('http'):
+                full_link = href
+            else:
+                full_link = f"{site['base_url']}/{href}"
+
+            if full_link in seen_links:
+                continue
+
+            title_text = a_tag.get_text(strip=True)
+            title_text = " ".join(title_text.split())
+            title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s+[^\s]+\s+', '', title_text)
+            title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s*', '', title_text)
+
+            if len(title_text) < 10 or title_text.isdigit():
+                continue
+
+            img_url = ""
+            img_tag = a_tag.find('img')
+            if not img_tag:
+                parent = a_tag.parent
+                if parent:
+                    img_tag = parent.find('img')
+                    if not img_tag and parent.parent:
+                        img_tag = parent.parent.find('img')
+
+            if img_tag and img_tag.get('src'):
+                img_src = img_tag['src'].strip()
+                if any(x in img_src for x in ["thumbs/", "storage/", "uploads/", "preview/", "upload/"]):
+                    img_url = img_src.split()[0]
+                    if img_url.startswith('/'):
+                        img_url = f"{site['base_url']}{img_url}"
+                    elif not img_url.startswith('http'):
+                        img_url = f"{site['base_url']}/{img_url}"
+
+            seen_links.add(full_link)
+
+            item = ET.SubElement(channel, "item")
+            ET.SubElement(item, "title").text = title_text
+            ET.SubElement(item, "link").text = full_link
+            ET.SubElement(item, "description").text = f"{title_text} - Read on {site['name']}."
+            ET.SubElement(item, "guid", isPermaLink="false").text = full_link
+
+            if img_url:
+                img_type = "image/webp" if "webp" in img_url else "image/jpeg"
+                ET.SubElement(item, "enclosure", url=img_url, length="1000000", type=img_type)
+
+            pub_time = base_time - timedelta(minutes=(count * 2))
+            ET.SubElement(item, "pubDate").text = pub_time.strftime("%a, %d %b %Y %H:%M:%S -0000")
+
+            count += 1
+            if count >= 20:
+                break
 
     if count > 0:
         tree = ET.ElementTree(rss)
