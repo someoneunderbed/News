@@ -42,6 +42,79 @@ for site in SITELER:
     xml_path = f"NewsFolder/{site['xml_filename']}"
     is_success = False
 
+    # --- TERT.AM SPECIFIC SCRAPER ---
+    if site["name"] == "tert.am":
+        html_content = fetch_html(site["url"])
+        if html_content:
+            try:
+                soup = BeautifulSoup(html_content, 'html.parser')
+                rss = ET.Element("rss", version="2.0")
+                channel = ET.SubElement(rss, "channel")
+                ET.SubElement(channel, "title").text = site['name']
+                ET.SubElement(channel, "link").text = site["url"]
+                ET.SubElement(channel, "description").text = f"Cleaned RSS feed from {site['name']}."
+                ET.SubElement(channel, "language").text = "am"
+                ET.SubElement(channel, "lastBuildDate").text = base_time.strftime("%a, %d %b %Y %H:%M:%S -0000")
+                
+                if "logo_url" in site and site["logo_url"]:
+                    image_tag = ET.SubElement(channel, "image")
+                    ET.SubElement(image_tag, "url").text = site["logo_url"]
+                    ET.SubElement(image_tag, "title").text = site['name']
+                    ET.SubElement(image_tag, "link").text = site["url"]
+                
+                count = 0
+                seen_links = set()
+                
+                # Look for article links on tert.am/am/news
+                for a_tag in soup.find_all('a', href=True):
+                    href = a_tag['href'].strip()
+                    if not href or href == "/" or "page=" in href: continue
+                    if any(x in href for x in ["facebook.com", "youtube.com", "twitter.com", "t.me", "instagram.com"]): continue
+                    
+                    # Look for news article links
+                    if "/am/news/" not in href: continue
+                    
+                    full_link = f"{site['base_url']}{href}" if href.startswith('/') else href
+                    if full_link in seen_links: continue
+                    
+                    title_text = a_tag.get_text(strip=True)
+                    title_text = " ".join(title_text.split())
+                    if len(title_text) < 10 or title_text.isdigit(): continue
+                    
+                    img_url = ""
+                    img_tag = a_tag.find('img') or (a_tag.parent.find('img') if a_tag.parent else None)
+                    if img_tag and img_tag.get('src'):
+                        img_src = img_tag['src'].strip().split()[0]
+                        if img_src.startswith('http'): img_url = img_src
+                        elif img_src.startswith('/'): img_url = f"{site['base_url']}{img_src}"
+                        else: img_url = f"{site['base_url']}/{img_src}"
+                    
+                    seen_links.add(full_link)
+                    item = ET.SubElement(channel, "item")
+                    ET.SubElement(item, "title").text = title_text
+                    ET.SubElement(item, "link").text = full_link
+                    ET.SubElement(item, "description").text = f"{title_text} - Read on {site['name']}."
+                    ET.SubElement(item, "guid", isPermaLink="false").text = full_link
+                    if img_url: ET.SubElement(item, "enclosure", url=img_url, length="1000000", type="image/jpeg")
+                    pub_time = base_time - timedelta(minutes=(count * 2))
+                    ET.SubElement(item, "pubDate").text = pub_time.strftime("%a, %d %b %Y %H:%M:%S -0000")
+                    count += 1
+                    if count >= 20: break
+                
+                if count > 0:
+                    if os.path.exists(xml_path): os.remove(xml_path)
+                    with open(xml_path, "wb") as f:
+                        tree = ET.ElementTree(rss)
+                        ET.indent(tree, space="  ", level=0)
+                        tree.write(f, encoding="utf-8", xml_declaration=True)
+                    print(f"Success: {xml_path} has been saved fresh. ({count} articles)")
+                    is_success = True
+                    continue
+                else:
+                    print(f"Warning: No articles found for {site['name']}")
+            except Exception as e:
+                print(f"Tert.am scraping error: {e}")
+
     # --- RADAR.AM: ENGELLENMEYEN RESMİ RSS BESLEMESİ ---
     if site["name"] == "radar.am":
         rss_content = fetch_html("https://radar.am/hy/feed/")
