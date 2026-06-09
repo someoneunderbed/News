@@ -5,10 +5,16 @@ import urllib.request
 from bs4 import BeautifulSoup
 import re
 
+# Cloudflare ve koruma duvarlarını aşmak için genişletilmiş modern tarayıcı kimliği
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-    'Accept-Language': 'hy,am,tr,en;q=0.9'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+    'Accept-Language': 'hy-AM,hy;q=0.9,en-US;q=0.8,en;q=0.7',
+    'Cache-Control': 'no-cache',
+    'Pragma': 'no-cache',
+    'Sec-Ch-Ua': '"Google Chrome";v="125", "Chromium";v="125", "Not.A/Brand";v="24"',
+    'Sec-Ch-Ua-Mobile': '?0',
+    'Sec-Ch-Ua-Platform': '"Windows"'
 }
 
 SITELER = []
@@ -25,7 +31,7 @@ SITELER.append({"name": "arka.am", "url": "https://arka.am/am/news/", "xml_filen
 def fetch_html(url):
     req = urllib.request.Request(url, headers=headers)
     try:
-        with urllib.request.urlopen(req, timeout=20) as response:
+        with urllib.request.urlopen(req, timeout=25) as response:
             return response.read().decode('utf-8', errors='ignore')
     except Exception as e:
         print(f"Connection error ({url}): {e}")
@@ -39,6 +45,7 @@ for site in SITELER:
     html_content = fetch_html(site["url"])
 
     if not html_content:
+        print(f"Skipping {site['name']} because content is empty (Blocked by firewall or timeout).")
         continue
 
     soup = BeautifulSoup(html_content, 'html.parser')
@@ -66,21 +73,24 @@ for site in SITELER:
     for a_tag in soup.find_all('a', href=True):
         href = a_tag['href'].strip()
 
+        # --- GÜNCELLENEN VE ESNETİLEN SİTE FİLTRELERİ ---
         if site["name"] == "Civic.am" and not ("/news/" in href):
             continue
         if site["name"] == "Oragir.news" and not ("/hy/material/" in href):
             continue
-        if site["name"] == "5tv.am" and not ("/news-feed" in href):
+        if site["name"] == "5tv.am" and not ("/news/" in href or "/v/" in href or "news.5tv.am" in href):
+            # 5tv.am link yapısı düzeltildi, artık kilitlenmeyecek
+            if not any(x in href for x in ["/news/", "/v/"]):
+                continue
+        if site["name"] == "armenpress.am" and not ("/hy/article" in href or "/article" in href):
             continue
-        if site["name"] == "armenpress.am" and not ("/hy/articles" in href):
+        if site["name"] == "tert.am" and not ("/news" in href or "/am/news" in href):
             continue
-        if site["name"] == "tert.am" and not ("/am/news" in href):
-            continue
-        if site["name"] == "radar.am" and not ("/hy/feed/" in href):
+        if site["name"] == "radar.am" and not ("/hy/" in href or "/feed/" in href):
             continue
         if site["name"] == "politik.am" and not ("/newsfeed" in href or "/news/" in href or "/am/" in href):
             continue
-        if site["name"] == "arka.am" and not ("/am/news/" in href):
+        if site["name"] == "arka.am" and not ("/am/news/" in href or "/news/" in href):
             continue
         if site["name"] == "Shamshyan.news" and not ("/hy/article/" in href or "/article/" in href):
             continue
@@ -95,7 +105,7 @@ for site in SITELER:
         if full_link in seen_links:
             continue
 
-        # Civic.am sitesindeki gereksiz span ve div yapılarını kazıyoruz
+        # Civic.am için özel etiket kazıma alanı (Tarih ve kategoriyi söküp atar)
         if site["name"] == "Civic.am":
             for bad_tag in a_tag.find_all(['span', 'div', 'p', 'time', 'small']):
                 bad_tag.decompose()
@@ -149,13 +159,12 @@ for site in SITELER:
         if count >= 20:
             break
 
-    # --- OTOMATİK SİLME VE GÜVENLİ DOSYA YAZMA BÖLÜMÜ ---
+    # Otomatik eski dosya temizleme ve sıfırdan güvenli yazma modu
     if count > 0:
         tree = ET.ElementTree(rss)
         ET.indent(tree, space="  ", level=0)
 
         xml_path = f"NewsFolder/{site['xml_filename']}"
-        # Eğer eski dosya duruyorsa, Python arkada senin yerine otomatik siliyor
         if os.path.exists(xml_path):
             os.remove(xml_path)
 
