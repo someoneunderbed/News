@@ -1,172 +1,702 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>armenpress.am</title>
-    <link>https://armenpress.am/hy/articles</link>
-    <description>Cleaned RSS feed updated from armenpress.am.</description>
-    <language>hy</language>
-    <lastBuildDate>Tue, 09 Jun 2026 17:55:57 -0000</lastBuildDate>
-    <image>
-      <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
-      <title>armenpress.am</title>
-      <link>https://armenpress.am/hy/articles</link>
-    </image>
-    <item>
-      <title>Երևան16 °C</title>
-      <link>https://armenpress.am/hy/articles/weather</link>
-      <description>Երևան16 °C - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
-      <enclosure url="https://armenpress.am/assets/weather/10n.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 09 Jun 2026 17:55:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>USD / AMD368.45</title>
-      <link>https://armenpress.am/hy/articles/economy</link>
-      <description>USD / AMD368.45 - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
-      <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 09 Jun 2026 17:53:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>Փաստերի ստուգում</title>
-      <link>https://armenpress.am/hy/articles/fact-check</link>
-      <description>Փաստերի ստուգում - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Tue, 09 Jun 2026 17:51:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>Հատուկ նախագծեր</title>
-      <link>https://armenpress.am/hy/articles/projects</link>
-      <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Tue, 09 Jun 2026 17:49:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>Հարցազրույց</title>
-      <link>https://armenpress.am/hy/articles/interviews</link>
-      <description>Հարցազրույց - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Tue, 09 Jun 2026 17:47:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>21:44Միացյալ ՆահանգներՀորմուզի նեղուցով նավթի մատակարարումները լիովին կվերականգնվեն ոչ շուտ, քան 2027-ին․ ԱՄՆ էներգետիկայի նախարարություն</title>
-      <link>https://armenpress.am/hy/article/1252575</link>
-      <description>21:44Միացյալ ՆահանգներՀորմուզի նեղուցով նավթի մատակարարումները լիովին կվերականգնվեն ոչ շուտ, քան 2027-ին․ ԱՄՆ էներգետիկայի նախարարություն - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1252575</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/09/Xum52M0bFthqCXpXUJbrURgcIII0qJXf5fLDoeE6.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 09 Jun 2026 17:45:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>21:42ՍպորտԵղիշե Մելիքյանը գոհ է Մոլդովայի դեմ խաղում իր ֆուտբոլիստների կատարած աշխատանքից</title>
-      <link>https://armenpress.am/hy/article/1252576</link>
-      <description>21:42ՍպորտԵղիշե Մելիքյանը գոհ է Մոլդովայի դեմ խաղում իր ֆուտբոլիստների կատարած աշխատանքից - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1252576</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/09/YuOcYmlbAVMUwmtDYrAQjK73qUlYMmrExIwUUwqx.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 09 Jun 2026 17:43:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>21:30Միացյալ ՆահանգներԱՄՆ գործերի ժամանակավոր հավատարմատարը Սյունիքում կհանդիպի պաշտոնյաների հետ</title>
-      <link>https://armenpress.am/hy/article/1252571</link>
-      <description>21:30Միացյալ ՆահանգներԱՄՆ գործերի ժամանակավոր հավատարմատարը Սյունիքում կհանդիպի պաշտոնյաների հետ - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1252571</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/09/oAlw8PePllV2tH1tIjjUPWsOj3hIVdHzy0MNKCML.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 09 Jun 2026 17:41:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>21:10ՀայաստանԱլբանիայի ԱԳՆ-ն շնորհավորել է Նիկոլ Փաշինյանին ընտրություններում հաղթանակի կապակցությամբ</title>
-      <link>https://armenpress.am/hy/article/1252573</link>
-      <description>21:10ՀայաստանԱլբանիայի ԱԳՆ-ն շնորհավորել է Նիկոլ Փաշինյանին ընտրություններում հաղթանակի կապակցությամբ - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1252573</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/09/C9bIOqr0s7HlZ4Jx8UGgZvkYwDw6z7xAEPQd8PDm.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 09 Jun 2026 17:39:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>20:59ՍպորտՀայաստան-Մոլդովա ընկերական խաղն ավարտվեց ոչ-ոքի</title>
-      <link>https://armenpress.am/hy/article/1252572</link>
-      <description>20:59ՍպորտՀայաստան-Մոլդովա ընկերական խաղն ավարտվեց ոչ-ոքի - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1252572</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/09/3FABgUtQZEVNzBb2iDqOoOWOzXPtOi1ptyrn08Lr.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 09 Jun 2026 17:37:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>20:51ՀայաստանՎարչապետը հանձնարարել է արագ լուծումներ գտնել Գյումրիի փողոցների և բակերի խնդիրների համար</title>
-      <link>https://armenpress.am/hy/article/1252570</link>
-      <description>20:51ՀայաստանՎարչապետը հանձնարարել է արագ լուծումներ գտնել Գյումրիի փողոցների և բակերի խնդիրների համար - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1252570</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/09/ezFhQwVZswk0xL6SpSfgustpevlvTTx10CYOIZbY.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 09 Jun 2026 17:35:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>20:38ՀայաստանԱռաջիկայում կսկսվի Քաջարանի թունելի շինարարությունը․ Փաշինյան</title>
-      <link>https://armenpress.am/hy/article/1252569</link>
-      <description>20:38ՀայաստանԱռաջիկայում կսկսվի Քաջարանի թունելի շինարարությունը․ Փաշինյան - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1252569</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/09/EZL1VR2Up4olfUEZlLMqjSUjGiujre3iLBybv0lX.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 09 Jun 2026 17:33:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>20:23ՀայաստանԱջափնյակ մետրոյի կայարանի նախագիծը պատրաստ է իրագործման․ վարչապետ</title>
-      <link>https://armenpress.am/hy/article/1252567</link>
-      <description>20:23ՀայաստանԱջափնյակ մետրոյի կայարանի նախագիծը պատրաստ է իրագործման․ վարչապետ - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1252567</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/09/RtP40lTfb7ghoSCnmHeX7bQiWh1vaW47uXbeaeT0.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 09 Jun 2026 17:31:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>20:11Միացյալ ՆահանգներԲուլղարիայի ԱԺ նախագահն ԱՄՆ գործերի ժամանակավոր հավատարմատարի հետ քննարկել է ռազմավարական գործընկերության վերաբերյալ հարցեր․ BTA</title>
-      <link>https://armenpress.am/hy/article/1252566</link>
-      <description>20:11Միացյալ ՆահանգներԲուլղարիայի ԱԺ նախագահն ԱՄՆ գործերի ժամանակավոր հավատարմատարի հետ քննարկել է ռազմավարական գործընկերության վերաբերյալ հարցեր․ BTA - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1252566</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/09/gFNK4PsyPPvGnZTqnfQOHBqLI3cufknBQyKAlC0s.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 09 Jun 2026 17:29:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>20:02ՀայաստանՄԻՊ-ը կարևորել է ընտանեկան բռնության կանխարգելման ոլորտում իրականացվող բարեփոխումները</title>
-      <link>https://armenpress.am/hy/article/1252565</link>
-      <description>20:02ՀայաստանՄԻՊ-ը կարևորել է ընտանեկան բռնության կանխարգելման ոլորտում իրականացվող բարեփոխումները - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1252565</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/09/X7XNdbgY5c6DjOCPuzv51SXe0i6J3zlvSpNi4lWW.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 09 Jun 2026 17:27:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>19:35ԱշխարհԲուլղարիայի ԱԳ փոխնախարարը և ՀՀ դեսպանը քննարկել են երկրների միջև ուղիղ ավիահաղորդակցության վերականգնման թեման</title>
-      <link>https://armenpress.am/hy/article/1252564</link>
-      <description>19:35ԱշխարհԲուլղարիայի ԱԳ փոխնախարարը և ՀՀ դեսպանը քննարկել են երկրների միջև ուղիղ ավիահաղորդակցության վերականգնման թեման - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1252564</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/09/NrGcgLEPbC1bEmBL8l0ZTp1tfZYVcNoPSvTdCzM4.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 09 Jun 2026 17:25:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>19:32ՀայաստանԲուլղարիայի վարչապետը շնորհավորել է Նիկոլ Փաշինյանին ընտրություններում հաղթանակի կապակցությամբ</title>
-      <link>https://armenpress.am/hy/article/1252563</link>
-      <description>19:32ՀայաստանԲուլղարիայի վարչապետը շնորհավորել է Նիկոլ Փաշինյանին ընտրություններում հաղթանակի կապակցությամբ - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1252563</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/09/sXyECfqvHrYMCJTw7sd5vU1bO1medBu2Ujfg23BE.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 09 Jun 2026 17:23:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>19:28ՀայաստանԲլոգերների և սոցիալական հարթակներում ազդեցիկ անձանց գործունեության կարգավորումը միջազգային քննարկումների առարկա է․ ՄԻՊ</title>
-      <link>https://armenpress.am/hy/article/1252562</link>
-      <description>19:28ՀայաստանԲլոգերների և սոցիալական հարթակներում ազդեցիկ անձանց գործունեության կարգավորումը միջազգային քննարկումների առարկա է․ ՄԻՊ - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1252562</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/09/9oiSWwZKdxzBTmrcnkPxVwdCVlD2itJ6ZG5c40Ak.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 09 Jun 2026 17:21:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>19:01ՄշակույթԲուլղարիայում ՀՀ դեսպանն ընդունել է երիտասարդ հայ կինոռեժիսորի մրցանակը «Golden FEMI» փառատոնում</title>
-      <link>https://armenpress.am/hy/article/1252561</link>
-      <description>19:01ՄշակույթԲուլղարիայում ՀՀ դեսպանն ընդունել է երիտասարդ հայ կինոռեժիսորի մրցանակը «Golden FEMI» փառատոնում - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1252561</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/09/EskybJOEBcsNd2dfUinYAdNOUL3Yoe50m4ROyu1P.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 09 Jun 2026 17:19:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>18:41ՀայաստանԿոտայքի նախկին մարզպետ Կարապետ Գուլոյանի նկատմամբ քրեական հետապնդում է հարուցվել</title>
-      <link>https://armenpress.am/hy/article/1252560</link>
-      <description>18:41ՀայաստանԿոտայքի նախկին մարզպետ Կարապետ Գուլոյանի նկատմամբ քրեական հետապնդում է հարուցվել - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1252560</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/09/zluRpHU1ScBspCW263RdCv8ZxSGBVnJs3zTKQkN6.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 09 Jun 2026 17:17:57 -0000</pubDate>
-    </item>
-  </channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="https://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <atom:link href="https://armenpress.am/hy/rss/articles" rel="self" type="application/rss+xml" />
+        <title>Լրահոս - ԱՐՄԵՆՊՐԵՍ Հայկական լրատվական գործակալություն</title>
+        <link>https://armenpress.am/hy/articles</link>
+        <description>Նորություններ Հայաստանի, սփյուռքի հայկական համայնքների, տարածաշրջանի և աշխարհի մասին: Արմենպրես` վստահելի լրատվություն</description>
+        <language>hy</language>
+        <managingEditor>editor@armenpress.am (Narine Nazaryan)</managingEditor>
+        <webMaster>vt@matemat.io (Vardan Torosyan)</webMaster>
+        <generator>armenpress.am RSS Feed Generator</generator>
+
+                    <item>
+            <title>
+                <![CDATA[Թրամփը հայտարարել է, որ ԱՄՆ-ն կարձագանքի Իրանի կողմից ամերիկյան ուղղաթիռի խոցմանը]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252574</link>
+            <pubDate>Tue, 09 Jun 2026 21:59:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252574</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/j6UVWLWsguewHWQjLpSt9GqzAEFtvyxLkxgA5P1V.webp" length="323770" type="image/webp"/>
+                        <categories>
+                                                            <category>Իրան</category>
+                                                                                <category>Միացյալ Նահանգներ</category>
+                                                                                <category>Աշխարհ</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Հորմուզի նեղուցով նավթի մատակարարումները լիովին կվերականգնվեն ոչ շուտ, քան 2027-ին․ ԱՄՆ էներգետիկայի նախարարություն]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252575</link>
+            <pubDate>Tue, 09 Jun 2026 21:44:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252575</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/Xum52M0bFthqCXpXUJbrURgcIII0qJXf5fLDoeE6.webp" length="180054" type="image/webp"/>
+                        <categories>
+                                                            <category>Միացյալ Նահանգներ</category>
+                                                                                <category>Աշխարհ</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Եղիշե Մելիքյանը գոհ է Մոլդովայի դեմ խաղում իր ֆուտբոլիստների կատարած աշխատանքից]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252576</link>
+            <pubDate>Tue, 09 Jun 2026 21:42:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252576</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/YuOcYmlbAVMUwmtDYrAQjK73qUlYMmrExIwUUwqx.webp" length="816180" type="image/webp"/>
+                        <categories>
+                                                            <category>Սպորտ</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[ԱՄՆ գործերի ժամանակավոր հավատարմատարը Սյունիքում կհանդիպի պաշտոնյաների հետ]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252571</link>
+            <pubDate>Tue, 09 Jun 2026 21:30:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252571</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/oAlw8PePllV2tH1tIjjUPWsOj3hIVdHzy0MNKCML.webp" length="282121" type="image/webp"/>
+                        <categories>
+                                                            <category>Միացյալ Նահանգներ</category>
+                                                                                <category>Հայաստան</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Ալբանիայի ԱԳՆ-ն շնորհավորել է Նիկոլ Փաշինյանին ընտրություններում հաղթանակի կապակցությամբ]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252573</link>
+            <pubDate>Tue, 09 Jun 2026 21:10:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252573</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/C9bIOqr0s7HlZ4Jx8UGgZvkYwDw6z7xAEPQd8PDm.webp" length="753297" type="image/webp"/>
+                        <categories>
+                                                            <category>Հայաստան</category>
+                                                                                <category>Նիկոլ Փաշինյան</category>
+                                                                                <category>Ընտրություններ 2026</category>
+                                                                                <category>Խորհրդարանական ընտրություններ 2026</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Հայաստան-Մոլդովա ընկերական խաղն ավարտվեց ոչ-ոքի]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252572</link>
+            <pubDate>Tue, 09 Jun 2026 20:59:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252572</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/3FABgUtQZEVNzBb2iDqOoOWOzXPtOi1ptyrn08Lr.webp" length="933778" type="image/webp"/>
+                        <categories>
+                                                            <category>Սպորտ</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Վարչապետը հանձնարարել է արագ լուծումներ գտնել Գյումրիի փողոցների և բակերի խնդիրների համար]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252570</link>
+            <pubDate>Tue, 09 Jun 2026 20:51:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252570</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/ezFhQwVZswk0xL6SpSfgustpevlvTTx10CYOIZbY.webp" length="994163" type="image/webp"/>
+                        <categories>
+                                                            <category>Հայաստան</category>
+                                                                                <category>Նիկոլ Փաշինյան</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Առաջիկայում կսկսվի Քաջարանի թունելի շինարարությունը․ Փաշինյան]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252569</link>
+            <pubDate>Tue, 09 Jun 2026 20:38:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252569</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/EZL1VR2Up4olfUEZlLMqjSUjGiujre3iLBybv0lX.webp" length="1537937" type="image/webp"/>
+                        <categories>
+                                                            <category>Հայաստան</category>
+                                                                                <category>Նիկոլ Փաշինյան</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Աջափնյակ մետրոյի կայարանի նախագիծը պատրաստ է իրագործման․ վարչապետ]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252567</link>
+            <pubDate>Tue, 09 Jun 2026 20:23:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252567</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/RtP40lTfb7ghoSCnmHeX7bQiWh1vaW47uXbeaeT0.webp" length="870114" type="image/webp"/>
+                        <categories>
+                                                            <category>Հայաստան</category>
+                                                                                <category>Նիկոլ Փաշինյան</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Հայաստան-Մոլդովա ընկերական հանդիպում]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252568</link>
+            <pubDate>Tue, 09 Jun 2026 20:21:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252568</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/b3705xYE0IFon9ShvYtLETcqoVHjOCQfjel1uRDe.webp" length="869544" type="image/webp"/>
+                        <categories>
+                                                            <category>Լուսանկար</category>
+                                                                                <category>Հայկ Մանուկյան</category>
+                                                                                <category>Գևորգ Պերկուպերկյան</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Բուլղարիայի ԱԺ նախագահն ԱՄՆ գործերի ժամանակավոր հավատարմատարի հետ քննարկել է ռազմավարական գործընկերության վերաբերյալ հարցեր․ BTA]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252566</link>
+            <pubDate>Tue, 09 Jun 2026 20:11:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252566</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/gFNK4PsyPPvGnZTqnfQOHBqLI3cufknBQyKAlC0s.webp" length="249856" type="image/webp"/>
+                        <categories>
+                                                            <category>Միացյալ Նահանգներ</category>
+                                                                                <category>Աշխարհ</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[ՄԻՊ-ը կարևորել է ընտանեկան բռնության կանխարգելման ոլորտում իրականացվող բարեփոխումները]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252565</link>
+            <pubDate>Tue, 09 Jun 2026 20:02:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252565</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/X7XNdbgY5c6DjOCPuzv51SXe0i6J3zlvSpNi4lWW.webp" length="488173" type="image/webp"/>
+                        <categories>
+                                                            <category>Հայաստան</category>
+                                                                                <category>Անահիտ Մանասյան</category>
+                                                                                <category>Մարդու իրավունքների պաշտպան</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Բուլղարիայի ԱԳ փոխնախարարը և ՀՀ դեսպանը քննարկել են երկրների միջև ուղիղ ավիահաղորդակցության վերականգնման թեման]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252564</link>
+            <pubDate>Tue, 09 Jun 2026 19:35:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252564</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/NrGcgLEPbC1bEmBL8l0ZTp1tfZYVcNoPSvTdCzM4.webp" length="637267" type="image/webp"/>
+                        <categories>
+                                                            <category>Աշխարհ</category>
+                                                                                <category>Հայաստան</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Բուլղարիայի վարչապետը շնորհավորել է Նիկոլ Փաշինյանին ընտրություններում հաղթանակի կապակցությամբ]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252563</link>
+            <pubDate>Tue, 09 Jun 2026 19:32:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252563</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/sXyECfqvHrYMCJTw7sd5vU1bO1medBu2Ujfg23BE.webp" length="818722" type="image/webp"/>
+                        <categories>
+                                                            <category>Հայաստան</category>
+                                                                                <category>Նիկոլ Փաշինյան</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Բլոգերների և սոցիալական հարթակներում ազդեցիկ անձանց գործունեության կարգավորումը միջազգային քննարկումների առարկա է․ ՄԻՊ]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252562</link>
+            <pubDate>Tue, 09 Jun 2026 19:28:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252562</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/9oiSWwZKdxzBTmrcnkPxVwdCVlD2itJ6ZG5c40Ak.webp" length="593404" type="image/webp"/>
+                        <categories>
+                                                            <category>Հայաստան</category>
+                                                                                <category>Անահիտ Մանասյան</category>
+                                                                                <category>Մարդու իրավունքների պաշտպան</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Բուլղարիայում ՀՀ դեսպանն ընդունել է երիտասարդ հայ կինոռեժիսորի մրցանակը «Golden FEMI» փառատոնում]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252561</link>
+            <pubDate>Tue, 09 Jun 2026 19:01:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252561</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/EskybJOEBcsNd2dfUinYAdNOUL3Yoe50m4ROyu1P.webp" length="328018" type="image/webp"/>
+                        <categories>
+                                                            <category>Մշակույթ</category>
+                                                                                <category>Կինո</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Կոտայքի նախկին մարզպետ Կարապետ Գուլոյանի նկատմամբ քրեական հետապնդում է հարուցվել]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252560</link>
+            <pubDate>Tue, 09 Jun 2026 18:41:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252560</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/zluRpHU1ScBspCW263RdCv8ZxSGBVnJs3zTKQkN6.webp" length="199032" type="image/webp"/>
+                        <categories>
+                                                            <category>Հայաստան</category>
+                                                                                <category>ՀՀ Դատախազություն</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[ՄԻՊ-ը խոսել է հաստատության կառուցվածքային փոփոխությունների և շենքային պայմանների խնդիրների մասին]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252559</link>
+            <pubDate>Tue, 09 Jun 2026 18:35:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252559</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/gHzXJbqothZV93O0sJgA653oqKhlXD4vFRNWHcQp.webp" length="507905" type="image/webp"/>
+                        <categories>
+                                                            <category>Հայաստան</category>
+                                                                                <category>Անահիտ Մանասյան</category>
+                                                                                <category>ՀՀ Ազգային ժողով</category>
+                                                                                <category>Մարդու իրավունքների պաշտպան</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Եվրահանձնաժողովի նախագահը հայտարարել է, որ ԵՄ-ն առաջիկա օրերին կբացի Մոլդովայի հետ առաջին բանակցային կլաստերը․ Moldpres]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252557</link>
+            <pubDate>Tue, 09 Jun 2026 18:34:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252557</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/tsIGWtCfPmk9bxVeBrs4Iy2SY0SmbgzsUDH4SrYt.webp" length="386353" type="image/webp"/>
+                        <categories>
+                                                            <category>Աշխարհ</category>
+                                                                                <category>Եվրամիություն (ԵՄ)</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Վերջին երկու ամսում Հակակոռուպցիոն դատարանը ստացել է խուզարկության շուրջ 400 միջնորդություն]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252558</link>
+            <pubDate>Tue, 09 Jun 2026 18:31:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252558</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/GAnVLeSIiaFcQd2OiPL8Rquj9seDMcLjyeXIbKNS.webp" length="153688" type="image/webp"/>
+                        <categories>
+                                                            <category>Հայաստան</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Մեծ Բրիտանիան ակնկալում է աշխատել Հայաստանի ժողովրդավարորեն ընտրված կառավարության հետ․ Սթիվեն Դաութի]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252556</link>
+            <pubDate>Tue, 09 Jun 2026 18:25:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252556</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/UI2M1AdiXepd9bmZIluV96KWs2SYgF1ZpTaborhD.webp" length="72248" type="image/webp"/>
+                        <categories>
+                                                            <category>Հայաստան</category>
+                                                                                <category>Նիկոլ Փաշինյան</category>
+                                                                                <category>Ընտրություններ 2026</category>
+                                                                                <category>Խորհրդարանական ընտրություններ 2026</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Ղրղզստանի նախագահը շնորհավորել է Նիկոլ Փաշինյանին ընտրություններում տարած հաղթանակի առիթով]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252554</link>
+            <pubDate>Tue, 09 Jun 2026 18:01:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252554</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/wvcxKTMakOHrxyhMsYBzjvLgyls7MIg5tvVQSpqk.webp" length="130890" type="image/webp"/>
+                        <categories>
+                                                            <category>Հայաստան</category>
+                                                                                <category>Նիկոլ Փաշինյան</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Կրեմլն «անընդունելի» է որակել Եվրոպայի նախապայմաներն Ուկրաինայի հարցում կարգավորման համար]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252553</link>
+            <pubDate>Tue, 09 Jun 2026 17:46:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252553</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/23IBs3sasO1tUkt2oHetD5jTCJ3XBb6nyon96p9w.webp" length="783819" type="image/webp"/>
+                        <categories>
+                                                            <category>Եվրոպա</category>
+                                                                                <category>Ռուսաստան</category>
+                                                                                <category>Աշխարհ</category>
+                                                                                <category>Դմիտրի Պեսկով</category>
+                                                                                <category>Ուկրաինա</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Մարդու իրավունքների պաշտպանության և հանրային հարցերի, ֆինանսավարկային և բյուջետային հարցերի մշտական հանձնաժողովների համատեղ նիստ]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252552</link>
+            <pubDate>Tue, 09 Jun 2026 17:42:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252552</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/KwhY1PzpGi146XO4zHiYdPvREe4RKEzs9DdYuLLm.webp" length="586056" type="image/webp"/>
+                        <categories>
+                                                            <category>Լուսանկար</category>
+                                                                                <category>Տաթև Դուրյան</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Համադպրոցական գիտության փառատոնի հաղթող նախագծերից մեկը 3-րդ մրցանակի է արժանացել ԱՄՆ միջազգային գիտական մրցույթում]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252551</link>
+            <pubDate>Tue, 09 Jun 2026 17:39:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252551</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/7UaiN0xcF0zy1uJZ0vNZrDPhUwcAb5n16clMCf40.webp" length="268200" type="image/webp"/>
+                        <categories>
+                                                            <category>Հայաստան</category>
+                                                                                <category>Ժաննա Անդրեասյան</category>
+                                                                                <category>ՀՀ Կրթության, գիտության, մշակույթի և սպորտի նախարարություն</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Մալաթիայի համայնքային ոստիկաններն ու պարեկները կանխել են թմրանյութերի ապօրինի շրջանառության հերթական դեպքը]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252550</link>
+            <pubDate>Tue, 09 Jun 2026 17:38:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252550</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/EKllmXvBKNIOaw0q56n19bPIwgIcjTYxvjzJJRHY.webp" length="71969" type="image/webp"/>
+                        <categories>
+                                                            <category>Հայաստան</category>
+                                                                                <category>ՀՀ ներքին գործերի նախարարություն</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[«Ուժեղ Հայաստան»-ի պատգամավորի թեկնածուներից 2-ը կալանավորվել են]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252549</link>
+            <pubDate>Tue, 09 Jun 2026 17:37:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252549</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/oisADvb15kk2KgAIEUI27Br4zsu9u2I5ZfYq0I5a.webp" length="102524" type="image/webp"/>
+                        <categories>
+                                                            <category>Հայաստան</category>
+                                                                                <category>ՀՀ քննչական կոմիտե</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Ադրբեջանի ԱԳՆ-ն քաղաքացիներին հիշեցրել է արտերկրում զինված հակամարտություններին մասնակցելու համար նախատեսված քրեական պատասխանատվության մասին]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252548</link>
+            <pubDate>Tue, 09 Jun 2026 17:17:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252548</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/h1ME9J9ZOY8ExTIKrfFWnApb94CftsxYbiRZMWnS.webp" length="76731" type="image/webp"/>
+                        <categories>
+                                                            <category>Ադրբեջան</category>
+                                                                                <category>Աշխարհ</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[«Հեզբոլլահ»-ը կոչ է արել Լիբանանի իշխանություններին «շտկել» հարաբերություններն Իրանի հետ]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252547</link>
+            <pubDate>Tue, 09 Jun 2026 17:14:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252547</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/CnWBmfcgB5I9UNAtD3dUozW0U1u64QS8rxN2vVa7.webp" length="48128" type="image/webp"/>
+                        <categories>
+                                                            <category>Իրան</category>
+                                                                                <category>Մերձավոր Արևելք</category>
+                                                                                <category>Աշխարհ</category>
+                                                                                <category>Իսրայել</category>
+                                                                                <category>Լիբանան</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Կոռուպցիոն բնույթի ընտրական հանցագործությունների դեպքերի առթիվ նախաձեռնվել է 115 քրեական վարույթ]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252546</link>
+            <pubDate>Tue, 09 Jun 2026 17:09:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252546</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/tLBNxI0YYxWeS2ueh7hRNC56Nwbxbp12J4jbn2NV.webp" length="776656" type="image/webp"/>
+                        <categories>
+                                                            <category>Իրավունք</category>
+                                                                                <category>Հայաստան</category>
+                                                                                <category>ՀՀ հակակոռուպցիոն կոմիտե</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[ՀՀ ԿԲ. թանկարժեք մետաղների գներ և փոխարժեքներ-09/06/26]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252545</link>
+            <pubDate>Tue, 09 Jun 2026 17:05:52 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252545</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/05/20/3DH7XxekyG4fAeCAU4yWUxFAPCehUVBu0o0ZJfHs.webp" length="148828" type="image/webp"/>
+                        <categories>
+                                                            <category>Տնտեսություն</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Ասիական ինդեքսներ - 09/06/26]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252544</link>
+            <pubDate>Tue, 09 Jun 2026 17:04:22 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252544</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/01/Uc3rcalhG3Z1fQ2fOhq5rEgQvh4uc57qaiakdsJE.webp" length="79598" type="image/webp"/>
+                        <categories>
+                                                            <category>Տնտեսություն</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Կոռուպցիոն բնույթի ընտրական հանցագործությունների դեպքերի առթիվ նախաձեռնվել է 115 քրեական վարույթ]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252543</link>
+            <pubDate>Tue, 09 Jun 2026 16:52:26 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252543</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/pDnRaKfewg7h1CyVuWT54S4SXNFAxRJ4N2Vf27hw.webp" length="776656" type="image/webp"/>
+                        <categories>
+                                                            <category>Տեսանյութ</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Ֆոն դեր Լայենը հայտարարել է Ռուսաստանի դեմ ԵՄ պատժամիջոցների 21-րդ փաթեթի մասին]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252542</link>
+            <pubDate>Tue, 09 Jun 2026 16:50:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252542</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/5sibJxny71dXKUVBo9g59Lqtjr9xcwsl6ZcuX5qH.webp" length="622857" type="image/webp"/>
+                        <categories>
+                                                            <category>Եվրոպա</category>
+                                                                                <category>Ռուսաստան</category>
+                                                                                <category>Աշխարհ</category>
+                                                                                <category>Եվրամիություն (ԵՄ)</category>
+                                                                                <category>Եվրոպական հանձնաժողով</category>
+                                                                                <category>Ուրսուլա ֆոն դեր Լայեն</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Երևանում կայացավ հայ-լեհական գործարար համաժողովը՝ նոր հեռանկարներ բացելով երկկողմ փոխշահավետ համագործակցության համար]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252541</link>
+            <pubDate>Tue, 09 Jun 2026 16:48:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252541</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/zEpgqDddN53r1uu0ppBelsMzjDSGRAnfHrZ41i8Y.webp" length="781613" type="image/webp"/>
+                        <categories>
+                                                            <category>Տնտեսություն</category>
+                                                                                <category>Եվրոպա</category>
+                                                                                <category>Հայաստան</category>
+                                                                                <category>Մանվել Մարգարյան</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Հայ և լեհ գործարարների բանակցությունների արդյունքում հայկական ծիրանով բեռնված 20 բեռնատար մեքենաներ կմեկնեն Լեհաստան]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252540</link>
+            <pubDate>Tue, 09 Jun 2026 16:24:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252540</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/BfJ8CuRFqALRjiQLbiMR0YZKJGwHqnv26bVDhsk7.webp" length="729121" type="image/webp"/>
+                        <categories>
+                                                            <category>Տնտեսություն</category>
+                                                                                <category>Եվրոպա</category>
+                                                                                <category>Հայաստան</category>
+                                                                                <category>Մանվել Մարգարյան</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Իրանն ԱԷՄԳ-ում ԱՄՆ-ի ներկայացրած բանաձևի նախագիծը որակել է որպես նոր ագրեսիան արդարացնելու փորձ]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252539</link>
+            <pubDate>Tue, 09 Jun 2026 16:19:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252539</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/IePYzzYdo8DqvpsETOSwiahi3EzTH84msQkU742Z.webp" length="70723" type="image/webp"/>
+                        <categories>
+                                                            <category>Իրան</category>
+                                                                                <category>Միացյալ Նահանգներ</category>
+                                                                                <category>Աշխարհ</category>
+                                                                                <category>Միավորված ազգերի կազմակերպություն  (ՄԱԿ)</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[ՀՀ վարչապետի գլխավորությամբ քննարկվել են Կառավարության առաջիկա ծրագրերն ու քայլերը]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252537</link>
+            <pubDate>Tue, 09 Jun 2026 16:10:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252537</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/XrSEksViN1shWKLL14B61iTbc6at6qkR2SQsrBpJ.webp" length="508752" type="image/webp"/>
+                        <categories>
+                                                            <category>Հայաստան</category>
+                                                                                <category>Նիկոլ Փաշինյան</category>
+                                                                                <category>ՀՀ վարչապետի աշխատակազմ</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Կիպրոսի նախագահը շնորհավորել է Նիկոլ Փաշինյանին ընտրություններում հաղթանակի առիթով]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252538</link>
+            <pubDate>Tue, 09 Jun 2026 16:07:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252538</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/0p493jAnkONWi5pqznLbrwCiBdaTskCApIbGZiUg.webp" length="257436" type="image/webp"/>
+                        <categories>
+                                                            <category>Քաղաքականություն</category>
+                                                                                <category>Հայաստան</category>
+                                                                                <category>Նիկոլ Փաշինյան</category>
+                                                                                <category>ՀՀ վարչապետի աշխատակազմ</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Գագիկ Ծառուկյանի նկատմամբ հանրային քրեական հետապնդում է հարուցվել հարկերից խուսափելու հոդվածով]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252536</link>
+            <pubDate>Tue, 09 Jun 2026 16:03:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252536</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/O2LYM6uW4EBEEzDS4BViTgAvcBj0Wm3Njoi6uDGx.webp" length="374059" type="image/webp"/>
+                        <categories>
+                                                            <category>Իրավունք</category>
+                                                                                <category>Հայաստան</category>
+                                                                                <category>ՀՀ Դատախազություն</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Երկու իրանցի զինվոր է զոհվել Իսրայելի հարվածների հետևանքով]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252535</link>
+            <pubDate>Tue, 09 Jun 2026 16:01:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252535</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/7msg8WjsEhu9FrmwOmjKWPqRZWqNAwkfl2LwfOle.webp" length="35227" type="image/webp"/>
+                        <categories>
+                                                            <category>Իրան</category>
+                                                                                <category>Աշխարհ</category>
+                                                                                <category>Իսրայել</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Ստամբուլի հռչակագրում Թուրքիան, Ադրբեջանը և Վրաստանը կարևորել են համագործակցության ընդլայնումը]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252534</link>
+            <pubDate>Tue, 09 Jun 2026 15:59:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252534</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/Lx1vaC2bXgpZka7a28JYM3pACjvz2mB2KsUzvhBX.webp" length="324697" type="image/webp"/>
+                        <categories>
+                                                            <category>Թուրքիա</category>
+                                                                                <category>Ադրբեջան</category>
+                                                                                <category>Վրաստան</category>
+                                                                                <category>Աշխարհ</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Ընտրություններում ընտրակաշառք տված կամ վերցրած ցանկացած ոք պետք է խստորեն պատժվի. Փաշինյան]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252533</link>
+            <pubDate>Tue, 09 Jun 2026 15:53:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252533</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/Ki7sNFMYLjyKsQmQLxowribw4g4zshkTuo8pZwx9.webp" length="386583" type="image/webp"/>
+                        <categories>
+                                                            <category>Իրավունք</category>
+                                                                                <category>Հայաստան</category>
+                                                                                <category>Նիկոլ Փաշինյան</category>
+                                                                                <category>ՀՀ Կառավարություն</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Ֆիլիպինների երկրաշարժից տուժել է ավելի քան 145 000 մարդ]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252532</link>
+            <pubDate>Tue, 09 Jun 2026 15:52:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252532</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/qormKU1rqHBKPmGuxEaFrHVBVjz48T6gMRdq3YhT.webp" length="171264" type="image/webp"/>
+                        <categories>
+                                                            <category>Աշխարհ</category>
+                                                                                <category>Ասիա</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Ադրբեջանի հետ սահմանազատումն իրականացվում է ՀՀ ինքնիշխան տարածքի պետական սահմանով. Էդվարդ Ասրյան]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252531</link>
+            <pubDate>Tue, 09 Jun 2026 15:49:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252531</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/aJrIhQdQCyoNqLoy56oeQi4ps6oroFVSHgfjhvWP.webp" length="503731" type="image/webp"/>
+                        <categories>
+                                                            <category>Քաղաքականություն</category>
+                                                                                <category>Ռազմական</category>
+                                                                                <category>Հայաստան</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Վրաստանը չի փոխի ուղեգիծը՝ չնայած անայցագիր ռեժիմը վերացնելու ԵՄ սպառնալիքներին. Կոբախիձե]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252530</link>
+            <pubDate>Tue, 09 Jun 2026 15:42:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252530</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/XqWhil2D4sdXJbJ7gB8xNRKTwrHJqn2os5DI5dSS.webp" length="496810" type="image/webp"/>
+                        <categories>
+                                                            <category>Վրաստան</category>
+                                                                                <category>Եվրոպա</category>
+                                                                                <category>Աշխարհ</category>
+                                                                                <category>Իրակլի Կոբախիձե</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Ռուս-ուկրաինական հակամարտության շուրջ ԱՄՆ-ի միջնորդական գործընթացը «դադարի մեջ» է. Պեսկով]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252529</link>
+            <pubDate>Tue, 09 Jun 2026 15:31:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252529</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/MBc9EB4JhBdtvp0qVHcjigc8OkYp0i9XC9xWUSzq.webp" length="47562" type="image/webp"/>
+                        <categories>
+                                                            <category>Միացյալ Նահանգներ</category>
+                                                                                <category>Ռուսաստան</category>
+                                                                                <category>Աշխարհ</category>
+                                                                                <category>Դմիտրի Պեսկով</category>
+                                                                                <category>Ուկրաինա</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Ադրբեջանի արտգործնախարարը պաշտոնական այցով մեկնել է Ճապոնիա]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252528</link>
+            <pubDate>Tue, 09 Jun 2026 15:23:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252528</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/BqRjmtxsau1A3cQkiZU1XUfzo2vgwgqJKkFiz3tn.webp" length="861107" type="image/webp"/>
+                        <categories>
+                                                            <category>Ադրբեջան</category>
+                                                                                <category>Աշխարհ</category>
+                                                                                <category>Ջեյհուն Բայրամով</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[ՀՀ ԶՈՒ ԳՇ պետը հերքել է պնդումները, թե վերջին տարիներին ձեռք բերված զենքերը համադրելի չեն բանակի սպառազինության հետ]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252527</link>
+            <pubDate>Tue, 09 Jun 2026 15:18:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252527</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/bmcIVkg27lnHNNPZS6ObgWFuQPv2dHTyYVcZo2tB.webp" length="140026" type="image/webp"/>
+                        <categories>
+                                                            <category>Ռազմական</category>
+                                                                                <category>Հայաստան</category>
+                                                                                <category>Էդվարդ Ասրյան</category>
+                                                </categories>
+        </item>
+            <item>
+            <title>
+                <![CDATA[Փոքր քայլերից՝ մեծ փոփոխություններ. «Մի դրամի ուժը» 6 տարեկան է]]>
+            </title>
+            <link>https://armenpress.am/hy/article/1252526</link>
+            <pubDate>Tue, 09 Jun 2026 15:16:00 +0400</pubDate>
+            <guid isPermaLink="true">https://armenpress.am/hy/article/1252526</guid>
+                            <enclosure url="https://armenpress.am/storage/images/articles/2026/06/09/HTtF3cD8EkdiA7EjSh0bdRp167yfKFpXgjZrxZsj.webp" length="36265" type="image/webp"/>
+                        <categories>
+                                                            <category>Տնտեսություն</category>
+                                                </categories>
+        </item>
+        </channel>
 </rss>
