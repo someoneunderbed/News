@@ -18,7 +18,8 @@ SITELER = []
 SITELER.append({"name": "Civic.am", "url": "https://civic.am/last-news", "xml_filename": "civic.xml", "base_url": "https://civic.am", "logo_url": "https://civic.am/assets/img/logo.svg"})
 SITELER.append({"name": "Oragir.news", "url": "https://oragir.news/hy/materials/all", "xml_filename": "oragirnews.xml", "base_url": "https://oragir.news", "logo_url": "https://st2.oragir.news/header-logo2.png"})
 SITELER.append({"name": "Shamshyan.news", "url": "https://shamshyan.com/hy/articles/all", "xml_filename": "shamshyan.xml", "base_url": "https://shamshyan.com", "logo_url": "https://shamshyan.com/build/assets/logotype.351a3a34.png"})
-SITELER.append({"name": "5tv.am", "url": "https://news.5tv.am/news-feed", "xml_filename": "5tv.xml", "base_url": "https://news.5tv.am/", "logo_url": "https://news.5tv.am//storage/settings/main-logo.png"})
+# 5tv.am için genel site adresi base_url, haber akış adresi ise url olarak netleştirildi
+SITELER.append({"name": "5tv.am", "url": "https://news.5tv.am/news-feed", "xml_filename": "5tv.xml", "base_url": "https://news.5tv.am", "logo_url": "https://news.5tv.am//storage/settings/main-logo.png"})
 SITELER.append({"name": "armenpress.am", "url": "https://armenpress.am/hy/articles", "xml_filename": "armenpress.xml", "base_url": "https://armenpress.am", "logo_url": "https://armenpress.am/assets/companies/armenpress-indigo-hy.svg"})
 SITELER.append({"name": "tert.am", "url": "https://tert.am/am/news", "xml_filename": "tert.xml", "base_url": "https://tert.am", "logo_url": "https://tert.am/resources/favicons/apple-icon-precomposed.png"})
 SITELER.append({"name": "radar.am", "url": "https://radar.am/hy/feed/", "xml_filename": "radar.xml", "base_url": "https://radar.am", "logo_url": "https://radar.am/static/radar/images/logo-white.4c8b6b003ba3.svg"})
@@ -70,12 +71,10 @@ for site in SITELER:
 
     # --- CIVIC.AM: ENGELLENMEYEN GİZLİ VERİ API'SI ---
     if site["name"] == "Civic.am":
-        # Sitenin korumasız ham veri API'sinden güncel makaleleri çekiyoruz
         api_content = fetch_html("https://civic.am/api/posts?limit=20")
         if api_content:
             try:
                 data = json.loads(api_content)
-                # Eğer standart JSON listesiyse veya 'data' key'i altındaysa normalize et
                 posts = data.get('data', data) if isinstance(data, dict) else data
 
                 if isinstance(posts, list) and len(posts) > 0:
@@ -98,7 +97,6 @@ for site in SITELER:
                         slug = post.get('slug', str(post.get('id', '')))
                         full_link = f"https://civic.am/news/{slug}"
 
-                        # API'den gelen verilerde yapışık tarih/kategori derdi olmaz, başlık tertemizdir
                         if len(title_text) < 10: continue
 
                         item = ET.SubElement(channel, "item")
@@ -107,7 +105,6 @@ for site in SITELER:
                         ET.SubElement(item, "description").text = f"{title_text} - Read on {site['name']}."
                         ET.SubElement(item, "guid", isPermaLink="false").text = full_link
 
-                        # Resim kontrolü
                         img_path = post.get('image', post.get('img', post.get('avatar', '')))
                         if img_path:
                             img_url = f"https://civic.am{img_path}" if img_path.startswith('/') else img_path
@@ -201,12 +198,70 @@ for site in SITELER:
                 tree.write(f, encoding="utf-8", xml_declaration=True)
             continue
 
+    # --- 5TV.AM GENEL SİTE VE HABER AKIŞI YAPISINA UYARLANMIŞ BLOK ---
+    if site["name"] == "5tv.am":
+        for a_tag in soup.find_all('a', href=True):
+            href = a_tag['href'].strip()
+
+            # Sayfalama veya geçersiz linkleri temizleme
+            if href == "" or href == "/" or "page=" in href or "news-feed" in href: continue
+            if any(x in href for x in ["facebook.com", "youtube.com", "twitter.com", "t.me", "instagram.com"]): continue
+
+            # Genel site adresi (https://news.5tv.am) ile href birleştirilir
+            if href.startswith('http'):
+                full_link = href
+            elif href.startswith('/'):
+                full_link = f"{site['base_url']}{href}"
+            else:
+                full_link = f"{site['base_url']}/{href}"
+
+            if full_link in seen_links: continue
+
+            title_text = a_tag.get_text(strip=True)
+            title_text = " ".join(title_text.split())
+
+            if title_text == "Ավելին" or len(title_text) < 15 or title_text.isdigit(): continue
+
+            img_url = ""
+            img_tag = a_tag.find('img') or (a_tag.parent.find('img') if a_tag.parent else None)
+            if img_tag and img_tag.get('src'):
+                img_src = img_tag['src'].strip().split()[0]
+                if img_src.startswith('http'):
+                    img_url = img_src
+                elif img_src.startswith('/'):
+                    img_url = f"{site['base_url']}{img_src}"
+                else:
+                    img_url = f"{site['base_url']}/{img_src}"
+
+            seen_links.add(full_link)
+            item = ET.SubElement(channel, "item")
+            ET.SubElement(item, "title").text = title_text
+            ET.SubElement(item, "link").text = full_link
+            ET.SubElement(item, "description").text = f"{title_text} - Read on {site['name']}."
+            ET.SubElement(item, "guid", isPermaLink="false").text = full_link
+            if img_url: ET.SubElement(item, "enclosure", url=img_url, length="1000000", type="image/jpeg")
+
+            pub_time = base_time - timedelta(minutes=(count * 2))
+            ET.SubElement(item, "pubDate").text = pub_time.strftime("%a, %d %b %Y %H:%M:%S -0000")
+
+            count += 1
+            if count >= 20: break
+
+        if count > 0:
+            xml_path = f"NewsFolder/{site['xml_filename']}"
+            if os.path.exists(xml_path): os.remove(xml_path)
+            with open(xml_path, "wb") as f:
+                tree = ET.ElementTree(rss)
+                ET.indent(tree, space="  ", level=0)
+                tree.write(f, encoding="utf-8", xml_declaration=True)
+            print(f"Success: {xml_path} has been saved fresh for 5tv.am. ({count} articles)")
+            continue
+
     # Diğer Standart Siteler İçin Tarama Döngüsü
     for a_tag in soup.find_all('a', href=True):
         href = a_tag['href'].strip()
 
         if site["name"] == "Oragir.news" and not ("/hy/material/" in href): continue
-        if site["name"] == "5tv.am" and not any(x in href for x in ["/news-feed", "/v/"]): continue
         if site["name"] == "politik.am" and not any(x in href for x in ["/newsfeed", "/news/", "/am/"]): continue
         if site["name"] == "arka.am" and not any(x in href for x in ["/am/news/", "/news/"]): continue
         if site["name"] == "Shamshyan.news" and not any(x in href for x in ["/hy/article/", "/article/"]): continue
@@ -216,8 +271,7 @@ for site in SITELER:
 
         title_text = a_tag.get_text(strip=True)
         title_text = " ".join(title_text.split())
-        title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s+[^\s]+\s+', '', title_text)
-        title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s*', '', title_text).strip()
+        title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},?\s*\d{2}:\d{2}\s*', '', title_text).strip()
 
         if len(title_text) < 10 or title_text.isdigit(): continue
 
