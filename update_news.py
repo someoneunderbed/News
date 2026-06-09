@@ -66,7 +66,6 @@ for site in SITELER:
     for a_tag in soup.find_all('a', href=True):
         href = a_tag['href'].strip()
 
-        # URL Filtreleme Mantığı
         if site["name"] == "Civic.am" and not ("/news/" in href):
             continue
         if site["name"] == "Oragir.news" and not ("/hy/material/" in href):
@@ -96,19 +95,13 @@ for site in SITELER:
         if full_link in seen_links:
             continue
 
-        # --- YENİ NESİL GELİŞMİŞ BAŞLIK TEMİZLEME ALGORİTMASI ---
+        # Civic.am sitesindeki gereksiz span ve div yapılarını kazıyoruz
         if site["name"] == "Civic.am":
-            # Tarih, saat ve kategori içeren tüm alt elementleri DOM ağacından tamamen siliyoruz
             for bad_tag in a_tag.find_all(['span', 'div', 'p', 'time', 'small']):
                 bad_tag.decompose()
-
-            # Kalan saf metni alıyoruz
             title_text = a_tag.get_text(strip=True)
-
-            # Eğer hala başta yapışık bir şeyler kaldıysa sert temizlik regexi
             title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},?\s*\d{2}:\d{2}\s*', '', title_text)
         else:
-            # Standart Siteler İçin Temizlik
             title_text = a_tag.get_text(strip=True)
             title_text = " ".join(title_text.split())
             title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s+[^\s]+\s+', '', title_text)
@@ -116,11 +109,9 @@ for site in SITELER:
 
         title_text = title_text.strip()
 
-        # Geçersiz ve çok kısa başlıkları ele
         if len(title_text) < 10 or title_text.isdigit():
             continue
 
-        # Görsel Bulucu Bölümü
         img_url = ""
         img_tag = a_tag.find('img')
         if not img_tag:
@@ -141,7 +132,6 @@ for site in SITELER:
 
         seen_links.add(full_link)
 
-        # XML Elementlerini Ekleme
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = title_text
         ET.SubElement(item, "link").text = full_link
@@ -159,11 +149,20 @@ for site in SITELER:
         if count >= 20:
             break
 
+    # --- OTOMATİK SİLME VE GÜVENLİ DOSYA YAZMA BÖLÜMÜ ---
     if count > 0:
         tree = ET.ElementTree(rss)
         ET.indent(tree, space="  ", level=0)
-        tree.write(f"NewsFolder/{site['xml_filename']}", encoding="utf-8", xml_declaration=True)
-        print(f"Success: NewsFolder/{site['xml_filename']} has been saved. ({count} articles)")
+
+        xml_path = f"NewsFolder/{site['xml_filename']}"
+        # Eğer eski dosya duruyorsa, Python arkada senin yerine otomatik siliyor
+        if os.path.exists(xml_path):
+            os.remove(xml_path)
+
+        with open(xml_path, "wb") as f:
+            tree.write(f, encoding="utf-8", xml_declaration=True)
+
+        print(f"Success: {xml_path} has been saved fresh. ({count} articles)")
     else:
         print(f"Error: No matching elements found for {site['name']}.")
 
