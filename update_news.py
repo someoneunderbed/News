@@ -5,19 +5,21 @@ import urllib.request
 from bs4 import BeautifulSoup
 import re
 
+# RSS Okuyucu Taklidi (Cloudflare korumalarını ve veri merkezi engellerini aşmanın en garanti yolu)
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-    'Accept-Language': 'hy,am,tr,en;q=0.9'
+    'User-Agent': 'Feedly/1.0 (http://www.feedly.com; shockwave-flash; download)',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'Accept-Language': 'hy-AM,hy;q=0.9,en-US;q=0.8'
 }
 
 SITELER = []
 SITELER.append({"name": "Civic.am", "url": "https://civic.am/last-news", "xml_filename": "civic.xml", "base_url": "https://civic.am", "logo_url": "https://civic.am/assets/img/logo.svg"})
 SITELER.append({"name": "Oragir.news", "url": "https://oragir.news/hy/materials/all", "xml_filename": "oragirnews.xml", "base_url": "https://oragir.news", "logo_url": "https://st2.oragir.news/header-logo2.png"})
 SITELER.append({"name": "Shamshyan.news", "url": "https://shamshyan.com/hy/articles/all", "xml_filename": "shamshyan.xml", "base_url": "https://shamshyan.com", "logo_url": "https://shamshyan.com/build/assets/logotype.351a3a34.png"})
-SITELER.append({"name": "5tv.am", "url": "https://news.5tv.am/news-feed", "xml_filename": "5tv.xml", "base_url": "https://5tv.am", "logo_url": "https://news.5tv.am//storage/settings/main-logo.png"})
+# 5tv.am için doğrudan çalışan aktif alt domain RSS adresi entegre edildi
+SITELER.append({"name": "5tv.am", "url": "https://news.5tv.am/rss", "xml_filename": "5tv.xml", "base_url": "https://5tv.am", "logo_url": "https://news.5tv.am//storage/settings/main-logo.png"})
 SITELER.append({"name": "armenpress.am", "url": "https://armenpress.am/hy/articles", "xml_filename": "armenpress.xml", "base_url": "https://armenpress.am", "logo_url": "https://armenpress.am/assets/companies/armenpress-indigo-hy.svg"})
-SITELER.append({"name": "tert.am", "url": "https://tert.am/am/news", "xml_filename": "tert.xml", "base_url": "https://tert.am", "logo_url": "https://tert.am/resources/favicons/apple-icon-precomposed.png"})
+SITELER.append({"name": "tert.am", "url": "https://www.tert.am/am/news/rss", "xml_filename": "tert.xml", "base_url": "https://tert.am", "logo_url": "https://tert.am/resources/favicons/apple-icon-precomposed.png"})
 SITELER.append({"name": "radar.am", "url": "https://radar.am/hy/feed/", "xml_filename": "radar.xml", "base_url": "https://radar.am", "logo_url": "https://radar.am/static/radar/images/logo-white.4c8b6b003ba3.svg"})
 SITELER.append({"name": "politik.am", "url": "https://politik.am/am/newsfeed/1", "xml_filename": "politik.xml", "base_url": "https://politik.am", "logo_url": "https://politik.am/imgs/page/header-logo-am.png"})
 SITELER.append({"name": "arka.am", "url": "https://arka.am/am/news/", "xml_filename": "arka.xml", "base_url": "https://arka.am", "logo_url": "https://arka.am/local/templates/arka_new/images/ARKA_LOGO.svg"})
@@ -36,25 +38,21 @@ os.makedirs("NewsFolder", exist_ok=True)
 
 for site in SITELER:
     print(f"\n>>> Processing {site['name']}...")
-    xml_path = f"NewsFolder/{site['xml_filename']}"
 
-    # --- RADAR.AM OTOMATİK FEED AKIŞI ---
-    if site["name"] == "radar.am":
+    # --- DOĞRUDAN RSS VEREN SİTELER İÇİN ENGELLENMEYEN GEÇİŞ (TERT, RADAR, 5TV) ---
+    if site["name"] in ["tert.am", "radar.am", "5tv.am"]:
         rss_content = fetch_html(site["url"])
-        if rss_content and "<rss" in rss_content:
+        if rss_content and ("<rss" in rss_content or "<feed" in rss_content or "<channel" in rss_content):
+            xml_path = f"NewsFolder/{site['xml_filename']}"
             if os.path.exists(xml_path): os.remove(xml_path)
             with open(xml_path, "wb") as f:
                 f.write(rss_content.encode('utf-8'))
             print(f"Success: {xml_path} saved directly from official feed.")
             continue
-        else:
-            print(f"Radar.am feed failed but old file is preserved.")
-            continue
 
     html_content = fetch_html(site["url"])
     if not html_content:
-        # KRİTİK DEĞİŞİKLİK: Eğer engel yendiyse eski dosyayı asla silme, döngüyü koru!
-        print(f"Skipping {site['name']} due to connection/Cloudflare block. Old XML preserved.")
+        print(f"Skipping {site['name']} - Content is empty.")
         continue
 
     soup = BeautifulSoup(html_content, 'html.parser')
@@ -71,8 +69,7 @@ for site in SITELER:
         image_tag = ET.SubElement(channel, "image")
         ET.SubElement(image_tag, "url").text = site["logo_url"]
         ET.SubElement(image_tag, "title").text = site['name']
-        image_link = site["url"].replace(".com", ".news") if site["name"] == "Shamshyan.news" else site["url"]
-        ET.SubElement(image_tag, "link").text = image_link
+        ET.SubElement(image_tag, "link").text = site["url"]
 
     count = 0
     seen_links = set()
@@ -83,9 +80,7 @@ for site in SITELER:
         if site["name"] == "Civic.am" and not ("/news/" in href): continue
         if site["name"] == "Oragir.news" and not ("/hy/material/" in href): continue
         if site["name"] == "armenpress.am" and not ("/hy/article" in href or "/article" in href): continue
-        if site["name"] == "tert.am" and not ("/news" in href or "/am/news" in href): continue
         if site["name"] == "politik.am" and not any(x in href for x in ["/newsfeed", "/news/", "/am/"]): continue
-        if site["name"] == "5tv.am" and not any(x in href for x in ["/news/", "/v/", "news-feed"]): continue
 
         if site["name"] == "arka.am":
             if not ("/am/news/" in href or "/news/" in href) or "index.php" in href or href.endswith('/news/'):
@@ -130,13 +125,12 @@ for site in SITELER:
         if count >= 20: break
 
     if count > 0:
+        xml_path = f"NewsFolder/{site['xml_filename']}"
         if os.path.exists(xml_path): os.remove(xml_path)
         with open(xml_path, "wb") as f:
             tree = ET.ElementTree(rss)
             ET.indent(tree, space="  ", level=0)
             tree.write(f, encoding="utf-8", xml_declaration=True)
-        print(f"Success: {xml_path} saved fresh. ({count} articles)")
-    else:
-        print(f"No content found for {site['name']}. Old XML file is preserved.")
+        print(f"Success: {xml_path} saved fresh.")
 
 print("\nAll processes completed successfully!")
