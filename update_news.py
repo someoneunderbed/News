@@ -16,7 +16,8 @@ SITELER = []
 SITELER.append({"name": "Civic.am", "url": "https://civic.am/last-news", "xml_filename": "civic.xml", "base_url": "https://civic.am", "logo_url": "https://civic.am/assets/img/logo.svg"})
 SITELER.append({"name": "Oragir.news", "url": "https://oragir.news/hy/materials/all", "xml_filename": "oragirnews.xml", "base_url": "https://oragir.news", "logo_url": "https://st2.oragir.news/header-logo2.png"})
 SITELER.append({"name": "Shamshyan.news", "url": "https://shamshyan.com/hy/articles/all", "xml_filename": "shamshyan.xml", "base_url": "https://shamshyan.com", "logo_url": "https://shamshyan.com/build/assets/logotype.351a3a34.png"})
-SITELER.append({"name": "5tv.am", "url": "https://5tv.am/feed", "xml_filename": "5tv.xml", "base_url": "https://5tv.am", "logo_url": "https://news.5tv.am//storage/settings/main-logo.png"})
+# 5tv.am için doğrudan çalışan aktif alt domain RSS adresi entegre edildi
+SITELER.append({"name": "5tv.am", "url": "https://news.5tv.am/rss", "xml_filename": "5tv.xml", "base_url": "https://5tv.am", "logo_url": "https://news.5tv.am//storage/settings/main-logo.png"})
 SITELER.append({"name": "armenpress.am", "url": "https://armenpress.am/hy/articles", "xml_filename": "armenpress.xml", "base_url": "https://armenpress.am", "logo_url": "https://armenpress.am/assets/companies/armenpress-indigo-hy.svg"})
 SITELER.append({"name": "tert.am", "url": "https://www.tert.am/am/news/rss", "xml_filename": "tert.xml", "base_url": "https://tert.am", "logo_url": "https://tert.am/resources/favicons/apple-icon-precomposed.png"})
 SITELER.append({"name": "radar.am", "url": "https://radar.am/hy/feed/", "xml_filename": "radar.xml", "base_url": "https://radar.am", "logo_url": "https://radar.am/static/radar/images/logo-white.4c8b6b003ba3.svg"})
@@ -41,7 +42,7 @@ for site in SITELER:
     # --- DOĞRUDAN RSS VEREN SİTELER İÇİN ENGELLENMEYEN GEÇİŞ (TERT, RADAR, 5TV) ---
     if site["name"] in ["tert.am", "radar.am", "5tv.am"]:
         rss_content = fetch_html(site["url"])
-        if rss_content and ("<rss" in rss_content or "<feed" in rss_content):
+        if rss_content and ("<rss" in rss_content or "<feed" in rss_content or "<channel" in rss_content):
             xml_path = f"NewsFolder/{site['xml_filename']}"
             if os.path.exists(xml_path): os.remove(xml_path)
             with open(xml_path, "wb") as f:
@@ -73,7 +74,6 @@ for site in SITELER:
     count = 0
     seen_links = set()
 
-    # Arka.am Görselindeki Hatalı Kategori Linklerini Eleme Filtresi
     for a_tag in soup.find_all('a', href=True):
         href = a_tag['href'].strip()
 
@@ -82,7 +82,6 @@ for site in SITELER:
         if site["name"] == "armenpress.am" and not ("/hy/article" in href or "/article" in href): continue
         if site["name"] == "politik.am" and not any(x in href for x in ["/newsfeed", "/news/", "/am/"]): continue
 
-        # ARKA.AM FİLTRESİ: Görseldeki gibi üst kategori menü linklerini tamamen eliyoruz, sadece gerçek haberleri alıyoruz
         if site["name"] == "arka.am":
             if not ("/am/news/" in href or "/news/" in href) or "index.php" in href or href.endswith('/news/'):
                 continue
@@ -92,7 +91,6 @@ for site in SITELER:
         full_link = f"{site['base_url']}{href}" if href.startswith('/') else (href if href.startswith('http') else f"{site['base_url']}/{href}")
         if full_link in seen_links: continue
 
-        # Civic.am İçin Gelişmiş HTML Parçalama Kontrolü
         if site["name"] == "Civic.am":
             for bad_tag in a_tag.find_all(['span', 'div', 'p', 'time', 'small']):
                 bad_tag.decompose()
