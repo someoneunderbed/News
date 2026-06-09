@@ -11,7 +11,6 @@ headers = {
     'Accept-Language': 'hy,am,tr,en;q=0.9'
 }
 
-# Restructured to prevent indentation/NBSP copy-paste syntax bugs completely
 SITELER = []
 SITELER.append({"name": "Civic.am", "url": "https://civic.am/last-news", "xml_filename": "civic.xml", "base_url": "https://civic.am", "logo_url": "https://civic.am/assets/img/logo.svg"})
 SITELER.append({"name": "Oragir.news", "url": "https://oragir.news/hy/materials/all", "xml_filename": "oragirnews.xml", "base_url": "https://oragir.news", "logo_url": "https://st2.oragir.news/header-logo2.png"})
@@ -46,7 +45,7 @@ for site in SITELER:
 
     rss = ET.Element("rss", version="2.0")
     rss.set("xmlns:atom", "http://www.w3.org/2005/Atom")
-    channel = ET.SubElement(rss, "channel")
+    channel = ET.SubElement(rss["channel"] if "channel" in locals() else rss, "channel")
 
     ET.SubElement(channel, "title").text = site['name']
     ET.SubElement(channel, "link").text = site["url"]
@@ -67,7 +66,6 @@ for site in SITELER:
     for a_tag in soup.find_all('a', href=True):
         href = a_tag['href'].strip()
 
-        # Filtreleme Mantığı Güncellendi
         if site["name"] == "Civic.am" and not ("/news/" in href):
             continue
         if site["name"] == "Oragir.news" and not ("/hy/material/" in href):
@@ -80,7 +78,7 @@ for site in SITELER:
             continue
         if site["name"] == "radar.am" and not ("/hy/feed/" in href):
             continue
-        if site["name"] == "politik.am" and not ("/am/newsfeed/" in href):
+        if site["name"] == "politik.am" and not ("/newsfeed" in href or "/news/" in href):
             continue
         if site["name"] == "arka.am" and not ("/am/news/" in href):
             continue
@@ -97,11 +95,25 @@ for site in SITELER:
         if full_link in seen_links:
             continue
 
-        title_text = a_tag.get_text(strip=True)
-        title_text = " ".join(title_text.split())
+        # --- BAŞLIK TEMİZLEME ALGORİTMASI ---
+        if site["name"] == "Civic.am":
+            # Eğer a etiketinin altında div veya span varsa, sadece son metin düğümünü veya p/span elementini almayı dene
+            sub_elements = a_tag.find_all(['span', 'div', 'p'])
+            if sub_elements:
+                # Genellikle asıl başlık metni elementlerin en sonundadır veya belirli sınıfsız düz metindir
+                texts = [el.get_text(strip=True) for el in sub_elements]
+                # En uzun metin parçası muhtemelen başlıktır (tarih ve kategori kısa kelimelerdir)
+                title_text = max(texts, key=len) if texts else a_tag.get_text(strip=True)
+            else:
+                title_text = a_tag.get_text(strip=True)
 
-        # Kesin Başlık Temizleme (Tarih, Saat ve yapışık kategorileri ayıklar)
-        title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s*(Քաղաքականություն|Աշխարհ|Հասարակություն|Տնտեսություն|Մշակույթ|Սպոր্ট|Իրավունք)?\s*', '', title_text)
+            # Garanti olması için genel regex temizliğini tekrar çalıştır (Genişletilmiş Unicode kuralı)
+            title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s*[^\s\d\.\,]{2,20}\s*', '', title_text)
+            title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s*', '', title_text)
+        else:
+            title_text = a_tag.get_text(strip=True)
+            title_text = " ".join(title_text.split())
+            title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s+[^\s]+\s+', '', title_text)
 
         if len(title_text) < 10 or title_text.isdigit():
             continue
