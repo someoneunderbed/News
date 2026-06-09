@@ -5,7 +5,7 @@
     <link>https://politik.am/am/newsfeed/1</link>
     <description>Cleaned RSS feed updated from politik.am.</description>
     <language>hy</language>
-    <lastBuildDate>Tue, 09 Jun 2026 04:03:32 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 05:50:06 -0000</lastBuildDate>
     <image>
       <url>https://politik.am/imgs/page/header-logo-am.png</url>
       <title>politik.am</title>
@@ -16,140 +16,126 @@
       <link>https://politik.am/am/category/real-politik</link>
       <description>Ռեալ պոլիտիկ - Read on politik.am.</description>
       <guid isPermaLink="false">https://politik.am/am/category/real-politik</guid>
-      <pubDate>Tue, 09 Jun 2026 04:03:32 -0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 05:50:06 -0000</pubDate>
     </item>
     <item>
       <title>Ներքին կյանք</title>
       <link>https://politik.am/am/category/nerqin-kyanq</link>
       <description>Ներքին կյանք - Read on politik.am.</description>
       <guid isPermaLink="false">https://politik.am/am/category/nerqin-kyanq</guid>
-      <pubDate>Tue, 09 Jun 2026 04:01:32 -0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 05:48:06 -0000</pubDate>
     </item>
     <item>
       <title>Պաշտոնական</title>
       <link>https://politik.am/am/category/pashtonakan</link>
       <description>Պաշտոնական - Read on politik.am.</description>
       <guid isPermaLink="false">https://politik.am/am/category/pashtonakan</guid>
-      <pubDate>Tue, 09 Jun 2026 03:59:32 -0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 05:46:06 -0000</pubDate>
     </item>
     <item>
       <title>Միջազգային</title>
       <link>https://politik.am/am/category/mijazgayin</link>
       <description>Միջազգային - Read on politik.am.</description>
       <guid isPermaLink="false">https://politik.am/am/category/mijazgayin</guid>
-      <pubDate>Tue, 09 Jun 2026 03:57:32 -0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 05:44:06 -0000</pubDate>
     </item>
     <item>
       <title>No Politik</title>
       <link>https://politik.am/am/category/no-politik</link>
       <description>No Politik - Read on politik.am.</description>
       <guid isPermaLink="false">https://politik.am/am/category/no-politik</guid>
-      <pubDate>Tue, 09 Jun 2026 03:55:32 -0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 05:42:06 -0000</pubDate>
     </item>
     <item>
       <title>Կապ մեզ հետ</title>
       <link>https://politik.am/am/contacts</link>
       <description>Կապ մեզ հետ - Read on politik.am.</description>
       <guid isPermaLink="false">https://politik.am/am/contacts</guid>
-      <pubDate>Tue, 09 Jun 2026 03:53:32 -0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 05:40:06 -0000</pubDate>
     </item>
     <item>
       <title>Գովազդ կայքում</title>
       <link>https://politik.am/am/page/1</link>
       <description>Գովազդ կայքում - Read on politik.am.</description>
       <guid isPermaLink="false">https://politik.am/am/page/1</guid>
-      <pubDate>Tue, 09 Jun 2026 03:51:32 -0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 05:38:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ոչ լեգիտիմ. հայտարարված թվերի ու իրականության սուր բախումը. «Փաստ»</title>
+      <link>https://politik.am/am/voch-legitim-haytararvats-tveri-u-irakanutyan-sur-bakhumy-past</link>
+      <description>Ոչ լեգիտիմ. հայտարարված թվերի ու իրականության սուր բախումը. «Փաստ» - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/voch-legitim-haytararvats-tveri-u-irakanutyan-sur-bakhumy-past</guid>
+      <pubDate>Tue, 09 Jun 2026 05:36:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>Սահմանադրական մեծամասնության բացակայությունը ՔՊ-ում ուրախությամբ են ընդունել. «Հրապարակ»</title>
+      <link>https://politik.am/am/sahmanadrakan-metsamasnutyan-bacakayutyuny-qp-um-urakhutyamb-en-yndunel-hraparak</link>
+      <description>Սահմանադրական մեծամասնության բացակայությունը ՔՊ-ում ուրախությամբ են ընդունել. «Հրապարակ» - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/sahmanadrakan-metsamasnutyan-bacakayutyuny-qp-um-urakhutyamb-en-yndunel-hraparak</guid>
+      <pubDate>Tue, 09 Jun 2026 05:34:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>Դեռ ոչինչ վերջնական որոշված չէ. «Փաստ»</title>
+      <link>https://politik.am/am/der-vochinch-verjnakan-voroshvats-che-past</link>
+      <description>Դեռ ոչինչ վերջնական որոշված չէ. «Փաստ» - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/der-vochinch-verjnakan-voroshvats-che-past</guid>
+      <pubDate>Tue, 09 Jun 2026 05:32:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>Գաբրիել Չեմբերջյանը դատի է տվել ԱՄԻՕ բանկին. 288 մլն դրամի փոխանցման օրինականության հետքերով. «Ժողովուրդ»</title>
+      <link>https://politik.am/am/gabriel-chemberjyany-dati-e-tvel-amio-bankin-288-mln-drami-pokhancman-orinakanutyan-hetqerov-zhoxovurd</link>
+      <description>Գաբրիել Չեմբերջյանը դատի է տվել ԱՄԻՕ բանկին. 288 մլն դրամի փոխանցման օրինականության հետքերով. «Ժողովուրդ» - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/gabriel-chemberjyany-dati-e-tvel-amio-bankin-288-mln-drami-pokhancman-orinakanutyan-hetqerov-zhoxovurd</guid>
+      <pubDate>Tue, 09 Jun 2026 05:30:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>Հետընտրական ի՞նչ ընթացակարգեր են նախատեսված. «Փաստ»</title>
+      <link>https://politik.am/am/hetyntrakan-inch-yntacakarger-en-nakhatesvats-past</link>
+      <description>Հետընտրական ի՞նչ ընթացակարգեր են նախատեսված. «Փաստ» - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/hetyntrakan-inch-yntacakarger-en-nakhatesvats-past</guid>
+      <pubDate>Tue, 09 Jun 2026 05:28:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>ԲՀԿ-ն կանգնել է ՔՊ-ի կոկորդում. «Հրապարակ»</title>
+      <link>https://politik.am/am/bhk-n-kangnel-e-qp-i-kokordum-hraparak</link>
+      <description>ԲՀԿ-ն կանգնել է ՔՊ-ի կոկորդում. «Հրապարակ» - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/bhk-n-kangnel-e-qp-i-kokordum-hraparak</guid>
+      <pubDate>Tue, 09 Jun 2026 05:26:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>Պարտված 3 ուժ 5 տարի բյուջեից փող կստանա․ «Հրապարակ»</title>
+      <link>https://politik.am/am/partvats-3-uzh-5-tari-byujeic-pox-kstana-hraparak</link>
+      <description>Պարտված 3 ուժ 5 տարի բյուջեից փող կստանա․ «Հրապարակ» - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/partvats-3-uzh-5-tari-byujeic-pox-kstana-hraparak</guid>
+      <pubDate>Tue, 09 Jun 2026 05:24:06 -0000</pubDate>
     </item>
     <item>
       <title>Խախտումներին, հետապնդումներին գնահատական տրվելու է. Արամ Վարդևանյան</title>
       <link>https://politik.am/am/khakhtumnerin-hetapndumnerin-gnahatakan-trvelu-e-aram-vardevanyan</link>
       <description>Խախտումներին, հետապնդումներին գնահատական տրվելու է. Արամ Վարդևանյան - Read on politik.am.</description>
       <guid isPermaLink="false">https://politik.am/am/khakhtumnerin-hetapndumnerin-gnahatakan-trvelu-e-aram-vardevanyan</guid>
-      <pubDate>Tue, 09 Jun 2026 03:49:32 -0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 05:22:06 -0000</pubDate>
     </item>
     <item>
       <title>Հայաստանի ժողովուրդը վերահաստատել է վստահությունը Փաշինյանի կառավարության նկատմամբ․ Իրանի նախագահ</title>
       <link>https://politik.am/am/hayastani-zhoxovurdy-verahastatel-e-vstahutyuny-pashinyani-karavarutyan-nkatmamb-irani-nakhagah</link>
       <description>Հայաստանի ժողովուրդը վերահաստատել է վստահությունը Փաշինյանի կառավարության նկատմամբ․ Իրանի նախագահ - Read on politik.am.</description>
       <guid isPermaLink="false">https://politik.am/am/hayastani-zhoxovurdy-verahastatel-e-vstahutyuny-pashinyani-karavarutyan-nkatmamb-irani-nakhagah</guid>
-      <pubDate>Tue, 09 Jun 2026 03:47:32 -0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 05:20:06 -0000</pubDate>
     </item>
     <item>
       <title>Բազմաթիվ ընտրատարածքներում ևս արձանագրվել են բացթողումներ և խախտումներ, որոնց վերաբերյալ փաստերը հավաքագրվում և ուսումնասիրվում են. ԲՀԿ</title>
       <link>https://politik.am/am/bazmativ-yntrataratsqnerum-evs-ardzanagrvel-en-bactoxumner-ev-khakhtumner-voronc-veraberyal-pastery-havaqagrvum</link>
       <description>Բազմաթիվ ընտրատարածքներում ևս արձանագրվել են բացթողումներ և խախտումներ, որոնց վերաբերյալ փաստերը հավաքագրվում և ուսումնասիրվում են. ԲՀԿ - Read on politik.am.</description>
       <guid isPermaLink="false">https://politik.am/am/bazmativ-yntrataratsqnerum-evs-ardzanagrvel-en-bactoxumner-ev-khakhtumner-voronc-veraberyal-pastery-havaqagrvum</guid>
-      <pubDate>Tue, 09 Jun 2026 03:45:32 -0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 05:18:06 -0000</pubDate>
     </item>
     <item>
-      <title>ԿԸՀ-ն վերջնական արդյունքները կհրապարակի հունիսի 14-ին</title>
-      <link>https://politik.am/am/kyh-n-verjnakan-ardyunqnery-khraparaki-hunisi-14-in</link>
-      <description>ԿԸՀ-ն վերջնական արդյունքները կհրապարակի հունիսի 14-ին - Read on politik.am.</description>
-      <guid isPermaLink="false">https://politik.am/am/kyh-n-verjnakan-ardyunqnery-khraparaki-hunisi-14-in</guid>
-      <pubDate>Tue, 09 Jun 2026 03:43:32 -0000</pubDate>
-    </item>
-    <item>
-      <title>Թուրքիայի, Ադրբեջանի և Վրաստանի արտաքին գործերի նախարարները ստորագրել են Ստամբուլի հռչակագիրը</title>
-      <link>https://politik.am/am/turqiayi-adrbejani-ev-vrastani-artaqin-gortseri-nakhararnery-storagrel-en-stambuli-hrchakagiry</link>
-      <description>Թուրքիայի, Ադրբեջանի և Վրաստանի արտաքին գործերի նախարարները ստորագրել են Ստամբուլի հռչակագիրը - Read on politik.am.</description>
-      <guid isPermaLink="false">https://politik.am/am/turqiayi-adrbejani-ev-vrastani-artaqin-gortseri-nakhararnery-storagrel-en-stambuli-hrchakagiry</guid>
-      <pubDate>Tue, 09 Jun 2026 03:41:32 -0000</pubDate>
-    </item>
-    <item>
-      <title>Իսրայելը և Իրանը դադարեցնում միմյանց հարվածելը</title>
-      <link>https://politik.am/am/israyely-ev-irany-dadarecnum-mimyanc-harvatsely</link>
-      <description>Իսրայելը և Իրանը դադարեցնում միմյանց հարվածելը - Read on politik.am.</description>
-      <guid isPermaLink="false">https://politik.am/am/israyely-ev-irany-dadarecnum-mimyanc-harvatsely</guid>
-      <pubDate>Tue, 09 Jun 2026 03:39:32 -0000</pubDate>
-    </item>
-    <item>
-      <title>Մենք վիճարկելու ենք ընտրությունների արդյունքները. Ռոբերտ Քոչարյան</title>
-      <link>https://politik.am/am/menq-vicharkelu-enq-yntrutyunneri-ardyunqnery-robert-qocharyan</link>
-      <description>Մենք վիճարկելու ենք ընտրությունների արդյունքները. Ռոբերտ Քոչարյան - Read on politik.am.</description>
-      <guid isPermaLink="false">https://politik.am/am/menq-vicharkelu-enq-yntrutyunneri-ardyunqnery-robert-qocharyan</guid>
-      <pubDate>Tue, 09 Jun 2026 03:37:32 -0000</pubDate>
-    </item>
-    <item>
-      <title>ԱՄՆ ռազմածովային ուժերն Օմանի մոտ հարձակվել են տանկերի վրա</title>
-      <link>https://politik.am/am/amn-razmatsovayin-uzhern-omani-mot-hardzakvel-en-tankeri-vra</link>
-      <description>ԱՄՆ ռազմածովային ուժերն Օմանի մոտ հարձակվել են տանկերի վրա - Read on politik.am.</description>
-      <guid isPermaLink="false">https://politik.am/am/amn-razmatsovayin-uzhern-omani-mot-hardzakvel-en-tankeri-vra</guid>
-      <pubDate>Tue, 09 Jun 2026 03:35:32 -0000</pubDate>
-    </item>
-    <item>
-      <title>Խոշոր վթար Գեղարքունիքի մարզում. կա 3 տուժած</title>
-      <link>https://politik.am/am/khoshor-vtar-gexarquniqi-marzum-ka-3-tuzhats</link>
-      <description>Խոշոր վթար Գեղարքունիքի մարզում. կա 3 տուժած - Read on politik.am.</description>
-      <guid isPermaLink="false">https://politik.am/am/khoshor-vtar-gexarquniqi-marzum-ka-3-tuzhats</guid>
-      <pubDate>Tue, 09 Jun 2026 03:33:32 -0000</pubDate>
-    </item>
-    <item>
-      <title>«Սուրբ Հովհաննես» մատուռի մոտակայքում քաղաքացին ընկել և վնասել էր ոտքը</title>
-      <link>https://politik.am/am/surb-hovhannes-maturi-motakayqum-qaxaqacin-ynkel-ev-vnasel-er-votqy</link>
-      <description>«Սուրբ Հովհաննես» մատուռի մոտակայքում քաղաքացին ընկել և վնասել էր ոտքը - Read on politik.am.</description>
-      <guid isPermaLink="false">https://politik.am/am/surb-hovhannes-maturi-motakayqum-qaxaqacin-ynkel-ev-vnasel-er-votqy</guid>
-      <pubDate>Tue, 09 Jun 2026 03:31:32 -0000</pubDate>
-    </item>
-    <item>
-      <title>Զելենսկու բաց նամակը «պարունակում է անքաղաքավարության տարրեր»․ Պուտին</title>
-      <link>https://politik.am/am/zelensku-bac-namaky-parunakum-e-anqaxaqavarutyan-tarrer-putin</link>
-      <description>Զելենսկու բաց նամակը «պարունակում է անքաղաքավարության տարրեր»․ Պուտին - Read on politik.am.</description>
-      <guid isPermaLink="false">https://politik.am/am/zelensku-bac-namaky-parunakum-e-anqaxaqavarutyan-tarrer-putin</guid>
-      <pubDate>Tue, 09 Jun 2026 03:29:32 -0000</pubDate>
-    </item>
-    <item>
-      <title>Հունիսի 5, 2026Այսօր սպասվում են նոր ձերբակալություններ ու բացահայտումներ. Փաշինյանը «թույն» ելույթ է ունենալու․ «Իրավունք»</title>
-      <link>https://politik.am/am/aysor-spasvum-en-nor-dzerbakalutyunner-u-bacahaytumner-pashinyany-tuyn-eluyt-e-unenalu-iravunq</link>
-      <description>Հունիսի 5, 2026Այսօր սպասվում են նոր ձերբակալություններ ու բացահայտումներ. Փաշինյանը «թույն» ելույթ է ունենալու․ «Իրավունք» - Read on politik.am.</description>
-      <guid isPermaLink="false">https://politik.am/am/aysor-spasvum-en-nor-dzerbakalutyunner-u-bacahaytumner-pashinyany-tuyn-eluyt-e-unenalu-iravunq</guid>
-      <pubDate>Tue, 09 Jun 2026 03:27:32 -0000</pubDate>
-    </item>
-    <item>
-      <title>Հունիսի 5, 2026Ով կլինի հունիսի 7-ի քաղաքական «սյուրպրիզը». «Ժողովուրդ»</title>
-      <link>https://politik.am/am/vov-klini-hunisi-7-i-qaxaqakan-syurprizy-zhoxovurd</link>
-      <description>Հունիսի 5, 2026Ով կլինի հունիսի 7-ի քաղաքական «սյուրպրիզը». «Ժողովուրդ» - Read on politik.am.</description>
-      <guid isPermaLink="false">https://politik.am/am/vov-klini-hunisi-7-i-qaxaqakan-syurprizy-zhoxovurd</guid>
-      <pubDate>Tue, 09 Jun 2026 03:25:32 -0000</pubDate>
+      <title>Տնտեսություն</title>
+      <link>https://politik.am/am/category/tntesutyun</link>
+      <description>Տնտեսություն - Read on politik.am.</description>
+      <guid isPermaLink="false">https://politik.am/am/category/tntesutyun</guid>
+      <pubDate>Tue, 09 Jun 2026 05:16:06 -0000</pubDate>
     </item>
   </channel>
 </rss>
