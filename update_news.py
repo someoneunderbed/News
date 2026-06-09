@@ -20,7 +20,7 @@ SITELER.append({"name": "Oragir.news", "url": "https://oragir.news/hy/materials/
 SITELER.append({"name": "Shamshyan.news", "url": "https://shamshyan.com/hy/articles/all", "xml_filename": "shamshyan.xml", "base_url": "https://shamshyan.com", "logo_url": "https://shamshyan.com/build/assets/logotype.351a3a34.png"})
 SITELER.append({"name": "5tv.am", "url": "https://news.5tv.am/news-feed", "xml_filename": "5tv.xml", "base_url": "https://news.5tv.am", "logo_url": "https://news.5tv.am//storage/settings/main-logo.png"})
 SITELER.append({"name": "armenpress.am", "url": "https://armenpress.am/hy/articles", "xml_filename": "armenpress.xml", "base_url": "https://armenpress.am", "logo_url": "https://armenpress.am/assets/companies/armenpress-indigo-hy.svg"})
-SITELER.append({"name": "tert.am", "url": "https://tert.am/am/news", "xml_filename": "tert.xml", "base_url": "https://tert.am", "logo_url": "https://tert.am/resources/favicons/apple-icon-precomposed.png"})
+SITELER.append({"name": "tert.am", "url": "https://tert.am/am/news/", "xml_filename": "tert.xml", "base_url": "https://tert.am", "logo_url": "https://tert.am/resources/favicons/apple-icon-precomposed.png"})
 SITELER.append({"name": "radar.am", "url": "https://radar.am/hy/feed/", "xml_filename": "radar.xml", "base_url": "https://radar.am", "logo_url": "https://radar.am/static/radar/images/logo-white.4c8b6b003ba3.svg"})
 SITELER.append({"name": "politik.am", "url": "https://politik.am/am/newsfeed/1", "xml_filename": "politik.xml", "base_url": "https://politik.am", "logo_url": "https://politik.am/imgs/page/header-logo-am.png"})
 SITELER.append({"name": "arka.am", "url": "https://arka.am/am/news/", "xml_filename": "arka.xml", "base_url": "https://arka.am", "logo_url": "https://arka.am/local/templates/arka_new/images/ARKA_LOGO.svg"})
@@ -53,7 +53,7 @@ for site in SITELER:
                 import re
                 # Look for JSON data in script tags or data attributes
                 json_match = re.search(r'<script[^>]*>window\.__INITIAL_STATE__\s*=\s*({.*?})</script>', html_content, re.DOTALL)
-                
+
                 articles = []
                 if not json_match:
                     # Fallback: try to parse links from the HTML anyway
@@ -62,7 +62,7 @@ for site in SITELER:
                         href = a_tag['href'].strip()
                         if '/am/news/' in href:
                             articles.append({'url': href})
-                
+
                 if articles or json_match:
                     rss = ET.Element("rss", version="2.0")
                     channel = ET.SubElement(rss, "channel")
@@ -71,13 +71,13 @@ for site in SITELER:
                     ET.SubElement(channel, "description").text = f"News feed from {site['name']}"
                     ET.SubElement(channel, "language").text = "am"
                     ET.SubElement(channel, "lastBuildDate").text = base_time.strftime("%a, %d %b %Y %H:%M:%S -0000")
-                    
+
                     if "logo_url" in site and site["logo_url"]:
                         image_tag = ET.SubElement(channel, "image")
                         ET.SubElement(image_tag, "url").text = site["logo_url"]
                         ET.SubElement(image_tag, "title").text = site['name']
                         ET.SubElement(image_tag, "link").text = site["url"]
-                    
+
                     # Add at least a placeholder item
                     item = ET.SubElement(channel, "item")
                     ET.SubElement(item, "title").text = "Tert.am News"
@@ -85,7 +85,7 @@ for site in SITELER:
                     ET.SubElement(item, "description").text = "Visit Tert.am for latest news"
                     ET.SubElement(item, "guid", isPermaLink="false").text = site["url"]
                     ET.SubElement(item, "pubDate").text = base_time.strftime("%a, %d %b %Y %H:%M:%S -0000")
-                    
+
                     if os.path.exists(xml_path): os.remove(xml_path)
                     with open(xml_path, "wb") as f:
                         tree = ET.ElementTree(rss)
@@ -96,7 +96,7 @@ for site in SITELER:
                     continue
             except Exception as e:
                 print(f"Tert.am processing error: {e}")
-        
+
         print(f"Skipping {site['name']} update - requires JavaScript rendering")
         continue
 
