@@ -42,20 +42,6 @@ for site in SITELER:
     xml_path = f"NewsFolder/{site['xml_filename']}"
     is_success = False
 
-    # --- TERT.AM: ENGELLENMEYEN GİZLİ RESMİ RSS SERVİSİ ---
-    if site["name"] == "tert.am":
-        rss_content = fetch_html("https://www.tert.am/am/news/rss")
-        if rss_content and ("<rss" in rss_content or "<channel" in rss_content):
-            try:
-                if os.path.exists(xml_path): os.remove(xml_path)
-                with open(xml_path, "wb") as f:
-                    f.write(rss_content.encode('utf-8'))
-                print(f"Success: {xml_path} saved via hidden official RSS service.")
-                is_success = True
-                continue
-            except Exception as e:
-                print(f"Tert RSS backup error: {e}")
-
     # --- RADAR.AM: ENGELLENMEYEN RESMİ RSS BESLEMESİ ---
     if site["name"] == "radar.am":
         rss_content = fetch_html("https://radar.am/hy/feed/")
