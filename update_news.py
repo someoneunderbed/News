@@ -11,7 +11,6 @@ headers = {
     'Accept-Language': 'hy,am,tr,en;q=0.9'
 }
 
-# Sitelerin listesi
 SITELER = []
 SITELER.append({"name": "Civic.am", "url": "https://civic.am/last-news", "xml_filename": "civic.xml", "base_url": "https://civic.am", "logo_url": "https://civic.am/assets/img/logo.svg"})
 SITELER.append({"name": "Oragir.news", "url": "https://oragir.news/hy/materials/all", "xml_filename": "oragirnews.xml", "base_url": "https://oragir.news", "logo_url": "https://st2.oragir.news/header-logo2.png"})
@@ -67,7 +66,7 @@ for site in SITELER:
     for a_tag in soup.find_all('a', href=True):
         href = a_tag['href'].strip()
 
-        # Site Filtreleri
+        # URL Filtreleme Mantığı
         if site["name"] == "Civic.am" and not ("/news/" in href):
             continue
         if site["name"] == "Oragir.news" and not ("/hy/material/" in href):
@@ -80,7 +79,7 @@ for site in SITELER:
             continue
         if site["name"] == "radar.am" and not ("/hy/feed/" in href):
             continue
-        if site["name"] == "politik.am" and not ("/newsfeed" in href or "/news/" in href):
+        if site["name"] == "politik.am" and not ("/newsfeed" in href or "/news/" in href or "/am/" in href):
             continue
         if site["name"] == "arka.am" and not ("/am/news/" in href):
             continue
@@ -97,33 +96,31 @@ for site in SITELER:
         if full_link in seen_links:
             continue
 
-        # --- YENİ KESİN ÇÖZÜM: YAPISAL AYRIŞTIRMA ---
-        # --- SADECE CIVIC.AM İÇİN ANLIK DURUM KONTROLÜ ---
+        # --- YENİ NESİL GELİŞMİŞ BAŞLIK TEMİZLEME ALGORİTMASI ---
         if site["name"] == "Civic.am":
-            raw_text = a_tag.get_text()
-            print(f"SİTEDEN GELEN HAM METİN: -> {raw_text}")
+            # Tarih, saat ve kategori içeren tüm alt elementleri DOM ağacından tamamen siliyoruz
+            for bad_tag in a_tag.find_all(['span', 'div', 'p', 'time', 'small']):
+                bad_tag.decompose()
 
-            # Tüm temizlikleri geçici olarak devre dışı bırakıp sadece düzgün bölünüp bölünmediğine bakalım
-            title_text = "TEST HABER: " + raw_text[:30]
-            # Eğer üstteki yöntem boş dönerse (HTML yapısı değişirse) yedek güvenli filtreye geç
-            if not title_text:
-                title_text = a_tag.get_text(strip=True)
-                title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},?\s*\d{2}:\d{2}', '', title_text).strip()
-        else:
-            # Diğer standart siteler için normal get_text
+            # Kalan saf metni alıyoruz
             title_text = a_tag.get_text(strip=True)
 
-        # Genel temizlik işlemleri
-        title_text = " ".join(title_text.split())
+            # Eğer hala başta yapışık bir şeyler kaldıysa sert temizlik regexi
+            title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},?\s*\d{2}:\d{2}\s*', '', title_text)
+        else:
+            # Standart Siteler İçin Temizlik
+            title_text = a_tag.get_text(strip=True)
+            title_text = " ".join(title_text.split())
+            title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s+[^\s]+\s+', '', title_text)
+            title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s*', '', title_text)
 
-        # Olası tarih kalıntıları için tüm sitelerde çalışan temizlik regexi
-        title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s*', '', title_text)
+        title_text = title_text.strip()
 
-        # Geçersiz başlık kontrolü
+        # Geçersiz ve çok kısa başlıkları ele
         if len(title_text) < 10 or title_text.isdigit():
             continue
 
-        # Resim Ayıklayıcı
+        # Görsel Bulucu Bölümü
         img_url = ""
         img_tag = a_tag.find('img')
         if not img_tag:
@@ -135,7 +132,7 @@ for site in SITELER:
 
         if img_tag and img_tag.get('src'):
             img_src = img_tag['src'].strip()
-            if any(x in img_src for x in ["thumbs/", "storage/", "uploads/", "preview/", "upload/"]):
+            if any(x in img_src for x in ["thumbs/", "storage/", "uploads/", "preview/", "upload/", "assets/"]):
                 img_url = img_src.split()[0]
                 if img_url.startswith('/'):
                     img_url = f"{site['base_url']}{img_url}"
@@ -144,7 +141,7 @@ for site in SITELER:
 
         seen_links.add(full_link)
 
-        # XML Yapısını Oluşturma
+        # XML Elementlerini Ekleme
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = title_text
         ET.SubElement(item, "link").text = full_link
