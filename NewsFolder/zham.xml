@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zham.am</title>
+    <link>https://zham.am/?news_line&amp;l=am</link>
+    <description>Cleaned RSS feed updated from zham.am.</description>
+    <language>hy</language>
+    <lastBuildDate>Tue, 09 Jun 2026 01:51:40 -0000</lastBuildDate>
+    <image>
+      <url>img/logo.png</url>
+      <title>zham.am</title>
+      <link>https://zham.am/?news_line&amp;l=am</link>
+    </image>
+    <item>
+      <title>ԱՄԲՈՂՋ ԼՐԱՀՈՍԸ</title>
+      <link>https://zham.am/?news_line&amp;l=am</link>
+      <description>ԱՄԲՈՂՋ ԼՐԱՀՈՍԸ - Read on zham.am.</description>
+      <guid isPermaLink="false">https://zham.am/?news_line&amp;l=am</guid>
+      <pubDate>Tue, 09 Jun 2026 01:51:40 -0000</pubDate>
+    </item>
+  </channel>
+</rss>
