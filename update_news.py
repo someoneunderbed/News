@@ -98,12 +98,13 @@ for site in SITELER:
             continue
 
         # --- YENİ KESİN ÇÖZÜM: YAPISAL AYRIŞTIRMA ---
+        # --- SADECE CIVIC.AM İÇİN ANLIK DURUM KONTROLÜ ---
         if site["name"] == "Civic.am":
-            # recursive=False diyerek içteki <span> (tarih ve kategori) etiketlerini tamamen bypass ediyoruz.
-            # Sadece <a> etiketinin doğrudan kendi içinde barındırdığı saf başlık metnini alıyoruz.
-            text_parts = a_tag.find_all(string=True, recursive=False)
-            title_text = "".join(text_parts).strip()
+            raw_text = a_tag.get_text()
+            print(f"SİTEDEN GELEN HAM METİN: -> {raw_text}")
 
+            # Tüm temizlikleri geçici olarak devre dışı bırakıp sadece düzgün bölünüp bölünmediğine bakalım
+            title_text = "TEST HABER: " + raw_text[:30]
             # Eğer üstteki yöntem boş dönerse (HTML yapısı değişirse) yedek güvenli filtreye geç
             if not title_text:
                 title_text = a_tag.get_text(strip=True)
