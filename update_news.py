@@ -5,7 +5,6 @@ import urllib.request
 from bs4 import BeautifulSoup
 import re
 
-# Civic ve Tert'i sorunsuz çalıştıran efsane tarayıcı başlığı
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
@@ -16,7 +15,6 @@ SITELER = []
 SITELER.append({"name": "Civic.am", "url": "https://civic.am/last-news", "xml_filename": "civic.xml", "base_url": "https://civic.am", "logo_url": "https://civic.am/assets/img/logo.svg"})
 SITELER.append({"name": "Oragir.news", "url": "https://oragir.news/hy/materials/all", "xml_filename": "oragirnews.xml", "base_url": "https://oragir.news", "logo_url": "https://st2.oragir.news/header-logo2.png"})
 SITELER.append({"name": "Shamshyan.news", "url": "https://shamshyan.com/hy/articles/all", "xml_filename": "shamshyan.xml", "base_url": "https://shamshyan.com", "logo_url": "https://shamshyan.com/build/assets/logotype.351a3a34.png"})
-# 5tv.am için en sorunsuz çalışan ana haber akış sayfası tanımlandı
 SITELER.append({"name": "5tv.am", "url": "https://news.5tv.am/news-feed", "xml_filename": "5tv.xml", "base_url": "https://5tv.am", "logo_url": "https://news.5tv.am//storage/settings/main-logo.png"})
 SITELER.append({"name": "armenpress.am", "url": "https://armenpress.am/hy/articles", "xml_filename": "armenpress.xml", "base_url": "https://armenpress.am", "logo_url": "https://armenpress.am/assets/companies/armenpress-indigo-hy.svg"})
 SITELER.append({"name": "tert.am", "url": "https://tert.am/am/news", "xml_filename": "tert.xml", "base_url": "https://tert.am", "logo_url": "https://tert.am/resources/favicons/apple-icon-precomposed.png"})
@@ -38,21 +36,25 @@ os.makedirs("NewsFolder", exist_ok=True)
 
 for site in SITELER:
     print(f"\n>>> Processing {site['name']}...")
+    xml_path = f"NewsFolder/{site['xml_filename']}"
 
-    # --- RADAR.AM İÇİN OTOMATİK BESLEME GEÇİŞİ ---
+    # --- RADAR.AM OTOMATİK FEED AKIŞI ---
     if site["name"] == "radar.am":
         rss_content = fetch_html(site["url"])
         if rss_content and "<rss" in rss_content:
-            xml_path = f"NewsFolder/{site['xml_filename']}"
             if os.path.exists(xml_path): os.remove(xml_path)
             with open(xml_path, "wb") as f:
                 f.write(rss_content.encode('utf-8'))
             print(f"Success: {xml_path} saved directly from official feed.")
             continue
+        else:
+            print(f"Radar.am feed failed but old file is preserved.")
+            continue
 
     html_content = fetch_html(site["url"])
     if not html_content:
-        print(f"Skipping {site['name']} - empty content.")
+        # KRİTİK DEĞİŞİKLİK: Eğer engel yendiyse eski dosyayı asla silme, döngüyü koru!
+        print(f"Skipping {site['name']} due to connection/Cloudflare block. Old XML preserved.")
         continue
 
     soup = BeautifulSoup(html_content, 'html.parser')
@@ -83,11 +85,8 @@ for site in SITELER:
         if site["name"] == "armenpress.am" and not ("/hy/article" in href or "/article" in href): continue
         if site["name"] == "tert.am" and not ("/news" in href or "/am/news" in href): continue
         if site["name"] == "politik.am" and not any(x in href for x in ["/newsfeed", "/news/", "/am/"]): continue
+        if site["name"] == "5tv.am" and not any(x in href for x in ["/news/", "/v/", "news-feed"]): continue
 
-        # 5tv.am için link yakalama kriteri en stabil düzeye çekildi
-        if site["name"] == "5tv.am" and not ("/news/" in href or "/v/" in href): continue
-
-        # Arka.am menü temizliği
         if site["name"] == "arka.am":
             if not ("/am/news/" in href or "/news/" in href) or "index.php" in href or href.endswith('/news/'):
                 continue
@@ -97,7 +96,6 @@ for site in SITELER:
         full_link = f"{site['base_url']}{href}" if href.startswith('/') else (href if href.startswith('http') else f"{site['base_url']}/{href}")
         if full_link in seen_links: continue
 
-        # Civic.am Zaman ve Başlık Ayrıştırma DOM Robotu
         if site["name"] == "Civic.am":
             for bad_tag in a_tag.find_all(['span', 'div', 'p', 'time', 'small']):
                 bad_tag.decompose()
@@ -132,12 +130,13 @@ for site in SITELER:
         if count >= 20: break
 
     if count > 0:
-        xml_path = f"NewsFolder/{site['xml_filename']}"
         if os.path.exists(xml_path): os.remove(xml_path)
         with open(xml_path, "wb") as f:
             tree = ET.ElementTree(rss)
             ET.indent(tree, space="  ", level=0)
             tree.write(f, encoding="utf-8", xml_declaration=True)
         print(f"Success: {xml_path} saved fresh. ({count} articles)")
+    else:
+        print(f"No content found for {site['name']}. Old XML file is preserved.")
 
 print("\nAll processes completed successfully!")
