@@ -1,5 +1,5 @@
 import os
-import xml.etree.ElementTree as
+import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 import urllib.request
 from bs4 import BeautifulSoup
@@ -66,34 +66,26 @@ for site in SITELER:
 
     for a_tag in soup.find_all('a', href=True):
         href = a_tag['href'].strip()
-#  Burası Önemli Burada da değişiklik yapılmalı ve bitti!
-        if site["name"] == "Civic.am":
-            if not ("/news/" in href):
-                continue
-        if site["name"] == "Oragir.news":
-            if not ("/hy/material/" in href):
-                continue
-        if site["name"] == "5tv.am":
-            if not ("/news-feed" in href):
-                continue
-        if site["name"] == "armenpress.am/hy":
-            if not ("/hy/articles" in href):
-                continue
-        if site["name"] == "tert.am":
-            if not ("/am/news" in href):
-                continue
-        if site["name"] == "radar.am":
-            if not ("/hy/feed/" in href):
-                continue
-        if site["name"] == "politik.am":
-            if not ("/am/newsfeed/1" in href):
-                continue
-        if site["name"] == "arka.am":
-            if not ("/am/news/" in href):
-                continue
-        if site["name"] == "Shamshyan.news":
-            if not ("/hy/article/" in href or "/article/" in href):
-                continue
+
+        # Filtreleme Mantığı Güncellendi
+        if site["name"] == "Civic.am" and not ("/news/" in href):
+            continue
+        if site["name"] == "Oragir.news" and not ("/hy/material/" in href):
+            continue
+        if site["name"] == "5tv.am" and not ("/news-feed" in href):
+            continue
+        if site["name"] == "armenpress.am" and not ("/hy/articles" in href):
+            continue
+        if site["name"] == "tert.am" and not ("/am/news" in href):
+            continue
+        if site["name"] == "radar.am" and not ("/hy/feed/" in href):
+            continue
+        if site["name"] == "politik.am" and not ("/am/newsfeed/" in href):
+            continue
+        if site["name"] == "arka.am" and not ("/am/news/" in href):
+            continue
+        if site["name"] == "Shamshyan.news" and not ("/hy/article/" in href or "/article/" in href):
+            continue
 
         if href.startswith('/'):
             full_link = f"{site['base_url']}{href}"
@@ -107,7 +99,9 @@ for site in SITELER:
 
         title_text = a_tag.get_text(strip=True)
         title_text = " ".join(title_text.split())
-        title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s+[^\s]+\s+', '', title_text)
+
+        # Kesin Başlık Temizleme (Tarih, Saat ve yapışık kategorileri ayıklar)
+        title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s*(Քաղաքականություն|Աշխարհ|Հասարակություն|Տնտեսություն|Մշակույթ|Սպոր্ট|Իրավունք)?\s*', '', title_text)
 
         if len(title_text) < 10 or title_text.isdigit():
             continue
@@ -123,7 +117,7 @@ for site in SITELER:
 
         if img_tag and img_tag.get('src'):
             img_src = img_tag['src'].strip()
-            if "thumbs/" in img_src or "storage/" in img_src or "uploads/" in img_src or "preview/" in img_src:
+            if "thumbs/" in img_src or "storage/" in img_src or "uploads/" in img_src or "preview/" in img_src or "upload/" in img_src:
                 img_url = img_src.split()[0]
                 if img_url.startswith('/'):
                     img_url = f"{site['base_url']}{img_url}"
