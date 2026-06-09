@@ -5,19 +5,19 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Tue, 09 Jun 2026 12:47:44 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 16:10:06 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
       <link>https://armenpress.am/hy/articles</link>
     </image>
     <item>
-      <title>Երևան19 °C</title>
+      <title>Երևան17 °C</title>
       <link>https://armenpress.am/hy/articles/weather</link>
-      <description>Երևան19 °C - Read on armenpress.am.</description>
+      <description>Երևան17 °C - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
-      <enclosure url="https://armenpress.am/assets/weather/10d.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 09 Jun 2026 12:47:44 -0000</pubDate>
+      <enclosure url="https://armenpress.am/assets/weather/10n.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 09 Jun 2026 16:10:06 -0000</pubDate>
     </item>
     <item>
       <title>USD / AMD368.45</title>
@@ -25,7 +25,7 @@
       <description>USD / AMD368.45 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 09 Jun 2026 12:45:44 -0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 16:08:06 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
@@ -33,7 +33,7 @@
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
       <enclosure url="https://armenpress.am/assets/icons/newsPaperIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 09 Jun 2026 12:43:44 -0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 16:06:06 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
@@ -41,7 +41,7 @@
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
       <enclosure url="https://armenpress.am/assets/icons/newsPaperIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 09 Jun 2026 12:41:44 -0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 16:04:06 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
@@ -49,15 +49,15 @@
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
       <enclosure url="https://armenpress.am/assets/icons/newsPaperIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 09 Jun 2026 12:39:44 -0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 16:02:06 -0000</pubDate>
     </item>
     <item>
       <title>կարդալ ավելին</title>
       <link>https://armenpress.am/hy/articles?page=2</link>
       <description>կարդալ ավելին - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles?page=2</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/09/BfJ8CuRFqALRjiQLbiMR0YZKJGwHqnv26bVDhsk7.webp" length="1000000" type="image/webp" />
-      <pubDate>Tue, 09 Jun 2026 12:37:44 -0000</pubDate>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/09/X7XNdbgY5c6DjOCPuzv51SXe0i6J3zlvSpNi4lWW.webp" length="1000000" type="image/webp" />
+      <pubDate>Tue, 09 Jun 2026 16:00:06 -0000</pubDate>
     </item>
   </channel>
 </rss>
