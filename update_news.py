@@ -9,7 +9,9 @@ import json
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-    'Accept-Language': 'hy-AM,hy;q=0.9,en-US;q=0.8,en;q=0.7'
+    'Accept-Language': 'hy-AM,hy;q=0.9,en-US;q=0.8,en;q=0.7',
+    'Cache-Control': 'no-cache',
+    'Pragma': 'no-cache'
 }
 
 SITELER = []
@@ -38,14 +40,25 @@ os.makedirs("NewsFolder", exist_ok=True)
 for site in SITELER:
     print(f"\n>>> Processing {site['name']}...")
 
-    # --- RADAR.AM İÇİN ENGELLENMEYEN RESMİ RSS BESLEMESİ ---
+    # --- TERT.AM: ENGELLENMEYEN GİZLİ RESMİ RSS SERVİSİ ---
+    if site["name"] == "tert.am":
+        rss_content = fetch_html("https://www.tert.am/am/news/rss")
+        if rss_content:
+            try:
+                xml_path = f"NewsFolder/{site['xml_filename']}"
+                if os.path.exists(xml_path): os.remove(xml_path)
+                with open(xml_path, "wb") as f:
+                    f.write(rss_content.encode('utf-8'))
+                print(f"Success: {xml_path} saved via hidden official RSS service.")
+                continue
+            except Exception as e:
+                print(f"Tert RSS backup error: {e}")
+
+    # --- RADAR.AM: ENGELLENMEYEN RESMİ RSS BESLEMESİ ---
     if site["name"] == "radar.am":
-        # Radar.am kendi korumasız RSS çıktısını veriyor, doğrudan onu çekip kopyalayalım
         rss_content = fetch_html("https://radar.am/hy/feed/")
         if rss_content:
             try:
-                root = ET.fromstring(rss_content.encode('utf-8'))
-                # Gereksiz atom linklerini temizle ya da direkt yaz
                 xml_path = f"NewsFolder/{site['xml_filename']}"
                 if os.path.exists(xml_path): os.remove(xml_path)
                 with open(xml_path, "wb") as f:
@@ -53,8 +66,68 @@ for site in SITELER:
                 print(f"Success: {xml_path} saved directly from official feed.")
                 continue
             except Exception as e:
-                print(f"Radar RSS parse error: {e}, switching to fallback.")
+                print(f"Radar RSS error: {e}")
 
+    # --- CIVIC.AM: ENGELLENMEYEN GİZLİ VERİ API'SI ---
+    if site["name"] == "Civic.am":
+        # Sitenin korumasız ham veri API'sinden güncel makaleleri çekiyoruz
+        api_content = fetch_html("https://civic.am/api/posts?limit=20")
+        if api_content:
+            try:
+                data = json.loads(api_content)
+                # Eğer standart JSON listesiyse veya 'data' key'i altındaysa normalize et
+                posts = data.get('data', data) if isinstance(data, dict) else data
+
+                if isinstance(posts, list) and len(posts) > 0:
+                    rss = ET.Element("rss", version="2.0")
+                    channel = ET.SubElement(rss, "channel")
+                    ET.SubElement(channel, "title").text = site['name']
+                    ET.SubElement(channel, "link").text = site["url"]
+                    ET.SubElement(channel, "description").text = f"Cleaned RSS feed from {site['name']} API."
+                    ET.SubElement(channel, "language").text = "hy"
+                    ET.SubElement(channel, "lastBuildDate").text = base_time.strftime("%a, %d %b %Y %H:%M:%S -0000")
+
+                    if "logo_url" in site and site["logo_url"]:
+                        image_tag = ET.SubElement(channel, "image")
+                        ET.SubElement(image_tag, "url").text = site["logo_url"]
+                        ET.SubElement(image_tag, "title").text = site['name']
+                        ET.SubElement(image_tag, "link").text = site["url"]
+
+                    for idx, post in enumerate(posts[:20]):
+                        title_text = post.get('title', post.get('name', '')).strip()
+                        slug = post.get('slug', str(post.get('id', '')))
+                        full_link = f"https://civic.am/news/{slug}"
+
+                        # API'den gelen verilerde yapışık tarih/kategori derdi olmaz, başlık tertemizdir
+                        if len(title_text) < 10: continue
+
+                        item = ET.SubElement(channel, "item")
+                        ET.SubElement(item, "title").text = title_text
+                        ET.SubElement(item, "link").text = full_link
+                        ET.SubElement(item, "description").text = f"{title_text} - Read on {site['name']}."
+                        ET.SubElement(item, "guid", isPermaLink="false").text = full_link
+
+                        # Resim kontrolü
+                        img_path = post.get('image', post.get('img', post.get('avatar', '')))
+                        if img_path:
+                            img_url = f"https://civic.am{img_path}" if img_path.startswith('/') else img_path
+                            ET.SubElement(item, "enclosure", url=img_url, length="1000000", type="image/jpeg")
+
+                        pub_time = base_time - timedelta(minutes=(idx * 2))
+                        ET.SubElement(item, "pubDate").text = pub_time.strftime("%a, %d %b %Y %H:%M:%S -0000")
+
+                    xml_path = f"NewsFolder/{site['xml_filename']}"
+                    if os.path.exists(xml_path): os.remove(xml_path)
+                    with open(xml_path, "wb") as f:
+                        tree = ET.ElementTree(rss)
+                        ET.indent(tree, space="  ", level=0)
+                        tree.write(f, encoding="utf-8", xml_declaration=True)
+                    print(f"Success: {xml_path} has been saved fresh via JSON API.")
+                    continue
+            except Exception as e:
+                print(f"Civic API parsing failed: {e}, falling back to scraping.")
+
+    # --- DIĞER STANDART SİTELER İÇİN NORMAL HTML KAZIMA AKIŞI ---
     html_content = fetch_html(site["url"])
     if not html_content:
         print(f"Skipping {site['name']} - empty content.")
@@ -82,8 +155,7 @@ for site in SITELER:
     count = 0
     seen_links = set()
 
-    # --- ARMENPRESS.AM İÇİN KRİTİK DEĞİŞİKLİK ---
-    # Armenpress ana sayfasında linkler artık /hy/article yerine doğrudan 'article' içeren sınıflarda toplanıyor
+    # Armenpress Özel Blok Yakalayıcı
     if site["name"] == "armenpress.am":
         items = soup.find_all(['div', 'article', 'a'], class_=re.compile(r'news|item|article', re.IGNORECASE))
         for item in items:
@@ -100,7 +172,6 @@ for site in SITELER:
 
             title_text = " ".join(title_text.split())
             title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s*', '', title_text)
-
             if len(title_text) < 10: continue
 
             img_url = ""
@@ -130,98 +201,52 @@ for site in SITELER:
                 tree.write(f, encoding="utf-8", xml_declaration=True)
             continue
 
-    # --- TERT.AM VE CIVIC.AM DAHİL DİĞER STANDART SİTELER DÖNGÜSÜ ---
+    # Diğer Standart Siteler İçin Tarama Döngüsü
     for a_tag in soup.find_all('a', href=True):
         href = a_tag['href'].strip()
 
-        if site["name"] == "Civic.am" and not ("/news/" in href):
-            continue
-        if site["name"] == "Oragir.news" and not ("/hy/material/" in href):
-            continue
-        if site["name"] == "5tv.am":
-            if not any(x in href for x in ["/news/", "/v/"]): continue
-        if site["name"] == "tert.am" and not ("/news" in href or "/am/" in href or "am/news" in href):
-            continue
-        if site["name"] == "politik.am" and not ("/newsfeed" in href or "/news/" in href or "/am/" in href):
-            continue
-        if site["name"] == "arka.am" and not ("/am/news/" in href or "/news/" in href):
-            continue
-        if site["name"] == "Shamshyan.news" and not ("/hy/article/" in href or "/article/" in href):
-            continue
+        if site["name"] == "Oragir.news" and not ("/hy/material/" in href): continue
+        if site["name"] == "5tv.am" and not any(x in href for x in ["/news/", "/v/"]): continue
+        if site["name"] == "politik.am" and not any(x in href for x in ["/newsfeed", "/news/", "/am/"]): continue
+        if site["name"] == "arka.am" and not any(x in href for x in ["/am/news/", "/news/"]): continue
+        if site["name"] == "Shamshyan.news" and not any(x in href for x in ["/hy/article/", "/article/"]): continue
 
-        if href.startswith('/'):
-            full_link = f"{site['base_url']}{href}"
-        elif href.startswith('http'):
-            full_link = href
-        else:
-            full_link = f"{site['base_url']}/{href}"
+        full_link = f"{site['base_url']}{href}" if href.startswith('/') else (href if href.startswith('http') else f"{site['base_url']}/{href}")
+        if full_link in seen_links: continue
 
-        if full_link in seen_links:
-            continue
+        title_text = a_tag.get_text(strip=True)
+        title_text = " ".join(title_text.split())
+        title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s+[^\s]+\s+', '', title_text)
+        title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s*', '', title_text).strip()
 
-        # Civic.am Cerrahi DOM Temizliği
-        if site["name"] == "Civic.am":
-            for bad_tag in a_tag.find_all(['span', 'div', 'p', 'time', 'small']):
-                bad_tag.decompose()
-            title_text = a_tag.get_text(strip=True)
-            title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},?\s*\d{2}:\d{2}\s*', '', title_text)
-        else:
-            title_text = a_tag.get_text(strip=True)
-            title_text = " ".join(title_text.split())
-            title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s+[^\s]+\s+', '', title_text)
-            title_text = re.sub(r'^\d{2}\.\d{2}\.\d{4},\s+\d{2}:\d{2}\s*', '', title_text)
-
-        title_text = title_text.strip()
-
-        if len(title_text) < 10 or title_text.isdigit():
-            continue
+        if len(title_text) < 10 or title_text.isdigit(): continue
 
         img_url = ""
-        img_tag = a_tag.find('img')
-        if not img_tag:
-            parent = a_tag.parent
-            if parent:
-                img_tag = parent.find('img')
-                if not img_tag and parent.parent:
-                    img_tag = parent.parent.find('img')
-
+        img_tag = a_tag.find('img') or (a_tag.parent.find('img') if a_tag.parent else None)
         if img_tag and img_tag.get('src'):
-            img_src = img_tag['src'].strip()
-            if any(x in img_src for x in ["thumbs/", "storage/", "uploads/", "preview/", "upload/", "assets/"]):
-                img_url = img_src.split()[0]
-                if img_url.startswith('/'): img_url = f"{site['base_url']}{img_url}"
-                elif not img_url.startswith('http'): img_url = f"{site['base_url']}/{img_url}"
+            img_src = img_tag['src'].strip().split()[0]
+            img_url = f"{site['base_url']}{img_src}" if img_src.startswith('/') else (img_src if img_src.startswith('http') else f"{site['base_url']}/{img_src}")
 
         seen_links.add(full_link)
-
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = title_text
         ET.SubElement(item, "link").text = full_link
         ET.SubElement(item, "description").text = f"{title_text} - Read on {site['name']}."
         ET.SubElement(item, "guid", isPermaLink="false").text = full_link
-
-        if img_url:
-            img_type = "image/webp" if "webp" in img_url else "image/jpeg"
-            ET.SubElement(item, "enclosure", url=img_url, length="1000000", type=img_type)
-
+        if img_url: ET.SubElement(item, "enclosure", url=img_url, length="1000000", type="image/jpeg")
         pub_time = base_time - timedelta(minutes=(count * 2))
         ET.SubElement(item, "pubDate").text = pub_time.strftime("%a, %d %b %Y %H:%M:%S -0000")
 
         count += 1
-        if count >= 20:
-            break
+        if count >= 20: break
 
     if count > 0:
-        tree = ET.ElementTree(rss)
-        ET.indent(tree, space="  ", level=0)
-
         xml_path = f"NewsFolder/{site['xml_filename']}"
         if os.path.exists(xml_path): os.remove(xml_path)
-
         with open(xml_path, "wb") as f:
+            tree = ET.ElementTree(rss)
+            ET.indent(tree, space="  ", level=0)
             tree.write(f, encoding="utf-8", xml_declaration=True)
         print(f"Success: {xml_path} has been saved fresh. ({count} articles)")
-    else:
-        print(f"Error: No matching elements found for {site['name']}.")
 
 print("\nAll processes completed successfully!")
