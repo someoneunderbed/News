@@ -5,19 +5,19 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Thu, 11 Jun 2026 23:44:08 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 04:51:23 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
       <link>https://armenpress.am/hy/articles</link>
     </image>
     <item>
-      <title>Երևան15 °C</title>
+      <title>Երևան18 °C</title>
       <link>https://armenpress.am/hy/articles/weather</link>
-      <description>Երևան15 °C - Read on armenpress.am.</description>
+      <description>Երևան18 °C - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
-      <enclosure url="https://armenpress.am/assets/weather/10n.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 11 Jun 2026 23:44:08 -0000</pubDate>
+      <enclosure url="https://armenpress.am/assets/weather/10d.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 12 Jun 2026 04:51:23 -0000</pubDate>
     </item>
     <item>
       <title>USD / AMD368.42</title>
@@ -25,28 +25,36 @@
       <description>USD / AMD368.42 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 11 Jun 2026 23:42:08 -0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 04:49:23 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
       <link>https://armenpress.am/hy/articles/fact-check</link>
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Thu, 11 Jun 2026 23:40:08 -0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 04:47:23 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
       <link>https://armenpress.am/hy/articles/projects</link>
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Thu, 11 Jun 2026 23:38:08 -0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 04:45:23 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://armenpress.am/hy/articles/interviews</link>
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Thu, 11 Jun 2026 23:36:08 -0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 04:43:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>08:15ՍպորտՄունդիալ-2026. Կորեան առաջին խաղում հաղթեց Չեխիային</title>
+      <link>https://armenpress.am/hy/article/1252813</link>
+      <description>08:15ՍպորտՄունդիալ-2026. Կորեան առաջին խաղում հաղթեց Չեխիային - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1252813</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/12/4EPIgOQn7YcM8twQH2PqdZPqpSm6L9uaiWJGm446.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 12 Jun 2026 04:41:23 -0000</pubDate>
     </item>
     <item>
       <title>01:06ՍպորտՄունդիալ-2026. Առաջին խաղում երեք կարմիր քարտ ու Մեքսիկայի հաղթանակը</title>
@@ -54,7 +62,7 @@
       <description>01:06ՍպորտՄունդիալ-2026. Առաջին խաղում երեք կարմիր քարտ ու Մեքսիկայի հաղթանակը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1252812</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/12/tNXZAHBReRfpztODq6ZLGZe3L9OQhDRapCJExJpj.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 11 Jun 2026 23:34:08 -0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 04:39:23 -0000</pubDate>
     </item>
     <item>
       <title>23:16, 11 հունիսիՍպորտԺոզե Մոուրինյոն նշանակվել է Մադրիդի «Ռեալ»-ի գլխավոր մարզիչ</title>
@@ -62,7 +70,7 @@
       <description>23:16, 11 հունիսիՍպորտԺոզե Մոուրինյոն նշանակվել է Մադրիդի «Ռեալ»-ի գլխավոր մարզիչ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1252811</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/11/JyRaGOtosWUxGIvEpmUDpr1mMo5PJQTiv0UqXLcT.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 11 Jun 2026 23:32:08 -0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 04:37:23 -0000</pubDate>
     </item>
     <item>
       <title>23:05, 11 հունիսիՍպորտԼատինական շունչ ու ֆուտբոլային կիրք. կայացավ «Մունդիալ-2026»-ի մեքսիկական հատվածի բացման արարողությունը</title>
@@ -70,7 +78,7 @@
       <description>23:05, 11 հունիսիՍպորտԼատինական շունչ ու ֆուտբոլային կիրք. կայացավ «Մունդիալ-2026»-ի մեքսիկական հատվածի բացման արարողությունը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1252810</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/11/fDnUeNMeHT4fKVg9ZFZHR8X1ZGbsomBc78MlF3h0.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 11 Jun 2026 23:30:08 -0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 04:35:23 -0000</pubDate>
     </item>
     <item>
       <title>23:00, 11 հունիսիՔաղաքականությունԿԸՀ-ն 2 ընտրատեղամասի քվեարկության արդյունքներն անվավեր է ճանաչել</title>
@@ -78,7 +86,7 @@
       <description>23:00, 11 հունիսիՔաղաքականությունԿԸՀ-ն 2 ընտրատեղամասի քվեարկության արդյունքներն անվավեր է ճանաչել - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1252809</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/11/PhTaIEblnUIiyQGE3RGMxEKqkFr9swJUoOxPyw4f.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 11 Jun 2026 23:28:08 -0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 04:33:23 -0000</pubDate>
     </item>
     <item>
       <title>21:59, 11 հունիսիՄիացյալ ՆահանգներԱՄՆ-ն պատժամիջոցներ է սահմանել Կուբայի նավթագազային ընկերության նկատմամբ</title>
@@ -86,7 +94,7 @@
       <description>21:59, 11 հունիսիՄիացյալ ՆահանգներԱՄՆ-ն պատժամիջոցներ է սահմանել Կուբայի նավթագազային ընկերության նկատմամբ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1252806</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/11/NuBPYa6OwrK5P9Z4KrmaFkYQZJfqvsNHmUMnTKa9.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 11 Jun 2026 23:26:08 -0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 04:31:23 -0000</pubDate>
     </item>
     <item>
       <title>21:52, 11 հունիսիԻրանԱՄՆ նախագահը հայտարարել է Իրանին հարվածելու ծրագրերի չեղարկման մասին</title>
@@ -94,7 +102,7 @@
       <description>21:52, 11 հունիսիԻրանԱՄՆ նախագահը հայտարարել է Իրանին հարվածելու ծրագրերի չեղարկման մասին - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1252808</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/11/WCJbV3VTof4UoIXdoXvSPAR0jEWxagCwL2u4ptb4.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 11 Jun 2026 23:24:08 -0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 04:29:23 -0000</pubDate>
     </item>
     <item>
       <title>21:45, 11 հունիսիԱշխարհVolkswagen-ը կկրճատի 19 հազար աշխատակցի</title>
@@ -102,7 +110,7 @@
       <description>21:45, 11 հունիսիԱշխարհVolkswagen-ը կկրճատի 19 հազար աշխատակցի - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1252797</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/11/5BUNTdRyvf9bonXlrFUwzBQ4HCjmnXEw63k83yti.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 11 Jun 2026 23:22:08 -0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 04:27:23 -0000</pubDate>
     </item>
     <item>
       <title>21:38, 11 հունիսիՀայաստանՔննարկվել են COP17-ի հարթակի, կիբեռանվտանգության և նախարարության ծառայությունների թվայնացման բարեփոխումների հարցերը</title>
@@ -110,7 +118,7 @@
       <description>21:38, 11 հունիսիՀայաստանՔննարկվել են COP17-ի հարթակի, կիբեռանվտանգության և նախարարության ծառայությունների թվայնացման բարեփոխումների հարցերը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1252807</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/11/uTYO0kNXGf1w6CZ0Du2vM4aBd88JqxtIWHL2SqG9.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 11 Jun 2026 23:20:08 -0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 04:25:23 -0000</pubDate>
     </item>
     <item>
       <title>21:30, 11 հունիսիՄիացյալ ՆահանգներՍիրիայի նախագահը Դոնալդ Թրամփի հրավերով կայցելի Վաշինգտոն</title>
@@ -118,7 +126,7 @@
       <description>21:30, 11 հունիսիՄիացյալ ՆահանգներՍիրիայի նախագահը Դոնալդ Թրամփի հրավերով կայցելի Վաշինգտոն - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1252803</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/11/Q3bF139b3Szh9FqtSOQ9adbWFnCh6Z6XdkghVWiZ.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 11 Jun 2026 23:18:08 -0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 04:23:23 -0000</pubDate>
     </item>
     <item>
       <title>21:13, 11 հունիսիՀայաստանՀրազդան և Սևան քաղաքներում կդիտվեն հորդառատ անձրևներ</title>
@@ -126,7 +134,7 @@
       <description>21:13, 11 հունիսիՀայաստանՀրազդան և Սևան քաղաքներում կդիտվեն հորդառատ անձրևներ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1252805</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/11/qXWuSZg7gPAO12hHcBmh9hU94UuvA4GY9ZpRpkyh.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 11 Jun 2026 23:16:08 -0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 04:21:23 -0000</pubDate>
     </item>
     <item>
       <title>21:01, 11 հունիսիՀայաստանԱրարատի բժշկական կենտրոնին տրամադրվել է համակարգչային շերտագրման սարք</title>
@@ -134,7 +142,7 @@
       <description>21:01, 11 հունիսիՀայաստանԱրարատի բժշկական կենտրոնին տրամադրվել է համակարգչային շերտագրման սարք - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1252802</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/11/oamlwXzsPMYrgaw3QoHg6IhoqkE3VjneKEAxyDFI.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 11 Jun 2026 23:14:08 -0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 04:19:23 -0000</pubDate>
     </item>
     <item>
       <title>20:54, 11 հունիսիԱշխարհԻսրայելի բանակը օպերատիվ վերահսկողություն է հաստատել Լիբանանի հարավում</title>
@@ -142,7 +150,7 @@
       <description>20:54, 11 հունիսիԱշխարհԻսրայելի բանակը օպերատիվ վերահսկողություն է հաստատել Լիբանանի հարավում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1252799</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/11/kPLlStZmijOxfsyTP0FHm8mO0qNXcFdon6ovnj4k.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 11 Jun 2026 23:12:08 -0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 04:17:23 -0000</pubDate>
     </item>
     <item>
       <title>20:49, 11 հունիսիՀայաստանԵրևան-Սևան ավտոճանապարհին կայծակի հարվածից կամուրջ է փլուզվել. տուժածներ չկան</title>
@@ -150,7 +158,7 @@
       <description>20:49, 11 հունիսիՀայաստանԵրևան-Սևան ավտոճանապարհին կայծակի հարվածից կամուրջ է փլուզվել. տուժածներ չկան - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1252804</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/11/yuWxW93CvWzYAmpHN8AOy2wJg04YypVZHeqvomXr.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 11 Jun 2026 23:10:08 -0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 04:15:23 -0000</pubDate>
     </item>
     <item>
       <title>20:36, 11 հունիսիԱշխարհԲուլղարիայում ոչնչացվել են ափամերձ գոտում հայտնաբերված անհայտ անօդաչու թռչող սարքի մնացորդներ</title>
@@ -158,15 +166,7 @@
       <description>20:36, 11 հունիսիԱշխարհԲուլղարիայում ոչնչացվել են ափամերձ գոտում հայտնաբերված անհայտ անօդաչու թռչող սարքի մնացորդներ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1252794</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/11/qQPQYnJHn74U4kS7f1Xn8hAizk5g1VyTfZELWt2N.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 11 Jun 2026 23:08:08 -0000</pubDate>
-    </item>
-    <item>
-      <title>20:19, 11 հունիսիՀայաստանԳյումրիի «Մայր Հայաստան» համալիրի պոկված տառերի առնչությամբ ՀՀ ոստիկանությունը ձեռնարկում է միջոցառումներ</title>
-      <link>https://armenpress.am/hy/article/1252801</link>
-      <description>20:19, 11 հունիսիՀայաստանԳյումրիի «Մայր Հայաստան» համալիրի պոկված տառերի առնչությամբ ՀՀ ոստիկանությունը ձեռնարկում է միջոցառումներ - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1252801</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/11/YhlRf7RjJITB4MxhcrLWAhZNLuCi5vipjxaCYE9b.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 11 Jun 2026 23:06:08 -0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 04:13:23 -0000</pubDate>
     </item>
   </channel>
 </rss>
