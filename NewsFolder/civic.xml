@@ -5,7 +5,7 @@
     <link>https://civic.am/last-news</link>
     <description>Cleaned RSS feed updated from Civic.am.</description>
     <language>hy</language>
-    <lastBuildDate>Tue, 30 Jun 2026 15:37:13 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 20:30:53 -0000</lastBuildDate>
     <image>
       <url>https://civic.am/assets/img/logo.svg</url>
       <title>Civic.am</title>
@@ -17,7 +17,7 @@
       <description>Վերջին լուրեր - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/last-news</guid>
       <enclosure url="https://civic.am/media/2024/06/04/54e0b527ad56ef4fc6dbee0929416a08173e97a2.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 30 Jun 2026 15:37:13 -0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 20:30:53 -0000</pubDate>
     </item>
     <item>
       <title>Քաղաքականություն</title>
@@ -25,7 +25,7 @@
       <description>Քաղաքականություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/politics</guid>
       <enclosure url="https://civic.am/media/2024/06/04/ee9d67f3bae2933126d54f7ed12f02ac869e2746.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 30 Jun 2026 15:35:13 -0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 20:28:53 -0000</pubDate>
     </item>
     <item>
       <title>Տնտեսություն</title>
@@ -33,7 +33,7 @@
       <description>Տնտեսություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/economy</guid>
       <enclosure url="https://civic.am/media/2024/06/04/6250050b286fb0f4d5ca02a2960ff947fae23145.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 30 Jun 2026 15:33:13 -0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 20:26:53 -0000</pubDate>
     </item>
     <item>
       <title>Հասարակություն</title>
@@ -41,7 +41,7 @@
       <description>Հասարակություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/society</guid>
       <enclosure url="https://civic.am/media/2024/06/04/a8c5d5498c6320597fb01c9cdf47748c74e9f67c.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 30 Jun 2026 15:31:13 -0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 20:24:53 -0000</pubDate>
     </item>
     <item>
       <title>Պաշտոնական</title>
@@ -49,7 +49,7 @@
       <description>Պաշտոնական - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/official</guid>
       <enclosure url="https://civic.am/media/2024/06/04/aba87cc2532bd0ceeaa3ca740a996a96c8d862c2.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 30 Jun 2026 15:29:13 -0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 20:22:53 -0000</pubDate>
     </item>
     <item>
       <title>Հաղորդաշարեր</title>
@@ -57,7 +57,23 @@
       <description>Հաղորդաշարեր - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/broadcasts</guid>
       <enclosure url="https://civic.am/media/2024/06/04/2fe324aae22ec12dd2a977f3395175029028444a.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 30 Jun 2026 15:27:13 -0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 20:20:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Իրավունք«Ուժեղ Հայաստան»-ի պատգամավորի թեկնածու Վահե Թավաքալյանը հայտնաբերվել և կալանավորվել է</title>
+      <link>https://civic.am/news/118319</link>
+      <description>Իրավունք«Ուժեղ Հայաստան»-ի պատգամավորի թեկնածու Վահե Թավաքալյանը հայտնաբերվել և կալանավորվել է - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/118319</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/06/30/ba0ec5ad13dc69142a224a266830f87cde35e7ca.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 30 Jun 2026 20:18:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>ՔաղաքականությունՏեղի է ունեցել «Քաղաքացիական պայմանագիր» կուսակցության վարչության նիստ. այն վարել է Նիկոլ Փաշինյանը</title>
+      <link>https://civic.am/news/118318</link>
+      <description>ՔաղաքականությունՏեղի է ունեցել «Քաղաքացիական պայմանագիր» կուսակցության վարչության նիստ. այն վարել է Նիկոլ Փաշինյանը - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/118318</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/06/30/4d1b9f7254c6f265a8ffd9637b51c27795506907.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 30 Jun 2026 20:16:53 -0000</pubDate>
     </item>
     <item>
       <title>ՀասարակությունԿես տարում 8.4 միլիոն ծառայություն․ ինչ արդյունքներ է գրանցել առողջության ապահովագրությունը</title>
@@ -65,7 +81,7 @@
       <description>ՀասարակությունԿես տարում 8.4 միլիոն ծառայություն․ ինչ արդյունքներ է գրանցել առողջության ապահովագրությունը - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/118297</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/06/30/d84666a12ea9c0b334e5f160ea3b7034a8b8573e.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 30 Jun 2026 15:25:13 -0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 20:14:53 -0000</pubDate>
     </item>
     <item>
       <title>ՔաղաքականությունՈւրա, գտեք բերեք Գեղամին, արագ զբաղվեք․ Կալուգացի Սամոն՝ ձայնագրությունների մասին</title>
@@ -73,103 +89,87 @@
       <description>ՔաղաքականությունՈւրա, գտեք բերեք Գեղամին, արագ զբաղվեք․ Կալուգացի Սամոն՝ ձայնագրությունների մասին - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/118293</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/06/30/f3a48d2cdebe4dc95b05bca7bef57943fa2d43cf.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 30 Jun 2026 15:23:13 -0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 20:12:53 -0000</pubDate>
     </item>
     <item>
-      <title>ՔաղաքականությունԱյսօր գաղտնի փաստաթղթեր ենք ուսումնասիրելու․ ՍԴ նախագահ</title>
-      <link>https://civic.am/news/118281</link>
-      <description>ՔաղաքականությունԱյսօր գաղտնի փաստաթղթեր ենք ուսումնասիրելու․ ՍԴ նախագահ - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/118281</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/06/30/27a09ff0770f9fa4ffe68a15914d0d8c481771fb.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 30 Jun 2026 15:21:13 -0000</pubDate>
+      <title>ՀասարակությունՄոսկվայի երկնքի փակման պատճառով «Զվարթնոցում» չվերթներ են ուշանում</title>
+      <link>https://civic.am/news/118327</link>
+      <description>ՀասարակությունՄոսկվայի երկնքի փակման պատճառով «Զվարթնոցում» չվերթներ են ուշանում - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/118327</guid>
+      <enclosure url="https://civic.am/thumbs/696x444/2026/06/30/74b8420ee713383f63de6f8be744eeb6257caba5.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 30 Jun 2026 20:10:53 -0000</pubDate>
     </item>
     <item>
-      <title>Քաղաքականություն«Էսա տաշոն կրի, լիքը թեմաներ կան ստե». «չամադանով փող են բաժանել». նոր ձայնագրություն</title>
-      <link>https://civic.am/news/118271</link>
-      <description>Քաղաքականություն«Էսա տաշոն կրի, լիքը թեմաներ կան ստե». «չամադանով փող են բաժանել». նոր ձայնագրություն - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/118271</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/06/30/32ab2176f6a6d0de7fd60987e3e6fa826d8495d5.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 30 Jun 2026 15:19:13 -0000</pubDate>
+      <title>Էրդողանն առաջին անգամ արձագանքել է Հայոց ցեղասպանությունը ճանաչելու՝ Իսրայելի որոշմանը</title>
+      <link>https://civic.am/news/118326</link>
+      <description>Էրդողանն առաջին անգամ արձագանքել է Հայոց ցեղասպանությունը ճանաչելու՝ Իսրայելի որոշմանը - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/118326</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/06/30/92d585ae7850be1c27e79b8b3923c1053e1d4508.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 30 Jun 2026 20:08:53 -0000</pubDate>
     </item>
     <item>
-      <title>ԱշխարհԷրդողանն Անկարայում ընդունել է ԵՄ գերագույն ներկայացուցիչ Կայա Կալասին</title>
-      <link>https://civic.am/news/118313</link>
-      <description>ԱշխարհԷրդողանն Անկարայում ընդունել է ԵՄ գերագույն ներկայացուցիչ Կայա Կալասին - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/118313</guid>
-      <enclosure url="https://civic.am/thumbs/696x444/2026/06/30/989affc60aaae70e26057c80d3ff52e90506286c.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 30 Jun 2026 15:17:13 -0000</pubDate>
+      <title>ԱշխարհՎենեսուելայում ավերիչ երկրաշարժի հետևանքով զոհերի թիվն անցել է 1 940-ը</title>
+      <link>https://civic.am/news/118325</link>
+      <description>ԱշխարհՎենեսուելայում ավերիչ երկրաշարժի հետևանքով զոհերի թիվն անցել է 1 940-ը - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/118325</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/06/30/c778bf66408e53ccc1a010d5b4d9364aca344c7c.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 30 Jun 2026 20:06:53 -0000</pubDate>
     </item>
     <item>
-      <title>ՊաշտոնականԵրևանում ուժեղացվում է շինարարական փոշու վերահսկողությունը</title>
-      <link>https://civic.am/news/118312</link>
-      <description>ՊաշտոնականԵրևանում ուժեղացվում է շինարարական փոշու վերահսկողությունը - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/118312</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/06/30/cd4d7f98da8bc117ef40adf57e36f47fc3b66cfd.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 30 Jun 2026 15:15:13 -0000</pubDate>
+      <title>ՀասարակությունԵրևանի շենքերից մեկում 3 տղամարդ է հոսանքահարվել</title>
+      <link>https://civic.am/news/118324</link>
+      <description>ՀասարակությունԵրևանի շենքերից մեկում 3 տղամարդ է հոսանքահարվել - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/118324</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/06/30/b2c979263cd6e7bd7368bab9f3612d88f5c61dad.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 30 Jun 2026 20:04:53 -0000</pubDate>
     </item>
     <item>
-      <title>ՀասարակությունՔաղաքաշինության կոմիտեի աշխատակից չհանդիսացող անձանց անունից WhatsApp հավելվածում բացվում են կեղծ օգտահաշիվներ</title>
-      <link>https://civic.am/news/118311</link>
-      <description>ՀասարակությունՔաղաքաշինության կոմիտեի աշխատակից չհանդիսացող անձանց անունից WhatsApp հավելվածում բացվում են կեղծ օգտահաշիվներ - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/118311</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/06/30/ca12c733799743576709e1b26587c34612ed83e9.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 30 Jun 2026 15:13:13 -0000</pubDate>
+      <title>ՊաշտոնականԱլեն Սիմոնյանը պարգևատրել է ՊՊԾ աշխատողներին</title>
+      <link>https://civic.am/news/118323</link>
+      <description>ՊաշտոնականԱլեն Սիմոնյանը պարգևատրել է ՊՊԾ աշխատողներին - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/118323</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/06/30/9fdb52928997cfd99cea25a879e091ad6cce890b.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 30 Jun 2026 20:02:53 -0000</pubDate>
     </item>
     <item>
-      <title>ՀասարակությունՄեծավանում կասեցվել է պանրի արտադրամասի գործունեությունը</title>
-      <link>https://civic.am/news/118310</link>
-      <description>ՀասարակությունՄեծավանում կասեցվել է պանրի արտադրամասի գործունեությունը - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/118310</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/06/30/8eda14a5390af97dcfbbf931148e282a76e10156.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 30 Jun 2026 15:11:13 -0000</pubDate>
+      <title>Ռուսաստանը վաղվանից փակում է երեք հարևան երկրների սահմանային մի քանի անցակետերը</title>
+      <link>https://civic.am/news/118322</link>
+      <description>Ռուսաստանը վաղվանից փակում է երեք հարևան երկրների սահմանային մի քանի անցակետերը - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/118322</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/06/30/24d213888daf5012508b765af9459321628c61c1.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 30 Jun 2026 20:00:53 -0000</pubDate>
     </item>
     <item>
-      <title>ՀասարակությունՆոր Կյանք բնակավայրի տներից մեկի տանիքում hրդեհ է բռնկվել</title>
-      <link>https://civic.am/news/118309</link>
-      <description>ՀասարակությունՆոր Կյանք բնակավայրի տներից մեկի տանիքում hրդեհ է բռնկվել - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/118309</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/06/30/c6ca8b8ed98d8be4b9ba59da2081d61433da5827.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 30 Jun 2026 15:09:13 -0000</pubDate>
+      <title>Լանջազատ գյուղում բшխվել են «Opel»-ը և «Mercedes»-ը․ 9 վիրшվորներից 2-ը անչափահասներ են</title>
+      <link>https://civic.am/news/118321</link>
+      <description>Լանջազատ գյուղում բшխվել են «Opel»-ը և «Mercedes»-ը․ 9 վիրшվորներից 2-ը անչափահասներ են - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/118321</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/06/30/7a97acaeec9fac0a3c08d7b2ccf5d603e6379ec5.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 30 Jun 2026 19:58:53 -0000</pubDate>
     </item>
     <item>
-      <title>Հայաստան-Վրաստան համագործակցությունը ներքին անվտանգության ոլորտում աննախադեպ բարձր մակարդակի վրա է․ Արփինե Սարգսյանն ընդունել է Սուլխան Թամազաշվիլիին</title>
-      <link>https://civic.am/news/118308</link>
-      <description>Հայաստան-Վրաստան համագործակցությունը ներքին անվտանգության ոլորտում աննախադեպ բարձր մակարդակի վրա է․ Արփինե Սարգսյանն ընդունել է Սուլխան Թամազաշվիլիին - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/118308</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/06/30/1f48fadbea9777b37c3c149a1fcb54e8e945bcef.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 30 Jun 2026 15:07:13 -0000</pubDate>
+      <title>Մոսկվայի 4 օդանավակայաններում թռիչքների ժամանակավոր սահմանափակումներ են մտցվել</title>
+      <link>https://civic.am/news/118320</link>
+      <description>Մոսկվայի 4 օդանավակայաններում թռիչքների ժամանակավոր սահմանափակումներ են մտցվել - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/118320</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/06/30/f77b14c996d6ae17c7b66185017c398d93a60887.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 30 Jun 2026 19:56:53 -0000</pubDate>
     </item>
     <item>
-      <title>Երկարաձգվել է Հայաստանի վիզայի ժամանակավոր ազատականացման ռեժիմի գործողության ժամկետը</title>
-      <link>https://civic.am/news/118305</link>
-      <description>Երկարաձգվել է Հայաստանի վիզայի ժամանակավոր ազատականացման ռեժիմի գործողության ժամկետը - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/118305</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/06/30/0ab9c9f6308f2e5887e6856bbdd9efc44e28f519.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 30 Jun 2026 15:05:13 -0000</pubDate>
+      <title>Էրդողանի նոր մրցակիցն Անկարայի ընդդիմադիր քաղաքապետն է</title>
+      <link>https://civic.am/news/118315</link>
+      <description>Էրդողանի նոր մրցակիցն Անկարայի ընդդիմադիր քաղաքապետն է - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/118315</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/06/30/b736d37a82c433872b783b357f1b284a5977fa3f.jpeg" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 30 Jun 2026 19:54:53 -0000</pubDate>
     </item>
     <item>
-      <title>Երևանում հանրային սննդի օբյեկտի գործունեություն է կասեցվել</title>
-      <link>https://civic.am/news/118304</link>
-      <description>Երևանում հանրային սննդի օբյեկտի գործունեություն է կասեցվել - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/118304</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/06/30/ae17b328130d2abe2ef9cad7a18d3626ad6fd88a.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 30 Jun 2026 15:03:13 -0000</pubDate>
-    </item>
-    <item>
-      <title>Իսրայելը ճանաչեց իմ տատիկ-պապիկների ցեղասպանությունը․ ամենասարսափելին, որ կարող էին անել մեր ժողովրդի համար․ Թանկյան</title>
-      <link>https://civic.am/news/118303</link>
-      <description>Իսրայելը ճանաչեց իմ տատիկ-պապիկների ցեղասպանությունը․ ամենասարսափելին, որ կարող էին անել մեր ժողովրդի համար․ Թանկյան - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/118303</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/06/30/62cb5c47ee79a03f5950b8469ecb7f6ccf10e2a9.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 30 Jun 2026 15:01:13 -0000</pubDate>
-    </item>
-    <item>
-      <title>Աննա Վարդապետյանն ընդունել է Լատվիայի դատախազ Արմինս Մեյստերսի գլխավորած պատվիրակությանը</title>
-      <link>https://civic.am/news/118302</link>
-      <description>Աննա Վարդապետյանն ընդունել է Լատվիայի դատախազ Արմինս Մեյստերսի գլխավորած պատվիրակությանը - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/118302</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/06/30/1c683d42e5bbc13074e4ad965d0052318cafd879.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 30 Jun 2026 14:59:13 -0000</pubDate>
+      <title>Խամենեիի հուղարկավորությունը կուղեկցեն 67 հազար զինծառայողներ և կամավորներ</title>
+      <link>https://civic.am/news/118314</link>
+      <description>Խամենեիի հուղարկավորությունը կուղեկցեն 67 հազար զինծառայողներ և կամավորներ - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/118314</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/06/30/17e393e064cfc85821f8918aa3aaa72d7ab6721e.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 30 Jun 2026 19:52:53 -0000</pubDate>
     </item>
   </channel>
 </rss>
