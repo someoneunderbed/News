@@ -5,19 +5,19 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Sat, 04 Jul 2026 04:21:55 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 07:24:43 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
       <link>https://armenpress.am/hy/articles</link>
     </image>
     <item>
-      <title>Երևան20 °C</title>
+      <title>Երևան26 °C</title>
       <link>https://armenpress.am/hy/articles/weather</link>
-      <description>Երևան20 °C - Read on armenpress.am.</description>
+      <description>Երևան26 °C - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
-      <enclosure url="https://armenpress.am/assets/weather/01d.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 04 Jul 2026 04:21:55 -0000</pubDate>
+      <enclosure url="https://armenpress.am/assets/weather/02d.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Sat, 04 Jul 2026 07:24:43 -0000</pubDate>
     </item>
     <item>
       <title>USD / AMD367.79</title>
@@ -25,28 +25,60 @@
       <description>USD / AMD367.79 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 04 Jul 2026 04:19:55 -0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 07:22:43 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
       <link>https://armenpress.am/hy/articles/fact-check</link>
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Sat, 04 Jul 2026 04:17:55 -0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 07:20:43 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
       <link>https://armenpress.am/hy/articles/projects</link>
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Sat, 04 Jul 2026 04:15:55 -0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 07:18:43 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://armenpress.am/hy/articles/interviews</link>
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Sat, 04 Jul 2026 04:13:55 -0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 07:16:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>11:15ՔաղաքականությունՎարչապետ Փաշինյանը շնորհավորական ուղերձներ է հղել ԱՄՆ նախագահին և փոխնախագահին</title>
+      <link>https://armenpress.am/hy/article/1254729</link>
+      <description>11:15ՔաղաքականությունՎարչապետ Փաշինյանը շնորհավորական ուղերձներ է հղել ԱՄՆ նախագահին և փոխնախագահին - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1254729</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/04/WdhgIn7zRN3QuYm4HOc8N9sqAvXqQsalr9akxcWY.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sat, 04 Jul 2026 07:14:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>10:46ՏնտեսությունԵվրոպական ինդեքսներն աճել են - 03/07/26</title>
+      <link>https://armenpress.am/hy/article/1254728</link>
+      <description>10:46ՏնտեսությունԵվրոպական ինդեքսներն աճել են - 03/07/26 - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1254728</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/04/dBlD292kqk3aHexb7sc74K3qXPl1jVk1qXcEF1Zr.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sat, 04 Jul 2026 07:12:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>10:45ՏնտեսությունNYMEX. Թանկարժեք մետաղների գներ - 03/07/26</title>
+      <link>https://armenpress.am/hy/article/1254727</link>
+      <description>10:45ՏնտեսությունNYMEX. Թանկարժեք մետաղների գներ - 03/07/26 - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1254727</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/04/nX7wXM1zxijj1P9N9dYYrdJ0QgHn7lYcsvlraAWJ.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sat, 04 Jul 2026 07:10:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>10:43ՏնտեսությունՆավթի գները նվազել են - 03/07/26</title>
+      <link>https://armenpress.am/hy/article/1254726</link>
+      <description>10:43ՏնտեսությունՆավթի գները նվազել են - 03/07/26 - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1254726</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/04/rjCXkQgeACZ23DbLs1CVHfvE2wwE8EOYWnjT55oH.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sat, 04 Jul 2026 07:08:43 -0000</pubDate>
     </item>
     <item>
       <title>04:56ՍպորտՄունդիալ-2026. Արգենտինան հաղթեց Կաբո Վերդեին</title>
@@ -54,7 +86,7 @@
       <description>04:56ՍպորտՄունդիալ-2026. Արգենտինան հաղթեց Կաբո Վերդեին - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1254725</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/04/pu2tW9uF1L2Nu7fRX7W9jIiKVdSaLuEoj4qTkI33.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 04 Jul 2026 04:11:55 -0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 07:06:43 -0000</pubDate>
     </item>
     <item>
       <title>01:04ՍպորտՄունդիալ-2026. Եգիպտոսը հետխաղյա 11 մետրանոց հարվածաշարի շնորհիվ հաղթեց Ավստրալիային</title>
@@ -62,7 +94,7 @@
       <description>01:04ՍպորտՄունդիալ-2026. Եգիպտոսը հետխաղյա 11 մետրանոց հարվածաշարի շնորհիվ հաղթեց Ավստրալիային - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1254724</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/04/x4ujEahD80LZsEE3fLWxK4cKeqkUvQfxgq2QMWXf.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 04 Jul 2026 04:09:55 -0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 07:04:43 -0000</pubDate>
     </item>
     <item>
       <title>21:50, 3 հուլիսիՄիացյալ ՆահանգներՆեթանյահուն ու Թրամփը հեռախոսազրույց են անցկացրել</title>
@@ -70,7 +102,7 @@
       <description>21:50, 3 հուլիսիՄիացյալ ՆահանգներՆեթանյահուն ու Թրամփը հեռախոսազրույց են անցկացրել - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1254723</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/03/OAFkANwVOabZfIdUvaCmXNww2XM0D77xczDsTEUZ.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 04 Jul 2026 04:07:55 -0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 07:02:43 -0000</pubDate>
     </item>
     <item>
       <title>21:27, 3 հուլիսիՀայաստանՈվքե՞ր և ե՞րբ կարող են դիմել վարորդական իրավունքի վկայականը վերականգնելու համար. պարզաբանում է ՆԳՆ-ն</title>
@@ -78,7 +110,7 @@
       <description>21:27, 3 հուլիսիՀայաստանՈվքե՞ր և ե՞րբ կարող են դիմել վարորդական իրավունքի վկայականը վերականգնելու համար. պարզաբանում է ՆԳՆ-ն - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1254722</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/03/bYbPP7OPmOK6axjltEIqvMuGI6OgYb4e32YL7Z4D.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 04 Jul 2026 04:05:55 -0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 07:00:43 -0000</pubDate>
     </item>
     <item>
       <title>20:44, 3 հուլիսիԻրանԻրանի ԱԳ նախարարն ու Իրաքի Քուրդիստանի նախագահը քննարկել են տարածաշրջանային վերջին զարգացումները</title>
@@ -86,7 +118,7 @@
       <description>20:44, 3 հուլիսիԻրանԻրանի ԱԳ նախարարն ու Իրաքի Քուրդիստանի նախագահը քննարկել են տարածաշրջանային վերջին զարգացումները - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1254721</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/03/XTXzG3sQ2a87iF0LBoyHIa3EaJrSwT4kSrhD3Vob.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 04 Jul 2026 04:03:55 -0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 06:58:43 -0000</pubDate>
     </item>
     <item>
       <title>20:31, 3 հուլիսիՔաղաքականությունԱԳՆ-ում տեղի է ունեցել Հայաստանի ու Եվրամիության միջև Մարդու իրավունքների շուրջ երկխոսության 15-րդ նիստը</title>
@@ -94,7 +126,7 @@
       <description>20:31, 3 հուլիսիՔաղաքականությունԱԳՆ-ում տեղի է ունեցել Հայաստանի ու Եվրամիության միջև Մարդու իրավունքների շուրջ երկխոսության 15-րդ նիստը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1254720</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/03/PZPF2mwJyT9kH3VbFBP7LC2HBXxpP2l7EnRalyic.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 04 Jul 2026 04:01:55 -0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 06:56:43 -0000</pubDate>
     </item>
     <item>
       <title>20:23, 3 հուլիսիԱշխարհԻսրայելի ավիահարվածների հետևանքով Լիբանանում զոհերի թիվը հասել է 4301-ի</title>
@@ -102,7 +134,7 @@
       <description>20:23, 3 հուլիսիԱշխարհԻսրայելի ավիահարվածների հետևանքով Լիբանանում զոհերի թիվը հասել է 4301-ի - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1254719</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/03/ZqiztXT3PvP1HYOicTGKVTJ7ruclg8fuCOOw3D82.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 04 Jul 2026 03:59:55 -0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 06:54:43 -0000</pubDate>
     </item>
     <item>
       <title>20:15, 3 հուլիսիՀայաստանՊաշտպանության նախարարը հանդիպել է 25-օրյա վարժական հավաքի մասնակիցների հետ</title>
@@ -110,7 +142,7 @@
       <description>20:15, 3 հուլիսիՀայաստանՊաշտպանության նախարարը հանդիպել է 25-օրյա վարժական հավաքի մասնակիցների հետ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1254718</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/03/0a5MEFlJaHKkhxGS9JVXmfXIUQTNT6vzQY5GXoAn.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 04 Jul 2026 03:57:55 -0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 06:52:43 -0000</pubDate>
     </item>
     <item>
       <title>20:01, 3 հուլիսիՌուսաստանՊուտինը Լուկաշենկոյին շնորհավորել է Բելառուսի անկախության օրվա առթիվ</title>
@@ -118,7 +150,7 @@
       <description>20:01, 3 հուլիսիՌուսաստանՊուտինը Լուկաշենկոյին շնորհավորել է Բելառուսի անկախության օրվա առթիվ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1254717</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/03/BYGy2h9ubtdfLtlB7XjDkuQNaNqE3AL0Sxkfub3G.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 04 Jul 2026 03:55:55 -0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 06:50:43 -0000</pubDate>
     </item>
     <item>
       <title>19:44, 3 հուլիսիՍպորտԿԳՄՍՆ-ում քննարկվել են Tour of Armenia միջազգային պրոֆեսիոնալ հեծանվավազքի բազմօրյա մրցաշարի կազմակերպական հարցերը</title>
@@ -126,7 +158,7 @@
       <description>19:44, 3 հուլիսիՍպորտԿԳՄՍՆ-ում քննարկվել են Tour of Armenia միջազգային պրոֆեսիոնալ հեծանվավազքի բազմօրյա մրցաշարի կազմակերպական հարցերը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1254715</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/03/LDWkt23NPPlHw5QxYajg8jmvipK3SEO48AUYHklc.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 04 Jul 2026 03:53:55 -0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 06:48:43 -0000</pubDate>
     </item>
     <item>
       <title>19:37, 3 հուլիսիՔաղաքականությունԵրևանի, Բաքվի ու Անկարայի միջև փոխկապակցվածությունը կարող է նպաստել Հարավային Կովկասի երկարատև խաղաղությանը. Մարթա Կոս</title>
@@ -134,39 +166,7 @@
       <description>19:37, 3 հուլիսիՔաղաքականությունԵրևանի, Բաքվի ու Անկարայի միջև փոխկապակցվածությունը կարող է նպաստել Հարավային Կովկասի երկարատև խաղաղությանը. Մարթա Կոս - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1254716</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/03/WXKHwGLy67AFJVWmcQ5VHGMFuAVIMFKPAgabEf1J.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 04 Jul 2026 03:51:55 -0000</pubDate>
-    </item>
-    <item>
-      <title>19:32, 3 հուլիսիՀայաստանԿանանց լիարժեք մասնակցությունը դիվանագիտությանն ու հանրային կառավարմանը վաղուց արդեն միայն հավասարության խնդիր չէ. ՀՀ ԱԳ փոխնախարար</title>
-      <link>https://armenpress.am/hy/article/1254714</link>
-      <description>19:32, 3 հուլիսիՀայաստանԿանանց լիարժեք մասնակցությունը դիվանագիտությանն ու հանրային կառավարմանը վաղուց արդեն միայն հավասարության խնդիր չէ. ՀՀ ԱԳ փոխնախարար - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1254714</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/03/xc3MfmMiV84pRCmKup7iPc7yHZrt0AqsokG375FA.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 04 Jul 2026 03:49:55 -0000</pubDate>
-    </item>
-    <item>
-      <title>19:27, 3 հուլիսիՏնտեսությունՀԷՑ-ի 2025 թվականի ֆինանսական արդյունքները գերազանցել են նախորդ ֆինանսական տարվա ցուցանիշները</title>
-      <link>https://armenpress.am/hy/article/1254713</link>
-      <description>19:27, 3 հուլիսիՏնտեսությունՀԷՑ-ի 2025 թվականի ֆինանսական արդյունքները գերազանցել են նախորդ ֆինանսական տարվա ցուցանիշները - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1254713</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/03/EqDObJhxymPJks1R2MlHsH1Sf5C4fVWukav3jxWG.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 04 Jul 2026 03:47:55 -0000</pubDate>
-    </item>
-    <item>
-      <title>19:14, 3 հուլիսիՎրաստանՎրաստանը և Ուզբեկստանը ռազմավարական գործընկերության համաձայնագիր են ստորագրել</title>
-      <link>https://armenpress.am/hy/article/1254712</link>
-      <description>19:14, 3 հուլիսիՎրաստանՎրաստանը և Ուզբեկստանը ռազմավարական գործընկերության համաձայնագիր են ստորագրել - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1254712</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/03/cDPk5A9gmgrJOdK1mhn5myHUTjhFEzL77nlAzlpR.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 04 Jul 2026 03:45:55 -0000</pubDate>
-    </item>
-    <item>
-      <title>18:58, 3 հուլիսիՀայաստանՍուրեն Պապիկյանը մասնակցել է ուսումնական կենտրոնի շտաբի նորակառույց մասնաշենքի բացման արարողությանը</title>
-      <link>https://armenpress.am/hy/article/1254711</link>
-      <description>18:58, 3 հուլիսիՀայաստանՍուրեն Պապիկյանը մասնակցել է ուսումնական կենտրոնի շտաբի նորակառույց մասնաշենքի բացման արարողությանը - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1254711</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/03/GXGpsgwcgDnjUmhIfT9fbDN9AedI7Po7l9RZTQVv.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 04 Jul 2026 03:43:55 -0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 06:46:43 -0000</pubDate>
     </item>
   </channel>
 </rss>
