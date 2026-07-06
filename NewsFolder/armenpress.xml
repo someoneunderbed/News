@@ -5,19 +5,19 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Mon, 06 Jul 2026 14:43:40 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 17:48:44 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
       <link>https://armenpress.am/hy/articles</link>
     </image>
     <item>
-      <title>Երևան26 °C</title>
+      <title>Երևան21 °C</title>
       <link>https://armenpress.am/hy/articles/weather</link>
-      <description>Երևան26 °C - Read on armenpress.am.</description>
+      <description>Երևան21 °C - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
-      <enclosure url="https://armenpress.am/assets/weather/10d.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 06 Jul 2026 14:43:40 -0000</pubDate>
+      <enclosure url="https://armenpress.am/assets/weather/10n.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 06 Jul 2026 17:48:44 -0000</pubDate>
     </item>
     <item>
       <title>USD / AMD367.47</title>
@@ -25,36 +25,124 @@
       <description>USD / AMD367.47 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 06 Jul 2026 14:41:40 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 17:46:44 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
       <link>https://armenpress.am/hy/articles/fact-check</link>
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Mon, 06 Jul 2026 14:39:40 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 17:44:44 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
       <link>https://armenpress.am/hy/articles/projects</link>
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Mon, 06 Jul 2026 14:37:40 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 17:42:44 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://armenpress.am/hy/articles/interviews</link>
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Mon, 06 Jul 2026 14:35:40 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 17:40:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>21:37ՀայաստանԳագիկ Ծառուկյանի առանձնատանը պահվող առյուծները տեղափոխվել են Կենդանաբանական այգի</title>
+      <link>https://armenpress.am/hy/article/1254883</link>
+      <description>21:37ՀայաստանԳագիկ Ծառուկյանի առանձնատանը պահվող առյուծները տեղափոխվել են Կենդանաբանական այգի - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1254883</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/p0Bjk4ytQcgXQn0Mfj0z7fzQEPJn3bZzqkjGupj7.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 06 Jul 2026 17:38:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>21:25Միացյալ ՆահանգներԴոնալդ Թրամփը հայտարարել է, որ Չինաստանի նախագահը կայցելի ԱՄՆ</title>
+      <link>https://armenpress.am/hy/article/1254882</link>
+      <description>21:25Միացյալ ՆահանգներԴոնալդ Թրամփը հայտարարել է, որ Չինաստանի նախագահը կայցելի ԱՄՆ - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1254882</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/6keY8eOKdRfDZuQSlHLw8vnGaJ480uQWYcBxSUWp.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 06 Jul 2026 17:36:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>21:10Բարձր տեխնոլոգիաներViva-ն ձեռք է բերել Ovio-ն՝ թվային կոնվերգենտությունը զարգացնելու և պրոդուկտային առաջնորդությունն ամրապնդելու նպատակով</title>
+      <link>https://armenpress.am/hy/article/1254880</link>
+      <description>21:10Բարձր տեխնոլոգիաներViva-ն ձեռք է բերել Ovio-ն՝ թվային կոնվերգենտությունը զարգացնելու և պրոդուկտային առաջնորդությունն ամրապնդելու նպատակով - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1254880</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/IpLu9wptqiL52vgYKtURXBZ2SkHLGQVEiJDEnpHH.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 06 Jul 2026 17:34:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>20:50ՀայաստանԱրագածավան-Գետափ ավտոճանապարհին բախվել են ավտոմեքենաներ. կան զոհեր</title>
+      <link>https://armenpress.am/hy/article/1254878</link>
+      <description>20:50ՀայաստանԱրագածավան-Գետափ ավտոճանապարհին բախվել են ավտոմեքենաներ. կան զոհեր - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1254878</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/IVzAA5gtXlJsh2vYVP4jfwGjRJ8KRzl5rOOw7Igu.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 06 Jul 2026 17:32:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>20:35Բարձր տեխնոլոգիաներՀՀ ԲՏԱ նախարարության աջակցությամբ հայկական ընկերությունները մասնակցել են «GITEX AI EUROPE 2026» միջազգային տեխնոլոգիական ցուցահանդեսին</title>
+      <link>https://armenpress.am/hy/article/1254877</link>
+      <description>20:35Բարձր տեխնոլոգիաներՀՀ ԲՏԱ նախարարության աջակցությամբ հայկական ընկերությունները մասնակցել են «GITEX AI EUROPE 2026» միջազգային տեխնոլոգիական ցուցահանդեսին - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1254877</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/UQUpiHf5W0GWGNQuYbpylwLjw5YW6TnQvh1yJPSS.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 06 Jul 2026 17:30:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>20:20ՍպորտՊորտուգալական «Բենֆիկա» ակումբի ակադեմիան մուտք է գործում Հայաստան</title>
+      <link>https://armenpress.am/hy/article/1254874</link>
+      <description>20:20ՍպորտՊորտուգալական «Բենֆիկա» ակումբի ակադեմիան մուտք է գործում Հայաստան - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1254874</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/o94d5BuAbelGtMotLw9H4gAo6HhTTYPZitRLXE2o.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 06 Jul 2026 17:28:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>20:05ԻրավունքԱռանձնապես խոշոր չափերով խարդախություն և փողերի լվացում կատարելու մեղադրանքով ձերբակալվել են Գագիկ Ծառուկյանը և հանցավոր խմբի ևս մեկ անդամ</title>
+      <link>https://armenpress.am/hy/article/1254875</link>
+      <description>20:05ԻրավունքԱռանձնապես խոշոր չափերով խարդախություն և փողերի լվացում կատարելու մեղադրանքով ձերբակալվել են Գագիկ Ծառուկյանը և հանցավոր խմբի ևս մեկ անդամ - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1254875</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/FDirhj94Yly9KvyoIuNNtmgIsAy6WVJCS0djtSS4.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 06 Jul 2026 17:26:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>19:57ՄշակույթՀայտնի են Երևանի կարճամետրաժ ֆիլմերի 9-րդ միջազգային կինոփառատոնի մրցանակակիրները</title>
+      <link>https://armenpress.am/hy/article/1254873</link>
+      <description>19:57ՄշակույթՀայտնի են Երևանի կարճամետրաժ ֆիլմերի 9-րդ միջազգային կինոփառատոնի մրցանակակիրները - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1254873</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/VcVqlLsOk3UtKEgBRrhcE0usPPIl5wvALKl7hmPP.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 06 Jul 2026 17:24:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>19:30ՏնտեսությունՌուսաստանը Հայաստանին առաջարկ է ներկայացրել նոր ատոմակայանի կառուցման վերաբերյալ</title>
+      <link>https://armenpress.am/hy/article/1254871</link>
+      <description>19:30ՏնտեսությունՌուսաստանը Հայաստանին առաջարկ է ներկայացրել նոր ատոմակայանի կառուցման վերաբերյալ - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1254871</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/ZB2mgjfHqpajr9eFFj4Hbe4fA75e9juUTWUWptDL.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 06 Jul 2026 17:22:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>19:19Արտաքին քաղաքականությունԵՄ-ն և Հայաստանը Երևանում անցկացրել են մարդու իրավունքների շուրջ 15-րդ երկխոսությունը</title>
+      <link>https://armenpress.am/hy/article/1254870</link>
+      <description>19:19Արտաքին քաղաքականությունԵՄ-ն և Հայաստանը Երևանում անցկացրել են մարդու իրավունքների շուրջ 15-րդ երկխոսությունը - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1254870</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/r9BxAkg0N9NHJA03gXX8mw4hr6roKI0eAcTKgnhS.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 06 Jul 2026 17:20:44 -0000</pubDate>
+    </item>
+    <item>
+      <title>18:58ՍպորտԿԳՄՍ նախարարն ու Ֆրանկոֆոնիայի խաղերի միջազգային կոմիտեի տնօրենը քննարկել են Ֆրանկոֆոնիայի մարզամշակութային խաղերի կազմակերպման հարցերը</title>
+      <link>https://armenpress.am/hy/article/1254869</link>
+      <description>18:58ՍպորտԿԳՄՍ նախարարն ու Ֆրանկոֆոնիայի խաղերի միջազգային կոմիտեի տնօրենը քննարկել են Ֆրանկոֆոնիայի մարզամշակութային խաղերի կազմակերպման հարցերը - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1254869</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/jwiqXarEU4OIlDJOqIwRebngwUi6kz5Guf8T15un.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 06 Jul 2026 17:18:44 -0000</pubDate>
     </item>
     <item>
       <title>18:28ԱնոնսՀուլիսի 7-ի միջոցառումների անոնս</title>
       <link>https://armenpress.am/hy/article/1254866</link>
       <description>18:28ԱնոնսՀուլիսի 7-ի միջոցառումների անոնս - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1254866</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/aC09bCF4gtQ1NjmjSL6eRN1fUHplDlghvfOpXNnq.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 06 Jul 2026 14:33:40 -0000</pubDate>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/p0Bjk4ytQcgXQn0Mfj0z7fzQEPJn3bZzqkjGupj7.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 06 Jul 2026 17:16:44 -0000</pubDate>
     </item>
     <item>
       <title>18:23ՏնտեսությունՀայաստանը և Ռուսաստանը քննարկել են առևտրատնտեսական հարաբերությունների ընթացիկ զարգացումները</title>
@@ -62,7 +150,7 @@
       <description>18:23ՏնտեսությունՀայաստանը և Ռուսաստանը քննարկել են առևտրատնտեսական հարաբերությունների ընթացիկ զարգացումները - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1254865</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/aC09bCF4gtQ1NjmjSL6eRN1fUHplDlghvfOpXNnq.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 06 Jul 2026 14:31:40 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 17:14:44 -0000</pubDate>
     </item>
     <item>
       <title>18:02ԿրթությունՄարզային դպրոցները սեպտեմբերի 1-ից կանցնեն ԿԳՄՍ նախարարության ենթակայության ներքո</title>
@@ -70,7 +158,7 @@
       <description>18:02ԿրթությունՄարզային դպրոցները սեպտեմբերի 1-ից կանցնեն ԿԳՄՍ նախարարության ենթակայության ներքո - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1254864</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/Ik37dtmydJcyg9SGOkCjzSAPLnBvov4spnpepCCE.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 06 Jul 2026 14:29:40 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 17:12:44 -0000</pubDate>
     </item>
     <item>
       <title>17:57ԵվրոպաԼեհաստանում ԱՄՆ զորքերի ռոտացիան կվերսկսվի շաբաթների ընթացքում. ՊՆ</title>
@@ -78,95 +166,7 @@
       <description>17:57ԵվրոպաԼեհաստանում ԱՄՆ զորքերի ռոտացիան կվերսկսվի շաբաթների ընթացքում. ՊՆ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1254863</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/KH05VsSSUwo3xN62Z8A3QBKTbpb8Y3XBXLGi4akh.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 06 Jul 2026 14:27:40 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:55ԻրավունքԱրարատի մարզում գտնվող 42 հա ընդհանուր մակերեսով հողամասերը կվերադարձվեն Վեդի համայնքին</title>
-      <link>https://armenpress.am/hy/article/1254862</link>
-      <description>17:55ԻրավունքԱրարատի մարզում գտնվող 42 հա ընդհանուր մակերեսով հողամասերը կվերադարձվեն Վեդի համայնքին - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1254862</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/0EbP0lYuFKFn1yDm6Awjkq9RfyOWNhqh8GDQIsyp.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 06 Jul 2026 14:25:40 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:51ՀայտարարություններԱկունք համայնքը օգոստոսի 21-ին հրավիրում է աճուրդի</title>
-      <link>https://armenpress.am/hy/article/1254861</link>
-      <description>17:51ՀայտարարություններԱկունք համայնքը օգոստոսի 21-ին հրավիրում է աճուրդի - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1254861</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/DHT497Vk1Ty2PkzurMxOfGq1MssLBnBNUzsxhY7W.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 06 Jul 2026 14:23:40 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:46ՀայտարարություններԱկունք համայնքում աճուրդի կհանվի հողամաս</title>
-      <link>https://armenpress.am/hy/article/1254860</link>
-      <description>17:46ՀայտարարություններԱկունք համայնքում աճուրդի կհանվի հողամաս - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1254860</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/55zfijGNA64wiZEHfoEyCHhqf5RwesirQ0BvyVlQ.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 06 Jul 2026 14:21:40 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:38ՀայտարարություններՀայաստանի Հանրապետության Կոտայքի մարզի Ակունք համայնքը հրավիրում է աճուրդի</title>
-      <link>https://armenpress.am/hy/article/1254859</link>
-      <description>17:38ՀայտարարություններՀայաստանի Հանրապետության Կոտայքի մարզի Ակունք համայնքը հրավիրում է աճուրդի - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1254859</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/VVDOo8aY4jz9ckSS3Qt5GWrgiwy6VKYeBxXCKZ48.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 06 Jul 2026 14:19:40 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:32ՀայաստանԿասեցվել է «88» սուպերմարկետում գործող հացաբուլկեղենի արտադրամասի արտադրական գործունեությունը</title>
-      <link>https://armenpress.am/hy/article/1254858</link>
-      <description>17:32ՀայաստանԿասեցվել է «88» սուպերմարկետում գործող հացաբուլկեղենի արտադրամասի արտադրական գործունեությունը - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1254858</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/B8JVTyxfRo22q5oz0oORQQVG87SLyEK52VZMIjGa.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 06 Jul 2026 14:17:40 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:23ՎրաստանՎրաստանի ՊՆ նախկին ղեկավարին դատապարտել են 2,5 տարվա բանտարկության՝ իշխանության տապալման կոչերի համար</title>
-      <link>https://armenpress.am/hy/article/1254857</link>
-      <description>17:23ՎրաստանՎրաստանի ՊՆ նախկին ղեկավարին դատապարտել են 2,5 տարվա բանտարկության՝ իշխանության տապալման կոչերի համար - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1254857</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/cg8B49cFUX0G70r3pGOVDynSt8VUrjL3dnAFnA2U.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 06 Jul 2026 14:15:40 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:20ԱդրբեջանՌուսաստանի դեսպանը կանչվել է Ադրբեջանի ԱԳՆ. նրան հանձնվել է բողոքի նոտա</title>
-      <link>https://armenpress.am/hy/article/1254856</link>
-      <description>17:20ԱդրբեջանՌուսաստանի դեսպանը կանչվել է Ադրբեջանի ԱԳՆ. նրան հանձնվել է բողոքի նոտա - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1254856</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/685whWddNw2VESbWjXGeZlg79Omf7KLX6WsvXXwx.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 06 Jul 2026 14:13:40 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:11ԹուրքիաԵվրոպական խորհրդի նախագահը կմասնակցի Անկարայում ՆԱՏՕ-ի գագաթնաժողովին</title>
-      <link>https://armenpress.am/hy/article/1254855</link>
-      <description>17:11ԹուրքիաԵվրոպական խորհրդի նախագահը կմասնակցի Անկարայում ՆԱՏՕ-ի գագաթնաժողովին - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1254855</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/eAgPDH3ViSs3lU5pp1sSPTxcaZaqTvwVsRfDPpKC.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 06 Jul 2026 14:11:40 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:07ՏնտեսությունՀՀ ԿԲ. թանկարժեք մետաղների գներ և փոխարժեքներ-06/07/26</title>
-      <link>https://armenpress.am/hy/article/1254854</link>
-      <description>17:07ՏնտեսությունՀՀ ԿԲ. թանկարժեք մետաղների գներ և փոխարժեքներ-06/07/26 - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1254854</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/05/20/3DH7XxekyG4fAeCAU4yWUxFAPCehUVBu0o0ZJfHs.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 06 Jul 2026 14:09:40 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:06ՏնտեսությունԱսիական ինդեքսներն աճել են - 06/07/26</title>
-      <link>https://armenpress.am/hy/article/1254853</link>
-      <description>17:06ՏնտեսությունԱսիական ինդեքսներն աճել են - 06/07/26 - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1254853</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/16/hWA7DXwML0HcRpla6FoaKgDe8m1U1WKExjhSyoi2.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 06 Jul 2026 14:07:40 -0000</pubDate>
-    </item>
-    <item>
-      <title>16:58ԻրավունքՍերժ Սարգսյանից կբռնագանձվի շուրջ 630 մլն դրամ, ավանդների տոկոսագումարները, անշարժ գույքերից մասնաբաժիններ և ավտոկայանատեղի</title>
-      <link>https://armenpress.am/hy/article/1254852</link>
-      <description>16:58ԻրավունքՍերժ Սարգսյանից կբռնագանձվի շուրջ 630 մլն դրամ, ավանդների տոկոսագումարները, անշարժ գույքերից մասնաբաժիններ և ավտոկայանատեղի - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1254852</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/06/XtCtrhyzrowXaRFvfoTBD63drOG1rN6tLDPmJYHM.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 06 Jul 2026 14:05:40 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 17:10:44 -0000</pubDate>
     </item>
   </channel>
 </rss>
