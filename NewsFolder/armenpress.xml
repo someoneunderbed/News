@@ -5,19 +5,19 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Thu, 09 Jul 2026 01:11:20 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 05:45:34 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
       <link>https://armenpress.am/hy/articles</link>
     </image>
     <item>
-      <title>Երևան18 °C</title>
+      <title>Երևան23 °C</title>
       <link>https://armenpress.am/hy/articles/weather</link>
-      <description>Երևան18 °C - Read on armenpress.am.</description>
+      <description>Երևան23 °C - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
-      <enclosure url="https://armenpress.am/assets/weather/03d.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 09 Jul 2026 01:11:20 -0000</pubDate>
+      <enclosure url="https://armenpress.am/assets/weather/01d.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Thu, 09 Jul 2026 05:45:34 -0000</pubDate>
     </item>
     <item>
       <title>USD / AMD367.29</title>
@@ -25,28 +25,76 @@
       <description>USD / AMD367.29 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 09 Jul 2026 01:09:20 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 05:43:34 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
       <link>https://armenpress.am/hy/articles/fact-check</link>
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Thu, 09 Jul 2026 01:07:20 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 05:41:34 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
       <link>https://armenpress.am/hy/articles/projects</link>
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Thu, 09 Jul 2026 01:05:20 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 05:39:34 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://armenpress.am/hy/articles/interviews</link>
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Thu, 09 Jul 2026 01:03:20 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 05:37:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>09:35ԻրանԱՄՆ-ն Իրանում թիրախավորել է 90 ռազմական օբյեկտ. իրանական կողմը հարձակումներ է իրականացրել Քուվեյթի և Բահրեյնի ուղղությամբ</title>
+      <link>https://armenpress.am/hy/article/1255112</link>
+      <description>09:35ԻրանԱՄՆ-ն Իրանում թիրախավորել է 90 ռազմական օբյեկտ. իրանական կողմը հարձակումներ է իրականացրել Քուվեյթի և Բահրեյնի ուղղությամբ - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1255112</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/09/02x95XwvufJ6eww9wGPyLNfiq8cF8wJjRMaak0Hm.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Thu, 09 Jul 2026 05:35:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>09:29ՏնտեսությունԵվրոպական ինդեքսներ - 08/07/26</title>
+      <link>https://armenpress.am/hy/article/1255111</link>
+      <description>09:29ՏնտեսությունԵվրոպական ինդեքսներ - 08/07/26 - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1255111</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/06/26/DVjb3AYQdhjHPlvRXxhvG48U839ZIYmgGTNz3MQZ.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Thu, 09 Jul 2026 05:33:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>09:28ՏնտեսությունԱմերիկյան ինդեքսներ - 08/07/26</title>
+      <link>https://armenpress.am/hy/article/1255110</link>
+      <description>09:28ՏնտեսությունԱմերիկյան ինդեքսներ - 08/07/26 - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1255110</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/08/1V1Y4LGqGRlbmPxNdaPc0R1znUK6uIidNZCCdfFH.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Thu, 09 Jul 2026 05:31:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>09:27ՏնտեսությունNYMEX. Թանկարժեք մետաղների գները նվազել են - 08/07/26</title>
+      <link>https://armenpress.am/hy/article/1255109</link>
+      <description>09:27ՏնտեսությունNYMEX. Թանկարժեք մետաղների գները նվազել են - 08/07/26 - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1255109</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/04/nX7wXM1zxijj1P9N9dYYrdJ0QgHn7lYcsvlraAWJ.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Thu, 09 Jul 2026 05:29:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>09:24ՏնտեսությունՆավթի գներն աճել են - 08/07/26</title>
+      <link>https://armenpress.am/hy/article/1255108</link>
+      <description>09:24ՏնտեսությունՆավթի գներն աճել են - 08/07/26 - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1255108</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/08/nZl1l7uRbHdyjjQxS7UQKgA93TjDZdD097Kr6krS.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Thu, 09 Jul 2026 05:27:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>09:23ՎերլուծությունԻրանցի փորձագետը Փաշինյանի՝ Թեհրան կատարած այցը երկկողմ ռազմավարական գործընկերության ամրապնդման կարևոր ազդակ է համարում</title>
+      <link>https://armenpress.am/hy/article/1255067</link>
+      <description>09:23ՎերլուծությունԻրանցի փորձագետը Փաշինյանի՝ Թեհրան կատարած այցը երկկողմ ռազմավարական գործընկերության ամրապնդման կարևոր ազդակ է համարում - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1255067</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/08/bwuksfJjXB6xj8qj8HNRSHZPoBA0vhuFdeNmTrzH.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Thu, 09 Jul 2026 05:25:34 -0000</pubDate>
     </item>
     <item>
       <title>21:59, 8 հուլիսիՌուսաստանՌուսաստանն արգելել է դիզելային վառելիքի արտահանումը</title>
@@ -54,7 +102,7 @@
       <description>21:59, 8 հուլիսիՌուսաստանՌուսաստանն արգելել է դիզելային վառելիքի արտահանումը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1255103</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/08/Q8KjkRbdbJTrGb43lF64qCDqzpjLIXuJ3UBTtE1u.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 09 Jul 2026 01:01:20 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 05:23:34 -0000</pubDate>
     </item>
     <item>
       <title>21:54, 8 հուլիսիՀայաստանՔարահունջում գայլը հարձակվել է մարդկանց վրա</title>
@@ -62,7 +110,7 @@
       <description>21:54, 8 հուլիսիՀայաստանՔարահունջում գայլը հարձակվել է մարդկանց վրա - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1255107</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/08/HrcVNOnv07WKJ8WXOTotgZ3nSVTyDfSleW4jSn4b.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 09 Jul 2026 00:59:20 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 05:21:34 -0000</pubDate>
     </item>
     <item>
       <title>21:47, 8 հուլիսիԻրանԱՄՆ-ի օդային հարվածների հետևանքով զոհվել է Իսլամական հեղափոխության պահապանների կորպուսի ութ զինծառայող</title>
@@ -70,7 +118,7 @@
       <description>21:47, 8 հուլիսիԻրանԱՄՆ-ի օդային հարվածների հետևանքով զոհվել է Իսլամական հեղափոխության պահապանների կորպուսի ութ զինծառայող - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1255106</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/08/s11P8v6tOxaN7zKTp5dWg68F8RnrRhg88Jp2EsQ2.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 09 Jul 2026 00:57:20 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 05:19:34 -0000</pubDate>
     </item>
     <item>
       <title>21:35, 8 հուլիսիՄիացյալ ՆահանգներԹրամփը կարծում է, որ Իսրայելը կհեռացնի զորքերը հարավային Լիբանանից</title>
@@ -78,7 +126,7 @@
       <description>21:35, 8 հուլիսիՄիացյալ ՆահանգներԹրամփը կարծում է, որ Իսրայելը կհեռացնի զորքերը հարավային Լիբանանից - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1255104</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/08/9hgvRQwKuK8ZlNsAMohw92byr78mvA2cvGlueR13.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 09 Jul 2026 00:55:20 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 05:17:34 -0000</pubDate>
     </item>
     <item>
       <title>21:18, 8 հուլիսիՄիացյալ ՆահանգներԶելենսկին դրական է գնահատել ԱՄՆ նախագահի հետ հանդիպման արդյունքները</title>
@@ -86,7 +134,7 @@
       <description>21:18, 8 հուլիսիՄիացյալ ՆահանգներԶելենսկին դրական է գնահատել ԱՄՆ նախագահի հետ հանդիպման արդյունքները - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1255105</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/08/iEqG3oA3mvBelMEyoY3umFuZp6lSu7eOui38IEv7.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 09 Jul 2026 00:53:20 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 05:15:34 -0000</pubDate>
     </item>
     <item>
       <title>20:58, 8 հուլիսիՄիացյալ ՆահանգներԹրամփը հայտարարել է Զելենսկիի հետ հանդիպումից հետո Պուտինին զանգահարելու մտադրության մասին</title>
@@ -94,7 +142,7 @@
       <description>20:58, 8 հուլիսիՄիացյալ ՆահանգներԹրամփը հայտարարել է Զելենսկիի հետ հանդիպումից հետո Պուտինին զանգահարելու մտադրության մասին - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1255102</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/08/FVNXBdWzYjzdp2l6LwlNx0EHIGfZ3vlWNhGpHPMI.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 09 Jul 2026 00:51:20 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 05:13:34 -0000</pubDate>
     </item>
     <item>
       <title>20:39, 8 հուլիսիԱշխարհՆԱՏՕ-ն հաջորդ տարի Ուկրաինային կտրամադրի առնվազն 70 միլիարդ եվրոյի ռազմական օգնություն. Ռյուտե</title>
@@ -102,7 +150,7 @@
       <description>20:39, 8 հուլիսիԱշխարհՆԱՏՕ-ն հաջորդ տարի Ուկրաինային կտրամադրի առնվազն 70 միլիարդ եվրոյի ռազմական օգնություն. Ռյուտե - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1255101</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/08/tM3cHI6ixeLcHPByLMr21RaSrVWhMKUQo4nzKS6B.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 09 Jul 2026 00:49:20 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 05:11:34 -0000</pubDate>
     </item>
     <item>
       <title>20:19, 8 հուլիսիՄիացյալ ՆահանգներԹրամփը հայտարարել է, որ ԱՄՆ-ն Ուկրաինային կտրամադրի Patriot հրթիռային համակարգեր արտադրելու լիցենզիա</title>
@@ -110,7 +158,7 @@
       <description>20:19, 8 հուլիսիՄիացյալ ՆահանգներԹրամփը հայտարարել է, որ ԱՄՆ-ն Ուկրաինային կտրամադրի Patriot հրթիռային համակարգեր արտադրելու լիցենզիա - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1255100</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/08/JjJ6xKi7UAZ0XGR22uBAwR4hlHAFQeQeM3y18d3l.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 09 Jul 2026 00:47:20 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 05:09:34 -0000</pubDate>
     </item>
     <item>
       <title>19:57, 8 հուլիսիԻրանԻրանը դադարեցնում է ԱՄՆ-ի հետ բանակցությունները վերջնական կարգավորման շուրջ. ՏԱՍՍ</title>
@@ -118,55 +166,7 @@
       <description>19:57, 8 հուլիսիԻրանԻրանը դադարեցնում է ԱՄՆ-ի հետ բանակցությունները վերջնական կարգավորման շուրջ. ՏԱՍՍ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1255099</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/08/VXETRO2nood6KPicLubLmrwjJPMtgZm0R1Z1iwLc.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 09 Jul 2026 00:45:20 -0000</pubDate>
-    </item>
-    <item>
-      <title>19:36, 8 հուլիսիՀայաստանԵրևանի կենդանաբանական այգի տեղափոխված առյուծներն ու վագրերը կարանտինում են և գտնվում են մասնագետների հսկողության ներքո</title>
-      <link>https://armenpress.am/hy/article/1255098</link>
-      <description>19:36, 8 հուլիսիՀայաստանԵրևանի կենդանաբանական այգի տեղափոխված առյուծներն ու վագրերը կարանտինում են և գտնվում են մասնագետների հսկողության ներքո - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1255098</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/08/Rly9aATGyitZ1YyWSqXJ4XVTjDD8h7faxcQOmgzr.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 09 Jul 2026 00:43:20 -0000</pubDate>
-    </item>
-    <item>
-      <title>19:21, 8 հուլիսիԱշխարհՆԱՏՕ-ի հաջորդ գագաթնաժողովը տեղի կունենա Ալբանիայում</title>
-      <link>https://armenpress.am/hy/article/1255096</link>
-      <description>19:21, 8 հուլիսիԱշխարհՆԱՏՕ-ի հաջորդ գագաթնաժողովը տեղի կունենա Ալբանիայում - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1255096</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/08/bLOZdwPOEav2oQEfdXpyhojIVofUr3eMRiTSLOjl.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 09 Jul 2026 00:41:20 -0000</pubDate>
-    </item>
-    <item>
-      <title>19:17, 8 հուլիսիԱնոնսՀուլիսի 9-ի միջոցառումների անոնս</title>
-      <link>https://armenpress.am/hy/article/1255097</link>
-      <description>19:17, 8 հուլիսիԱնոնսՀուլիսի 9-ի միջոցառումների անոնս - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1255097</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/08/Q8KjkRbdbJTrGb43lF64qCDqzpjLIXuJ3UBTtE1u.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 09 Jul 2026 00:39:20 -0000</pubDate>
-    </item>
-    <item>
-      <title>19:07, 8 հուլիսիՔաղաքականությունՏեղի է ունեցել Նիկոլ Փաշինյանի և Վահագն Խաչատուրյանի հանդիպումը</title>
-      <link>https://armenpress.am/hy/article/1255095</link>
-      <description>19:07, 8 հուլիսիՔաղաքականությունՏեղի է ունեցել Նիկոլ Փաշինյանի և Վահագն Խաչատուրյանի հանդիպումը - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1255095</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/08/wIwNA7LaoarLaLBeonvtsAgbvqnadjvaPQIXkOiA.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 09 Jul 2026 00:37:20 -0000</pubDate>
-    </item>
-    <item>
-      <title>18:50, 8 հուլիսիՀայաստանԿԳՄՍՆ-ն համագործակցության հուշագիր է ստորագրել Գյումրիի երիտասարդական նախաձեռնությունների կենտրոնի հետ</title>
-      <link>https://armenpress.am/hy/article/1255094</link>
-      <description>18:50, 8 հուլիսիՀայաստանԿԳՄՍՆ-ն համագործակցության հուշագիր է ստորագրել Գյումրիի երիտասարդական նախաձեռնությունների կենտրոնի հետ - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1255094</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/08/mHz4MoXxSdVj4z7AkQgJmMwEMHemC5x0d9VgVjVD.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 09 Jul 2026 00:35:20 -0000</pubDate>
-    </item>
-    <item>
-      <title>18:34, 8 հուլիսիԹուրքիաԷրդողանը ՆԱՏՕ-ի գագաթնաժողովի շրջանակում հանդիպել է Գերմանիայի կանցլերի հետ</title>
-      <link>https://armenpress.am/hy/article/1255093</link>
-      <description>18:34, 8 հուլիսիԹուրքիաԷրդողանը ՆԱՏՕ-ի գագաթնաժողովի շրջանակում հանդիպել է Գերմանիայի կանցլերի հետ - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1255093</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/08/UNw1R8gRwr9lHq9vyaFjnSYZ7LyskEMLfqP7r6Tx.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 09 Jul 2026 00:33:20 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 05:07:34 -0000</pubDate>
     </item>
   </channel>
 </rss>
