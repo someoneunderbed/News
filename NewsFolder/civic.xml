@@ -5,7 +5,7 @@
     <link>https://civic.am/last-news</link>
     <description>Cleaned RSS feed updated from Civic.am.</description>
     <language>hy</language>
-    <lastBuildDate>Fri, 10 Jul 2026 15:59:59 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 17:56:56 -0000</lastBuildDate>
     <image>
       <url>https://civic.am/assets/img/logo.svg</url>
       <title>Civic.am</title>
@@ -17,7 +17,7 @@
       <description>Վերջին լուրեր - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/last-news</guid>
       <enclosure url="https://civic.am/media/2024/06/04/54e0b527ad56ef4fc6dbee0929416a08173e97a2.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 10 Jul 2026 15:59:59 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 17:56:56 -0000</pubDate>
     </item>
     <item>
       <title>Քաղաքականություն</title>
@@ -25,7 +25,7 @@
       <description>Քաղաքականություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/politics</guid>
       <enclosure url="https://civic.am/media/2024/06/04/ee9d67f3bae2933126d54f7ed12f02ac869e2746.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 10 Jul 2026 15:57:59 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 17:54:56 -0000</pubDate>
     </item>
     <item>
       <title>Տնտեսություն</title>
@@ -33,7 +33,7 @@
       <description>Տնտեսություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/economy</guid>
       <enclosure url="https://civic.am/media/2024/06/04/6250050b286fb0f4d5ca02a2960ff947fae23145.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 10 Jul 2026 15:55:59 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 17:52:56 -0000</pubDate>
     </item>
     <item>
       <title>Հասարակություն</title>
@@ -41,7 +41,7 @@
       <description>Հասարակություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/society</guid>
       <enclosure url="https://civic.am/media/2024/06/04/a8c5d5498c6320597fb01c9cdf47748c74e9f67c.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 10 Jul 2026 15:53:59 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 17:50:56 -0000</pubDate>
     </item>
     <item>
       <title>Պաշտոնական</title>
@@ -49,7 +49,7 @@
       <description>Պաշտոնական - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/official</guid>
       <enclosure url="https://civic.am/media/2024/06/04/aba87cc2532bd0ceeaa3ca740a996a96c8d862c2.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 10 Jul 2026 15:51:59 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 17:48:56 -0000</pubDate>
     </item>
     <item>
       <title>Հաղորդաշարեր</title>
@@ -57,7 +57,15 @@
       <description>Հաղորդաշարեր - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/broadcasts</guid>
       <enclosure url="https://civic.am/media/2024/06/04/2fe324aae22ec12dd2a977f3395175029028444a.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 10 Jul 2026 15:49:59 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 17:46:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>ՊաշտոնականԱռողջության համընդհանուր ապահովագրության շրջանակում համավճարների որևէ փոփոխություն տեղի չի ունեցել</title>
+      <link>https://civic.am/news/118856</link>
+      <description>ՊաշտոնականԱռողջության համընդհանուր ապահովագրության շրջանակում համավճարների որևէ փոփոխություն տեղի չի ունեցել - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/118856</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/07/10/d0d7dd275ad344b916f82c706fdfcda9bffcd9dc.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 10 Jul 2026 17:44:56 -0000</pubDate>
     </item>
     <item>
       <title>ՀասարակությունՔաղաքապետարանը պարզաբանել է Գագիկ Ծառուկյանի կենդանիների տեղափոխման շուրջ շահարկումները</title>
@@ -65,7 +73,7 @@
       <description>ՀասարակությունՔաղաքապետարանը պարզաբանել է Գագիկ Ծառուկյանի կենդանիների տեղափոխման շուրջ շահարկումները - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/118845</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/07/10/a712733d32d765202b103c7b161454da1812d6dc.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 10 Jul 2026 15:47:59 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 17:42:56 -0000</pubDate>
     </item>
     <item>
       <title>ՔաղաքականությունԻնչպես է Ծառուկյանը «քցել» իրանցիներին․ Տուժած մի խումբ գործարարներ պնդում են՝ Ծառուկյանի մեղադրանքը լիովին ապաքաղաքական է</title>
@@ -73,7 +81,7 @@
       <description>ՔաղաքականությունԻնչպես է Ծառուկյանը «քցել» իրանցիներին․ Տուժած մի խումբ գործարարներ պնդում են՝ Ծառուկյանի մեղադրանքը լիովին ապաքաղաքական է - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/118799</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/07/09/2c5d32556959176882d481c1c4e7258390e84a8a.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 10 Jul 2026 15:45:59 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 17:40:56 -0000</pubDate>
     </item>
     <item>
       <title>ՔաղաքականությունՊատերազմի եռագլուխ կուսակցության անդամները իրենց անձնական դատավորներն ունեն համակարգերում նշանակած. Փաշինյան</title>
@@ -81,55 +89,63 @@
       <description>ՔաղաքականությունՊատերազմի եռագլուխ կուսակցության անդամները իրենց անձնական դատավորներն ունեն համակարգերում նշանակած. Փաշինյան - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/118792</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/07/09/f852fa183d35448baf842c689a745a4c73489d82.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 10 Jul 2026 15:43:59 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 17:38:56 -0000</pubDate>
     </item>
     <item>
-      <title>ՔաղաքականությունԾառուկյանի դեմ քրգործը հարուցվել է 2025-ին՝ օտարերկրյա ներդրողի դիմումի հիման վրա՝ եթե չեմ սխալվում. Փաշինյան</title>
-      <link>https://civic.am/news/118787</link>
-      <description>ՔաղաքականությունԾառուկյանի դեմ քրգործը հարուցվել է 2025-ին՝ օտարերկրյա ներդրողի դիմումի հիման վրա՝ եթե չեմ սխալվում. Փաշինյան - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/118787</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/07/09/3544b0156c5fb9945bf861f07c1808cfcc42c718.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 10 Jul 2026 15:41:59 -0000</pubDate>
+      <title>ՔաղաքականությունՀրաժարվել եմ ԱԺ պատգամավորի մանդատից և շարունակում եմ աշխատանքը որպես Լոռու մարզպետ. Արեն Մկրտչյան</title>
+      <link>https://civic.am/news/118867</link>
+      <description>ՔաղաքականությունՀրաժարվել եմ ԱԺ պատգամավորի մանդատից և շարունակում եմ աշխատանքը որպես Լոռու մարզպետ. Արեն Մկրտչյան - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/118867</guid>
+      <enclosure url="https://civic.am/thumbs/696x444/2026/07/10/53be41abfa6c6c6eda8f584a691ef1cad5e7c462.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 10 Jul 2026 17:36:56 -0000</pubDate>
     </item>
     <item>
-      <title>ԱշխարհԱդրբեջանի տարածքով Հայաստան է ուղարկվել ռուսական պարարտանյութ և հեղուկ գազ</title>
-      <link>https://civic.am/news/118857</link>
-      <description>ԱշխարհԱդրբեջանի տարածքով Հայաստան է ուղարկվել ռուսական պարարտանյութ և հեղուկ գազ - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/118857</guid>
-      <enclosure url="https://civic.am/thumbs/696x444/2026/07/10/f607f5f2252a69b962853aa5a6f3bbaf012f396c.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 10 Jul 2026 15:39:59 -0000</pubDate>
+      <title>ԱշխարհԹեհրանն Իսրայելին զգուշացրել է զերծ մնալ ամերիկյան հարվածներին միանալուց</title>
+      <link>https://civic.am/news/118860</link>
+      <description>ԱշխարհԹեհրանն Իսրայելին զգուշացրել է զերծ մնալ ամերիկյան հարվածներին միանալուց - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/118860</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/07/10/a3be559d94eb0a559414f95b5d575f17198c8f2a.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 10 Jul 2026 17:34:56 -0000</pubDate>
     </item>
     <item>
-      <title>ՀասարակությունՓրկարարները Խաչաղբյուր գետից դուրս են բերել քաղաքացու դին</title>
-      <link>https://civic.am/news/118866</link>
-      <description>ՀասարակությունՓրկարարները Խաչաղբյուր գետից դուրս են բերել քաղաքացու դին - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/118866</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/07/10/10deadc317342679d770515d03ba4ad306d53310.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 10 Jul 2026 15:37:59 -0000</pubDate>
+      <title>ԱշխարհԵվս մեկ քայլ դեպի ԵՄ. Դեսպանները համաձայնություն են տվել Ուկրաինայի և Մոլդովայի բանակցությունների նոր փուլին</title>
+      <link>https://civic.am/news/118858</link>
+      <description>ԱշխարհԵվս մեկ քայլ դեպի ԵՄ. Դեսպանները համաձայնություն են տվել Ուկրաինայի և Մոլդովայի բանակցությունների նոր փուլին - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/118858</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/07/10/e744885af529f511a5e76748b6a40bcace13f61f.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 10 Jul 2026 17:32:56 -0000</pubDate>
     </item>
     <item>
-      <title>ԱշխարհՏոկաևը հեռախոսազրույց է ունեցել Թրամփի հետ և հրավիրել նրան այցելել Ղազախստան</title>
-      <link>https://civic.am/news/118861</link>
-      <description>ԱշխարհՏոկաևը հեռախոսազրույց է ունեցել Թրամփի հետ և հրավիրել նրան այցելել Ղազախստան - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/118861</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/07/10/cfc107220b70a2299b0ae80b5cce754f47694330.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 10 Jul 2026 15:35:59 -0000</pubDate>
+      <title>ԻրավունքՈստիկանները հայտնաբերել են կանեփ աճեցնելու դեպքեր․ նախաձեռնվել են վարույթներ</title>
+      <link>https://civic.am/news/118854</link>
+      <description>ԻրավունքՈստիկանները հայտնաբերել են կանեփ աճեցնելու դեպքեր․ նախաձեռնվել են վարույթներ - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/118854</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/07/10/03ea9c804d3f5f854d3cfe3f161d646d29a402cf.jpeg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 10 Jul 2026 17:30:56 -0000</pubDate>
     </item>
     <item>
-      <title>ՔաղաքականությունՀրաժարվել եմ պատգամավորի մանդատից և շարունակելու եմ իմ գործունեությունը՝ որպես Վայոց ձորի մարզպետ. Վահագն Արսենյան</title>
-      <link>https://civic.am/news/118865</link>
-      <description>ՔաղաքականությունՀրաժարվել եմ պատգամավորի մանդատից և շարունակելու եմ իմ գործունեությունը՝ որպես Վայոց ձորի մարզպետ. Վահագն Արսենյան - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/118865</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/07/10/66a1e0cf5d177fa2f8055287b87902940fb6377e.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 10 Jul 2026 15:33:59 -0000</pubDate>
+      <title>Եվրահանձնաժողովը Instagram-ն ու Facebook-ը վտանգավոր է համարում երեխաների հոգեկան առողջության համար</title>
+      <link>https://civic.am/news/118850</link>
+      <description>Եվրահանձնաժողովը Instagram-ն ու Facebook-ը վտանգավոր է համարում երեխաների հոգեկան առողջության համար - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/118850</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/07/10/71090d38fd20507812eaa851b0cb88ce5f95f861.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 10 Jul 2026 17:28:56 -0000</pubDate>
     </item>
     <item>
-      <title>ՔաղաքականությունԵրևանի Մալաթիա-Սեբաստիա վարչական շրջանի ղեկավարը հրաժարական է տվել</title>
-      <link>https://civic.am/news/118864</link>
-      <description>ՔաղաքականությունԵրևանի Մալաթիա-Սեբաստիա վարչական շրջանի ղեկավարը հրաժարական է տվել - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/118864</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/07/10/395f997242f95b48a1681380e666ba6d0e2c7710.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 10 Jul 2026 15:31:59 -0000</pubDate>
+      <title>ԵՄ-ն հրաժարվել է Ռուսաստանի դեմ պատժամիջոցների 21-րդ փաթեթի խիստ դրույթներից</title>
+      <link>https://civic.am/news/118849</link>
+      <description>ԵՄ-ն հրաժարվել է Ռուսաստանի դեմ պատժամիջոցների 21-րդ փաթեթի խիստ դրույթներից - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/118849</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/07/10/206ff3b64ee7b117e27bea7aded4e1713f2defe1.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 10 Jul 2026 17:26:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Իլհամ Ալիևը վավերացրել է Վրաստան բնական գազի մատակարարման մասին համաձայնագիրը</title>
+      <link>https://civic.am/news/118848</link>
+      <description>Իլհամ Ալիևը վավերացրել է Վրաստան բնական գազի մատակարարման մասին համաձայնագիրը - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/118848</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/07/10/a38d8c2982e8313a82f332bafdfafdb4749fe1a5.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 10 Jul 2026 17:24:56 -0000</pubDate>
     </item>
     <item>
       <title>ԱՄՆ-ի և Իրանի միջև հրադադարը կարող է պահպանվել՝ չնայած Թրամփի հայտարարություններին․ Ֆիդան</title>
@@ -137,39 +153,23 @@
       <description>ԱՄՆ-ի և Իրանի միջև հրադադարը կարող է պահպանվել՝ չնայած Թրամփի հայտարարություններին․ Ֆիդան - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/118851</guid>
       <enclosure url="https://civic.am/thumbs/540x362/2026/07/10/5c6c466c54b01c3dc4d9524d895228f0517985f0.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 10 Jul 2026 15:29:59 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 17:22:56 -0000</pubDate>
     </item>
     <item>
-      <title>Երևանի «Դե Անջելո» ռեստորանում հրդեհ է բռնկվել</title>
-      <link>https://civic.am/news/118859</link>
-      <description>Երևանի «Դե Անջելո» ռեստորանում հրդեհ է բռնկվել - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/118859</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/07/10/66d1b6a311a9e6d80b13034f29b4e0e67f1325ca.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 10 Jul 2026 15:27:59 -0000</pubDate>
+      <title>Ադրբեջանի տարածքով Հայաստան է ուղարկվել ռուսական պարարտանյութ և հեղուկ գազ</title>
+      <link>https://civic.am/news/118857</link>
+      <description>Ադրբեջանի տարածքով Հայաստան է ուղարկվել ռուսական պարարտանյութ և հեղուկ գազ - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/118857</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/07/10/f607f5f2252a69b962853aa5a6f3bbaf012f396c.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 10 Jul 2026 17:20:56 -0000</pubDate>
     </item>
     <item>
-      <title>Տիգրան Արզաքանցյանը և Նատալյա Ռոտենբերգը պաշտոնապես ամուսնալուծվել են. ԶԼՄ</title>
-      <link>https://civic.am/news/118855</link>
-      <description>Տիգրան Արզաքանցյանը և Նատալյա Ռոտենբերգը պաշտոնապես ամուսնալուծվել են. ԶԼՄ - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/118855</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/07/10/fcc4163409426f66cb322dd942032d54138a8501.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 10 Jul 2026 15:25:59 -0000</pubDate>
-    </item>
-    <item>
-      <title>Արարատի ցեմենտի գործարանը վերսկսել է իր արտադրական գործընթացը</title>
-      <link>https://civic.am/news/118852</link>
-      <description>Արարատի ցեմենտի գործարանը վերսկսել է իր արտադրական գործընթացը - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/118852</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/07/10/68d3da25112f8ae759fd05bec06745757ce42c24.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 10 Jul 2026 15:23:59 -0000</pubDate>
-    </item>
-    <item>
-      <title>Քոլեջներում գերակա ճանաչված մասնագիտություններում բոլոր ուսանողները կստանան 50 հազար դրամ կրթաթոշակ. Սվաջյան</title>
-      <link>https://civic.am/news/118844</link>
-      <description>Քոլեջներում գերակա ճանաչված մասնագիտություններում բոլոր ուսանողները կստանան 50 հազար դրամ կրթաթոշակ. Սվաջյան - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/118844</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/07/10/ebd845c645b76427f4338590bf370917806ee28a.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 10 Jul 2026 15:21:59 -0000</pubDate>
+      <title>Փրկարարները Խաչաղբյուր գետից դուրս են բերել քաղաքացու դին</title>
+      <link>https://civic.am/news/118866</link>
+      <description>Փրկարարները Խաչաղբյուր գետից դուրս են բերել քաղաքացու դին - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/118866</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/07/10/10deadc317342679d770515d03ba4ad306d53310.jpeg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 10 Jul 2026 17:18:56 -0000</pubDate>
     </item>
   </channel>
 </rss>
