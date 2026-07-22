@@ -5,19 +5,19 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Wed, 22 Jul 2026 16:57:15 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 18:16:57 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
       <link>https://armenpress.am/hy/articles</link>
     </image>
     <item>
-      <title>Երևան27 °C</title>
+      <title>Երևան23 °C</title>
       <link>https://armenpress.am/hy/articles/weather</link>
-      <description>Երևան27 °C - Read on armenpress.am.</description>
+      <description>Երևան23 °C - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
       <enclosure url="https://armenpress.am/assets/weather/10n.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 16:57:15 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 18:16:57 -0000</pubDate>
     </item>
     <item>
       <title>USD / AMD366.89</title>
@@ -25,28 +25,68 @@
       <description>USD / AMD366.89 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 16:55:15 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 18:14:57 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
       <link>https://armenpress.am/hy/articles/fact-check</link>
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Wed, 22 Jul 2026 16:53:15 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 18:12:57 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
       <link>https://armenpress.am/hy/articles/projects</link>
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Wed, 22 Jul 2026 16:51:15 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 18:10:57 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://armenpress.am/hy/articles/interviews</link>
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Wed, 22 Jul 2026 16:49:15 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 18:08:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>21:58Մերձավոր ԱրևելքՀԱՄԱՍ-ը բոլոր պաղեստինյան խմբավորումներին միավորվելու կոչ է արել</title>
+      <link>https://armenpress.am/hy/article/1256223</link>
+      <description>21:58Մերձավոր ԱրևելքՀԱՄԱՍ-ը բոլոր պաղեստինյան խմբավորումներին միավորվելու կոչ է արել - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1256223</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/22/gkF8WwbxwqS7xaIs60LWXBUw7CcGrYLB7SayDQ3R.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 18:06:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>21:42ԵրևանԿասեցվել են Կենտրոն վարչական շրջանի Անտառային փողոցի 124 հասցեում իրականացվող շինարարական աշխատանքները</title>
+      <link>https://armenpress.am/hy/article/1256222</link>
+      <description>21:42ԵրևանԿասեցվել են Կենտրոն վարչական շրջանի Անտառային փողոցի 124 հասցեում իրականացվող շինարարական աշխատանքները - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1256222</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/22/7N351FAXIwdwXyr6g9qz6qZ6iSgPSmlGVxcbnjET.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 18:04:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>21:36ՏնտեսությունՔննարկվել են Հայաստանի և Իտալիայի միջև ագրոպարենային ոլորտում երկկողմ համագործակցության զարգացման հնարավորությունները</title>
+      <link>https://armenpress.am/hy/article/1256221</link>
+      <description>21:36ՏնտեսությունՔննարկվել են Հայաստանի և Իտալիայի միջև ագրոպարենային ոլորտում երկկողմ համագործակցության զարգացման հնարավորությունները - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1256221</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/22/GyxWz00BbVsVxgVbua8ez4dLHGuIHZN6KZXuXB8g.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 18:02:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>21:26ՔաղաքականությունԿԸՀ նախագահը պարզաբանել է Նարեկ Կարապետյանի վերաբերյալ գլխավոր դատախազության միջնորդության մասին որոշումը</title>
+      <link>https://armenpress.am/hy/article/1256220</link>
+      <description>21:26ՔաղաքականությունԿԸՀ նախագահը պարզաբանել է Նարեկ Կարապետյանի վերաբերյալ գլխավոր դատախազության միջնորդության մասին որոշումը - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1256220</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/22/1J1KrcdVaLEBlopbElKtKE0aSDVdIDIlzevDys89.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 18:00:57 -0000</pubDate>
+    </item>
+    <item>
+      <title>21:05ՔաղաքականությունՀայաստանն ու Կանադան քննարկել են առաջնահերթ ուղղություններով երկկողմ օրակարգի հարստացման հեռանկարները</title>
+      <link>https://armenpress.am/hy/article/1256219</link>
+      <description>21:05ՔաղաքականությունՀայաստանն ու Կանադան քննարկել են առաջնահերթ ուղղություններով երկկողմ օրակարգի հարստացման հեռանկարները - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1256219</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/22/MxeEz0W8S8bo60mgbfQOGslsyT3QIQmOmxAGBgZh.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 17:58:57 -0000</pubDate>
     </item>
     <item>
       <title>20:53ՌուսաստանՊեսկովը հայտարարել է, որ Ռուսաստանը բարձր մակարդակով կներկայացվի ԱՄՆ-ում կայանալիք G20 գագաթնաժողովին</title>
@@ -54,7 +94,7 @@
       <description>20:53ՌուսաստանՊեսկովը հայտարարել է, որ Ռուսաստանը բարձր մակարդակով կներկայացվի ԱՄՆ-ում կայանալիք G20 գագաթնաժողովին - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1256217</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/22/AVzrwj4uK2rcHcTzkdn5QPp6mP4Oz6yaXCn4MsDe.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 16:47:15 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:56:57 -0000</pubDate>
     </item>
     <item>
       <title>20:30ԱշխարհԱՀԿ-ն հայտնել է, որ էբոլայից մահացածների թիվը գերազանցել է 1000-ը</title>
@@ -62,7 +102,7 @@
       <description>20:30ԱշխարհԱՀԿ-ն հայտնել է, որ էբոլայից մահացածների թիվը գերազանցել է 1000-ը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1256216</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/22/JM7HPXLv3C3iDiw8dAzWfm84jxxJc5LCGH869D80.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 16:45:15 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:54:57 -0000</pubDate>
     </item>
     <item>
       <title>20:18ԻրավունքԴատախազը հանրային քրեական հետապնդում է հարուցել Նարեկ Կարապետյանի նկատմամբ</title>
@@ -70,7 +110,7 @@
       <description>20:18ԻրավունքԴատախազը հանրային քրեական հետապնդում է հարուցել Նարեկ Կարապետյանի նկատմամբ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1256218</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/22/MGGbeHI5HBpQQDCcE2YdOh5lsE7ivwlsDC6cfTqg.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 16:43:15 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:52:57 -0000</pubDate>
     </item>
     <item>
       <title>20:00Միացյալ ՆահանգներՌուսաստանի դեմ պատժամիջոցների մասին օրինագիծը ԱՄՆ Ներկայացուցիչների պալատ կներկայացվի հուլիսի 22-ին</title>
@@ -78,7 +118,7 @@
       <description>20:00Միացյալ ՆահանգներՌուսաստանի դեմ պատժամիջոցների մասին օրինագիծը ԱՄՆ Ներկայացուցիչների պալատ կներկայացվի հուլիսի 22-ին - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1256215</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/22/3HwEZbKtnl6XswNgN0S6hLoUlIUM46QgfDIfOSYW.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 16:41:15 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:50:57 -0000</pubDate>
     </item>
     <item>
       <title>19:47ԻրանԻրանը խոստանում է համաչափ պատասխան կամուրջների և էլեկտրակայանների վրա ԱՄՆ-ի հարվածներին</title>
@@ -86,7 +126,7 @@
       <description>19:47ԻրանԻրանը խոստանում է համաչափ պատասխան կամուրջների և էլեկտրակայանների վրա ԱՄՆ-ի հարվածներին - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1256214</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/22/fkGf7ojjWH7mSSRAcrtC8wzh2BOzpcXZ7mLJEwN5.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 16:39:15 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:48:57 -0000</pubDate>
     </item>
     <item>
       <title>19:30ԻրանԹրամփը սպառնացել է Իրանի կողմից Հորմուզի նեղուցում նավերի վրա ցանկացած հարձակման դեպքում թիրախավորել կամուրջներ և էլեկտրակայաններ</title>
@@ -94,7 +134,7 @@
       <description>19:30ԻրանԹրամփը սպառնացել է Իրանի կողմից Հորմուզի նեղուցում նավերի վրա ցանկացած հարձակման դեպքում թիրախավորել կամուրջներ և էլեկտրակայաններ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1256213</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/22/toHtVRGeunplZt1iWIUilzIiuMGLjZ5FDPR03hgU.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 16:37:15 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:46:57 -0000</pubDate>
     </item>
     <item>
       <title>19:18ՍպորտԺաննա Անդրեասյանն ընդունել է Հայաստանի մինչև 16 տարեկանների բասկետբոլի թիմին</title>
@@ -102,7 +142,7 @@
       <description>19:18ՍպորտԺաննա Անդրեասյանն ընդունել է Հայաստանի մինչև 16 տարեկանների բասկետբոլի թիմին - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1256212</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/22/qoCRzD6NQ0AiJOB2kZshI0S2hO9QFu996OBloFOe.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 16:35:15 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:44:57 -0000</pubDate>
     </item>
     <item>
       <title>19:02Միացյալ ՆահանգներՉինաստանը և Միացյալ Նահանգները համաձայնության են եկել բարձր մակարդակի շփումներ կազմակերպելու հարցում</title>
@@ -110,7 +150,7 @@
       <description>19:02Միացյալ ՆահանգներՉինաստանը և Միացյալ Նահանգները համաձայնության են եկել բարձր մակարդակի շփումներ կազմակերպելու հարցում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1256211</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/22/IeHVj3KH1V65tgLiNb40sZtNTz6OaaGeVuCqH8ow.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 16:33:15 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:42:57 -0000</pubDate>
     </item>
     <item>
       <title>18:47ՔաղաքականությունՏեղի է ունեցել Նիկոլ Փաշինյանի և Ֆրիդրիխ Մերցի հեռախոսազրույցը</title>
@@ -118,7 +158,7 @@
       <description>18:47ՔաղաքականությունՏեղի է ունեցել Նիկոլ Փաշինյանի և Ֆրիդրիխ Մերցի հեռախոսազրույցը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1256210</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/22/dX3oSbGoHvgpTu1A5EqkQbUKZJoraXmbZgXzA33T.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 16:31:15 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:40:57 -0000</pubDate>
     </item>
     <item>
       <title>18:31ՀայաստանԳավառ-Մարտունի ավտոճանապարհին գտնվող մատուռում այրվել և ջերմահարվել են սրբապատկերներ</title>
@@ -126,47 +166,7 @@
       <description>18:31ՀայաստանԳավառ-Մարտունի ավտոճանապարհին գտնվող մատուռում այրվել և ջերմահարվել են սրբապատկերներ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1256209</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/22/aMSTiLRkm6upCf3yjB609kI0CLaCRQYU4K9gI2rO.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 16:29:15 -0000</pubDate>
-    </item>
-    <item>
-      <title>18:22ՀայաստանՓրկարարները մարել են Միկոյան 25 շենքի 5-րդ հարկի բնակարաններից մեկում բռնկված հրդեհը</title>
-      <link>https://armenpress.am/hy/article/1256208</link>
-      <description>18:22ՀայաստանՓրկարարները մարել են Միկոյան 25 շենքի 5-րդ հարկի բնակարաններից մեկում բռնկված հրդեհը - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1256208</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/22/8lq9I0tyrqkS2GH1RajfPLOJdPSHgYI5V7aytMGU.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 16:27:15 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:52ՌուսաստանՊուտինը Ռուսաստանի տնտեսությունը կայուն է անվանել՝ չնայած վառելիքային ճգնաժամին</title>
-      <link>https://armenpress.am/hy/article/1256205</link>
-      <description>17:52ՌուսաստանՊուտինը Ռուսաստանի տնտեսությունը կայուն է անվանել՝ չնայած վառելիքային ճգնաժամին - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1256205</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/22/zOs5dbzbAZMqirApvQsCjz0LrXcpybR4rlQEAq4E.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 16:25:15 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:41ՌազմականՏեղի է ունեցել հրամանատարաշտաբային ինստիտուտի ուսումնական տարվա ավարտական միջոցառումը</title>
-      <link>https://armenpress.am/hy/article/1256204</link>
-      <description>17:41ՌազմականՏեղի է ունեցել հրամանատարաշտաբային ինստիտուտի ուսումնական տարվա ավարտական միջոցառումը - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1256204</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/22/d1g6evJdL1l4EKXyV5GDfQQS1Pl4cLH10rueRaAm.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 16:23:15 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:36ԱնոնսՀուլիսի 23-ի միջոցառումների անոնս</title>
-      <link>https://armenpress.am/hy/article/1256203</link>
-      <description>17:36ԱնոնսՀուլիսի 23-ի միջոցառումների անոնս - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1256203</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/22/AVzrwj4uK2rcHcTzkdn5QPp6mP4Oz6yaXCn4MsDe.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 16:21:15 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:35ԻրանԻրանը հերքել է Քոլանգ լեռան տարածքում միջուկային օբյեկտի առկայությունը</title>
-      <link>https://armenpress.am/hy/article/1256201</link>
-      <description>17:35ԻրանԻրանը հերքել է Քոլանգ լեռան տարածքում միջուկային օբյեկտի առկայությունը - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1256201</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/22/MXBGv2PtivpmPoTJFGhw5loM7I3eCwXnm4ugpTuv.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 16:19:15 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:38:57 -0000</pubDate>
     </item>
   </channel>
 </rss>
