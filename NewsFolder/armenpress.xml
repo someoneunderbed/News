@@ -5,19 +5,19 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Tue, 28 Jul 2026 14:26:56 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 16:19:37 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
       <link>https://armenpress.am/hy/articles</link>
     </image>
     <item>
-      <title>Երևան33 °C</title>
+      <title>Երևան29 °C</title>
       <link>https://armenpress.am/hy/articles/weather</link>
-      <description>Երևան33 °C - Read on armenpress.am.</description>
+      <description>Երևան29 °C - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
-      <enclosure url="https://armenpress.am/assets/weather/01d.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 28 Jul 2026 14:26:56 -0000</pubDate>
+      <enclosure url="https://armenpress.am/assets/weather/01n.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 28 Jul 2026 16:19:37 -0000</pubDate>
     </item>
     <item>
       <title>USD / AMD366.54</title>
@@ -25,28 +25,116 @@
       <description>USD / AMD366.54 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 28 Jul 2026 14:24:56 -0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 16:17:37 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
       <link>https://armenpress.am/hy/articles/fact-check</link>
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Tue, 28 Jul 2026 14:22:56 -0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 16:15:37 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
       <link>https://armenpress.am/hy/articles/projects</link>
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Tue, 28 Jul 2026 14:20:56 -0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 16:13:37 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://armenpress.am/hy/articles/interviews</link>
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Tue, 28 Jul 2026 14:18:56 -0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 16:11:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>20:15ԱշխարհԼիբանանի վրա Իսրայելի հարձակումների հետևանքով զոհերի թիվը հասել է 4333-ի</title>
+      <link>https://armenpress.am/hy/article/1256632</link>
+      <description>20:15ԱշխարհԼիբանանի վրա Իսրայելի հարձակումների հետևանքով զոհերի թիվը հասել է 4333-ի - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1256632</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/DxEZKzeZ3soNoNnwwwXaPWqGfYBrkNzRyM6SZ8sG.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 28 Jul 2026 16:09:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>19:55ՉինաստանԳանսու. չինական նահանգի հնագույն ժառանգությունն ու նոր հավակնությունները</title>
+      <link>https://armenpress.am/hy/article/1256614</link>
+      <description>19:55ՉինաստանԳանսու. չինական նահանգի հնագույն ժառանգությունն ու նոր հավակնությունները - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1256614</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/wueNPc1v9ED0UpcJ2WaAoscH9DiBnIfOonTh7ghP.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 28 Jul 2026 16:07:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>19:47Բարձր տեխնոլոգիաներՄխիթար Հայրապետյանն այցելել է Firebird AI ընկերության՝ Հրազդան քաղաքում գտնվող «ԱԲ գործարան»</title>
+      <link>https://armenpress.am/hy/article/1256630</link>
+      <description>19:47Բարձր տեխնոլոգիաներՄխիթար Հայրապետյանն այցելել է Firebird AI ընկերության՝ Հրազդան քաղաքում գտնվող «ԱԲ գործարան» - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1256630</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/hREdbKTZquIQogHJ8cU1d632wp1Ko9SP8ifOIqJV.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 28 Jul 2026 16:05:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>19:38Միացյալ ՆահանգներՆեթանյահուն ժամանել է Սպիտակ տուն՝ Թրամփի հետ հանդիպելու համար</title>
+      <link>https://armenpress.am/hy/article/1256629</link>
+      <description>19:38Միացյալ ՆահանգներՆեթանյահուն ժամանել է Սպիտակ տուն՝ Թրամփի հետ հանդիպելու համար - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1256629</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/T8GfZ3gFCFTFdu6iBwYBlLHDLZ3VvMztELx67Ox8.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 28 Jul 2026 16:03:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>19:25ԱշխարհԱվելի քան 400 միլիոն աֆրիկացի զրկված է խմելու ջրի տարրական հասանելիությունից. ՄԱԿ</title>
+      <link>https://armenpress.am/hy/article/1256626</link>
+      <description>19:25ԱշխարհԱվելի քան 400 միլիոն աֆրիկացի զրկված է խմելու ջրի տարրական հասանելիությունից. ՄԱԿ - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1256626</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/LWvoDLV13qG6FugMXqkaPYh9fSHuAPYJ7EzIRS4h.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 28 Jul 2026 16:01:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>19:12ՏնտեսությունԱմերիաբանկը նպատակադրվել է իր հաճախորդների քանակը հասցնել ավելի քան մեկ միլիոնի, ինչի համար կան անհրաժեշտ նախադրյալներ. Արման Բարսեղյան</title>
+      <link>https://armenpress.am/hy/article/1256621</link>
+      <description>19:12ՏնտեսությունԱմերիաբանկը նպատակադրվել է իր հաճախորդների քանակը հասցնել ավելի քան մեկ միլիոնի, ինչի համար կան անհրաժեշտ նախադրյալներ. Արման Բարսեղյան - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1256621</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/liauMdboneqh1AaM6H6wFTdR2sV9DSnrxAsYQJDC.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 28 Jul 2026 15:59:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>18:58ՔաղաքականությունԱԽ քարտուղար Արմեն Գրիգորյանն ընդունել է դիվանագիտական առաքելությունն ավարտող Ֆրանսիայի դեսպան Օլիվիե Դըկոտինյիին</title>
+      <link>https://armenpress.am/hy/article/1256627</link>
+      <description>18:58ՔաղաքականությունԱԽ քարտուղար Արմեն Գրիգորյանն ընդունել է դիվանագիտական առաքելությունն ավարտող Ֆրանսիայի դեսպան Օլիվիե Դըկոտինյիին - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1256627</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/rwBb46eU7t7jlXhO1mHN2zXfWxu31uykG6BudXka.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 28 Jul 2026 15:57:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>18:47ԻրանԻրանը կփակի Հորմուզի նեղուցը սառեցված ակտիվներից միջոցներ ստացող երկրների համար</title>
+      <link>https://armenpress.am/hy/article/1256625</link>
+      <description>18:47ԻրանԻրանը կփակի Հորմուզի նեղուցը սառեցված ակտիվներից միջոցներ ստացող երկրների համար - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1256625</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/X1j7BPJjQEFSQl6T5yTNPxoUQhjHW5Jkk1gmXnAo.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 28 Jul 2026 15:55:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>18:34Միացյալ ՆահանգներՍպիտակ տանը մեկնարկել է Թրամփ-Զելենսկի հանդիպումը</title>
+      <link>https://armenpress.am/hy/article/1256624</link>
+      <description>18:34Միացյալ ՆահանգներՍպիտակ տանը մեկնարկել է Թրամփ-Զելենսկի հանդիպումը - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1256624</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/R3zCxvIBHJRMMwvBcQwTXM2tduEC02auZGbFG144.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 28 Jul 2026 15:53:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>18:32ՉինաստանՄաջիայաո. չինական գյուղը կենդանի է պահում 5700-ամյա մշակութային ժառանգությունը</title>
+      <link>https://armenpress.am/hy/article/1256598</link>
+      <description>18:32ՉինաստանՄաջիայաո. չինական գյուղը կենդանի է պահում 5700-ամյա մշակութային ժառանգությունը - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1256598</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/3ffleALvXbxQuugOC1lkyXrWsqoaMFymQFLQxwg3.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 28 Jul 2026 15:51:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>18:29ՀայաստանԿայացել է սպառողական ապրանքների անվտանգության ոլորտում համագործակցության վերաբերյալ Թաիլանդ-Հայաստան առաջին երկկողմ հանդիպումը</title>
+      <link>https://armenpress.am/hy/article/1256623</link>
+      <description>18:29ՀայաստանԿայացել է սպառողական ապրանքների անվտանգության ոլորտում համագործակցության վերաբերյալ Թաիլանդ-Հայաստան առաջին երկկողմ հանդիպումը - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1256623</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/sgSMMnZLrwSvoMlFjHyomhcR0FtX1TLjR52rpyxx.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 28 Jul 2026 15:49:37 -0000</pubDate>
     </item>
     <item>
       <title>18:18ՀայաստանԱվտոմեքենան ընկել է Ողջի գետը. վարորդը տեղափոխվել է հիվանդանոց</title>
@@ -54,7 +142,7 @@
       <description>18:18ՀայաստանԱվտոմեքենան ընկել է Ողջի գետը. վարորդը տեղափոխվել է հիվանդանոց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1256622</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/JueAv0antPRO6S9LteTg7iK0LGnbgamiqNnVQt0X.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 28 Jul 2026 14:16:56 -0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 15:47:37 -0000</pubDate>
     </item>
     <item>
       <title>18:03ՀայտարարություններԱնիի համայնքապետարանը օտարման է ներկայացնում մետաղյա խողովակներ և հեղուկ վառելանյութի մետաղական տարրաներ</title>
@@ -62,7 +150,7 @@
       <description>18:03ՀայտարարություններԱնիի համայնքապետարանը օտարման է ներկայացնում մետաղյա խողովակներ և հեղուկ վառելանյութի մետաղական տարրաներ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1256620</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/Wq3Ok0vhi7T3D5RE2DI82GW2byQPiGKdmMTaGDqv.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 28 Jul 2026 14:14:56 -0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 15:45:37 -0000</pubDate>
     </item>
     <item>
       <title>17:55ՄշակույթIDBank-ի աջակցությամբ բացվեց Khachaturian Rooftop-ը</title>
@@ -70,103 +158,15 @@
       <description>17:55ՄշակույթIDBank-ի աջակցությամբ բացվեց Khachaturian Rooftop-ը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1256617</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/192GcVquH3WA3KcgnD3IqwcQ1OK3BTZsTGmXrZQe.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 28 Jul 2026 14:12:56 -0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 15:43:37 -0000</pubDate>
     </item>
     <item>
       <title>17:50ԱնոնսՀուլիսի 29-ի միջոցառումների անոնս</title>
       <link>https://armenpress.am/hy/article/1256619</link>
       <description>17:50ԱնոնսՀուլիսի 29-ի միջոցառումների անոնս - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1256619</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/JueAv0antPRO6S9LteTg7iK0LGnbgamiqNnVQt0X.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 28 Jul 2026 14:10:56 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:48ԵվրոպաՄոլդովայի կառավարությունն էներգետիկայի ոլորտում տագնապի դրություն է հայտարարել. Moldpres</title>
-      <link>https://armenpress.am/hy/article/1256618</link>
-      <description>17:48ԵվրոպաՄոլդովայի կառավարությունն էներգետիկայի ոլորտում տագնապի դրություն է հայտարարել. Moldpres - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1256618</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/x2CUlARplUnwzf1swXm1B3z0cRqy0PeYQrfY60os.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 28 Jul 2026 14:08:56 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:36ՏնտեսությունՏԿԵ նախարարությունում տեղի է ունեցել ՀԷՑ-ի բաժնետոմսերի նկատմամբ հանրային գերակա շահ ճանաչելու մասին որոշման նախագծի հանրային լսումը</title>
-      <link>https://armenpress.am/hy/article/1256616</link>
-      <description>17:36ՏնտեսությունՏԿԵ նախարարությունում տեղի է ունեցել ՀԷՑ-ի բաժնետոմսերի նկատմամբ հանրային գերակա շահ ճանաչելու մասին որոշման նախագծի հանրային լսումը - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1256616</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/bA1bVi5dTvpuvLP5TK0Zag9axvepCJupxLrR5kp8.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 28 Jul 2026 14:06:56 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:34ԻրանԱՄՆ-ն հստակ գիտի՝ ինչ է կատարվում Իրանի միջուկային օբյեկտում, և կարիք չկա, որ Նեթանյահուն հայտնի աշխարհին այդ մասին. Թրամփ</title>
-      <link>https://armenpress.am/hy/article/1256615</link>
-      <description>17:34ԻրանԱՄՆ-ն հստակ գիտի՝ ինչ է կատարվում Իրանի միջուկային օբյեկտում, և կարիք չկա, որ Նեթանյահուն հայտնի աշխարհին այդ մասին. Թրամփ - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1256615</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/24/4afXU4vgFDKEqukgTtrILxMkDr1Isvep1P8FPC7a.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 28 Jul 2026 14:04:56 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:19ԻրավունքՃամբարակ համայնքին կվերադարձվի 0.02 հա մակերեսով հողամասը. Դատախազության՝ պետշահերի հերթական հայցը բավարարվել է</title>
-      <link>https://armenpress.am/hy/article/1256613</link>
-      <description>17:19ԻրավունքՃամբարակ համայնքին կվերադարձվի 0.02 հա մակերեսով հողամասը. Դատախազության՝ պետշահերի հերթական հայցը բավարարվել է - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1256613</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/EiwqlhJqbVrYJj9KCM4m57MnPbRElsMGwPh5AFEE.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 28 Jul 2026 14:02:56 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:14ՀայաստանԱԶԲ ներկայացուցիչների հետ քննարկվել են Պուշկինի թունելի վերականգնման, Դիլիջանի նոր թունելի կառուցման հարցերը</title>
-      <link>https://armenpress.am/hy/article/1256612</link>
-      <description>17:14ՀայաստանԱԶԲ ներկայացուցիչների հետ քննարկվել են Պուշկինի թունելի վերականգնման, Դիլիջանի նոր թունելի կառուցման հարցերը - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1256612</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/D8mi71jFUXzprytPycy4HpuzDcu4Vu4TH3xJWYAg.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 28 Jul 2026 14:00:56 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:13Մշակույթ«Եղեգիս Ֆեսթ». Կենսաբազմազանության «թեժ կետի» պահպանությունն ու համայնքային զարգացումը՝ մեկ հարթակում</title>
-      <link>https://armenpress.am/hy/article/1256609</link>
-      <description>17:13Մշակույթ«Եղեգիս Ֆեսթ». Կենսաբազմազանության «թեժ կետի» պահպանությունն ու համայնքային զարգացումը՝ մեկ հարթակում - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1256609</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/echwDtOFZQb2mleL1yRXYXay3s22E08tGB3rPTZp.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 28 Jul 2026 13:58:56 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:05ՏնտեսությունՀՀ ԿԲ. թանկարժեք մետաղների գներ և փոխարժեքներ - 28/07/26</title>
-      <link>https://armenpress.am/hy/article/1256611</link>
-      <description>17:05ՏնտեսությունՀՀ ԿԲ. թանկարժեք մետաղների գներ և փոխարժեքներ - 28/07/26 - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1256611</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/jHWX2qHvU7oZGU0AD67WEhQ2XPP8WYvbnAcDTb3d.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 28 Jul 2026 13:56:56 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:04ՏնտեսությունԱսիական ինդեքսներն աճել են - 28/07/26</title>
-      <link>https://armenpress.am/hy/article/1256610</link>
-      <description>17:04ՏնտեսությունԱսիական ինդեքսներն աճել են - 28/07/26 - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1256610</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/LFBQb8Nu0ZSUnMkznHOq8KpxO2yjkrjLNV96V45k.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 28 Jul 2026 13:54:56 -0000</pubDate>
-    </item>
-    <item>
-      <title>16:59ՀայաստանՎիրուսային հեպատիտների հետազոտությունները հասանելի են ու անվճար․ մասնագետները հորդորում են ստուգվել</title>
-      <link>https://armenpress.am/hy/article/1256607</link>
-      <description>16:59ՀայաստանՎիրուսային հեպատիտների հետազոտությունները հասանելի են ու անվճար․ մասնագետները հորդորում են ստուգվել - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1256607</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/tXjR16AbDI3KUWbgUPp7U9DO8tCGAUeF0uxclCEA.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 28 Jul 2026 13:52:56 -0000</pubDate>
-    </item>
-    <item>
-      <title>16:58ԵվրոպաԲուլղարիան սեպտեմբերին կհյուրընկալի TUI Group-ի ավագ ղեկավարության թիմի հանդիպումը․ BTA</title>
-      <link>https://armenpress.am/hy/article/1256608</link>
-      <description>16:58ԵվրոպաԲուլղարիան սեպտեմբերին կհյուրընկալի TUI Group-ի ավագ ղեկավարության թիմի հանդիպումը․ BTA - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1256608</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/NllJ7DtPibspqdhR9suVueUhYanalLF51MuFYmhm.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 28 Jul 2026 13:50:56 -0000</pubDate>
-    </item>
-    <item>
-      <title>16:49ԱշխարհՃապոնիայում երկրաշարժից հետո ավելի քան 60 հետցնցում է գրանցվել. կան տասնյակ անհետ կորածներ</title>
-      <link>https://armenpress.am/hy/article/1256606</link>
-      <description>16:49ԱշխարհՃապոնիայում երկրաշարժից հետո ավելի քան 60 հետցնցում է գրանցվել. կան տասնյակ անհետ կորածներ - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1256606</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/LSSEuebiuLRIuh2Ta6silsBY4Sdq7LBAoqegf3xo.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 28 Jul 2026 13:48:56 -0000</pubDate>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/28/DxEZKzeZ3soNoNnwwwXaPWqGfYBrkNzRyM6SZ8sG.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 28 Jul 2026 15:41:37 -0000</pubDate>
     </item>
   </channel>
 </rss>
