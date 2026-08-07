@@ -5,7 +5,7 @@
     <link>https://civic.am/last-news</link>
     <description>Cleaned RSS feed updated from Civic.am.</description>
     <language>hy</language>
-    <lastBuildDate>Fri, 07 Aug 2026 07:35:00 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 09:08:04 -0000</lastBuildDate>
     <image>
       <url>https://civic.am/assets/img/logo.svg</url>
       <title>Civic.am</title>
@@ -17,7 +17,7 @@
       <description>Վերջին լուրեր - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/last-news</guid>
       <enclosure url="https://civic.am/media/2024/06/04/54e0b527ad56ef4fc6dbee0929416a08173e97a2.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 07 Aug 2026 07:35:00 -0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 09:08:04 -0000</pubDate>
     </item>
     <item>
       <title>Քաղաքականություն</title>
@@ -25,7 +25,7 @@
       <description>Քաղաքականություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/politics</guid>
       <enclosure url="https://civic.am/media/2024/06/04/ee9d67f3bae2933126d54f7ed12f02ac869e2746.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 07 Aug 2026 07:33:00 -0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 09:06:04 -0000</pubDate>
     </item>
     <item>
       <title>Տնտեսություն</title>
@@ -33,7 +33,7 @@
       <description>Տնտեսություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/economy</guid>
       <enclosure url="https://civic.am/media/2024/06/04/6250050b286fb0f4d5ca02a2960ff947fae23145.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 07 Aug 2026 07:31:00 -0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 09:04:04 -0000</pubDate>
     </item>
     <item>
       <title>Հասարակություն</title>
@@ -41,7 +41,7 @@
       <description>Հասարակություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/society</guid>
       <enclosure url="https://civic.am/media/2024/06/04/a8c5d5498c6320597fb01c9cdf47748c74e9f67c.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 07 Aug 2026 07:29:00 -0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 09:02:04 -0000</pubDate>
     </item>
     <item>
       <title>Պաշտոնական</title>
@@ -49,7 +49,7 @@
       <description>Պաշտոնական - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/official</guid>
       <enclosure url="https://civic.am/media/2024/06/04/aba87cc2532bd0ceeaa3ca740a996a96c8d862c2.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 07 Aug 2026 07:27:00 -0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 09:00:04 -0000</pubDate>
     </item>
     <item>
       <title>Հաղորդաշարեր</title>
@@ -57,15 +57,31 @@
       <description>Հաղորդաշարեր - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/broadcasts</guid>
       <enclosure url="https://civic.am/media/2024/06/04/2fe324aae22ec12dd2a977f3395175029028444a.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 07 Aug 2026 07:25:00 -0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 08:58:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>ՔաղաքականությունԴա մեր ժողովրդի նկատմամբ անհարգալից վերաբերմունք կլինի և ոչ լեգիտիմ․ Փաշինյանը՝ ԵՄ-ԵՏՄ հարցով հանրաքվե անցկացնելու մասին</title>
+      <link>https://civic.am/news/120116</link>
+      <description>ՔաղաքականությունԴա մեր ժողովրդի նկատմամբ անհարգալից վերաբերմունք կլինի և ոչ լեգիտիմ․ Փաշինյանը՝ ԵՄ-ԵՏՄ հարցով հանրաքվե անցկացնելու մասին - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/120116</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/08/07/5660e7152d916807bafea94ae4d3bb85a91fa473.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 07 Aug 2026 08:56:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>ՔաղաքականությունՍտացվում է՝ ԵԱՏՄ–ն չի աշխատում. վարչապետ Փաշինյանը պատասխանել է ռուսական ԶԼՄ-ների հարցերին</title>
+      <link>https://civic.am/news/120115</link>
+      <description>ՔաղաքականությունՍտացվում է՝ ԵԱՏՄ–ն չի աշխատում. վարչապետ Փաշինյանը պատասխանել է ռուսական ԶԼՄ-ների հարցերին - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/120115</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/08/07/223ae8f8453d57fd2ebce805821bce1ff54096b7.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 07 Aug 2026 08:54:04 -0000</pubDate>
     </item>
     <item>
       <title>ԻրավունքԾառուկյանին պատկանող խոշոր առևտրի կենտրոնում բացահայտվել է 1,3 մլրդ դրամի թաքցված հարկման օբյեկտ․ ՊԵԿ</title>
       <link>https://civic.am/news/120105</link>
       <description>ԻրավունքԾառուկյանին պատկանող խոշոր առևտրի կենտրոնում բացահայտվել է 1,3 մլրդ դրամի թաքցված հարկման օբյեկտ․ ՊԵԿ - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/120105</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/08/07/b2be7029d575e5a11dcfa264d822816d3e785a55.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 07 Aug 2026 07:23:00 -0000</pubDate>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/08/07/76d2a3ccf40cedab5dc28784696d855c01466cfd.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 07 Aug 2026 08:52:04 -0000</pubDate>
     </item>
     <item>
       <title>ՔաղաքականությունԻնչ հարցեր են քննարկվել ՔՊ խմբակցության նիստում․ մանրամասնում է խմբակցության ղեկավարը</title>
@@ -73,55 +89,71 @@
       <description>ՔաղաքականությունԻնչ հարցեր են քննարկվել ՔՊ խմբակցության նիստում․ մանրամասնում է խմբակցության ղեկավարը - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/120063</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/08/06/0512ceec636339cf9f812c4c678c20b2482817ea.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 07 Aug 2026 07:21:00 -0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 08:50:04 -0000</pubDate>
     </item>
     <item>
-      <title>ՔաղաքականությունՎստահ չեմ, որ եթե պալեմիկան տեղափոխվի այդ դաշտ «Ուժեղ Հայաստան»-ը կամ նրա առաջնորդը կշահեն․ Ալեքսանյան</title>
-      <link>https://civic.am/news/120061</link>
-      <description>ՔաղաքականությունՎստահ չեմ, որ եթե պալեմիկան տեղափոխվի այդ դաշտ «Ուժեղ Հայաստան»-ը կամ նրա առաջնորդը կշահեն․ Ալեքսանյան - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/120061</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/08/06/382bf9335aa486ca204143eeda1318bacddb2cc6.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 07 Aug 2026 07:19:00 -0000</pubDate>
+      <title>Հանդիպում Ղրղզստանի նախագահ Սադիր Ժապարովի հետ. Նիկոլ Փաշինյանը տեսանյութ է հրապարակել</title>
+      <link>https://civic.am/news/120120</link>
+      <description>Հանդիպում Ղրղզստանի նախագահ Սադիր Ժապարովի հետ. Նիկոլ Փաշինյանը տեսանյութ է հրապարակել - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/120120</guid>
+      <enclosure url="https://civic.am/thumbs/696x444/2026/08/07/039565cd2507bda5e34f57fc049df255b9dbf8a0.jpeg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 07 Aug 2026 08:48:04 -0000</pubDate>
     </item>
     <item>
-      <title>ԻրավունքԲացահայտվել է Գագիկ Ծառուկյանի և Սեդրակ Առուստամյանի կողմից 2.5 մլն դոլար արժողության գույքի շորթման և առանձնապես խոշոր չափերով փողերի լվացման դեպք</title>
-      <link>https://civic.am/news/120056</link>
-      <description>ԻրավունքԲացահայտվել է Գագիկ Ծառուկյանի և Սեդրակ Առուստամյանի կողմից 2.5 մլն դոլար արժողության գույքի շորթման և առանձնապես խոշոր չափերով փողերի լվացման դեպք - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/120056</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/08/06/baa2f4e66e005bab9003aa24440de6b63bfa40da.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 07 Aug 2026 07:17:00 -0000</pubDate>
+      <title>ՊաշտոնականԴարոն Աճեմօղլուն մեծ ցանկություն ունի մոտ ապագայում այցելելու Հայաստան. դեսպան Մկրտչյան</title>
+      <link>https://civic.am/news/120119</link>
+      <description>ՊաշտոնականԴարոն Աճեմօղլուն մեծ ցանկություն ունի մոտ ապագայում այցելելու Հայաստան. դեսպան Մկրտչյան - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/120119</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/08/07/3b334b443e4624c0cc93b0f5b6058ec61bfbc4b1.jpeg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 07 Aug 2026 08:46:04 -0000</pubDate>
     </item>
     <item>
-      <title>Հայաստանը հասկանում է՝ ԵԱՏՄ-ին և Եվրամիությանը միաժամանակ անդամակցել հնարավոր չէ. Նիկոլ Փաշինյան</title>
-      <link>https://civic.am/news/120107</link>
-      <description>Հայաստանը հասկանում է՝ ԵԱՏՄ-ին և Եվրամիությանը միաժամանակ անդամակցել հնարավոր չէ. Նիկոլ Փաշինյան - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/120107</guid>
-      <enclosure url="https://civic.am/thumbs/696x444/2026/08/07/02602450335362fa9b024ec3c9105ed797762e1f.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 07 Aug 2026 07:15:00 -0000</pubDate>
+      <title>ՔաղաքականությունՁեզնից ոչ մեկը չասաց՝ էս ի՞նչ եք անում, քաղաքական որոշումնե՞ր եք կայացնում. Թունյանը՝ ԵԱՏՄ-ի մասին</title>
+      <link>https://civic.am/news/120118</link>
+      <description>ՔաղաքականությունՁեզնից ոչ մեկը չասաց՝ էս ի՞նչ եք անում, քաղաքական որոշումնե՞ր եք կայացնում. Թունյանը՝ ԵԱՏՄ-ի մասին - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/120118</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/08/07/e4192d6df29a2dc9b66c7d871994e121177f21d1.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 07 Aug 2026 08:44:04 -0000</pubDate>
     </item>
     <item>
-      <title>ԱշխարհՀայաստանը ԵԱՏՄ ընդհանուր բյուջե է մուտք արել ավելի շատ միջոցներ, քան ստացել է. վարչապետ</title>
-      <link>https://civic.am/news/120106</link>
-      <description>ԱշխարհՀայաստանը ԵԱՏՄ ընդհանուր բյուջե է մուտք արել ավելի շատ միջոցներ, քան ստացել է. վարչապետ - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/120106</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/08/07/150b1ac7b4007e610553f4e5b46ab2d8ac405e41.png" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 07 Aug 2026 07:13:00 -0000</pubDate>
+      <title>ՔաղաքականությունՉհամարձակվեք ձեր միլիոնները ճոճել ժողովրդի գլխին, որը Ղարաբաղի համար տվել է ամենաթանկը՝ իր որդիներին. Հակոբյան</title>
+      <link>https://civic.am/news/120117</link>
+      <description>ՔաղաքականությունՉհամարձակվեք ձեր միլիոնները ճոճել ժողովրդի գլխին, որը Ղարաբաղի համար տվել է ամենաթանկը՝ իր որդիներին. Հակոբյան - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/120117</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/08/07/da4f9e7408adfa20f92cb3329ce8ec076ab60eff.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 07 Aug 2026 08:42:04 -0000</pubDate>
     </item>
     <item>
-      <title>ՔաղաքականությունԹույլ չտալ, որ պորտալարը վերջնականապես կտրվի. Ընդդիմությանն իջեցված խիստ հրահանգն ու առաջիկա անելիքները</title>
-      <link>https://civic.am/news/120086</link>
-      <description>ՔաղաքականությունԹույլ չտալ, որ պորտալարը վերջնականապես կտրվի. Ընդդիմությանն իջեցված խիստ հրահանգն ու առաջիկա անելիքները - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/120086</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/08/06/c2d413068cd4fbc0798c290a4b5a050211c4170d.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 07 Aug 2026 07:11:00 -0000</pubDate>
+      <title>Մեկին ի բնե իր ավազանի անունով դիմելը չի կարող համարվել վիրավորանք. Խնդրում եմ նիստերը չխաթարել. Ռուբինյան</title>
+      <link>https://civic.am/news/120113</link>
+      <description>Մեկին ի բնե իր ավազանի անունով դիմելը չի կարող համարվել վիրավորանք. Խնդրում եմ նիստերը չխաթարել. Ռուբինյան - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/120113</guid>
+      <enclosure url="https://civic.am/assets/img/play.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 07 Aug 2026 08:40:04 -0000</pubDate>
     </item>
     <item>
-      <title>ՊաշտոնականՆիկոլ Փաշինյանը և Միխայիլ Միշուստինը ԵԱՏՄ խորհրդի նիստից առաջ կարճ զրույց են ունեցել</title>
-      <link>https://civic.am/news/120104</link>
-      <description>ՊաշտոնականՆիկոլ Փաշինյանը և Միխայիլ Միշուստինը ԵԱՏՄ խորհրդի նիստից առաջ կարճ զրույց են ունեցել - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/120104</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/08/07/c5842b3397b84e446934b391ad7647d8dee45431.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 07 Aug 2026 07:09:00 -0000</pubDate>
+      <title>Մենք կանգնում ենք եկեղեցու կողքին, դուք՝ կուսակրոնության ուխտը խախտած եկեղեցականի. Հովհաննիսյան</title>
+      <link>https://civic.am/news/120112</link>
+      <description>Մենք կանգնում ենք եկեղեցու կողքին, դուք՝ կուսակրոնության ուխտը խախտած եկեղեցականի. Հովհաննիսյան - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/120112</guid>
+      <enclosure url="https://civic.am/assets/img/play.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 07 Aug 2026 08:38:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>«Սատանայի փաստաբան». Պարոն Վարդևանյան, ինչո՞ւ է այս պիտակը փակցվել ձեզ. Գարիկ Սարգսյան</title>
+      <link>https://civic.am/news/120111</link>
+      <description>«Սատանայի փաստաբան». Պարոն Վարդևանյան, ինչո՞ւ է այս պիտակը փակցվել ձեզ. Գարիկ Սարգսյան - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/120111</guid>
+      <enclosure url="https://civic.am/assets/img/play.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 07 Aug 2026 08:36:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>Չէի ուզի, որ Արամ Վարդևանյանն առաջադրվեր. «Հայաստան»-ը կողմ է քվեարկելու նրա թեկնածությանը</title>
+      <link>https://civic.am/news/120110</link>
+      <description>Չէի ուզի, որ Արամ Վարդևանյանն առաջադրվեր. «Հայաստան»-ը կողմ է քվեարկելու նրա թեկնածությանը - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/120110</guid>
+      <enclosure url="https://civic.am/assets/img/play.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 07 Aug 2026 08:34:04 -0000</pubDate>
     </item>
     <item>
       <title>Կասեցվել է «Սևան-Անուշ» գազավորված ըմպելիքների արտադրությունը՝ սանիտարական խախտումների պատճառով</title>
@@ -129,47 +161,15 @@
       <description>Կասեցվել է «Սևան-Անուշ» գազավորված ըմպելիքների արտադրությունը՝ սանիտարական խախտումների պատճառով - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/120109</guid>
       <enclosure url="https://civic.am/thumbs/540x362/2026/08/07/f608d2d3fe52137010f3bdc696566f9e47c4fb3a.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 07 Aug 2026 07:07:00 -0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 08:32:04 -0000</pubDate>
     </item>
     <item>
-      <title>Շիրակի մարզի գյուղերից մեկում ծնողների շիրիմի մոտ հայտնաբերվել են տղայի մարմինը, հրազեն և նամակ</title>
-      <link>https://civic.am/news/120103</link>
-      <description>Շիրակի մարզի գյուղերից մեկում ծնողների շիրիմի մոտ հայտնաբերվել են տղայի մարմինը, հրազեն և նամակ - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/120103</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/08/07/05ddbf069f6b5e906b12df2ad07be0ebef63675c.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 07 Aug 2026 07:05:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Որքան է էլեկտրական շարժիչով տրանսպորտային միջոցների մաքսատուրքի արտոնության քվոտայի մնացորդը օգոստոսի 6-ի դրությամբ</title>
-      <link>https://civic.am/news/120102</link>
-      <description>Որքան է էլեկտրական շարժիչով տրանսպորտային միջոցների մաքսատուրքի արտոնության քվոտայի մնացորդը օգոստոսի 6-ի դրությամբ - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/120102</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/08/07/efa6a0d07ccc782d658e89bc8b629bbb05dac324.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 07 Aug 2026 07:03:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Մասաչուսեթսի MIT-ի ակադեմիական ղեկավարն ընդգծել է «Ակադեմիական քաղաք»-ի կարևորությունը, պատրաստակամություն հայտնել համագործակցել հայկական կողմի հետ</title>
-      <link>https://civic.am/news/120101</link>
-      <description>Մասաչուսեթսի MIT-ի ակադեմիական ղեկավարն ընդգծել է «Ակադեմիական քաղաք»-ի կարևորությունը, պատրաստակամություն հայտնել համագործակցել հայկական կողմի հետ - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/120101</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/08/07/1b0830344bf2ea4426a9f103271aac219b412608.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 07 Aug 2026 07:01:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>ԵԱՏՄ-ն չպետք է դիտարկվի որպես սահմանափակումների տարածք. վարչապետ</title>
-      <link>https://civic.am/news/120100</link>
-      <description>ԵԱՏՄ-ն չպետք է դիտարկվի որպես սահմանափակումների տարածք. վարչապետ - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/120100</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/08/07/ffcc87e3a96d27b1e957530aad925594d33701dd.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 07 Aug 2026 06:59:00 -0000</pubDate>
-    </item>
-    <item>
-      <title>Երևանի 8 վարչական շրջանում և 9 մարզերի որոշ հասցեներում լույս չի լինի</title>
-      <link>https://civic.am/news/120085</link>
-      <description>Երևանի 8 վարչական շրջանում և 9 մարզերի որոշ հասցեներում լույս չի լինի - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/120085</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/08/06/ab565715aa91d641387dda8c9cb3c76326350ae3.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 07 Aug 2026 06:57:00 -0000</pubDate>
+      <title>Հայաստանը հասկանում է՝ ԵԱՏՄ-ին և Եվրամիությանը միաժամանակ անդամակցել հնարավոր չէ. Նիկոլ Փաշինյան</title>
+      <link>https://civic.am/news/120107</link>
+      <description>Հայաստանը հասկանում է՝ ԵԱՏՄ-ին և Եվրամիությանը միաժամանակ անդամակցել հնարավոր չէ. Նիկոլ Փաշինյան - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/120107</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/08/07/02602450335362fa9b024ec3c9105ed797762e1f.jpeg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 07 Aug 2026 08:30:04 -0000</pubDate>
     </item>
   </channel>
 </rss>
