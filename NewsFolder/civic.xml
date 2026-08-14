@@ -5,7 +5,7 @@
     <link>https://civic.am/last-news</link>
     <description>Cleaned RSS feed updated from Civic.am.</description>
     <language>hy</language>
-    <lastBuildDate>Fri, 14 Aug 2026 06:55:36 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 08:22:43 -0000</lastBuildDate>
     <image>
       <url>https://civic.am/assets/img/logo.svg</url>
       <title>Civic.am</title>
@@ -17,7 +17,7 @@
       <description>Վերջին լուրեր - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/last-news</guid>
       <enclosure url="https://civic.am/media/2024/06/04/54e0b527ad56ef4fc6dbee0929416a08173e97a2.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 14 Aug 2026 06:55:36 -0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 08:22:43 -0000</pubDate>
     </item>
     <item>
       <title>Քաղաքականություն</title>
@@ -25,7 +25,7 @@
       <description>Քաղաքականություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/politics</guid>
       <enclosure url="https://civic.am/media/2024/06/04/ee9d67f3bae2933126d54f7ed12f02ac869e2746.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 14 Aug 2026 06:53:36 -0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 08:20:43 -0000</pubDate>
     </item>
     <item>
       <title>Տնտեսություն</title>
@@ -33,7 +33,7 @@
       <description>Տնտեսություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/economy</guid>
       <enclosure url="https://civic.am/media/2024/06/04/6250050b286fb0f4d5ca02a2960ff947fae23145.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 14 Aug 2026 06:51:36 -0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 08:18:43 -0000</pubDate>
     </item>
     <item>
       <title>Հասարակություն</title>
@@ -41,7 +41,7 @@
       <description>Հասարակություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/society</guid>
       <enclosure url="https://civic.am/media/2024/06/04/a8c5d5498c6320597fb01c9cdf47748c74e9f67c.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 14 Aug 2026 06:49:36 -0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 08:16:43 -0000</pubDate>
     </item>
     <item>
       <title>Պաշտոնական</title>
@@ -49,7 +49,7 @@
       <description>Պաշտոնական - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/official</guid>
       <enclosure url="https://civic.am/media/2024/06/04/aba87cc2532bd0ceeaa3ca740a996a96c8d862c2.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 14 Aug 2026 06:47:36 -0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 08:14:43 -0000</pubDate>
     </item>
     <item>
       <title>Հաղորդաշարեր</title>
@@ -57,7 +57,15 @@
       <description>Հաղորդաշարեր - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/broadcasts</guid>
       <enclosure url="https://civic.am/media/2024/06/04/2fe324aae22ec12dd2a977f3395175029028444a.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 14 Aug 2026 06:45:36 -0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 08:12:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>ՔաղաքականությունԱլեն Սիմոնյանին ներկայացրի որպես Անվտանգության խորհրդի նորանշանակ քարտուղար. վարչապետ</title>
+      <link>https://civic.am/news/120533</link>
+      <description>ՔաղաքականությունԱլեն Սիմոնյանին ներկայացրի որպես Անվտանգության խորհրդի նորանշանակ քարտուղար. վարչապետ - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/120533</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/08/14/b8e934515e05586eff73a0263340ac04be187681.jpeg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 14 Aug 2026 08:10:43 -0000</pubDate>
     </item>
     <item>
       <title>ՔաղաքականությունԱյնպես չէ, որ Արմեն Գրիգորյանի աշխատանքից դժգոհ եմ եղել, բայց որոշումը ես եմ կայացրել․ վարչապետ</title>
@@ -65,7 +73,7 @@
       <description>ՔաղաքականությունԱյնպես չէ, որ Արմեն Գրիգորյանի աշխատանքից դժգոհ եմ եղել, բայց որոշումը ես եմ կայացրել․ վարչապետ - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/120478</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/08/13/12a3aeffdeaf978daa7868ab9b58523fe11a4402.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 14 Aug 2026 06:43:36 -0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 08:08:43 -0000</pubDate>
     </item>
     <item>
       <title>Քաղաքականություն,ՀասարակությունԱդրբեջանի հետ էներգետիկ ոլորտում կարող ենք ունենալ գործակցություն՝ ներկրելու և արտահանելու հարցով․ վարչապետ</title>
@@ -73,7 +81,7 @@
       <description>Քաղաքականություն,ՀասարակությունԱդրբեջանի հետ էներգետիկ ոլորտում կարող ենք ունենալ գործակցություն՝ ներկրելու և արտահանելու հարցով․ վարչապետ - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/120466</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/08/13/c618dcf754cf6818c5f10f9a3628457ae1cb8c19.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 14 Aug 2026 06:41:36 -0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 08:06:43 -0000</pubDate>
     </item>
     <item>
       <title>ՀասարակությունՀայտնաբերվել է ՊՆ N զորամասի զինծառայողի դի</title>
@@ -81,55 +89,79 @@
       <description>ՀասարակությունՀայտնաբերվել է ՊՆ N զորամասի զինծառայողի դի - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/120464</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/08/13/19172c7d4b2ff64cb1696e0d29b8eecba6a2baf3.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 14 Aug 2026 06:39:36 -0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 08:04:43 -0000</pubDate>
     </item>
     <item>
-      <title>ՊաշտոնականԱլեն Սիմոնյանը նշանակվեց ԱԽ քարտուղար</title>
-      <link>https://civic.am/news/120462</link>
-      <description>ՊաշտոնականԱլեն Սիմոնյանը նշանակվեց ԱԽ քարտուղար - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/120462</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/08/13/e84199f1925055b3f456631e54b14b63883846b4.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 14 Aug 2026 06:37:36 -0000</pubDate>
+      <title>ՀասարակությունՁերբակալվել են «Գազպրոմ Արմենիա»-ի աշխատակիցներ և ՔՏՀԱ տեսչական մարմնի պաշտոնյա</title>
+      <link>https://civic.am/news/120540</link>
+      <description>ՀասարակությունՁերբակալվել են «Գազպրոմ Արմենիա»-ի աշխատակիցներ և ՔՏՀԱ տեսչական մարմնի պաշտոնյա - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/120540</guid>
+      <enclosure url="https://civic.am/thumbs/696x444/2026/08/14/1d1fbc68c5f83fb701534aab7f0dcbad58033732.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 14 Aug 2026 08:02:43 -0000</pubDate>
     </item>
     <item>
-      <title>ՔաղաքականությունԱԺ-ում ընդդիմությունը ներկայացել է առանց փողկապի․ ի՞նչ են պլանավորել</title>
-      <link>https://civic.am/news/120529</link>
-      <description>ՔաղաքականությունԱԺ-ում ընդդիմությունը ներկայացել է առանց փողկապի․ ի՞նչ են պլանավորել - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/120529</guid>
-      <enclosure url="https://civic.am/thumbs/696x444/2026/08/14/4513908968e7784b24171f2a527071c2feb6394f.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 14 Aug 2026 06:35:36 -0000</pubDate>
+      <title>ՔաղաքականությունՁեր շարքերում ներդրված է շարքային սադրիչ, որը սրիկայաբար և անտաղանդ դերասանությամբ շահարկեց իր բարեկամի զոհվելու փաստը. Գաբրիելյան</title>
+      <link>https://civic.am/news/120539</link>
+      <description>ՔաղաքականությունՁեր շարքերում ներդրված է շարքային սադրիչ, որը սրիկայաբար և անտաղանդ դերասանությամբ շահարկեց իր բարեկամի զոհվելու փաստը. Գաբրիելյան - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/120539</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/08/14/82d58419dae7db04f4ddd53f0704217534c76362.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 14 Aug 2026 08:00:43 -0000</pubDate>
     </item>
     <item>
-      <title>ԻրավունքԿեղծ աշխատակիցներ, հափշտակված ուղեբեռ ու կրիպտոակտիվներ․ ոստիկանները հանցավոր խումբ են վնասազերծել</title>
-      <link>https://civic.am/news/120528</link>
-      <description>ԻրավունքԿեղծ աշխատակիցներ, հափշտակված ուղեբեռ ու կրիպտոակտիվներ․ ոստիկանները հանցավոր խումբ են վնասազերծել - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/120528</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/08/14/6f7bdae1311c93be2e52bae90ba929b785581b74.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 14 Aug 2026 06:33:36 -0000</pubDate>
+      <title>ՔաղաքականությունՁեր խոստումներից խոսեք. Ըստ ձեր խոստման՝ հիմա ՀՀ վարչապետը պետք է Սամվել Կարապետյանը լիներ. Թունյան</title>
+      <link>https://civic.am/news/120538</link>
+      <description>ՔաղաքականությունՁեր խոստումներից խոսեք. Ըստ ձեր խոստման՝ հիմա ՀՀ վարչապետը պետք է Սամվել Կարապետյանը լիներ. Թունյան - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/120538</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/08/14/144aacf0c947272b21070096c588a70d8776fc76.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 14 Aug 2026 07:58:43 -0000</pubDate>
     </item>
     <item>
-      <title>ՏնտեսությունԿակաոյի փոշին ՀՀ կներմուծվի առանց ներմուծման մաքսատուրքի վճարման</title>
-      <link>https://civic.am/news/120527</link>
-      <description>ՏնտեսությունԿակաոյի փոշին ՀՀ կներմուծվի առանց ներմուծման մաքսատուրքի վճարման - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/120527</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/08/14/76ccca02b2f1fbd8a5e203b5a0775eaf39574731.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 14 Aug 2026 06:31:36 -0000</pubDate>
+      <title>ՔաղաքականությունՁեր շարքերում կա մարդ, որը հիմա ամեն ինչ անում է «բոքսի տանձիկ» աշխատելու համար. Թունյանը՝ Ղահրամանյանին</title>
+      <link>https://civic.am/news/120537</link>
+      <description>ՔաղաքականությունՁեր շարքերում կա մարդ, որը հիմա ամեն ինչ անում է «բոքսի տանձիկ» աշխատելու համար. Թունյանը՝ Ղահրամանյանին - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/120537</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/08/14/dd13ec2a398a680ebd7cb9d368b80354ce43c5a8.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 14 Aug 2026 07:56:43 -0000</pubDate>
     </item>
     <item>
-      <title>ՀասարակությունԿիևյան կամրջի երթևեկելի հատվածի հիմնանորոգումն ավարտված է, այն բացվել է երթևեկության համար</title>
-      <link>https://civic.am/news/120526</link>
-      <description>ՀասարակությունԿիևյան կամրջի երթևեկելի հատվածի հիմնանորոգումն ավարտված է, այն բացվել է երթևեկության համար - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/120526</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/08/14/dc228725d12459330f015e39bebcaee2a4e46d43.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 14 Aug 2026 06:29:36 -0000</pubDate>
+      <title>ՔաղաքականությունՍրիկայի նման ինչ-որ մեկին սրիկա չեմ անվանել. Վախ չունեմ բոլոր պետական պաշտոնյաներին հարգալից վերաբերվելու. Թունյան</title>
+      <link>https://civic.am/news/120535</link>
+      <description>ՔաղաքականությունՍրիկայի նման ինչ-որ մեկին սրիկա չեմ անվանել. Վախ չունեմ բոլոր պետական պաշտոնյաներին հարգալից վերաբերվելու. Թունյան - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/120535</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/08/14/7ae599ba876966e43e6a61dc3e7c64810935e261.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 14 Aug 2026 07:54:43 -0000</pubDate>
     </item>
     <item>
-      <title>ՏնտեսությունՀայկական գյուղմթերքի արտահանումը Ղազախստան ավելացնելու ներուժ կա․ Պապոյանը՝ Այդարբեկ Սապարովին</title>
-      <link>https://civic.am/news/120525</link>
-      <description>ՏնտեսությունՀայկական գյուղմթերքի արտահանումը Ղազախստան ավելացնելու ներուժ կա․ Պապոյանը՝ Այդարբեկ Սապարովին - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/120525</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/08/14/916fb8e8100a12cb7fb3e8195b4d5d2d660df968.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 14 Aug 2026 06:27:36 -0000</pubDate>
+      <title>Բաբկեն Թունյանը՝ ԱԺ տնտեսական հարցերի մշտական հանձնաժողովի նախագահի թեկնածու</title>
+      <link>https://civic.am/news/120536</link>
+      <description>Բաբկեն Թունյանը՝ ԱԺ տնտեսական հարցերի մշտական հանձնաժողովի նախագահի թեկնածու - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/120536</guid>
+      <enclosure url="https://civic.am/assets/img/play.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 14 Aug 2026 07:52:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ջերմուկին կվերադարձվի 0.3 հա մակերեսով հողամաս. Արարատի դատախազության հայցը բավարարվել է</title>
+      <link>https://civic.am/news/120534</link>
+      <description>Ջերմուկին կվերադարձվի 0.3 հա մակերեսով հողամաս. Արարատի դատախազության հայցը բավարարվել է - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/120534</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/08/14/6f2752f55975f453cea81815f377a10addaa981c.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 14 Aug 2026 07:50:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Էդգար Ղազարյանը ներողություն չխնդրեց երեկ տեղի ունեցած միջադեպի և «սրիկա» բառի համար</title>
+      <link>https://civic.am/news/120532</link>
+      <description>Էդգար Ղազարյանը ներողություն չխնդրեց երեկ տեղի ունեցած միջադեպի և «սրիկա» բառի համար - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/120532</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/08/14/2183ec6b1f103eade4b7863ca0e50499e7dac6a1.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 14 Aug 2026 07:48:43 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ադրբեջանում հնչած ցանկացած աբսուրդ միտք դարձնում եք քարոզարշավի թեմա, AI-ով վիդեոներ եք սարքում. Խանդանյան</title>
+      <link>https://civic.am/news/120531</link>
+      <description>Ադրբեջանում հնչած ցանկացած աբսուրդ միտք դարձնում եք քարոզարշավի թեմա, AI-ով վիդեոներ եք սարքում. Խանդանյան - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/120531</guid>
+      <enclosure url="https://civic.am/assets/img/play.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 14 Aug 2026 07:46:43 -0000</pubDate>
     </item>
     <item>
       <title>Դուք ընտրեցիք էս ճանապարհը. Ռուբինյանը՝ Նարեկ Կարապետյանին և Էդգար Ղազարյանին</title>
@@ -137,39 +169,7 @@
       <description>Դուք ընտրեցիք էս ճանապարհը. Ռուբինյանը՝ Նարեկ Կարապետյանին և Էդգար Ղազարյանին - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/120530</guid>
       <enclosure url="https://civic.am/assets/img/play.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 14 Aug 2026 06:25:36 -0000</pubDate>
-    </item>
-    <item>
-      <title>Կոլումբիայի ավերիչ երկրաշարժից տուժել է ավելի քան 26 000 ընտանիք</title>
-      <link>https://civic.am/news/120524</link>
-      <description>Կոլումբիայի ավերիչ երկրաշարժից տուժել է ավելի քան 26 000 ընտանիք - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/120524</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/08/13/859df5a83a22f230f688cfdef425407d98479271.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 14 Aug 2026 06:23:36 -0000</pubDate>
-    </item>
-    <item>
-      <title>Գևորգ Պապոյանն ու ՌԴ գյուղատնտեսության նախարարը քննարկել են հայկական արտադրանքի արտահանման ու տարանցման խոչընդոտների վերացումը</title>
-      <link>https://civic.am/news/120523</link>
-      <description>Գևորգ Պապոյանն ու ՌԴ գյուղատնտեսության նախարարը քննարկել են հայկական արտադրանքի արտահանման ու տարանցման խոչընդոտների վերացումը - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/120523</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/08/13/12a743e44933a54bb7d3b807ed60118fdf9a9c3b.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 14 Aug 2026 06:21:36 -0000</pubDate>
-    </item>
-    <item>
-      <title>Գլխավոր դատախազը վճռաբեկ բողոք է ներկայացրել Միքայել Աջապահյանի գործով</title>
-      <link>https://civic.am/news/120522</link>
-      <description>Գլխավոր դատախազը վճռաբեկ բողոք է ներկայացրել Միքայել Աջապահյանի գործով - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/120522</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/08/13/13ddf20d1968c65f8d32e15ace2fb9798249eda1.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 14 Aug 2026 06:19:36 -0000</pubDate>
-    </item>
-    <item>
-      <title>Մեկնարկել են Աբովյան-Արզնի-Նոր Գեղի 6.7 կմ երկարությամբ ճանապարհի հիմնանորոգման աշխատանքները. Դավիթ Խուդաթյան</title>
-      <link>https://civic.am/news/120521</link>
-      <description>Մեկնարկել են Աբովյան-Արզնի-Նոր Գեղի 6.7 կմ երկարությամբ ճանապարհի հիմնանորոգման աշխատանքները. Դավիթ Խուդաթյան - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/120521</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/08/13/5b31df12793758c9e646cba44c75c7a7335d9893.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 14 Aug 2026 06:17:36 -0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 07:44:43 -0000</pubDate>
     </item>
   </channel>
 </rss>
