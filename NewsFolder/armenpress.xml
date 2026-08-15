@@ -5,19 +5,19 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Sat, 15 Aug 2026 08:37:26 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 09:32:22 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
       <link>https://armenpress.am/hy/articles</link>
     </image>
     <item>
-      <title>Երևան25 °C</title>
+      <title>Երևան29 °C</title>
       <link>https://armenpress.am/hy/articles/weather</link>
-      <description>Երևան25 °C - Read on armenpress.am.</description>
+      <description>Երևան29 °C - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
       <enclosure url="https://armenpress.am/assets/weather/04d.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 15 Aug 2026 08:37:26 -0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 09:32:22 -0000</pubDate>
     </item>
     <item>
       <title>USD / AMD365.82</title>
@@ -25,28 +25,52 @@
       <description>USD / AMD365.82 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 15 Aug 2026 08:35:26 -0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 09:30:22 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
       <link>https://armenpress.am/hy/articles/fact-check</link>
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Sat, 15 Aug 2026 08:33:26 -0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 09:28:22 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
       <link>https://armenpress.am/hy/articles/projects</link>
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Sat, 15 Aug 2026 08:31:26 -0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 09:26:22 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://armenpress.am/hy/articles/interviews</link>
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Sat, 15 Aug 2026 08:29:26 -0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 09:24:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>13:28ՀայաստանԱնմեղ խաղից մինչև կիբեռբուլինգ․ ինչպես պաշտպանել երեխաներին առցանց վտանգներից</title>
+      <link>https://armenpress.am/hy/article/1258086</link>
+      <description>13:28ՀայաստանԱնմեղ խաղից մինչև կիբեռբուլինգ․ ինչպես պաշտպանել երեխաներին առցանց վտանգներից - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258086</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/15/vjrK026Iky1fGA2aLRh5AAdeyCeBa2WItG14pqWP.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sat, 15 Aug 2026 09:22:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>13:15ԱշխարհԻնդոնեզիայում տեղի է ունեցել 7,7 մագնիտուդ ուժգնությամբ երկրաշարժ, կա առնվազն 20 զոհ</title>
+      <link>https://armenpress.am/hy/article/1258085</link>
+      <description>13:15ԱշխարհԻնդոնեզիայում տեղի է ունեցել 7,7 մագնիտուդ ուժգնությամբ երկրաշարժ, կա առնվազն 20 զոհ - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258085</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/15/YylAYJc9mOvT7L5Oq9J3dyvrmH8HdTvbrj6EVA5h.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sat, 15 Aug 2026 09:20:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>13:01ՀայտարարություններՊետգույքի կոմիտեն ներկայացրել է առաջիկայում կայանալիք էլեկտրոնային աճուրդների ցանկը</title>
+      <link>https://armenpress.am/hy/article/1258084</link>
+      <description>13:01ՀայտարարություններՊետգույքի կոմիտեն ներկայացրել է առաջիկայում կայանալիք էլեկտրոնային աճուրդների ցանկը - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258084</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/31/ylc4lPBT0ijQ37ePFAdMGK4sC2emQbIyAW8Rshj0.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sat, 15 Aug 2026 09:18:22 -0000</pubDate>
     </item>
     <item>
       <title>12:32ՀայաստանՈւժի մեջ է մտել մի շարք պաշտոններ զբաղեցնելու համար գործող առավելագույն տարիքի շեմի վերացման կարգավորումը</title>
@@ -54,7 +78,7 @@
       <description>12:32ՀայաստանՈւժի մեջ է մտել մի շարք պաշտոններ զբաղեցնելու համար գործող առավելագույն տարիքի շեմի վերացման կարգավորումը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258083</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/15/vYlcp6SXYMdvr1xdRJe5mi43UZWlr0ORXmssX8m2.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 15 Aug 2026 08:27:26 -0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 09:16:22 -0000</pubDate>
     </item>
     <item>
       <title>12:24ԱշխարհՎենեսուելայի իշխանություններն ազատ են արձակել 131 քաղբանտարկյալի</title>
@@ -62,7 +86,7 @@
       <description>12:24ԱշխարհՎենեսուելայի իշխանություններն ազատ են արձակել 131 քաղբանտարկյալի - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258082</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/15/V8k1OJRssEm0hgAKW41L5rqdz5Ft6mK4oyBk6I2B.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 15 Aug 2026 08:25:26 -0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 09:14:22 -0000</pubDate>
     </item>
     <item>
       <title>12:00ՀայաստանՀայաստանն ու Ռուանդան քննարկել են պաշտպանության բնագավառում համագործակցության հնարավորությունները</title>
@@ -70,7 +94,7 @@
       <description>12:00ՀայաստանՀայաստանն ու Ռուանդան քննարկել են պաշտպանության բնագավառում համագործակցության հնարավորությունները - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258081</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/15/G4LMkNlMH8wdz3oCFbJ1XlTD8dThFopj19UOyq1J.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 15 Aug 2026 08:23:26 -0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 09:12:22 -0000</pubDate>
     </item>
     <item>
       <title>11:52ԹուրքիաԹուրքիան կրճատել է նավթի գնումները ռուսական սևծովյան տերմինալներից</title>
@@ -78,7 +102,7 @@
       <description>11:52ԹուրքիաԹուրքիան կրճատել է նավթի գնումները ռուսական սևծովյան տերմինալներից - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258080</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/15/AoT8oVZceSPgo36tPkOU2oRteAGBQQUqvnYQEccc.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 15 Aug 2026 08:21:26 -0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 09:10:22 -0000</pubDate>
     </item>
     <item>
       <title>11:38ՀայաստանՃՏՊ Վայոց ձորի մարզում․ փրկարարներն արգելափակված քաղաքացուն դուրս են բերել մեքենայից</title>
@@ -86,7 +110,7 @@
       <description>11:38ՀայաստանՃՏՊ Վայոց ձորի մարզում․ փրկարարներն արգելափակված քաղաքացուն դուրս են բերել մեքենայից - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258079</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/15/LytYxeO3RAfX8YXXiSZWjrvbCLfWLOOjn3wkUttW.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 15 Aug 2026 08:19:26 -0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 09:08:22 -0000</pubDate>
     </item>
     <item>
       <title>11:22ԻրանԹրամփը հայտնել է, որ ԱՄՆ-ն ցանկանում է Հորմուզի նեղուցը հայտարարել իր տարածքը</title>
@@ -94,7 +118,7 @@
       <description>11:22ԻրանԹրամփը հայտնել է, որ ԱՄՆ-ն ցանկանում է Հորմուզի նեղուցը հայտարարել իր տարածքը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258078</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/15/I8DldAlEdrvmpEZJHRaOnAT6M4IV4E9iwcGDAMv1.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 15 Aug 2026 08:17:26 -0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 09:06:22 -0000</pubDate>
     </item>
     <item>
       <title>11:06ՏնտեսությունԵվրոպական ինդեքսներ - 14/08/26</title>
@@ -102,7 +126,7 @@
       <description>11:06ՏնտեսությունԵվրոպական ինդեքսներ - 14/08/26 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258077</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/14/FJOAiNY5zCkxdlrSomAcxlJUBpiL5Fbc8XRKlUsM.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 15 Aug 2026 08:15:26 -0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 09:04:22 -0000</pubDate>
     </item>
     <item>
       <title>11:04ՏնտեսությունԱմերիկյան ինդեքսները նվազել են - 14/08/26</title>
@@ -110,7 +134,7 @@
       <description>11:04ՏնտեսությունԱմերիկյան ինդեքսները նվազել են - 14/08/26 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258076</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/05/zKk3GoMcFbsLMlJ0zN6SwrlF1UlGF3iOijrzOFjK.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 15 Aug 2026 08:13:26 -0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 09:02:22 -0000</pubDate>
     </item>
     <item>
       <title>11:03ՏնտեսությունNYMEX. Թանկարժեք մետաղների գներն աճել են - 14/08/26</title>
@@ -118,7 +142,7 @@
       <description>11:03ՏնտեսությունNYMEX. Թանկարժեք մետաղների գներն աճել են - 14/08/26 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258075</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/11/09EWA6nPuQXWpuygEttFjMVkEY7TQ6py9BZZogmX.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 15 Aug 2026 08:11:26 -0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 09:00:22 -0000</pubDate>
     </item>
     <item>
       <title>11:02ՏնտեսությունՆավթի գներն աճել են - 14/08/26</title>
@@ -126,7 +150,7 @@
       <description>11:02ՏնտեսությունՆավթի գներն աճել են - 14/08/26 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258074</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/08/nZl1l7uRbHdyjjQxS7UQKgA93TjDZdD097Kr6krS.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 15 Aug 2026 08:09:26 -0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 08:58:22 -0000</pubDate>
     </item>
     <item>
       <title>10:53ՀայաստանՔամու հետևանքով վնասվել են տանիքներ, էլեկտրական լարեր, ավտոմեքենաներ, տապալվել են ծառեր, թեքվել լուսավորության սյուներ</title>
@@ -134,7 +158,7 @@
       <description>10:53ՀայաստանՔամու հետևանքով վնասվել են տանիքներ, էլեկտրական լարեր, ավտոմեքենաներ, տապալվել են ծառեր, թեքվել լուսավորության սյուներ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258073</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/15/pHqktosXyuMlnKsLzJtN31GmrDeNXCJdqEvpOtoV.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 15 Aug 2026 08:07:26 -0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 08:56:22 -0000</pubDate>
     </item>
     <item>
       <title>22:00, 14 օգոստոսիՀայաստանՎահան Կոստանյանը հանդիպել է Ուկրաինայի Գերագույն ռադայի նախագահի տեղակալի հետ</title>
@@ -142,31 +166,7 @@
       <description>22:00, 14 օգոստոսիՀայաստանՎահան Կոստանյանը հանդիպել է Ուկրաինայի Գերագույն ռադայի նախագահի տեղակալի հետ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258072</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/14/8UmT82vgPeVglehygyvO6DQR9gto8KASBheqAr4U.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 15 Aug 2026 08:05:26 -0000</pubDate>
-    </item>
-    <item>
-      <title>21:58, 14 օգոստոսիԱշխարհՖրանսիայում Սահմանադրական խորհուրդն արգելափակել է սոցիալական ցանցեր երեխաների մուտքն արգելող օրենքը</title>
-      <link>https://armenpress.am/hy/article/1258071</link>
-      <description>21:58, 14 օգոստոսիԱշխարհՖրանսիայում Սահմանադրական խորհուրդն արգելափակել է սոցիալական ցանցեր երեխաների մուտքն արգելող օրենքը - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258071</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/14/gehjxsYCf4v8YlmwasizwvhKJvxlj4JhEXCGfLA0.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 15 Aug 2026 08:03:26 -0000</pubDate>
-    </item>
-    <item>
-      <title>21:25, 14 օգոստոսիՀայաստանՊապիկյանը ծանոթացել է ՊՆ-ին մատուցվող հոգեբանական ծառայությունների ընթացիկ զեկույցին</title>
-      <link>https://armenpress.am/hy/article/1258070</link>
-      <description>21:25, 14 օգոստոսիՀայաստանՊապիկյանը ծանոթացել է ՊՆ-ին մատուցվող հոգեբանական ծառայությունների ընթացիկ զեկույցին - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258070</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/14/Upgt2eNJtdqjNIupVcVHAGQV51YJcERv3pv71rLT.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 15 Aug 2026 08:01:26 -0000</pubDate>
-    </item>
-    <item>
-      <title>21:04, 14 օգոստոսիԱշխարհՄեծ Բրիտանիայում ռեկորդային թվով բնական հրդեհներ են գրանցվել</title>
-      <link>https://armenpress.am/hy/article/1258069</link>
-      <description>21:04, 14 օգոստոսիԱշխարհՄեծ Բրիտանիայում ռեկորդային թվով բնական հրդեհներ են գրանցվել - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258069</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/14/GdFNYLqKgwbmHGJ5jo8cNPKOeML0h16b2WzTegCT.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 15 Aug 2026 07:59:26 -0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 08:54:22 -0000</pubDate>
     </item>
   </channel>
 </rss>
