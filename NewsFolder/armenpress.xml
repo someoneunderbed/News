@@ -5,19 +5,19 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Sun, 16 Aug 2026 13:36:38 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 14:29:32 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
       <link>https://armenpress.am/hy/articles</link>
     </image>
     <item>
-      <title>Երևան31 °C</title>
+      <title>Երևան32 °C</title>
       <link>https://armenpress.am/hy/articles/weather</link>
-      <description>Երևան31 °C - Read on armenpress.am.</description>
+      <description>Երևան32 °C - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
-      <enclosure url="https://armenpress.am/assets/weather/03d.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 16 Aug 2026 13:36:38 -0000</pubDate>
+      <enclosure url="https://armenpress.am/assets/weather/04d.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 16 Aug 2026 14:29:32 -0000</pubDate>
     </item>
     <item>
       <title>USD / AMD365.82</title>
@@ -25,28 +25,36 @@
       <description>USD / AMD365.82 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 16 Aug 2026 13:34:38 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 14:27:32 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
       <link>https://armenpress.am/hy/articles/fact-check</link>
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Sun, 16 Aug 2026 13:32:38 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 14:25:32 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
       <link>https://armenpress.am/hy/articles/projects</link>
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Sun, 16 Aug 2026 13:30:38 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 14:23:32 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://armenpress.am/hy/articles/interviews</link>
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Sun, 16 Aug 2026 13:28:38 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 14:21:32 -0000</pubDate>
+    </item>
+    <item>
+      <title>17:44ՌազմականՀայաստան է ժամանել Հնդկաստանի պաշտպանության քարտուղարը</title>
+      <link>https://armenpress.am/hy/article/1258112</link>
+      <description>17:44ՌազմականՀայաստան է ժամանել Հնդկաստանի պաշտպանության քարտուղարը - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258112</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/16/bEA1mY4OObvWay5P0i7wHbelONco6QnDNd0Z0AZf.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 16 Aug 2026 14:19:32 -0000</pubDate>
     </item>
     <item>
       <title>15:31ԹուրքիաԵՄ-ին անդամակցելն այլևս Թուրքիայի առաջնահերթություններից չէ․ Էրդողան</title>
@@ -54,7 +62,7 @@
       <description>15:31ԹուրքիաԵՄ-ին անդամակցելն այլևս Թուրքիայի առաջնահերթություններից չէ․ Էրդողան - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258111</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/16/uNiaKb2oaNAIGvzkBDpN9daIP5iDXv1be1Bi1EJu.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 16 Aug 2026 13:26:38 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 14:17:32 -0000</pubDate>
     </item>
     <item>
       <title>15:08ՀայաստանՄեր կոմֆորտային և շատ հաճելի ամառը շարունակվում է․ Գագիկ Սուրենյան</title>
@@ -62,15 +70,15 @@
       <description>15:08ՀայաստանՄեր կոմֆորտային և շատ հաճելի ամառը շարունակվում է․ Գագիկ Սուրենյան - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258110</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/16/txaHDrUFFa6tU8VA2EQfX5FwY7igrdpm3znhrTqO.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 16 Aug 2026 13:24:38 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 14:15:32 -0000</pubDate>
     </item>
     <item>
       <title>14:13ՀայաստանՎարչապետը Կեչառիսի վանական համալիրում պատարագի է մասնակցել</title>
       <link>https://armenpress.am/hy/article/1258109</link>
       <description>14:13ՀայաստանՎարչապետը Կեչառիսի վանական համալիրում պատարագի է մասնակցել - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258109</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/16/uNiaKb2oaNAIGvzkBDpN9daIP5iDXv1be1Bi1EJu.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 16 Aug 2026 13:22:38 -0000</pubDate>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/16/bEA1mY4OObvWay5P0i7wHbelONco6QnDNd0Z0AZf.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 16 Aug 2026 14:13:32 -0000</pubDate>
     </item>
     <item>
       <title>13:39ՀայաստանԱրսեն Թորոսյանը լողալով Սևանա լճի մի ափից մյուս ափն է անցել՝ հաղթահարելով գրեթե 6 կիլոմետր տարածություն</title>
@@ -78,7 +86,7 @@
       <description>13:39ՀայաստանԱրսեն Թորոսյանը լողալով Սևանա լճի մի ափից մյուս ափն է անցել՝ հաղթահարելով գրեթե 6 կիլոմետր տարածություն - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258108</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/16/3y7JBrMBGOac0sa7nR2z2NIF2ShTtS10DwRCTZjB.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 16 Aug 2026 13:20:38 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 14:11:32 -0000</pubDate>
     </item>
     <item>
       <title>13:21ԵվրոպաՀունգարիայում լեհական ավտոբուսի վթարի հետևանքով 12 մարդ է զոհվել</title>
@@ -86,7 +94,7 @@
       <description>13:21ԵվրոպաՀունգարիայում լեհական ավտոբուսի վթարի հետևանքով 12 մարդ է զոհվել - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258107</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/16/dxSVhjZHjVB3Y2j2imUQGXthHC26ZWheWfmo0l6Z.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 16 Aug 2026 13:18:38 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 14:09:32 -0000</pubDate>
     </item>
     <item>
       <title>12:54ԹուրքիաԼիբանանի վրա Իսրայելի շարունակվող հարձակումները մտահոգության լուրջ աղբյուր են Անկարայի համար․ Էրդողան</title>
@@ -94,7 +102,7 @@
       <description>12:54ԹուրքիաԼիբանանի վրա Իսրայելի շարունակվող հարձակումները մտահոգության լուրջ աղբյուր են Անկարայի համար․ Էրդողան - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258106</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/16/kiCTulIpKzNcTIbleSMvUBtIKfFpPaw7MsXCRqLc.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 16 Aug 2026 13:16:38 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 14:07:32 -0000</pubDate>
     </item>
     <item>
       <title>12:42ԹուրքիաԹուրքիայի նախագահը հայտարարել է, որ Եգիպտոսը կարող է միանալ Մեքքայի համաձայնագրին</title>
@@ -102,7 +110,7 @@
       <description>12:42ԹուրքիաԹուրքիայի նախագահը հայտարարել է, որ Եգիպտոսը կարող է միանալ Մեքքայի համաձայնագրին - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258105</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/16/YXi7zPmX16hlHGrj4XWlx8XmNN9pemKmp6MN0sPZ.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 16 Aug 2026 13:14:38 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 14:05:32 -0000</pubDate>
     </item>
     <item>
       <title>12:05ՔաղաքականությունՀԱՊԿ-ում Հայաստանի մասնակցության հեռանկարների վերաբերյալ որոշումը պետք է կայացվի ողջամիտ ժամկետներում․ ՀԱՊԿ գլխավոր քարտուղար</title>
@@ -110,7 +118,7 @@
       <description>12:05ՔաղաքականությունՀԱՊԿ-ում Հայաստանի մասնակցության հեռանկարների վերաբերյալ որոշումը պետք է կայացվի ողջամիտ ժամկետներում․ ՀԱՊԿ գլխավոր քարտուղար - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258104</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/16/wqbV2XPQ6p0toYTTtmM78mvgKJfmXqdBdSatXkMV.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 16 Aug 2026 13:12:38 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 14:03:32 -0000</pubDate>
     </item>
     <item>
       <title>11:41ԱշխարհԻնդոնեզիայում տեղի ունեցած երկրաշարժի հետևանքով ավելի քան 50 մարդ է զոհվել</title>
@@ -118,7 +126,7 @@
       <description>11:41ԱշխարհԻնդոնեզիայում տեղի ունեցած երկրաշարժի հետևանքով ավելի քան 50 մարդ է զոհվել - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258103</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/16/I7cJ6RtWUjNiuRat7v1nidkDtYE5el3RhdidU5K1.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 16 Aug 2026 13:10:38 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 14:01:32 -0000</pubDate>
     </item>
     <item>
       <title>11:24ՀայաստանՀրշեջ-փրկարարի 25-ամյա ծառայության խորհրդանշական ավարտը՝ Փրկարար ծառայության ավանդույթով</title>
@@ -126,7 +134,7 @@
       <description>11:24ՀայաստանՀրշեջ-փրկարարի 25-ամյա ծառայության խորհրդանշական ավարտը՝ Փրկարար ծառայության ավանդույթով - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258102</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/16/XVjYhGHz1ILaZwSPlPh9j7bVL4PWK8YivdY4IPLq.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 16 Aug 2026 13:08:38 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 13:59:32 -0000</pubDate>
     </item>
     <item>
       <title>17:59, 15 օգոստոսիԱշխարհԼիբանանի նախագահը դատապարտել է երկրի հարավին ուղղված Իսրայելի հարվածները</title>
@@ -134,7 +142,7 @@
       <description>17:59, 15 օգոստոսիԱշխարհԼիբանանի նախագահը դատապարտել է երկրի հարավին ուղղված Իսրայելի հարվածները - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258101</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/15/8oWybSqS6Ks4uH4PYgqwtzUGUnx9h3vbfq4mibFZ.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 16 Aug 2026 13:06:38 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 13:57:32 -0000</pubDate>
     </item>
     <item>
       <title>17:47, 15 օգոստոսիԱշխարհՄարոկկոյի իշխանությունները ձերբակալել են մի քանի տասնյակ անօրինական միգրանտների՝ Սեուտա հասնելու փորձի ժամանակ</title>
@@ -142,7 +150,7 @@
       <description>17:47, 15 օգոստոսիԱշխարհՄարոկկոյի իշխանությունները ձերբակալել են մի քանի տասնյակ անօրինական միգրանտների՝ Սեուտա հասնելու փորձի ժամանակ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258100</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/15/QGX1MRtoIJoYivPUk3JSM6rIfoSgszDbQDZnceqE.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 16 Aug 2026 13:04:38 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 13:55:32 -0000</pubDate>
     </item>
     <item>
       <title>17:32, 15 օգոստոսիՄիացյալ ՆահանգներԱՄՆ-ում համալսարանի մոտ հրաձգության հետևանքով առնվազն 5 մարդ է տուժել</title>
@@ -150,7 +158,7 @@
       <description>17:32, 15 օգոստոսիՄիացյալ ՆահանգներԱՄՆ-ում համալսարանի մոտ հրաձգության հետևանքով առնվազն 5 մարդ է տուժել - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258099</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/15/Y4lgM8EE21t269f0ROugGmxiIlNa1edbJrLLCdB0.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 16 Aug 2026 13:02:38 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 13:53:32 -0000</pubDate>
     </item>
     <item>
       <title>17:06, 15 օգոստոսիԱշխարհԳերմանիայի արևմուտքում անտառային խոշոր հրդեհը մարելու աշխատանքները շարունակվում են</title>
@@ -158,15 +166,7 @@
       <description>17:06, 15 օգոստոսիԱշխարհԳերմանիայի արևմուտքում անտառային խոշոր հրդեհը մարելու աշխատանքները շարունակվում են - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258098</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/15/0yvGUUxjTXIS5EqjyW9ZlkBD0bmzIfRd34htYtZ1.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 16 Aug 2026 13:00:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>16:48, 15 օգոստոսիՀայաստանՎահան Կոստանյանն ու Օլեկսանդր Մերեժկոն քննարկել են Հայաստան-Ուկրաինա համագործակցության օրակարգը</title>
-      <link>https://armenpress.am/hy/article/1258097</link>
-      <description>16:48, 15 օգոստոսիՀայաստանՎահան Կոստանյանն ու Օլեկսանդր Մերեժկոն քննարկել են Հայաստան-Ուկրաինա համագործակցության օրակարգը - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258097</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/15/KRgL83S48gqT8GEsYvhtA5TlpixEuLR6yRilykuq.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 16 Aug 2026 12:58:38 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 13:51:32 -0000</pubDate>
     </item>
   </channel>
 </rss>
