@@ -5,19 +5,19 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Wed, 19 Aug 2026 08:46:48 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 09:40:23 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
       <link>https://armenpress.am/hy/articles</link>
     </image>
     <item>
-      <title>Երևան28 °C</title>
+      <title>Երևան31 °C</title>
       <link>https://armenpress.am/hy/articles/weather</link>
-      <description>Երևան28 °C - Read on armenpress.am.</description>
+      <description>Երևան31 °C - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
       <enclosure url="https://armenpress.am/assets/weather/01d.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 19 Aug 2026 08:46:48 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 09:40:23 -0000</pubDate>
     </item>
     <item>
       <title>USD / AMD365.25</title>
@@ -25,28 +25,68 @@
       <description>USD / AMD365.25 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 19 Aug 2026 08:44:48 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 09:38:23 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
       <link>https://armenpress.am/hy/articles/fact-check</link>
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Wed, 19 Aug 2026 08:42:48 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 09:36:23 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
       <link>https://armenpress.am/hy/articles/projects</link>
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Wed, 19 Aug 2026 08:40:48 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 09:34:23 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://armenpress.am/hy/articles/interviews</link>
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Wed, 19 Aug 2026 08:38:48 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 09:32:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>13:18ԻրանՖրանսիան կարտաքսի իրանցի երկու դիվանագետի՝ դեսպանատան աշխատակիցների հետ կապված միջադեպից հետո</title>
+      <link>https://armenpress.am/hy/article/1258359</link>
+      <description>13:18ԻրանՖրանսիան կարտաքսի իրանցի երկու դիվանագետի՝ դեսպանատան աշխատակիցների հետ կապված միջադեպից հետո - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258359</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/02/02/HTYwIIaS8b112vAdJVqUjk3RARSCBO3puV2CspSo.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Wed, 19 Aug 2026 09:30:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>13:05ՌազմականԶինված ուժերում կարգապահության մակարդակի բարձրացումը մեր առաջնահերթություններից է. Սուրեն Պապիկյան</title>
+      <link>https://armenpress.am/hy/article/1258358</link>
+      <description>13:05ՌազմականԶինված ուժերում կարգապահության մակարդակի բարձրացումը մեր առաջնահերթություններից է. Սուրեն Պապիկյան - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258358</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/19/fwGLXETkdAdO6PJM0Tgnf8COLWxtoBcNRyzaIWF8.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Wed, 19 Aug 2026 09:28:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>13:03ՀայաստանԵրևանում և մի քանի մարզում օգոստոսի 19-24-ին սպասվում է բարձր կարգի հրդեհավտանգ իրավիճակ</title>
+      <link>https://armenpress.am/hy/article/1258357</link>
+      <description>13:03ՀայաստանԵրևանում և մի քանի մարզում օգոստոսի 19-24-ին սպասվում է բարձր կարգի հրդեհավտանգ իրավիճակ - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258357</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/19/53iOcEAEcd6WfLcJttdladPwo3zbnaZfybKjGs7h.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Wed, 19 Aug 2026 09:26:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>13:00ՖինանսներՑուցակվել են «Սոլիս»-ի պարտատոմսերը. Շուկա ստեղծողն Ամերիաբանկն է</title>
+      <link>https://armenpress.am/hy/article/1258356</link>
+      <description>13:00ՖինանսներՑուցակվել են «Սոլիս»-ի պարտատոմսերը. Շուկա ստեղծողն Ամերիաբանկն է - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258356</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/19/nmGlkAC37PeCM7uVPWF6jKE2WpGrD1q0mnhv1VDe.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Wed, 19 Aug 2026 09:24:23 -0000</pubDate>
+    </item>
+    <item>
+      <title>12:47ՏնտեսությունԱյս տարի լոլիկի մթերման գինը Հայաստանում սահմանվել է 40-80 դրամ. էկոնոմիկայի նախարար</title>
+      <link>https://armenpress.am/hy/article/1258355</link>
+      <description>12:47ՏնտեսությունԱյս տարի լոլիկի մթերման գինը Հայաստանում սահմանվել է 40-80 դրամ. էկոնոմիկայի նախարար - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258355</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/19/jqPbnki6vtC0f897Vc2yG5f6pXaFm5fTir1zzxxJ.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Wed, 19 Aug 2026 09:22:23 -0000</pubDate>
     </item>
     <item>
       <title>12:45ԻրանՂալիբաֆը հայտարարել է, որ Թեհրանի վրա ճնշումն ԱՄՆ-ին չի օգնի համաձայնագիր կնքել</title>
@@ -54,7 +94,7 @@
       <description>12:45ԻրանՂալիբաֆը հայտարարել է, որ Թեհրանի վրա ճնշումն ԱՄՆ-ին չի օգնի համաձայնագիր կնքել - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258354</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/19/xTqSHUbOyjd6nouLZX1ud4jAWVvYz52nt6uGJNtP.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 19 Aug 2026 08:36:48 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 09:20:23 -0000</pubDate>
     </item>
     <item>
       <title>12:44ԵվրոպաՆիդեռլանդները և Ճապոնիան դատապարտել են ԱՄՆ-ի կողմից ՄՔԴ-ի պաշտոնյաների նկատմամբ պատժամիջոցների սահմանումը</title>
@@ -62,7 +102,7 @@
       <description>12:44ԵվրոպաՆիդեռլանդները և Ճապոնիան դատապարտել են ԱՄՆ-ի կողմից ՄՔԴ-ի պաշտոնյաների նկատմամբ պատժամիջոցների սահմանումը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258352</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/19/eEO5FxoGeN1HccUbjtLWoehIicePE4twNHKMRe5v.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 19 Aug 2026 08:34:48 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 09:18:23 -0000</pubDate>
     </item>
     <item>
       <title>12:39Բարձր տեխնոլոգիաներSilicon Mountains 2026-ը ներկայանում է նոր ձևաչափով. «Invest in Innovation» խորագրով գագաթնաժողովին զուգահեռ կանցկացվի խոշոր տեխնոլոգիական ցուցահանդես</title>
@@ -70,7 +110,7 @@
       <description>12:39Բարձր տեխնոլոգիաներSilicon Mountains 2026-ը ներկայանում է նոր ձևաչափով. «Invest in Innovation» խորագրով գագաթնաժողովին զուգահեռ կանցկացվի խոշոր տեխնոլոգիական ցուցահանդես - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258353</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/19/7eEH5fgzlDxWW63Q0Ij38jl8QfvzJrOD0C5xWPS4.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 19 Aug 2026 08:32:48 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 09:16:23 -0000</pubDate>
     </item>
     <item>
       <title>12:38ՀայաստանԼոռիում բացահայտվել է ապօրինի ջրառ․ ԲԸՏՄ-ն ձկնաբուծարանի գործունեությունը կասեցրել է</title>
@@ -78,7 +118,7 @@
       <description>12:38ՀայաստանԼոռիում բացահայտվել է ապօրինի ջրառ․ ԲԸՏՄ-ն ձկնաբուծարանի գործունեությունը կասեցրել է - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258351</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/19/FPeEYWSu9LjhzNiIbDoBjTBO5XYOFuTSgLMcBUI1.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 19 Aug 2026 08:30:48 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 09:14:23 -0000</pubDate>
     </item>
     <item>
       <title>12:20ՀայաստանՆարեկ Կարապետյանը և Աննա Գրիգորյանը մերժել են Աննա Հակոբյանի հանդիպման առաջարկը</title>
@@ -86,7 +126,7 @@
       <description>12:20ՀայաստանՆարեկ Կարապետյանը և Աննա Գրիգորյանը մերժել են Աննա Հակոբյանի հանդիպման առաջարկը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258350</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/19/Y7eDH3CzBsYmjiVjPlvnC2rNZijIX7qUl7MSOO49.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 19 Aug 2026 08:28:48 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 09:12:23 -0000</pubDate>
     </item>
     <item>
       <title>12:07Սոցիալական հարցեր40 հազար դրամ՝ 10 տարի ժամկետով․ Ղարաբաղից տեղահանված առանձին խմբերի վարձակալության վճարը մասնակի կհատուցվի</title>
@@ -94,7 +134,7 @@
       <description>12:07Սոցիալական հարցեր40 հազար դրամ՝ 10 տարի ժամկետով․ Ղարաբաղից տեղահանված առանձին խմբերի վարձակալության վճարը մասնակի կհատուցվի - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258348</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/19/HEVXoBciziKLsOTeTVFK2AqbB4jeqouA3POHwvxT.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 19 Aug 2026 08:26:48 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 09:10:23 -0000</pubDate>
     </item>
     <item>
       <title>12:05ԻրանԻրանն անհիմն է որակել ԱՄԷ-ի ուղղությամբ հրթիռներ արձակելու մեղադրանքը</title>
@@ -102,7 +142,7 @@
       <description>12:05ԻրանԻրանն անհիմն է որակել ԱՄԷ-ի ուղղությամբ հրթիռներ արձակելու մեղադրանքը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258349</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/19/MmhwL0w7L3zOmSEuupJ3xIfffSbFcPduvoD3j20L.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 19 Aug 2026 08:24:48 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 09:08:23 -0000</pubDate>
     </item>
     <item>
       <title>12:04ԱշխարհԿոլումբիայում երկրաշարժի զոհերի թիվը գերազանցել է 300-ը</title>
@@ -110,7 +150,7 @@
       <description>12:04ԱշխարհԿոլումբիայում երկրաշարժի զոհերի թիվը գերազանցել է 300-ը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258346</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/19/s44Enp67wY9HMPdxDjD5dh37yvdMf0cvoAKEiV94.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 19 Aug 2026 08:22:48 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 09:06:23 -0000</pubDate>
     </item>
     <item>
       <title>12:03ՔաղաքականությունԱլեն Սիմոնյանն ԱՄՆ Կոնգրեսի անդամի հետ քննարկել է TRIPP-ին վերաբերող հարցեր</title>
@@ -118,7 +158,7 @@
       <description>12:03ՔաղաքականությունԱլեն Սիմոնյանն ԱՄՆ Կոնգրեսի անդամի հետ քննարկել է TRIPP-ին վերաբերող հարցեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258347</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/19/8lFT1uUxQn3OR5VXG7zZPbF7HRcIlwSuX0f4AnFf.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 19 Aug 2026 08:20:48 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 09:04:23 -0000</pubDate>
     </item>
     <item>
       <title>12:00ԻրավունքՈստիկանության հատուկ միջոցառումները շարունակվում են. բաժիններ է ներկայացվել նախկինում դատապարտված և հանցավոր հակումներ ունեցող 266 անձ</title>
@@ -126,47 +166,7 @@
       <description>12:00ԻրավունքՈստիկանության հատուկ միջոցառումները շարունակվում են. բաժիններ է ներկայացվել նախկինում դատապարտված և հանցավոր հակումներ ունեցող 266 անձ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258345</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/19/3oWeyP2ClXET6miWA2YhkgTyi1zXooZxOwCN37zJ.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 19 Aug 2026 08:18:48 -0000</pubDate>
-    </item>
-    <item>
-      <title>11:59Միացյալ ՆահանգներՆեթանյահուն ողջունել է Միջազգային քրեական դատարանի պաշտոնյաների նկատմամբ ԱՄՆ-ի պատժամիջոցները</title>
-      <link>https://armenpress.am/hy/article/1258344</link>
-      <description>11:59Միացյալ ՆահանգներՆեթանյահուն ողջունել է Միջազգային քրեական դատարանի պաշտոնյաների նկատմամբ ԱՄՆ-ի պատժամիջոցները - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258344</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/19/yz7PqFPmvSdviAyzvSmpiludQIAVuCFeTZ7qyXgs.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 19 Aug 2026 08:16:48 -0000</pubDate>
-    </item>
-    <item>
-      <title>11:56ՀայտարարություններԱԱԾ-ն աշխատանքի է հրավիրում Java ծրագրավորման փորձառու մասնագետների</title>
-      <link>https://armenpress.am/hy/article/1258343</link>
-      <description>11:56ՀայտարարություններԱԱԾ-ն աշխատանքի է հրավիրում Java ծրագրավորման փորձառու մասնագետների - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258343</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/19/9zc4QfVxlOPhgLELVfJQgnKNPiq621xZeEcpE1DZ.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 19 Aug 2026 08:14:48 -0000</pubDate>
-    </item>
-    <item>
-      <title>11:50ՀայտարարություններԱԱԾ-ն աշխատանքի է հրավիրում ռադիոֆիզիկայի ոլորտի փորձառու մասնագետների</title>
-      <link>https://armenpress.am/hy/article/1258342</link>
-      <description>11:50ՀայտարարություններԱԱԾ-ն աշխատանքի է հրավիրում ռադիոֆիզիկայի ոլորտի փորձառու մասնագետների - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258342</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/19/XQd9gtEfj9rMmdzsyVPZMBfsZAXoNScEBPUXXC86.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 19 Aug 2026 08:12:48 -0000</pubDate>
-    </item>
-    <item>
-      <title>11:47ԻրանԻրանը հայտարարել է, որ Հորմուզի նկատմամբ ԱՄՆ-ի հավակնությունները հեռու են նրա իրական հնարավորություններից</title>
-      <link>https://armenpress.am/hy/article/1258341</link>
-      <description>11:47ԻրանԻրանը հայտարարել է, որ Հորմուզի նկատմամբ ԱՄՆ-ի հավակնությունները հեռու են նրա իրական հնարավորություններից - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258341</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/19/18XnVyJfloL0AzsUiwa4NFT85UdHW6B7GAxH48B0.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 19 Aug 2026 08:10:48 -0000</pubDate>
-    </item>
-    <item>
-      <title>11:46ՀայտարարություններԱԱԾ-ն աշխատանքի է հրավիրում տվյալների բազաների կառավարման և Oracle տեխնոլոգիաների ոլորտի մասնագետների</title>
-      <link>https://armenpress.am/hy/article/1258340</link>
-      <description>11:46ՀայտարարություններԱԱԾ-ն աշխատանքի է հրավիրում տվյալների բազաների կառավարման և Oracle տեխնոլոգիաների ոլորտի մասնագետների - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258340</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/19/Dbqi4Uc8CGVChFFXKwV16zHdQ92ntX6XviuwpfjW.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 19 Aug 2026 08:08:48 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 09:02:23 -0000</pubDate>
     </item>
   </channel>
 </rss>
