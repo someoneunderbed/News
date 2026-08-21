@@ -5,19 +5,19 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Fri, 21 Aug 2026 14:07:51 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 15:04:45 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
       <link>https://armenpress.am/hy/articles</link>
     </image>
     <item>
-      <title>Երևան32 °C</title>
+      <title>Երևան29 °C</title>
       <link>https://armenpress.am/hy/articles/weather</link>
-      <description>Երևան32 °C - Read on armenpress.am.</description>
+      <description>Երևան29 °C - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
-      <enclosure url="https://armenpress.am/assets/weather/01d.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 21 Aug 2026 14:07:51 -0000</pubDate>
+      <enclosure url="https://armenpress.am/assets/weather/01n.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 21 Aug 2026 15:04:45 -0000</pubDate>
     </item>
     <item>
       <title>USD / AMD365.16</title>
@@ -25,28 +25,60 @@
       <description>USD / AMD365.16 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 21 Aug 2026 14:05:51 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 15:02:45 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
       <link>https://armenpress.am/hy/articles/fact-check</link>
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Fri, 21 Aug 2026 14:03:51 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 15:00:45 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
       <link>https://armenpress.am/hy/articles/projects</link>
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Fri, 21 Aug 2026 14:01:51 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 14:58:45 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://armenpress.am/hy/articles/interviews</link>
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Fri, 21 Aug 2026 13:59:51 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 14:56:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>18:58ԿրթությունԲուհերում շուրջ 400 մլն դրամի գերավճար է ձևավորվել. 67 մլն դրամ վերադարձվել է շահառուներին</title>
+      <link>https://armenpress.am/hy/article/1258614</link>
+      <description>18:58ԿրթությունԲուհերում շուրջ 400 մլն դրամի գերավճար է ձևավորվել. 67 մլն դրամ վերադարձվել է շահառուներին - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258614</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/21/VRCBXnsUfpqYqYNedUcZjEgUWnelXm2kebZo6qyu.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 21 Aug 2026 14:54:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>18:30Հասարակական«Կաթի համաշխարհային օր» միջոցառման hեղինակային իրավունքն արդեն Երեմյան ընկերությանն է</title>
+      <link>https://armenpress.am/hy/article/1258613</link>
+      <description>18:30Հասարակական«Կաթի համաշխարհային օր» միջոցառման hեղինակային իրավունքն արդեն Երեմյան ընկերությանն է - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258613</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/21/jNRujfz3L3zyS8KYvVSo94vHAEL8RgzFGQNjxCte.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 21 Aug 2026 14:52:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>18:23ՀայաստանՄեկնարկել է «Մոսկվա» կինոթատրոնի ամառային դահլիճը վերականգնելու և արդիականացնելու նախագիծը</title>
+      <link>https://armenpress.am/hy/article/1258612</link>
+      <description>18:23ՀայաստանՄեկնարկել է «Մոսկվա» կինոթատրոնի ամառային դահլիճը վերականգնելու և արդիականացնելու նախագիծը - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258612</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/21/nYdKkfQkouwzEIOB3BHMTaEtjSTPLSfE5WCo8hle.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 21 Aug 2026 14:50:45 -0000</pubDate>
+    </item>
+    <item>
+      <title>18:08ՔաղաքականությունՖինանսավարկային և բյուջետային հարցերի մշտական հանձնաժողովի նախագահի պաշտոնում ընտրվեց Լիանա Մանուկյանը</title>
+      <link>https://armenpress.am/hy/article/1258611</link>
+      <description>18:08ՔաղաքականությունՖինանսավարկային և բյուջետային հարցերի մշտական հանձնաժողովի նախագահի պաշտոնում ընտրվեց Լիանա Մանուկյանը - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258611</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/21/Z1zaXDbFD6DxZxyNV7Ol2karcyIdG9n3lgpzmXNY.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 21 Aug 2026 14:48:45 -0000</pubDate>
     </item>
     <item>
       <title>18:01ԻրանՓեզեշքիանը կոչ է արել պատերազմն ավարտել հիմա, երբ Իրանն ուժեղ աշխարհաքաղաքական դիրքում է</title>
@@ -54,7 +86,7 @@
       <description>18:01ԻրանՓեզեշքիանը կոչ է արել պատերազմն ավարտել հիմա, երբ Իրանն ուժեղ աշխարհաքաղաքական դիրքում է - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258610</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/21/sbMKC4IcTWE0VlgD5AOz5DlvrzDWOURDFxRiXESd.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 21 Aug 2026 13:57:51 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 14:46:45 -0000</pubDate>
     </item>
     <item>
       <title>17:56ՌազմականՀՀ պաշտպանության նախարարը հանդիպել է «Պատիվ ունեմ» ծրագրի շահառուների հետ</title>
@@ -62,7 +94,7 @@
       <description>17:56ՌազմականՀՀ պաշտպանության նախարարը հանդիպել է «Պատիվ ունեմ» ծրագրի շահառուների հետ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258609</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/21/lGWk91Mp05eYdoZBoyILXuxaF4NIzMKVjaGrgVBR.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 21 Aug 2026 13:55:51 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 14:44:45 -0000</pubDate>
     </item>
     <item>
       <title>17:50ԵվրոպաՄոլդովայի զբոսաշրջային վայրերում տեղավորված մարդկանց թիվը 2026 թ. առաջին կիսամյակում աճել է մոտ 16 տոկոսով. Moldpres</title>
@@ -70,7 +102,7 @@
       <description>17:50ԵվրոպաՄոլդովայի զբոսաշրջային վայրերում տեղավորված մարդկանց թիվը 2026 թ. առաջին կիսամյակում աճել է մոտ 16 տոկոսով. Moldpres - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258608</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/21/eo7hUubRmbjZAoXbNsnkiA5PORu4cAAVb4eViZu8.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 21 Aug 2026 13:53:51 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 14:42:45 -0000</pubDate>
     </item>
     <item>
       <title>17:35ԵվրոպաԼեհաստանը պատրաստ է արգելափակել Ռուսաստանի և Բելառուսի հետ բոլոր սահմանային անցակետերը</title>
@@ -78,15 +110,15 @@
       <description>17:35ԵվրոպաԼեհաստանը պատրաստ է արգելափակել Ռուսաստանի և Բելառուսի հետ բոլոր սահմանային անցակետերը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258607</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/21/ap7J3ZHa53jDD50Y2alrrcQYIuhhh3gMOHYSXtiK.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 21 Aug 2026 13:51:51 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 14:40:45 -0000</pubDate>
     </item>
     <item>
       <title>17:32ԱնոնսՕգոստոսի 22-ի միջոցառումների անոնս</title>
       <link>https://armenpress.am/hy/article/1258606</link>
       <description>17:32ԱնոնսՕգոստոսի 22-ի միջոցառումների անոնս - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258606</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/21/sbMKC4IcTWE0VlgD5AOz5DlvrzDWOURDFxRiXESd.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 21 Aug 2026 13:49:51 -0000</pubDate>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/21/VRCBXnsUfpqYqYNedUcZjEgUWnelXm2kebZo6qyu.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 21 Aug 2026 14:38:45 -0000</pubDate>
     </item>
     <item>
       <title>17:26ԵվրոպաԲուլղարիան 20 միլիոն եվրո է հատկացրել «Եվրատեսիլ 2027» երգի մրցույթի նախապատրաստական ​​աշխատանքների համար. BTA</title>
@@ -94,7 +126,7 @@
       <description>17:26ԵվրոպաԲուլղարիան 20 միլիոն եվրո է հատկացրել «Եվրատեսիլ 2027» երգի մրցույթի նախապատրաստական ​​աշխատանքների համար. BTA - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258605</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/21/RrhvSw3r2Zs5AB03oM5Gme1J4HfuDuVmGiWyxuSz.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 21 Aug 2026 13:47:51 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 14:36:45 -0000</pubDate>
     </item>
     <item>
       <title>17:18Քաղաքականություն«Ուժեղ Հայաստան»-ն ԱԺ եվրոպական ինտեգրման հարցերի հանձնաժողովի նախագահի պաշտոնում առաջադրեց Հարություն Հարությունյանի թեկնածությունը</title>
@@ -102,7 +134,7 @@
       <description>17:18Քաղաքականություն«Ուժեղ Հայաստան»-ն ԱԺ եվրոպական ինտեգրման հարցերի հանձնաժողովի նախագահի պաշտոնում առաջադրեց Հարություն Հարությունյանի թեկնածությունը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258604</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/21/aGerBUNV4tAbjEJPX3C6dhmpe2AgSDa5ZfMBWplR.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 21 Aug 2026 13:45:51 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 14:34:45 -0000</pubDate>
     </item>
     <item>
       <title>17:14ԵվրոպաԱշխարհի ամենատարեց մարդը դարձել է 117 տարեկան</title>
@@ -110,7 +142,7 @@
       <description>17:14ԵվրոպաԱշխարհի ամենատարեց մարդը դարձել է 117 տարեկան - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258603</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/21/QK7VGEjGmn86hXH6uPszLKlLaPxeNEBGFlmmj6i2.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 21 Aug 2026 13:43:51 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 14:32:45 -0000</pubDate>
     </item>
     <item>
       <title>17:11ՔաղաքականությունԱԺ-ում ընթանում է «Ուժեղ Հայաստան»-ի նոր թեկնածուին ԱԺ ֆինանսավարկային և բյուջետային հարցերի հանձնաժողովի նախագահ ընտրելու քվեարկությունը</title>
@@ -118,7 +150,7 @@
       <description>17:11ՔաղաքականությունԱԺ-ում ընթանում է «Ուժեղ Հայաստան»-ի նոր թեկնածուին ԱԺ ֆինանսավարկային և բյուջետային հարցերի հանձնաժողովի նախագահ ընտրելու քվեարկությունը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258602</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/21/cLzwRrDgHSupJdL04Pk6snLerpn3OpJIGylxhS69.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 21 Aug 2026 13:41:51 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 14:30:45 -0000</pubDate>
     </item>
     <item>
       <title>17:06ԱշխարհՄԱԿ-ը հայտարարել է էբոլայի համաճարակի սրընթաց աճի մասին</title>
@@ -126,7 +158,7 @@
       <description>17:06ԱշխարհՄԱԿ-ը հայտարարել է էբոլայի համաճարակի սրընթաց աճի մասին - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258601</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/21/ubvrhPkFuY7k5BX3GJjGDZEIbpzFaPL9P6uGMRik.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 21 Aug 2026 13:39:51 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 14:28:45 -0000</pubDate>
     </item>
     <item>
       <title>16:54ԵվրոպաՀունաստանում տարեսկզբից ի վեր անտառների հրկիզման համար ավելի քան 300 մարդ է ձերբակալվել</title>
@@ -134,39 +166,7 @@
       <description>16:54ԵվրոպաՀունաստանում տարեսկզբից ի վեր անտառների հրկիզման համար ավելի քան 300 մարդ է ձերբակալվել - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258600</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/21/pf5abmJd4gS9rUECimtN85YBrh7SsZIw6667VZgG.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 21 Aug 2026 13:37:51 -0000</pubDate>
-    </item>
-    <item>
-      <title>16:47ՏնտեսությունՀՀ ԿԲ. թանկարժեք մետաղների գներ և փոխարժեքներ - 21/08/26</title>
-      <link>https://armenpress.am/hy/article/1258599</link>
-      <description>16:47ՏնտեսությունՀՀ ԿԲ. թանկարժեք մետաղների գներ և փոխարժեքներ - 21/08/26 - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258599</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/21/WYzTDqTHSUNRVqSHEXCTVPBH77VuRyayzy4PCHu7.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 21 Aug 2026 13:35:51 -0000</pubDate>
-    </item>
-    <item>
-      <title>16:45ՏնտեսությունԱսիական ինդեքսներ - 21/08/26</title>
-      <link>https://armenpress.am/hy/article/1258598</link>
-      <description>16:45ՏնտեսությունԱսիական ինդեքսներ - 21/08/26 - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258598</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/21/G34ljy0bhOCybZ8vdL1Lt0JB97bQfflwr2uRMxHH.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 21 Aug 2026 13:33:51 -0000</pubDate>
-    </item>
-    <item>
-      <title>16:35Իրավունք2 կիլոգրամից ավելի կրիստալ տեսակի թմրամիջոց է հայտնաբերվել</title>
-      <link>https://armenpress.am/hy/article/1258597</link>
-      <description>16:35Իրավունք2 կիլոգրամից ավելի կրիստալ տեսակի թմրամիջոց է հայտնաբերվել - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258597</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/21/uJroQysHn9SmffsaXVSqLEIOJC0r1jzhZ3Pa7veX.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 21 Aug 2026 13:31:51 -0000</pubDate>
-    </item>
-    <item>
-      <title>16:32ՏեսանյութԱԺ նիստ. 21/08/2026</title>
-      <link>https://armenpress.am/hy/article/1258596</link>
-      <description>16:32ՏեսանյութԱԺ նիստ. 21/08/2026 - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258596</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/21/96FdkcIuEWGroHI9I3Snq3sB7KtuRIlCw45Njzus.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 21 Aug 2026 13:29:51 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 14:26:45 -0000</pubDate>
     </item>
   </channel>
 </rss>
