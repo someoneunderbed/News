@@ -5,19 +5,19 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Mon, 24 Aug 2026 09:56:50 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 10:46:14 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
       <link>https://armenpress.am/hy/articles</link>
     </image>
     <item>
-      <title>Երևան33 °C</title>
+      <title>Երևան34 °C</title>
       <link>https://armenpress.am/hy/articles/weather</link>
-      <description>Երևան33 °C - Read on armenpress.am.</description>
+      <description>Երևան34 °C - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
       <enclosure url="https://armenpress.am/assets/weather/01d.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 24 Aug 2026 09:56:50 -0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 10:46:14 -0000</pubDate>
     </item>
     <item>
       <title>USD / AMD365.16</title>
@@ -25,28 +25,84 @@
       <description>USD / AMD365.16 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 24 Aug 2026 09:54:50 -0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 10:44:14 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
       <link>https://armenpress.am/hy/articles/fact-check</link>
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Mon, 24 Aug 2026 09:52:50 -0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 10:42:14 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
       <link>https://armenpress.am/hy/articles/projects</link>
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Mon, 24 Aug 2026 09:50:50 -0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 10:40:14 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://armenpress.am/hy/articles/interviews</link>
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Mon, 24 Aug 2026 09:48:50 -0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 10:38:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>14:39ՀայաստանՓաշինյանը կոչ է արել վերջ տալ Հայոց ցեղասպանության զենքայնացման գործընթացին</title>
+      <link>https://armenpress.am/hy/article/1258726</link>
+      <description>14:39ՀայաստանՓաշինյանը կոչ է արել վերջ տալ Հայոց ցեղասպանության զենքայնացման գործընթացին - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258726</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/24/SgPRV9q1g3oB44WQndPCJrLoagbUB6STRUgv0BO1.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 24 Aug 2026 10:36:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>14:20ՔաղաքականությունՀԱՊԿ-ի նկատմամբ հետաքրքրությունը սպառված է, գոհ կլինեմ, եթե մեզ հեռացնեն կազմակերպությունից. վարչապետ</title>
+      <link>https://armenpress.am/hy/article/1258725</link>
+      <description>14:20ՔաղաքականությունՀԱՊԿ-ի նկատմամբ հետաքրքրությունը սպառված է, գոհ կլինեմ, եթե մեզ հեռացնեն կազմակերպությունից. վարչապետ - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258725</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/24/pKpQoFmqYHhq6OMxfnJLs92LoTqWkt1GhhbyjmeZ.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 24 Aug 2026 10:34:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>14:17ՌուսաստանՈւկրաինան խաղաղություն է ցանկանում, բայց պատրաստ չէ պարզապես հանձնվել. Զելենսկի</title>
+      <link>https://armenpress.am/hy/article/1258724</link>
+      <description>14:17ՌուսաստանՈւկրաինան խաղաղություն է ցանկանում, բայց պատրաստ չէ պարզապես հանձնվել. Զելենսկի - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258724</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/24/OpZjuyxtbMrAM5T5OW65sof91kPKrgp03VXfHihi.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 24 Aug 2026 10:32:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>14:12ՏնտեսությունՀայաստանը որդեգրում է էներգետիկ անկախություն ունենալու ռազմավարություն. Փաշինյանն անդրադարձել է ՀԱԷԿ-ի շահագործման ժամկետի երկարաձգմանը</title>
+      <link>https://armenpress.am/hy/article/1258723</link>
+      <description>14:12ՏնտեսությունՀայաստանը որդեգրում է էներգետիկ անկախություն ունենալու ռազմավարություն. Փաշինյանն անդրադարձել է ՀԱԷԿ-ի շահագործման ժամկետի երկարաձգմանը - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258723</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/24/sgf0JwOzFXR7RnPAR4g58YAyeST7YO1BqdEdk641.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 24 Aug 2026 10:30:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>14:09ԱշխարհԳերմանիայի ԱԳ նախարարն ԱՄՆ պետքարտուղարին կոչ կանի ավելի ակտիվ դեր ստանձնել Ուկրաինայի հարցում</title>
+      <link>https://armenpress.am/hy/article/1258722</link>
+      <description>14:09ԱշխարհԳերմանիայի ԱԳ նախարարն ԱՄՆ պետքարտուղարին կոչ կանի ավելի ակտիվ դեր ստանձնել Ուկրաինայի հարցում - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258722</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/24/eeTLW9xBf7KOYx1GBDLqJ7wExoacljH3aLFTyNAL.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 24 Aug 2026 10:28:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>14:00ՔաղաքականությունՎարչապետը շնորհավորական ուղերձ է հղել Ուկրաինայի նախագահին</title>
+      <link>https://armenpress.am/hy/article/1258721</link>
+      <description>14:00ՔաղաքականությունՎարչապետը շնորհավորական ուղերձ է հղել Ուկրաինայի նախագահին - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258721</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/24/oOniyRTaoCSvbBPcU3ilp0wnBm33NbtnKxk8k9kH.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 24 Aug 2026 10:26:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>13:56ԲանակՄեզ ռադիկալ քայլեր են պետք. վարչապետը խորը մտահոգություն է արտահայտել բանակում մահվան դեպքերի առնչությամբ</title>
+      <link>https://armenpress.am/hy/article/1258719</link>
+      <description>13:56ԲանակՄեզ ռադիկալ քայլեր են պետք. վարչապետը խորը մտահոգություն է արտահայտել բանակում մահվան դեպքերի առնչությամբ - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258719</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/24/RrJK24biYZrqCKFvydJJqhbRUXW6BWiCPC3rVQ1o.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 24 Aug 2026 10:24:14 -0000</pubDate>
     </item>
     <item>
       <title>13:40ՄարզերՍևան համայնքի այգիներն ու խաղահրապարակները համալրվում են նոր խաղամիջոցներով</title>
@@ -54,7 +110,7 @@
       <description>13:40ՄարզերՍևան համայնքի այգիներն ու խաղահրապարակները համալրվում են նոր խաղամիջոցներով - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258718</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/24/fRZs7OTQQmwGqW5lbQ7UY5ssIAuBhJ1RcwGAn3AP.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 24 Aug 2026 09:46:50 -0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 10:22:14 -0000</pubDate>
     </item>
     <item>
       <title>13:37ԵվրոպաԵՄ-ն ևս 6,1 միլիարդ եվրո կհատկացնի Ուկրաինայի պաշտպանության համար</title>
@@ -62,7 +118,7 @@
       <description>13:37ԵվրոպաԵՄ-ն ևս 6,1 միլիարդ եվրո կհատկացնի Ուկրաինայի պաշտպանության համար - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258717</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/24/oYCoStfzNMPo08NNTelfjgrAe2d6pNMRV7souop8.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 24 Aug 2026 09:44:50 -0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 10:20:14 -0000</pubDate>
     </item>
     <item>
       <title>13:33ՄարզերՄարտունի քաղաքի գերեզմանոցի տարածքում հիմնանորոգվում է 1,6 կմ ճանապարհ</title>
@@ -70,7 +126,7 @@
       <description>13:33ՄարզերՄարտունի քաղաքի գերեզմանոցի տարածքում հիմնանորոգվում է 1,6 կմ ճանապարհ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258716</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/24/KKxtkVy5R7AeqRZRCcZIRF4gPCdS9SO8WgBllvdg.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 24 Aug 2026 09:42:50 -0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 10:18:14 -0000</pubDate>
     </item>
     <item>
       <title>13:26ՔաղաքականությունՎարչապետը Հայաստան-Ադրբեջան հաստատված խաղաղությունը հարատև դարձնելու համար կարևոր է համարում սոցիալ-հոգեբանական բաղադրիչը</title>
@@ -78,7 +134,7 @@
       <description>13:26ՔաղաքականությունՎարչապետը Հայաստան-Ադրբեջան հաստատված խաղաղությունը հարատև դարձնելու համար կարևոր է համարում սոցիալ-հոգեբանական բաղադրիչը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258715</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/24/BfRUQcZVz1cXlhpSdQAEFNYBKledzueuhwKqjJQD.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 24 Aug 2026 09:40:50 -0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 10:16:14 -0000</pubDate>
     </item>
     <item>
       <title>13:19ՔաղաքականությունԵրևանը կարևորում է Կիևի հետ աճող կապերը. ԱԳՆ-ն շնորհավորել է Ուկրաինային անկախության օրվա առթիվ</title>
@@ -86,7 +142,7 @@
       <description>13:19ՔաղաքականությունԵրևանը կարևորում է Կիևի հետ աճող կապերը. ԱԳՆ-ն շնորհավորել է Ուկրաինային անկախության օրվա առթիվ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258714</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/24/QXIiBFvs8S43wqfhCp4wKFbNysv3uuOmu5mgaCxE.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 24 Aug 2026 09:38:50 -0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 10:14:14 -0000</pubDate>
     </item>
     <item>
       <title>13:11ՔաղաքականությունՀավասարակշռված և հավասարակշռման արտաքին քաղաքականության շնորհիվ կայունացվել է Հայաստանի արտաքին միջավայրը. վարչապետ</title>
@@ -94,7 +150,7 @@
       <description>13:11ՔաղաքականությունՀավասարակշռված և հավասարակշռման արտաքին քաղաքականության շնորհիվ կայունացվել է Հայաստանի արտաքին միջավայրը. վարչապետ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258713</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/24/r0XHTvNBELoJrV6php0wWFEtjpd8ozLlQwKMgmy7.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 24 Aug 2026 09:36:50 -0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 10:12:14 -0000</pubDate>
     </item>
     <item>
       <title>13:03ՍփյուռքՀայաստանցի երեխաներին այլևս չի թույլատրվի սովորել Ստամբուլի հայկական դպրոցներում. պոլսահայ համայնքը լուծումներ է փնտրում</title>
@@ -102,7 +158,7 @@
       <description>13:03ՍփյուռքՀայաստանցի երեխաներին այլևս չի թույլատրվի սովորել Ստամբուլի հայկական դպրոցներում. պոլսահայ համայնքը լուծումներ է փնտրում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258712</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/24/VgpUugVGXdxBrht19mknF7eoROAiuFWYGxkib075.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 24 Aug 2026 09:34:50 -0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 10:10:14 -0000</pubDate>
     </item>
     <item>
       <title>13:02ՔաղաքականությունՀայաստանն առաջիկայում ԵՄ-ին անդամակցելու պաշտոնական դիմում ներկայացնելու գործընթաց կսկսի</title>
@@ -110,63 +166,7 @@
       <description>13:02ՔաղաքականությունՀայաստանն առաջիկայում ԵՄ-ին անդամակցելու պաշտոնական դիմում ներկայացնելու գործընթաց կսկսի - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258711</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/24/T0u1uxpLyxGqBx3tHri6C4xM3vBfFYpARh2MKqnr.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 24 Aug 2026 09:32:50 -0000</pubDate>
-    </item>
-    <item>
-      <title>12:56ՀայաստանՀանուն մեր երեխաների՝ պարտավոր ենք բռնությունը ճանաչել, այլևս չհանդուրժել մեր ընտանիքներում. Աննա Հակոբյանը տեսանյութով անդրադարձել է ընտանեկան բռնության ազդեցությանը երեխաների վրա</title>
-      <link>https://armenpress.am/hy/article/1258710</link>
-      <description>12:56ՀայաստանՀանուն մեր երեխաների՝ պարտավոր ենք բռնությունը ճանաչել, այլևս չհանդուրժել մեր ընտանիքներում. Աննա Հակոբյանը տեսանյութով անդրադարձել է ընտանեկան բռնության ազդեցությանը երեխաների վրա - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258710</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/24/HuPWl1WOSMVixGswdH0pv3WaTyka6I1QvjNA1ikE.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 24 Aug 2026 09:30:50 -0000</pubDate>
-    </item>
-    <item>
-      <title>12:43ՔաղաքականությունԵՄ-ի հետ Հայաստանի մերձեցումը որոշակի մտավախություններ է առաջացրել ՌԴ-ում, բայց դրա խորքային պատճառն այլ է. Փաշինյան</title>
-      <link>https://armenpress.am/hy/article/1258707</link>
-      <description>12:43ՔաղաքականությունԵՄ-ի հետ Հայաստանի մերձեցումը որոշակի մտավախություններ է առաջացրել ՌԴ-ում, բայց դրա խորքային պատճառն այլ է. Փաշինյան - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258707</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/24/ANckas6Fqvwa5SKDQdYQslOhS7CFzoy0Ha5LAUGx.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 24 Aug 2026 09:28:50 -0000</pubDate>
-    </item>
-    <item>
-      <title>12:43Մերձավոր ԱրևելքՄակրոնը հյուընկալել է Սաուդյան Արաբիայի թագաժառանգին</title>
-      <link>https://armenpress.am/hy/article/1258708</link>
-      <description>12:43Մերձավոր ԱրևելքՄակրոնը հյուընկալել է Սաուդյան Արաբիայի թագաժառանգին - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258708</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/24/THmkL1n6hi6jAShqMblPd0ubGzv4QzDWX3TT5TyY.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 24 Aug 2026 09:26:50 -0000</pubDate>
-    </item>
-    <item>
-      <title>12:40Մերձավոր ԱրևելքՄոսկվան պատրաստ է միջնորդել Իրանի շուրջ հակամարտության կարգավորման հարցում. ՌԴ ԱԳՆ</title>
-      <link>https://armenpress.am/hy/article/1258706</link>
-      <description>12:40Մերձավոր ԱրևելքՄոսկվան պատրաստ է միջնորդել Իրանի շուրջ հակամարտության կարգավորման հարցում. ՌԴ ԱԳՆ - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258706</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/24/H1AWdHXoOxpEvMan3Y40VES4pw7A9oDhHUUQxuHm.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 24 Aug 2026 09:24:50 -0000</pubDate>
-    </item>
-    <item>
-      <title>12:31ՔաղաքականությունՓաշինյանը պարզաբանել է, թե ինչու է ժամանակին արել «Արցախը Հայաստան է, և վերջ» հայտարարությունը</title>
-      <link>https://armenpress.am/hy/article/1258705</link>
-      <description>12:31ՔաղաքականությունՓաշինյանը պարզաբանել է, թե ինչու է ժամանակին արել «Արցախը Հայաստան է, և վերջ» հայտարարությունը - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258705</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/24/ICocZyEHwSHyf9SyY3KYZaoItxAU2VLjYhB8Bs8j.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 24 Aug 2026 09:22:50 -0000</pubDate>
-    </item>
-    <item>
-      <title>12:29ԻնովացիաԱրամ Բարսեղյանը նշանակվել է Team Telecom Armenia-ի գլխավոր տնօրեն. Հայկ Եսայանը կղեկավարի Team ընկերությունների խումբը</title>
-      <link>https://armenpress.am/hy/article/1258704</link>
-      <description>12:29ԻնովացիաԱրամ Բարսեղյանը նշանակվել է Team Telecom Armenia-ի գլխավոր տնօրեն. Հայկ Եսայանը կղեկավարի Team ընկերությունների խումբը - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258704</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/24/EW1tOtmJR5U4nmHsjvtKf2cLzmr36Bom6uIZ75SD.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 24 Aug 2026 09:20:50 -0000</pubDate>
-    </item>
-    <item>
-      <title>12:24ԱշխարհՆոր Զելանդիան կներկայացնի մինչև 16 տարեկան երեխաների կողմից սոցցանցերից օգտվելն արգելող օրինագիծ</title>
-      <link>https://armenpress.am/hy/article/1258703</link>
-      <description>12:24ԱշխարհՆոր Զելանդիան կներկայացնի մինչև 16 տարեկան երեխաների կողմից սոցցանցերից օգտվելն արգելող օրինագիծ - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258703</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/24/8CpKz3EfyIJ4obw8QOFVYI5whHFqrQjQnuhtzGNe.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 24 Aug 2026 09:18:50 -0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 10:08:14 -0000</pubDate>
     </item>
   </channel>
 </rss>
