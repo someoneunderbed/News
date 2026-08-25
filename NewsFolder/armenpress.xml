@@ -5,7 +5,7 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Tue, 25 Aug 2026 11:56:17 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 13:03:10 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
@@ -16,37 +16,109 @@
       <link>https://armenpress.am/hy/articles/weather</link>
       <description>Երևան34 °C - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
-      <enclosure url="https://armenpress.am/assets/weather/01d.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 25 Aug 2026 11:56:17 -0000</pubDate>
+      <enclosure url="https://armenpress.am/assets/weather/02d.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 25 Aug 2026 13:03:10 -0000</pubDate>
     </item>
     <item>
-      <title>USD / AMD365.38</title>
+      <title>USD / AMD364.6</title>
       <link>https://armenpress.am/hy/articles/economy</link>
-      <description>USD / AMD365.38 - Read on armenpress.am.</description>
+      <description>USD / AMD364.6 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 25 Aug 2026 11:54:17 -0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 13:01:10 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
       <link>https://armenpress.am/hy/articles/fact-check</link>
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Tue, 25 Aug 2026 11:52:17 -0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 12:59:10 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
       <link>https://armenpress.am/hy/articles/projects</link>
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Tue, 25 Aug 2026 11:50:17 -0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 12:57:10 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://armenpress.am/hy/articles/interviews</link>
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Tue, 25 Aug 2026 11:48:17 -0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 12:55:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>16:51ՀայաստանՍԱՏՄ-ն կասեցրել է «Լոռի» ապրանքանիշի որոշ ոչ ալկոհոլային ըմպելիքների արտադրությունը. «Կորպուս Գաստրոբար»-ում էլ խախտումները վերացվել են</title>
+      <link>https://armenpress.am/hy/article/1258837</link>
+      <description>16:51ՀայաստանՍԱՏՄ-ն կասեցրել է «Լոռի» ապրանքանիշի որոշ ոչ ալկոհոլային ըմպելիքների արտադրությունը. «Կորպուս Գաստրոբար»-ում էլ խախտումները վերացվել են - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258837</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/Mn2ccfpWF63hEDgPS8Qdyt92xuxBtiN1l8E0898B.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 25 Aug 2026 12:53:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>16:47ՀՀ նախագահԿարևորում ենք Ուրուգվայի հետ բարեկամական հարաբերությունների շարունակական զարգացումը. ՀՀ նախագահի շնորհավորանքը</title>
+      <link>https://armenpress.am/hy/article/1258836</link>
+      <description>16:47ՀՀ նախագահԿարևորում ենք Ուրուգվայի հետ բարեկամական հարաբերությունների շարունակական զարգացումը. ՀՀ նախագահի շնորհավորանքը - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258836</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/aOHzlP0vPWkcB7pYmm1KDLlfhP8CGbdewL2J2hsb.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 25 Aug 2026 12:51:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>16:45ԵվրոպաԿիևը չի կարող Patriot ՀՕՊ համակարգի հրթիռներ գնել ԱՄՆ-ից ԵՄ-ի հատկացրած 6,1 միլիարդ եվրոյով</title>
+      <link>https://armenpress.am/hy/article/1258835</link>
+      <description>16:45ԵվրոպաԿիևը չի կարող Patriot ՀՕՊ համակարգի հրթիռներ գնել ԱՄՆ-ից ԵՄ-ի հատկացրած 6,1 միլիարդ եվրոյով - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258835</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/Yqyy2SQ2hVHqPBgKpiEBSFMVBRr1OyN9Z0gUvn1X.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 25 Aug 2026 12:49:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>16:43ՏնտեսությունՀայաստանում տնտեսական ակտիվությունը հուլիսին աճել է 6.5 տոկոսով</title>
+      <link>https://armenpress.am/hy/article/1258834</link>
+      <description>16:43ՏնտեսությունՀայաստանում տնտեսական ակտիվությունը հուլիսին աճել է 6.5 տոկոսով - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258834</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/luyR4bMoJ8N0A9e3iVukz9Hn7omAfkycxldSn1AC.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 25 Aug 2026 12:47:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>16:40ՔաղաքականությունՈւկրաինան ողջունում է Եվրոպայի հետ ավելի սերտ կապեր ունենալու Հայաստանի ընտրությունը. Զելենսկի</title>
+      <link>https://armenpress.am/hy/article/1258833</link>
+      <description>16:40ՔաղաքականությունՈւկրաինան ողջունում է Եվրոպայի հետ ավելի սերտ կապեր ունենալու Հայաստանի ընտրությունը. Զելենսկի - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258833</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/hujzMnJ6GC28w9EP4x99omZoDSwgs2AYWurMF8MA.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 25 Aug 2026 12:45:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>16:35ՔաղաքականությունԱզգային ժողովը հաստատեց կառավարության ծրագիրը</title>
+      <link>https://armenpress.am/hy/article/1258832</link>
+      <description>16:35ՔաղաքականությունԱզգային ժողովը հաստատեց կառավարության ծրագիրը - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258832</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/U30HT3wbfeca4x233AWiBzj7LUsiv06EU9Dsj1Me.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 25 Aug 2026 12:43:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>16:34Միացյալ ՆահանգներԹրամփը հայտարարել է, որ մտածում է Օնտարիո լիճը Ամերիկա լիճ վերանվանելու մասին</title>
+      <link>https://armenpress.am/hy/article/1258831</link>
+      <description>16:34Միացյալ ՆահանգներԹրամփը հայտարարել է, որ մտածում է Օնտարիո լիճը Ամերիկա լիճ վերանվանելու մասին - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258831</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/aIGFKz2llvRfLyrfbC3s7s3l3fqr5vChY1Il4cYc.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 25 Aug 2026 12:41:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>ՏեսանյութԱԺ նիստ. 25/08/26</title>
+      <link>https://armenpress.am/hy/article/1258830</link>
+      <description>ՏեսանյութԱԺ նիստ. 25/08/26 - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258830</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/uwdc5bwS2wUfDZvgcBslVvfuIr0OErVhnIpSBX40.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 25 Aug 2026 12:39:10 -0000</pubDate>
+    </item>
+    <item>
+      <title>16:02ԵվրոպաՎատիկանը պատրաստ է օգնել Ուկրաինայում խաղաղության հասնելու հարցում. կայացել է Լավրով-Գալագեր հանդիպումը</title>
+      <link>https://armenpress.am/hy/article/1258829</link>
+      <description>16:02ԵվրոպաՎատիկանը պատրաստ է օգնել Ուկրաինայում խաղաղության հասնելու հարցում. կայացել է Լավրով-Գալագեր հանդիպումը - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258829</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/pDtOwZfpzBQzulCXftnKMqklXtx9HzDS8lYYeRQW.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 25 Aug 2026 12:37:10 -0000</pubDate>
     </item>
     <item>
       <title>15:54ԻրավունքՔԿ-ն հայտնում է պետությանը պատճառված շուրջ 2.6 մլրդ դրամի վնասի մասին. Ռոբերտ Քոչարյանի հետ փոխկապակցված ընկերությունների տնօրեններ են ձերբակալվել</title>
@@ -54,7 +126,7 @@
       <description>15:54ԻրավունքՔԿ-ն հայտնում է պետությանը պատճառված շուրջ 2.6 մլրդ դրամի վնասի մասին. Ռոբերտ Քոչարյանի հետ փոխկապակցված ընկերությունների տնօրեններ են ձերբակալվել - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258828</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/pCdr6powygrzqmIhXWzkEOIn4pPdtpqcGaIWKgVO.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 25 Aug 2026 11:46:17 -0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 12:35:10 -0000</pubDate>
     </item>
     <item>
       <title>15:50ԻրավունքՍերժ Սարգսյանը հեռացել է Հակակոռուպցիոն կոմիտեից</title>
@@ -62,7 +134,7 @@
       <description>15:50ԻրավունքՍերժ Սարգսյանը հեռացել է Հակակոռուպցիոն կոմիտեից - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258827</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/FLJ8osTyCADDHmjDIxwSSVV0C5NLwiQhvqj6CDKG.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 25 Aug 2026 11:44:17 -0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 12:33:10 -0000</pubDate>
     </item>
     <item>
       <title>15:47ԻրանՉինաստանը հայտարարել է, որ կպաշտպանի իր իրավունքները՝ Իրանի դեմ ԱՄՆ տնտեսական ճնշման ֆոնին</title>
@@ -70,7 +142,7 @@
       <description>15:47ԻրանՉինաստանը հայտարարել է, որ կպաշտպանի իր իրավունքները՝ Իրանի դեմ ԱՄՆ տնտեսական ճնշման ֆոնին - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258826</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/vsy9m7OgU2UO7ixYsBRHIyOF3WOwTBTkAyO7uTZY.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 25 Aug 2026 11:42:17 -0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 12:31:10 -0000</pubDate>
     </item>
     <item>
       <title>15:40Միացյալ ՆահանգներԶելենսկին շնորհակալություն է հայտնել Թրամփին աջակցության համար</title>
@@ -78,7 +150,7 @@
       <description>15:40Միացյալ ՆահանգներԶելենսկին շնորհակալություն է հայտնել Թրամփին աջակցության համար - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258823</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/XbUGf3IPqgtLAp4eO7HULnAtzS33VNILrw4bT0l8.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 25 Aug 2026 11:40:17 -0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 12:29:10 -0000</pubDate>
     </item>
     <item>
       <title>15:39ՀայաստանՓաշինյանը հայտարարել է, որ պատրաստ է Գարեգին Բ-ի հետ քննարկել Հայ Առաքելական Եկեղեցու բարենորոգման օրակարգը</title>
@@ -86,7 +158,7 @@
       <description>15:39ՀայաստանՓաշինյանը հայտարարել է, որ պատրաստ է Գարեգին Բ-ի հետ քննարկել Հայ Առաքելական Եկեղեցու բարենորոգման օրակարգը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258824</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/aLSuFAsdZ7lepxdMWlaDB5CIcHFEcXkccMPZGpwh.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 25 Aug 2026 11:38:17 -0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 12:27:10 -0000</pubDate>
     </item>
     <item>
       <title>15:38ՔաղաքականությունԱլեն Սիմոնյանն ընդունել է Հայաստանում Ռուսաստանի դեսպանին</title>
@@ -94,79 +166,7 @@
       <description>15:38ՔաղաքականությունԱլեն Սիմոնյանն ընդունել է Հայաստանում Ռուսաստանի դեսպանին - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258825</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/r1HUpwLtGIn0udmIgLzc8GUYaa37QLMqjHeaMm0M.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 25 Aug 2026 11:36:17 -0000</pubDate>
-    </item>
-    <item>
-      <title>15:19ՀայաստանՆԳՆ շրջիկ սպասարկման գրասենյակները ծառայություններ կմատուցեն Լոռու և Արագածոտնի մարզերում</title>
-      <link>https://armenpress.am/hy/article/1258822</link>
-      <description>15:19ՀայաստանՆԳՆ շրջիկ սպասարկման գրասենյակները ծառայություններ կմատուցեն Լոռու և Արագածոտնի մարզերում - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258822</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/i2GeHejv6uRfj8IO6TMtkzSmRZW4f96e54wi2cA8.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 25 Aug 2026 11:34:17 -0000</pubDate>
-    </item>
-    <item>
-      <title>15:11ՏնտեսությունՀայաստանն ու Ադրբեջանը քննարկել են միմյանց միջև էլեկտրաէներգիայի ներմուծման և արտահանման հնարավորությունները</title>
-      <link>https://armenpress.am/hy/article/1258821</link>
-      <description>15:11ՏնտեսությունՀայաստանն ու Ադրբեջանը քննարկել են միմյանց միջև էլեկտրաէներգիայի ներմուծման և արտահանման հնարավորությունները - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258821</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/yZaCN8cSpj5HTcBvkpy74S90Iv54RH0QYVUBQhKg.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 25 Aug 2026 11:32:17 -0000</pubDate>
-    </item>
-    <item>
-      <title>15:10ԱշխարհԳուտերեշը Խաղաղության խորհուրդը ՄԱԿ-ի մրցակից չի համարում</title>
-      <link>https://armenpress.am/hy/article/1258819</link>
-      <description>15:10ԱշխարհԳուտերեշը Խաղաղության խորհուրդը ՄԱԿ-ի մրցակից չի համարում - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258819</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/GgnAPZnIcI518pO4iIWEI5Jdq1Tb01doUDlzO30S.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 25 Aug 2026 11:30:17 -0000</pubDate>
-    </item>
-    <item>
-      <title>15:10ՀայաստանՀայաստանում 2026 թվականի առաջին կիսամյակում օտարերկրացիներին տրամադրվել է 10 561 կացության կարգավիճակ</title>
-      <link>https://armenpress.am/hy/article/1258820</link>
-      <description>15:10ՀայաստանՀայաստանում 2026 թվականի առաջին կիսամյակում օտարերկրացիներին տրամադրվել է 10 561 կացության կարգավիճակ - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258820</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/yQCrNbryNfMZOEX4iXgR5XvJKgzx0I14FzisF5vj.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 25 Aug 2026 11:28:17 -0000</pubDate>
-    </item>
-    <item>
-      <title>14:58ԹուրքիաՊոլսահայ համայնքում քննարկել են հայկական վարժարաններում հայաստանցի աշակերտների կրթության արգելքի հարցը</title>
-      <link>https://armenpress.am/hy/article/1258817</link>
-      <description>14:58ԹուրքիաՊոլսահայ համայնքում քննարկել են հայկական վարժարաններում հայաստանցի աշակերտների կրթության արգելքի հարցը - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258817</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/sCDj6WoqgQfQFKWfnmmTI71vmxtDCxIcHKoGNbWw.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 25 Aug 2026 11:26:17 -0000</pubDate>
-    </item>
-    <item>
-      <title>14:51ԻրավունքԴատախազը հանրային քրեական հետապնդում է հարուցել Ռոբերտ Քոչարյանին փոխկապակցված ընկերությունների տնօրենների նկատմամբ</title>
-      <link>https://armenpress.am/hy/article/1258818</link>
-      <description>14:51ԻրավունքԴատախազը հանրային քրեական հետապնդում է հարուցել Ռոբերտ Քոչարյանին փոխկապակցված ընկերությունների տնօրենների նկատմամբ - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258818</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/cfsJRM01bZRMtCx7b0giaocloJe9WUfKbdP94qKN.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 25 Aug 2026 11:24:17 -0000</pubDate>
-    </item>
-    <item>
-      <title>14:19ՏնտեսությունՊապոյանն ու Շիրղոլամին քննարկել են հայ-իրանական տնտեսական համագործակցության զարգացմանը վերաբերող հարցեր</title>
-      <link>https://armenpress.am/hy/article/1258816</link>
-      <description>14:19ՏնտեսությունՊապոյանն ու Շիրղոլամին քննարկել են հայ-իրանական տնտեսական համագործակցության զարգացմանը վերաբերող հարցեր - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258816</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/EIhYQiWfCKfalEdtGmJZRSUaXwmOdL7rGLEp2YpC.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 25 Aug 2026 11:22:17 -0000</pubDate>
-    </item>
-    <item>
-      <title>14:17ԻրավունքՍերժ Սարգսյանը ժամանել է Հակակոռուպցիոն կոմիտե</title>
-      <link>https://armenpress.am/hy/article/1258815</link>
-      <description>14:17ԻրավունքՍերժ Սարգսյանը ժամանել է Հակակոռուպցիոն կոմիտե - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258815</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/nfT1IceKnh75WSxt0vH58in3Hze5s2jwAcma8KHw.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 25 Aug 2026 11:20:17 -0000</pubDate>
-    </item>
-    <item>
-      <title>14:03ՌուսաստանՌուսաստանում և Ուկրաինայում նոր փոխադարձ հարվածների հետևանքով կան զոհեր և վիրավորներ</title>
-      <link>https://armenpress.am/hy/article/1258814</link>
-      <description>14:03ՌուսաստանՌուսաստանում և Ուկրաինայում նոր փոխադարձ հարվածների հետևանքով կան զոհեր և վիրավորներ - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258814</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/25/liWXtVdo8UxpZxkOkOneLCXkf3jsnDsXt8wpxjOd.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 25 Aug 2026 11:18:17 -0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 12:25:10 -0000</pubDate>
     </item>
   </channel>
 </rss>
