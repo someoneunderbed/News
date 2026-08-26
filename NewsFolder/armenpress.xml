@@ -5,7 +5,7 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Wed, 26 Aug 2026 10:07:44 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 11:03:27 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
@@ -17,7 +17,7 @@
       <description>Երևան33 °C - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
       <enclosure url="https://armenpress.am/assets/weather/01d.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 26 Aug 2026 10:07:44 -0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 11:03:27 -0000</pubDate>
     </item>
     <item>
       <title>USD / AMD364.6</title>
@@ -25,28 +25,76 @@
       <description>USD / AMD364.6 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 26 Aug 2026 10:05:44 -0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 11:01:27 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
       <link>https://armenpress.am/hy/articles/fact-check</link>
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Wed, 26 Aug 2026 10:03:44 -0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 10:59:27 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
       <link>https://armenpress.am/hy/articles/projects</link>
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Wed, 26 Aug 2026 10:01:44 -0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 10:57:27 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://armenpress.am/hy/articles/interviews</link>
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Wed, 26 Aug 2026 09:59:44 -0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 10:55:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>14:56ԱշխարհՆեպալում ջրհեղեղից հետո հարյուրավոր զբոսաշրջիկներ անհետ կորած են համարվում</title>
+      <link>https://armenpress.am/hy/article/1258919</link>
+      <description>14:56ԱշխարհՆեպալում ջրհեղեղից հետո հարյուրավոր զբոսաշրջիկներ անհետ կորած են համարվում - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258919</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/26/Dsh2GQkIEbssp9XLHlhpcGlTNHWQDs8DqEdcx0E4.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Wed, 26 Aug 2026 10:53:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>14:40ԵվրոպաՌումինիայի գործերի ժամանակավոր հավատարմատարը կանչվել է Ռուսաստանի ԱԳՆ</title>
+      <link>https://armenpress.am/hy/article/1258918</link>
+      <description>14:40ԵվրոպաՌումինիայի գործերի ժամանակավոր հավատարմատարը կանչվել է Ռուսաստանի ԱԳՆ - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258918</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/26/Osk2OjnPgvmHDgn6X5OgvHefJnXF8lExhjjUONLr.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Wed, 26 Aug 2026 10:51:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>14:33Մերձավոր ԱրևելքԳազայի հատվածում իսրայելական հարձակումներից վերջին մեկ օրում գրանցվել է յոթ զոհ և 10 վիրավոր</title>
+      <link>https://armenpress.am/hy/article/1258916</link>
+      <description>14:33Մերձավոր ԱրևելքԳազայի հատվածում իսրայելական հարձակումներից վերջին մեկ օրում գրանցվել է յոթ զոհ և 10 վիրավոր - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258916</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/26/btZEXMvjN8EnXygvqtjeihF09Q9ca80QAFwJRBTv.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Wed, 26 Aug 2026 10:49:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>14:29ՔաղաքականությունՄոսկվան Արևմուտքին մեղադրում է Հայաստանի երկաթուղային ցանցի կոնցեսիայի հարցում Երևանին «շանտաժի ենթարկելու» մեջ</title>
+      <link>https://armenpress.am/hy/article/1258915</link>
+      <description>14:29ՔաղաքականությունՄոսկվան Արևմուտքին մեղադրում է Հայաստանի երկաթուղային ցանցի կոնցեսիայի հարցում Երևանին «շանտաժի ենթարկելու» մեջ - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258915</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/26/Uu8xCnuty1X3LKycggQ3yT5ncFemw2qTuv1Tc173.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Wed, 26 Aug 2026 10:47:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>14:28ՍփյուռքՀայաստանցի երեխաները կշարունակեն «հյուր-աշակերտի» կարգավիճակով սովորել Թուրքիայի հայկական դպրոցներում. հայ պատգամավորը պարզաբանումներ է ստացել նախարարից</title>
+      <link>https://armenpress.am/hy/article/1258914</link>
+      <description>14:28ՍփյուռքՀայաստանցի երեխաները կշարունակեն «հյուր-աշակերտի» կարգավիճակով սովորել Թուրքիայի հայկական դպրոցներում. հայ պատգամավորը պարզաբանումներ է ստացել նախարարից - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258914</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/26/IXpjZ8gt3JY6GQwAFGFa2anmA2jojAwq8PsAAuOo.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Wed, 26 Aug 2026 10:45:27 -0000</pubDate>
+    </item>
+    <item>
+      <title>14:24ՏնտեսությունԱրագածոտնի մարզում լոլիկի գերժամանակակից ջերմոցային համալիր է բացվել</title>
+      <link>https://armenpress.am/hy/article/1258913</link>
+      <description>14:24ՏնտեսությունԱրագածոտնի մարզում լոլիկի գերժամանակակից ջերմոցային համալիր է բացվել - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1258913</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/26/OHIjW0CwBiBLbFn5q2NPv5UfmOTDC5PgCVwi1MmE.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Wed, 26 Aug 2026 10:43:27 -0000</pubDate>
     </item>
     <item>
       <title>14:05ԱշխարհՏոկիոյում կողոպտիչները խանութից ավելի քան մեկ միլիոն դոլարի ժամացույց են գողացել</title>
@@ -54,7 +102,7 @@
       <description>14:05ԱշխարհՏոկիոյում կողոպտիչները խանութից ավելի քան մեկ միլիոն դոլարի ժամացույց են գողացել - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258911</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/26/ezGaQ1wu4Meo0JrDvOcgBJs5Q6kLpRgLNzPgFJTT.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 26 Aug 2026 09:57:44 -0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 10:41:27 -0000</pubDate>
     </item>
     <item>
       <title>14:03ՄշակույթԴիլիջանում կանցկացվի «Արվեստների և արհեստների» համահայկական փառատոնը</title>
@@ -62,15 +110,15 @@
       <description>14:03ՄշակույթԴիլիջանում կանցկացվի «Արվեստների և արհեստների» համահայկական փառատոնը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258910</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/26/fvhkBGZ9GwgsS5ovUwGx0H5uf9tkZMklLDdhiwFP.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 26 Aug 2026 09:55:44 -0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 10:39:27 -0000</pubDate>
     </item>
     <item>
       <title>ՏեսանյութՍպորտային մարմնամարզության Եվրոպայի առաջնության արդյունքների ամփոփում</title>
       <link>https://armenpress.am/hy/article/1258912</link>
       <description>ՏեսանյութՍպորտային մարմնամարզության Եվրոպայի առաջնության արդյունքների ամփոփում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258912</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/26/IoYDEXrXpUM3rqZYHKnQWOzgF2NvqcNzozlUslfp.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 26 Aug 2026 09:53:44 -0000</pubDate>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/26/pEtbeBGqo8bT4Rlri1N2HlDEAOB92QNn3ZHZy4Lw.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Wed, 26 Aug 2026 10:37:27 -0000</pubDate>
     </item>
     <item>
       <title>13:45ՄշակույթԴեբեդում կանցկացվի «Ծիրանի ծառ» վավերագրական ֆիլմերի 12-րդ միջազգային կինոփառատոնը</title>
@@ -78,15 +126,15 @@
       <description>13:45ՄշակույթԴեբեդում կանցկացվի «Ծիրանի ծառ» վավերագրական ֆիլմերի 12-րդ միջազգային կինոփառատոնը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258909</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/26/UTi3rcxLoykWHfHFRqiqMkROPsXa0Bf597yzq6eO.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 26 Aug 2026 09:51:44 -0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 10:35:27 -0000</pubDate>
     </item>
     <item>
-      <title>13:44ՏնտեսությունՀայաստանը դիտարկում է Նիդեռլանդներ և Բենիլյուքսի երկրներ արտահանման ընդլայնման հնարավորությունները</title>
+      <title>13:44ՏնտեսությունՀայաստանը դիտարկում է Նիդեռլանդներ և Բենիլյուքսի մյուս երկրներ արտահանման ընդլայնման հնարավորությունները</title>
       <link>https://armenpress.am/hy/article/1258908</link>
-      <description>13:44ՏնտեսությունՀայաստանը դիտարկում է Նիդեռլանդներ և Բենիլյուքսի երկրներ արտահանման ընդլայնման հնարավորությունները - Read on armenpress.am.</description>
+      <description>13:44ՏնտեսությունՀայաստանը դիտարկում է Նիդեռլանդներ և Բենիլյուքսի մյուս երկրներ արտահանման ընդլայնման հնարավորությունները - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258908</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/26/QqcupGt3hx2l5fU163WvwLcJmxODYo5zCNrnUrGn.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 26 Aug 2026 09:49:44 -0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 10:33:27 -0000</pubDate>
     </item>
     <item>
       <title>13:40ԻրավունքԶինծառայողներին վրաերթի ենթարկելու գործով հանրային քրեական հետապնդում է հարուցվել ևս մեկ անձի նկատմամբ</title>
@@ -94,7 +142,7 @@
       <description>13:40ԻրավունքԶինծառայողներին վրաերթի ենթարկելու գործով հանրային քրեական հետապնդում է հարուցվել ևս մեկ անձի նկատմամբ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258907</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/26/zqJnC8W79lQA4X03SU2xo0YtX0RRU3ybf35anGUW.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 26 Aug 2026 09:47:44 -0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 10:31:27 -0000</pubDate>
     </item>
     <item>
       <title>13:20Հայաստան«ՄՈՒՇ» ապրանքանիշի կոլայի համով գազավորված ըմպելիքը չի արտադրվի</title>
@@ -102,7 +150,7 @@
       <description>13:20Հայաստան«ՄՈՒՇ» ապրանքանիշի կոլայի համով գազավորված ըմպելիքը չի արտադրվի - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258905</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/26/1wxtyv16vqVTdtyA40q1kCZ8Q1PJRbvZ8sD9HwOH.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 26 Aug 2026 09:45:44 -0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 10:29:27 -0000</pubDate>
     </item>
     <item>
       <title>13:20ՉինաստանՍի Ծինփինը Բիշքեկում կմասնակցի Շանհայի համագործակցության կազմակերպության գագաթնաժողովին</title>
@@ -110,7 +158,7 @@
       <description>13:20ՉինաստանՍի Ծինփինը Բիշքեկում կմասնակցի Շանհայի համագործակցության կազմակերպության գագաթնաժողովին - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258906</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/26/se5TWkOymffFpQ4mnrG5qeMFoaDNN00YiAva7HjN.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 26 Aug 2026 09:43:44 -0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 10:27:27 -0000</pubDate>
     </item>
     <item>
       <title>13:17ԱշխարհՃապոնիայում թայֆունի պատճառով ավելի քան 280 չվերթ է չեղարկվել</title>
@@ -118,55 +166,7 @@
       <description>13:17ԱշխարհՃապոնիայում թայֆունի պատճառով ավելի քան 280 չվերթ է չեղարկվել - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1258904</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/26/hKml0n5TgBc7fj8MAagXFZIS6cyMX8R5hSn06ejv.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 26 Aug 2026 09:41:44 -0000</pubDate>
-    </item>
-    <item>
-      <title>13:12ԱշխարհԶելենսկին «Ազատության շքանշան» է շնորհել Իլոն Մասկին</title>
-      <link>https://armenpress.am/hy/article/1258903</link>
-      <description>13:12ԱշխարհԶելենսկին «Ազատության շքանշան» է շնորհել Իլոն Մասկին - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258903</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/26/J7vm0urlfEcrOFdPf0vzOZQhOPkwXniVeAoJuiHS.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 26 Aug 2026 09:39:44 -0000</pubDate>
-    </item>
-    <item>
-      <title>13:07ԻրավունքՇիրակի մարզի Աշոցք համայնքի տիրապետմանն է վերադարձվել 2.21 հա մակերեսով 2 հողատարածք. Դատախազություն</title>
-      <link>https://armenpress.am/hy/article/1258902</link>
-      <description>13:07ԻրավունքՇիրակի մարզի Աշոցք համայնքի տիրապետմանն է վերադարձվել 2.21 հա մակերեսով 2 հողատարածք. Դատախազություն - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258902</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/26/O5UCoO95KvfbmMz9cHKuCI7lKnoFTzFCOvH0uraF.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 26 Aug 2026 09:37:44 -0000</pubDate>
-    </item>
-    <item>
-      <title>12:59ՀայաստանՆոր ուստարվա մեկնարկի առթիվ՝ դպրոցներում և հարակից տարածքներում Պարեկային ծառայությունն իրականացվելու է շրջիկ և ստացիոնար կարգախմբերով</title>
-      <link>https://armenpress.am/hy/article/1258901</link>
-      <description>12:59ՀայաստանՆոր ուստարվա մեկնարկի առթիվ՝ դպրոցներում և հարակից տարածքներում Պարեկային ծառայությունն իրականացվելու է շրջիկ և ստացիոնար կարգախմբերով - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258901</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/26/TCtNyFfAgORPlyrEcPBje5mOGosYAVY2O8IWKgbn.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 26 Aug 2026 09:35:44 -0000</pubDate>
-    </item>
-    <item>
-      <title>12:57ՄարզերԳյումրու Սայաթ-Նովա 7 հասցեում վերաբացվեց Ucom-ի վաճառքի և սպասարկման կենտրոնը</title>
-      <link>https://armenpress.am/hy/article/1258900</link>
-      <description>12:57ՄարզերԳյումրու Սայաթ-Նովա 7 հասցեում վերաբացվեց Ucom-ի վաճառքի և սպասարկման կենտրոնը - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258900</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/26/RbvzEQqHSdCa8KSTfdfIbQwxT03Oesv8eumJ3pou.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 26 Aug 2026 09:33:44 -0000</pubDate>
-    </item>
-    <item>
-      <title>12:53ՀայաստանՆոր ուսումնական տարվա մեկնարկի առթիվ՝ Ոստիկանությունը սեպտեմբերի 1-ից երկշաբաթյա ռեժիմով անցնելու է ուժեղացված ծառայության</title>
-      <link>https://armenpress.am/hy/article/1258899</link>
-      <description>12:53ՀայաստանՆոր ուսումնական տարվա մեկնարկի առթիվ՝ Ոստիկանությունը սեպտեմբերի 1-ից երկշաբաթյա ռեժիմով անցնելու է ուժեղացված ծառայության - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258899</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/26/I8QoXpWHezA4vvm0E4V2UFsvCVltj0jH1WjYhaVS.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 26 Aug 2026 09:31:44 -0000</pubDate>
-    </item>
-    <item>
-      <title>12:40Հայաստան«Ջուսինադ» լիմոնադում հայտնաբերվել է մանրէաբանական անհամապատասխանություն</title>
-      <link>https://armenpress.am/hy/article/1258898</link>
-      <description>12:40Հայաստան«Ջուսինադ» լիմոնադում հայտնաբերվել է մանրէաբանական անհամապատասխանություն - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1258898</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/26/qOs7BvBf93rs6RF7G4rqkWi4VMhvHz2N5irO6IYS.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 26 Aug 2026 09:29:44 -0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 10:25:27 -0000</pubDate>
     </item>
   </channel>
 </rss>
