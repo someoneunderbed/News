@@ -5,7 +5,7 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Thu, 27 Aug 2026 21:07:32 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 05:35:03 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
@@ -16,8 +16,8 @@
       <link>https://armenpress.am/hy/articles/weather</link>
       <description>Երևան22 °C - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
-      <enclosure url="https://armenpress.am/assets/weather/02n.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 27 Aug 2026 21:07:32 -0000</pubDate>
+      <enclosure url="https://armenpress.am/assets/weather/01d.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 28 Aug 2026 05:35:03 -0000</pubDate>
     </item>
     <item>
       <title>USD / AMD364.47</title>
@@ -25,28 +25,60 @@
       <description>USD / AMD364.47 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 27 Aug 2026 21:05:32 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 05:33:03 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
       <link>https://armenpress.am/hy/articles/fact-check</link>
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Thu, 27 Aug 2026 21:03:32 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 05:31:03 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
       <link>https://armenpress.am/hy/articles/projects</link>
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Thu, 27 Aug 2026 21:01:32 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 05:29:03 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://armenpress.am/hy/articles/interviews</link>
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Thu, 27 Aug 2026 20:59:32 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 05:27:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>09:29ՏնտեսությունԵվրոպական ինդեքսներ - 27/08/26</title>
+      <link>https://armenpress.am/hy/article/1259078</link>
+      <description>09:29ՏնտեսությունԵվրոպական ինդեքսներ - 27/08/26 - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1259078</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/27/quXUuvwys4vqsRrdrRNgCxf7Q6dTuKBFWDbOMiI2.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 28 Aug 2026 05:25:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>09:28ՏնտեսությունԱմերիկյան ինդեքսներն աճել են - 27/08/26</title>
+      <link>https://armenpress.am/hy/article/1259077</link>
+      <description>09:28ՏնտեսությունԱմերիկյան ինդեքսներն աճել են - 27/08/26 - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1259077</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/27/G1qQJhJxjeKOgVsLpODlQgPCbtwQMKGY9hhTdN5P.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 28 Aug 2026 05:23:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>09:27ՏնտեսությունNYMEX. Թանկարժեք մետաղների գներ - 27/08/26</title>
+      <link>https://armenpress.am/hy/article/1259076</link>
+      <description>09:27ՏնտեսությունNYMEX. Թանկարժեք մետաղների գներ - 27/08/26 - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1259076</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/20/o8dLQCEQ9CYHkMmUEYRsVXuuOorfUxQdLjixX7DL.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 28 Aug 2026 05:21:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>09:26ՏնտեսությունՆավթի գներն աճել են - 27/08/26</title>
+      <link>https://armenpress.am/hy/article/1259075</link>
+      <description>09:26ՏնտեսությունՆավթի գներն աճել են - 27/08/26 - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1259075</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/07/08/nZl1l7uRbHdyjjQxS7UQKgA93TjDZdD097Kr6krS.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 28 Aug 2026 05:19:03 -0000</pubDate>
     </item>
     <item>
       <title>23:23, 27 օգոստոսիՍպորտԿցանկանամ, որ Եվրոպայի լիգայում մրցենք պորտուգալական ակումբների հետ. Տուլիպա</title>
@@ -54,7 +86,7 @@
       <description>23:23, 27 օգոստոսիՍպորտԿցանկանամ, որ Եվրոպայի լիգայում մրցենք պորտուգալական ակումբների հետ. Տուլիպա - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1259074</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/27/Y0NA1zav2vmY01L5ozbSnKuciHHbC4vwGrMbyhE9.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 27 Aug 2026 20:57:32 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 05:17:03 -0000</pubDate>
     </item>
     <item>
       <title>22:01, 27 օգոստոսիՍպորտ«Արարատ-Արմենիա»-ն առաջին հայկական ակումբն է, որը կխաղա Եվրոպայի լիգայի հիմնական փուլում</title>
@@ -62,7 +94,7 @@
       <description>22:01, 27 օգոստոսիՍպորտ«Արարատ-Արմենիա»-ն առաջին հայկական ակումբն է, որը կխաղա Եվրոպայի լիգայի հիմնական փուլում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1259072</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/27/F2Oh8zyweadyluvF5gKKeTVli0gKLsSq841KamHV.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 27 Aug 2026 20:55:32 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 05:15:03 -0000</pubDate>
     </item>
     <item>
       <title>21:58, 27 օգոստոսիԻրանԿատարի վարչապետը հանդիպել է Մասուդ Փեզեշքիանի հետ</title>
@@ -70,7 +102,7 @@
       <description>21:58, 27 օգոստոսիԻրանԿատարի վարչապետը հանդիպել է Մասուդ Փեզեշքիանի հետ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1259070</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/27/6RypxDkyKEU5IBxZeePYtO3Fb2MVzvtO9jEtPRcr.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 27 Aug 2026 20:53:32 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 05:13:03 -0000</pubDate>
     </item>
     <item>
       <title>21:41, 27 օգոստոսիՀայաստանՆԳՆ-ն առաջարկում է վարորդական իրավունք ստանալու գործընթացում կրթությունը դարձնել պարտադիր</title>
@@ -78,7 +110,7 @@
       <description>21:41, 27 օգոստոսիՀայաստանՆԳՆ-ն առաջարկում է վարորդական իրավունք ստանալու գործընթացում կրթությունը դարձնել պարտադիր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1259071</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/27/rEBq3YHAOrnbukDz7XWfcM6HJKO8SQfc8Uufa3hq.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 27 Aug 2026 20:51:32 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 05:11:03 -0000</pubDate>
     </item>
     <item>
       <title>21:20, 27 օգոստոսիԻրանԻրանի հարցով հանդիպումը մի քանի երկրների արտաքին գործերի նախարարների մասնակցությամբ տեղի կունենա օգոստոսի 30-ին. DPA</title>
@@ -86,7 +118,7 @@
       <description>21:20, 27 օգոստոսիԻրանԻրանի հարցով հանդիպումը մի քանի երկրների արտաքին գործերի նախարարների մասնակցությամբ տեղի կունենա օգոստոսի 30-ին. DPA - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1259069</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/27/mRReo862PIOAlgiYBVp39KjqdYx9TG5dGHjXmjuY.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 27 Aug 2026 20:49:32 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 05:09:03 -0000</pubDate>
     </item>
     <item>
       <title>20:52, 27 օգոստոսիԱշխարհՆեպալում ջրհեղեղի զոհերի թիվը հասել է 389-ի</title>
@@ -94,7 +126,7 @@
       <description>20:52, 27 օգոստոսիԱշխարհՆեպալում ջրհեղեղի զոհերի թիվը հասել է 389-ի - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1259068</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/27/i6ZcpA7qralppcLOfqyJSm5cBN9vGNQeiYP7pHeu.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 27 Aug 2026 20:47:32 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 05:07:03 -0000</pubDate>
     </item>
     <item>
       <title>20:30, 27 օգոստոսիՄիացյալ ՆահանգներՄԱԿ-ի գլխավոր քարտուղարը ակնկալում է, որ Միացյալ Նահանգները կվճարի կազմակերպության բյուջեին իր չվճարված պարտքի մի մասը</title>
@@ -102,7 +134,7 @@
       <description>20:30, 27 օգոստոսիՄիացյալ ՆահանգներՄԱԿ-ի գլխավոր քարտուղարը ակնկալում է, որ Միացյալ Նահանգները կվճարի կազմակերպության բյուջեին իր չվճարված պարտքի մի մասը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1259067</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/27/IKGr8ONwWTJQS1sPmExNI0XW80ooJA7rVVVne72m.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 27 Aug 2026 20:45:32 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 05:05:03 -0000</pubDate>
     </item>
     <item>
       <title>20:07, 27 օգոստոսիՀայաստանԵրեք նախարարություն կանվանափոխվի. ԱԺ-ն ամբողջությամբ ընդունեց նախագիծը</title>
@@ -110,7 +142,7 @@
       <description>20:07, 27 օգոստոսիՀայաստանԵրեք նախարարություն կանվանափոխվի. ԱԺ-ն ամբողջությամբ ընդունեց նախագիծը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1259066</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/27/KailE2nDOZFinySilH3rMclgejYbiIMRmM64QFnI.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 27 Aug 2026 20:43:32 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 05:03:03 -0000</pubDate>
     </item>
     <item>
       <title>19:45, 27 օգոստոսիԱշխարհԻսլամական համագործակցության կազմակերպությունը նոր գլխավոր քարտուղար ունի</title>
@@ -118,7 +150,7 @@
       <description>19:45, 27 օգոստոսիԱշխարհԻսլամական համագործակցության կազմակերպությունը նոր գլխավոր քարտուղար ունի - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1259065</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/27/1RJdYty4PJ4YObgpLedtrd7zK5LqCkjYAMcxNRPA.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 27 Aug 2026 20:41:32 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 05:01:03 -0000</pubDate>
     </item>
     <item>
       <title>19:25, 27 օգոստոսիՌուսաստանԱմուրի գազաքիմիական համալիրում հրդեհի հետևանքով զոհվել է 15 մարդ</title>
@@ -126,7 +158,7 @@
       <description>19:25, 27 օգոստոսիՌուսաստանԱմուրի գազաքիմիական համալիրում հրդեհի հետևանքով զոհվել է 15 մարդ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1259064</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/27/x7fOkMaImWdoChoq4nYSmFnA3wrb2kt7syM1BcFT.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 27 Aug 2026 20:39:32 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 04:59:03 -0000</pubDate>
     </item>
     <item>
       <title>ՏեսանյութԱԺ նիստ. 27/08/2026</title>
@@ -134,39 +166,7 @@
       <description>ՏեսանյութԱԺ նիստ. 27/08/2026 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1259063</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/27/TxuB7JpdQZy4wJH0ULuw1ZG7uMIG5kLhBhjOqM3f.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 27 Aug 2026 20:37:32 -0000</pubDate>
-    </item>
-    <item>
-      <title>19:03, 27 օգոստոսիՀայաստանՎարչապետի աշխատակազմի ղեկավարը և Արգենտինայի դեսպանը քննարկել են երկկողմ համագործակցության հեռանկարները</title>
-      <link>https://armenpress.am/hy/article/1259062</link>
-      <description>19:03, 27 օգոստոսիՀայաստանՎարչապետի աշխատակազմի ղեկավարը և Արգենտինայի դեսպանը քննարկել են երկկողմ համագործակցության հեռանկարները - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1259062</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/27/0Bsa8vCK6h6v76VjvMKAwe1JlAPKsqhpBF19IXLd.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 27 Aug 2026 20:35:32 -0000</pubDate>
-    </item>
-    <item>
-      <title>18:49, 27 օգոստոսիՀայաստանՀինգ տարում ՄԿՈՒ համակարգ ընդունվածների թիվն աճել է շուրջ 45 տոկոսով. Սվաջյան</title>
-      <link>https://armenpress.am/hy/article/1259061</link>
-      <description>18:49, 27 օգոստոսիՀայաստանՀինգ տարում ՄԿՈՒ համակարգ ընդունվածների թիվն աճել է շուրջ 45 տոկոսով. Սվաջյան - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1259061</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/27/Ac3ld3cpg03SpSGTsZMEVFBP89Bdf1U1XNaatfHY.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 27 Aug 2026 20:33:32 -0000</pubDate>
-    </item>
-    <item>
-      <title>18:26, 27 օգոստոսիՔաղաքականությունԵթովպիայի ԱԳ նախարարը շնորհավորել է Արարատ Միրզոյանին</title>
-      <link>https://armenpress.am/hy/article/1259060</link>
-      <description>18:26, 27 օգոստոսիՔաղաքականությունԵթովպիայի ԱԳ նախարարը շնորհավորել է Արարատ Միրզոյանին - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1259060</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/27/DFTQugj1uPuMAVsFCR6bdfo2H9wUAEQKDC9X2vMe.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 27 Aug 2026 20:31:32 -0000</pubDate>
-    </item>
-    <item>
-      <title>18:01, 27 օգոստոսիԵվրոպաԲուլղարացի վարորդը հաջողությամբ հաղթահարել է 300 կմ թեստը և բավարարել F1 վարորդական իրավունքի պահանջները․ BTA</title>
-      <link>https://armenpress.am/hy/article/1259059</link>
-      <description>18:01, 27 օգոստոսիԵվրոպաԲուլղարացի վարորդը հաջողությամբ հաղթահարել է 300 կմ թեստը և բավարարել F1 վարորդական իրավունքի պահանջները․ BTA - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1259059</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/08/27/TgA5pbES3jxS0kXabaPmARhqVs7Rhl6CIXmxwo6n.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 27 Aug 2026 20:29:32 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 04:57:03 -0000</pubDate>
     </item>
   </channel>
 </rss>
