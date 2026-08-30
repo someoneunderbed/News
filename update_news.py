@@ -43,13 +43,6 @@ for site in SITELER:
     xml_path = f"NewsFolder/{site['xml_filename']}"
     is_success = False
 
-
-
-    # --- TERT.AM: SCRAPE NEWS DATA ---
-
-
-    # --- RADAR.AM: ENGELLENMEYEN RESMİ RSS BESLEMESİ ---
-
     # --- CIVIC.AM: ENGELLENMEYEN GİZLİ VERİ API'SI ---
     if site["name"] == "Civic.am":
         api_content = fetch_html("https://civic.am/api/posts?limit=20")
@@ -133,7 +126,6 @@ for site in SITELER:
     count = 0
     seen_links = set()
 
-    # Armenpress Özel Blok Yakalayıcı
     # --- 5TV.AM GENEL SİTE VE HABER AKIŞI YAPISINA UYARLANMIŞ BLOK ---
     if site["name"] == "5tv.am":
         for a_tag in soup.find_all('a', href=True):
@@ -188,6 +180,7 @@ for site in SITELER:
         if site["name"] == "politik.am" and not any(x in href for x in ["/newsfeed", "/news/", "/am/"]): continue
         if site["name"] == "arka.am" and not any(x in href for x in ["/am/news/", "/news/"]): continue
         if site["name"] == "Shamshyan.news" and not any(x in href for x in ["/hy/article/", "/article/"]): continue
+        if site["name"] == "mamul.am" and not any(x in href for x in ["/news/", "/am/news/"]): continue
 
         full_link = f"{site['base_url']}{href}" if href.startswith('/') else (href if href.startswith('http') else f"{site['base_url']}/{href}")
         if full_link in seen_links: continue
