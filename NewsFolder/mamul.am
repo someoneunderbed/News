@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<website>
+  <name>ՄԱՄՈՒԼ․ամ</name>
+  <url>https://m.mamul.am/am</url>
+  <summary>News from Armenia, Artsakh, and the world.</summary>
+
+  <languages>
+    <language>Hay</language>
+    <language>Հայ</language>
+    <language>Рус</language>
+    <language>Eng</language>
+    <language>Tür</language>
+  </languages>
+
+  <market>
+    <currency code="USD">402.56</currency>
+    <currency code="EUR">440.64</currency>
+    <currency code="RUB">4.58</currency>
+    <currency code="GBP">505.01</currency>
+  </market>
+
+  <weather>
+    <today>+36 C</today>
+    <tomorrow>+37 C</tomorrow>
+  </weather>
+
+  <sections>
+    <section name="Լրահոս"/>
+    <section name="Տեսանյութեր"/>
+    <section name="Բաժիններ"/>
+  </sections>
+
+  <newsFeed>
+    <article time="15:48, 18.07.2025">«Հայրս հավատում էր այս երկրի ապագային»․ Նիկոլա Ազնավուր</article>
+    <article time="15:30, 18.07.2025">«Շիրակի մարզում 772 ոչխար են գողացել, ոստիկանությունը քայլեր չի ձեռնարկում»․ Գոռ Գևորգյան</article>
+    <article time="15:27, 18.07.2025">«Իրանի դեմ պատերազմը կվերսկսվի, եթե նա վերադառնա միջուկային ծրագրին»․ ՌԴ-ում Իսրայելի դեսպան</article>
+    <article time="15:18, 18.07.2025">«Այս ճանապարհի շարունակության դեպքում այլևս չենք լինի ազգ»․ Արա Այվազյան</article>
+    <article time="15:14, 18.07.2025">Apple Pay-ով օնլայն վճարումների ընդունումը հասանելի է Ամերիաբանկի vPOS հաճախորդների համար</article>
+    <article time="15:01, 18.07.2025">Բելգիայի Ներկայացուցիչների պալատն Ադրբեջանին դատապարտող բանաձև է ընդունել</article>
+    <article time="14:48, 18.07.2025">«Երևանն առանց Ազնավուրի, մի տեսակ թերի էր»․ Արման Բաբաջանյան</article>
+    <article time="14:45, 18.07.2025">Իսրայելը ՀԱՄԱՍ-ի 3 բարձրաստիճան պաշտոնյայի է սպանել</article>
+    <article time="14:36, 18.07.2025">«Դատապարտում ենք «Կինոյի օրենքի» ռեպրեսիվ փոփոխությունները»․ «Ակն ընդ ական»</article>
+    <article time="14:20, 18.07.2025">Կինն իր ամուսնու, սկեսուրի և սկեսրայրի շիրիմները հայտնաբերել է անարգված</article>
+  </newsFeed>
+
+  <mostRead period="24h">
+    <item>Բացահայտվել է Վահրամ Խորխոռունու սպանությունը</item>
+    <item>Վերին Լարսում արտակարգ դրություն է հայտարարվել</item>
+    <item>«ՀՀ-ն ընկնում է տոտալ շրջափակման մեջ․ ո՛չ Ռուսաստանը, ո՛չ Իրանը մեզ զենք չեն կարող հասցնել»․ Արթուր Խաչիկյան</item>
+    <item>«Կհալածվեն` ովքեր կուզեն թաքուն կնքել իրենց երեխաներին, պսակվել եկեղեցով». Մարգարիտ Եսայան</item>
+    <item>Լիանա Հարությունյանի խափանման միջոց կալանքը փոխվեց</item>
+  </mostRead>
+
+  <mostRead period="7d">
+    <item>Հայաստան է ժամանել օրենքով գող Մեհրաբ Քալաշովը</item>
+    <item>«Ադրբեջանը մերժել է Սյունիքի ճանապարհի «արտապատվիրակման» հարցը»․ Տաթևիկ Հայրապետյան</item>
+    <item>Ալեն Սիմոնյանն ու Մարիամ Մարգարյանն ամուսնալուծվել են</item>
+    <item>«Ուզում էի հասկանալ՝ ծանո՞թ է, թե՞ ոչ, անսպասելի խփեց»․ Գնել Սարգսյան</item>
+    <item>Խոշոր հրդեհ՝ Երևանում</item>
+  </mostRead>
+
+  <contacts>
+    <address>Հայաստանի Հանրապետություն, ք. Երևան, Չարենցի 1</address>
+    <newsgathering phone="+374 (10) 55-20-59" email="info@mamul.am"/>
+    <advertising phone="+374 (91) 99-22-02" email="marketing@mamul.am"/>
+  </contacts>
+
+  <copyright>© 2011-2025 Սոուշըլ Մեդիա ՍՊԸ</copyright>
+</website>
