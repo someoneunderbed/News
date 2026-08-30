@@ -24,6 +24,7 @@ SITELER.append({"name": "tert.am", "url": "https://tert.am/am/news/", "xml_filen
 SITELER.append({"name": "radar.am", "url": "https://radar.am/hy/feed/", "xml_filename": "radar.xml", "base_url": "https://radar.am", "logo_url": "https://radar.am/static/radar/images/logo-white.4c8b6b003ba3.svg"})
 SITELER.append({"name": "politik.am", "url": "https://politik.am/am/newsfeed/1", "xml_filename": "politik.xml", "base_url": "https://politik.am", "logo_url": "https://politik.am/imgs/page/header-logo-am.png"})
 SITELER.append({"name": "arka.am", "url": "https://arka.am/am/news/", "xml_filename": "arka.xml", "base_url": "https://arka.am", "logo_url": "https://arka.am/local/templates/arka_new/images/ARKA_LOGO.svg"})
+SITELER.append({"name": "mamul.am", "url": "https://mamul.am/am/news", "xml_filename": "mamul.xml", "base_url": "https://mamul.am", "logo_url": "https://mamul.am/images/logo.png"})
 
 def fetch_html(url):
     req = urllib.request.Request(url, headers=headers)
