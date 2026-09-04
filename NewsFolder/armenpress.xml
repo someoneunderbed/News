@@ -5,19 +5,19 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Fri, 04 Sep 2026 17:00:05 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 19:28:21 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
       <link>https://armenpress.am/hy/articles</link>
     </image>
     <item>
-      <title>Երևան26 °C</title>
+      <title>Երևան24 °C</title>
       <link>https://armenpress.am/hy/articles/weather</link>
-      <description>Երևան26 °C - Read on armenpress.am.</description>
+      <description>Երևան24 °C - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
-      <enclosure url="https://armenpress.am/assets/weather/04n.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 04 Sep 2026 17:00:05 -0000</pubDate>
+      <enclosure url="https://armenpress.am/assets/weather/03n.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 04 Sep 2026 19:28:21 -0000</pubDate>
     </item>
     <item>
       <title>USD / AMD363.85</title>
@@ -25,28 +25,52 @@
       <description>USD / AMD363.85 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 04 Sep 2026 16:58:05 -0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 19:26:21 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
       <link>https://armenpress.am/hy/articles/fact-check</link>
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Fri, 04 Sep 2026 16:56:05 -0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 19:24:21 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
       <link>https://armenpress.am/hy/articles/projects</link>
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Fri, 04 Sep 2026 16:54:05 -0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 19:22:21 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://armenpress.am/hy/articles/interviews</link>
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Fri, 04 Sep 2026 16:52:05 -0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 19:20:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>21:55ԱշխարհԼեհաստանում կազմավորել են հակաօդային պաշտպանության լրացուցիչ գունդ</title>
+      <link>https://armenpress.am/hy/article/1259744</link>
+      <description>21:55ԱշխարհԼեհաստանում կազմավորել են հակաօդային պաշտպանության լրացուցիչ գունդ - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1259744</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/04/xLqgBkVnDgedLX3dAUc2Dbklj1JlbasxRsDNdtvO.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 04 Sep 2026 19:18:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>21:37ՀայաստանՎահան Կոստանյանը հանդիպել է Չեխիայի ԱԳ նախարարի տեղակալի հետ</title>
+      <link>https://armenpress.am/hy/article/1259743</link>
+      <description>21:37ՀայաստանՎահան Կոստանյանը հանդիպել է Չեխիայի ԱԳ նախարարի տեղակալի հետ - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1259743</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/04/f2PgznhP4IjlnOBmp0AVHwrQuHpUKIVKQoMfBGs4.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 04 Sep 2026 19:16:21 -0000</pubDate>
+    </item>
+    <item>
+      <title>21:20Մերձավոր Արևելք«Հեզբոլլահ»-ը աղետ չի համարում հարավային Լիբանանում Իսրայելի կողմից բարձունքների գրավումը</title>
+      <link>https://armenpress.am/hy/article/1259742</link>
+      <description>21:20Մերձավոր Արևելք«Հեզբոլլահ»-ը աղետ չի համարում հարավային Լիբանանում Իսրայելի կողմից բարձունքների գրավումը - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1259742</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/04/gw0Iaao7d5C0hPpV7Q6BaZUfbymjp6pUMMxI39BE.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 04 Sep 2026 19:14:21 -0000</pubDate>
     </item>
     <item>
       <title>20:33Միացյալ ՆահանգներԱՄՆ-ն դեմ է քվեարկել Equal Earth նախագծի աջակցությանը միտված ՄԱԿ-ի բանաձևին</title>
@@ -54,7 +78,7 @@
       <description>20:33Միացյալ ՆահանգներԱՄՆ-ն դեմ է քվեարկել Equal Earth նախագծի աջակցությանը միտված ՄԱԿ-ի բանաձևին - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1259741</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/04/ou99xI6R7lUxJ62AMiK3Xyq8OK65xgfLB8odTV0s.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 04 Sep 2026 16:50:05 -0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 19:12:21 -0000</pubDate>
     </item>
     <item>
       <title>20:07ԱշխարհՍեուտայի բնակիչները փորձել են դադարեցնել ներգաղթյալների համար կենտրոնի շինարարությունը</title>
@@ -62,7 +86,7 @@
       <description>20:07ԱշխարհՍեուտայի բնակիչները փորձել են դադարեցնել ներգաղթյալների համար կենտրոնի շինարարությունը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1259740</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/04/gS6BxnKExoDpRKR2yycyq16RJbl6Jl1Qiezom8k0.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 04 Sep 2026 16:48:05 -0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 19:10:21 -0000</pubDate>
     </item>
     <item>
       <title>19:45ՀայաստանՀԷՑ-ում քննարկվել է ներդրումային ծրագրերի ընթացքը</title>
@@ -70,7 +94,7 @@
       <description>19:45ՀայաստանՀԷՑ-ում քննարկվել է ներդրումային ծրագրերի ընթացքը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1259739</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/04/T5jAqEnpOQ5xXQtAz9aparPJiCZHdHXhwewF5Sp6.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 04 Sep 2026 16:46:05 -0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 19:08:21 -0000</pubDate>
     </item>
     <item>
       <title>19:16ԹուրքիաՄիացյալ Նահանգները թուրքական բանկ են ներառել Իրանին առնչվող պատժամիջոցների ցանկում</title>
@@ -78,7 +102,7 @@
       <description>19:16ԹուրքիաՄիացյալ Նահանգները թուրքական բանկ են ներառել Իրանին առնչվող պատժամիջոցների ցանկում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1259738</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/04/XUJUHH1oZoH3vgdcmRkh1DSpa5QogRxZ858m24OZ.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 04 Sep 2026 16:44:05 -0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 19:06:21 -0000</pubDate>
     </item>
     <item>
       <title>19:01ՀայաստանՎահագն Ալեքսանյանը հանդիպել է «Սփյուռքի երիտասարդ դեսպան» ծրագրի մասնակիցների հետ</title>
@@ -86,7 +110,7 @@
       <description>19:01ՀայաստանՎահագն Ալեքսանյանը հանդիպել է «Սփյուռքի երիտասարդ դեսպան» ծրագրի մասնակիցների հետ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1259737</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/04/U54WQyptWAL9v29mpehHsBm79xobq1AEygdBdvBy.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 04 Sep 2026 16:42:05 -0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 19:04:21 -0000</pubDate>
     </item>
     <item>
       <title>18:36ՀայաստանՊետք է ձևավորենք ջրային ոլորտի բարեփոխումների ճանապարհային քարտեզ. վարչապետը մասնակցել է ջրային ոլորտի աշխատաժողովին</title>
@@ -94,7 +118,7 @@
       <description>18:36ՀայաստանՊետք է ձևավորենք ջրային ոլորտի բարեփոխումների ճանապարհային քարտեզ. վարչապետը մասնակցել է ջրային ոլորտի աշխատաժողովին - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1259736</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/04/y7Elo883DyGlZzwToO0FlP1cdiTn0GhwkDHHZvVQ.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 04 Sep 2026 16:40:05 -0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 19:02:21 -0000</pubDate>
     </item>
     <item>
       <title>18:19ԻրավունքՀանքարդյունաբերական ընկերության կողմից հողը փչացնելու վերաբերյալ քրեական վարույթով պատճառված 4.9 մլն դրամի վնասը վերականգնվել է</title>
@@ -102,7 +126,7 @@
       <description>18:19ԻրավունքՀանքարդյունաբերական ընկերության կողմից հողը փչացնելու վերաբերյալ քրեական վարույթով պատճառված 4.9 մլն դրամի վնասը վերականգնվել է - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1259735</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/04/6u6ozM81DbSXH2R85CZ5xK621QgtMHQpoB446G88.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 04 Sep 2026 16:38:05 -0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 19:00:21 -0000</pubDate>
     </item>
     <item>
       <title>18:05ՏնտեսությունԵրևանում մեկնարկել է «Armenia Expo-2026» միջազգային ցուցահանդեսը</title>
@@ -110,7 +134,7 @@
       <description>18:05ՏնտեսությունԵրևանում մեկնարկել է «Armenia Expo-2026» միջազգային ցուցահանդեսը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1259729</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/04/YtVWY2pN9Z0UyWXmEjrLM71rbwbgMO5cZu4Z5fd5.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 04 Sep 2026 16:36:05 -0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 18:58:21 -0000</pubDate>
     </item>
     <item>
       <title>18:05ԵվրոպաՄոլդովայի խորհրդարանի խոսնակը մերժել է երկրում ՌԴ-ի նշանակած դեսպանի մեղադրանքները․ Moldpres</title>
@@ -118,7 +142,7 @@
       <description>18:05ԵվրոպաՄոլդովայի խորհրդարանի խոսնակը մերժել է երկրում ՌԴ-ի նշանակած դեսպանի մեղադրանքները․ Moldpres - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1259734</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/04/LqeV8D3WqkNNwSV4qIifUiBV7uOzvNZY5Ef27TAm.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 04 Sep 2026 16:34:05 -0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 18:56:21 -0000</pubDate>
     </item>
     <item>
       <title>17:46ԵվրոպաԲուլղարիայի վարչապետը հայտարարել է, որ ԵՄ բյուջեն այս տարի լուրջ մարտահրավեր է․ BTA</title>
@@ -126,7 +150,7 @@
       <description>17:46ԵվրոպաԲուլղարիայի վարչապետը հայտարարել է, որ ԵՄ բյուջեն այս տարի լուրջ մարտահրավեր է․ BTA - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1259733</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/04/C39DsmkGXdfvWRQCgT1cSuMEdKo0ZTgnKuMrw8d6.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 04 Sep 2026 16:32:05 -0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 18:54:21 -0000</pubDate>
     </item>
     <item>
       <title>17:43ԵվրոպաԼոնդոնում նշել են Մեծ Բրիտանիայի անվիճելի ինքնիշխանությունը Ֆոլկլենդյան կղզիների նկատմամբ</title>
@@ -134,7 +158,7 @@
       <description>17:43ԵվրոպաԼոնդոնում նշել են Մեծ Բրիտանիայի անվիճելի ինքնիշխանությունը Ֆոլկլենդյան կղզիների նկատմամբ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1259732</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/04/rvHVU4sRn7bu12sY0tY9teSbnLpwl8P5f8WhAhER.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 04 Sep 2026 16:30:05 -0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 18:52:21 -0000</pubDate>
     </item>
     <item>
       <title>17:42ԻրավունքՄարդուն առևանգելու, սպանության փորձ կատարելու վերաբերյալ քրեական վարույթով 2 անձ ձերբակալվել է, կատարվել են տասնյակից ավելի խուզարկություններ</title>
@@ -142,31 +166,7 @@
       <description>17:42ԻրավունքՄարդուն առևանգելու, սպանության փորձ կատարելու վերաբերյալ քրեական վարույթով 2 անձ ձերբակալվել է, կատարվել են տասնյակից ավելի խուզարկություններ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1259731</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/04/moYM1Fyei7V1n3Bk5WvKylb7yaTXwlpoXLTGkWRU.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 04 Sep 2026 16:28:05 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:33ԵրևանՈսկերիչների փողոցը ժամանակավորապես փակ կլինի</title>
-      <link>https://armenpress.am/hy/article/1259728</link>
-      <description>17:33ԵրևանՈսկերիչների փողոցը ժամանակավորապես փակ կլինի - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1259728</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/05/30/G1UO28QAeZUr22UWZsLDkHyGQxuj5Twp17KcHuHE.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 04 Sep 2026 16:26:05 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:33ԱնոնսՍեպտեմբերի 5-ի միջոցառումների անոնս</title>
-      <link>https://armenpress.am/hy/article/1259730</link>
-      <description>17:33ԱնոնսՍեպտեմբերի 5-ի միջոցառումների անոնս - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1259730</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/04/ou99xI6R7lUxJ62AMiK3Xyq8OK65xgfLB8odTV0s.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 04 Sep 2026 16:24:05 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:30Հայաստան«Մի գդալ սեր». երբ կինոն, խոհարարությունն ու հայկական արտադրանքը միավորվում են մեկ պատմության մեջ</title>
-      <link>https://armenpress.am/hy/article/1259727</link>
-      <description>17:30Հայաստան«Մի գդալ սեր». երբ կինոն, խոհարարությունն ու հայկական արտադրանքը միավորվում են մեկ պատմության մեջ - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1259727</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/04/e7TX10RSC1kZCBLTxSJRCEONy4t9nccxk4jGTZLL.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 04 Sep 2026 16:22:05 -0000</pubDate>
+      <pubDate>Fri, 04 Sep 2026 18:50:21 -0000</pubDate>
     </item>
   </channel>
 </rss>
