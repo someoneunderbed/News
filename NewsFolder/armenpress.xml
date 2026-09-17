@@ -5,19 +5,19 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Thu, 17 Sep 2026 16:47:10 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:09:03 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
       <link>https://armenpress.am/hy/articles</link>
     </image>
     <item>
-      <title>Երևան25 °C</title>
+      <title>Երևան23 °C</title>
       <link>https://armenpress.am/hy/articles/weather</link>
-      <description>Երևան25 °C - Read on armenpress.am.</description>
+      <description>Երևան23 °C - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
-      <enclosure url="https://armenpress.am/assets/weather/01n.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 17 Sep 2026 16:47:10 -0000</pubDate>
+      <enclosure url="https://armenpress.am/assets/weather/03n.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Thu, 17 Sep 2026 20:09:03 -0000</pubDate>
     </item>
     <item>
       <title>USD / AMD363.5</title>
@@ -25,148 +25,148 @@
       <description>USD / AMD363.5 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 17 Sep 2026 16:45:10 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 20:07:03 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
       <link>https://armenpress.am/hy/articles/fact-check</link>
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Thu, 17 Sep 2026 16:43:10 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 20:05:03 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
       <link>https://armenpress.am/hy/articles/projects</link>
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Thu, 17 Sep 2026 16:41:10 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 20:03:03 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://armenpress.am/hy/articles/interviews</link>
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Thu, 17 Sep 2026 16:39:10 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 20:01:03 -0000</pubDate>
     </item>
     <item>
-      <title>20:44ՀայաստանՔննարկվել է TRIPP նախագծի իրագործման ընթացքը</title>
+      <title>21:58, 17 սեպտեմբերիԱշխարհՖլորենցիայում անձրևաջուրը թափանցել է Պալացո Պիտտի, որտեղ Ժամանակակից արվեստի պատկերասրահի որոշ սրահներ փակվել են</title>
+      <link>https://armenpress.am/hy/article/1260737</link>
+      <description>21:58, 17 սեպտեմբերիԱշխարհՖլորենցիայում անձրևաջուրը թափանցել է Պալացո Պիտտի, որտեղ Ժամանակակից արվեստի պատկերասրահի որոշ սրահներ փակվել են - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1260737</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/17/IRjg3WijHNAHiru71kwVQ49bngJA92wtwaVIQ031.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Thu, 17 Sep 2026 19:59:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>21:43, 17 սեպտեմբերիԱշխարհԷմանուել Մակրոնը Ֆրանսիայի բենզալցակայաններում վառելիքի գները անտանելի է անվանել</title>
+      <link>https://armenpress.am/hy/article/1260736</link>
+      <description>21:43, 17 սեպտեմբերիԱշխարհԷմանուել Մակրոնը Ֆրանսիայի բենզալցակայաններում վառելիքի գները անտանելի է անվանել - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1260736</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/17/B1QWCmEo7R4KuDzZ6apg21AQn8op03sHQxxZMqV4.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Thu, 17 Sep 2026 19:57:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>21:24, 17 սեպտեմբերիՍպորտՕլիմպիադա-2026. Շախմատի կանանց ու տղամարդկանց թիմերը հաղթեցին երկրորդ տուրում ևս</title>
+      <link>https://armenpress.am/hy/article/1260735</link>
+      <description>21:24, 17 սեպտեմբերիՍպորտՕլիմպիադա-2026. Շախմատի կանանց ու տղամարդկանց թիմերը հաղթեցին երկրորդ տուրում ևս - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1260735</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/17/XBTFATgGh02XSNLZNAeDjyZeU8DlEMPi6ZI9GHhV.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Thu, 17 Sep 2026 19:55:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>21:12, 17 սեպտեմբերիԱշխարհԼեհաստանի վարչապետ Դոնալդ Տուսկը կժամանի Ուկրաինա</title>
+      <link>https://armenpress.am/hy/article/1260734</link>
+      <description>21:12, 17 սեպտեմբերիԱշխարհԼեհաստանի վարչապետ Դոնալդ Տուսկը կժամանի Ուկրաինա - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1260734</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/17/CoXJUc7OdJYNmzizldAXs0ugDmDHcPbGGeVoR1M0.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Thu, 17 Sep 2026 19:53:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>20:44, 17 սեպտեմբերիՀայաստանՔննարկվել է TRIPP նախագծի իրագործման ընթացքը</title>
       <link>https://armenpress.am/hy/article/1260733</link>
-      <description>20:44ՀայաստանՔննարկվել է TRIPP նախագծի իրագործման ընթացքը - Read on armenpress.am.</description>
+      <description>20:44, 17 սեպտեմբերիՀայաստանՔննարկվել է TRIPP նախագծի իրագործման ընթացքը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1260733</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/17/KQAVA91RiGxpB8M0hZUbomC50iPOjdg0tWJkCLZs.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 17 Sep 2026 16:37:10 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 19:51:03 -0000</pubDate>
     </item>
     <item>
-      <title>20:43ՀայաստանՄինսկի փողոցում կլինեն նոր հետիոտնային անցում և հասարակական տրանսպորտի կանգառի կետեր</title>
+      <title>20:43, 17 սեպտեմբերիՀայաստանՄինսկի փողոցում կլինեն նոր հետիոտնային անցում և հասարակական տրանսպորտի կանգառի կետեր</title>
       <link>https://armenpress.am/hy/article/1260732</link>
-      <description>20:43ՀայաստանՄինսկի փողոցում կլինեն նոր հետիոտնային անցում և հասարակական տրանսպորտի կանգառի կետեր - Read on armenpress.am.</description>
+      <description>20:43, 17 սեպտեմբերիՀայաստանՄինսկի փողոցում կլինեն նոր հետիոտնային անցում և հասարակական տրանսպորտի կանգառի կետեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1260732</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/17/Ba59ZkHs6nJBRAucaM1hTF093AuDS15t71aE9RA6.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 17 Sep 2026 16:35:10 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 19:49:03 -0000</pubDate>
     </item>
     <item>
-      <title>20:29ԱշխարհԳերմանիայի զինված ուժերը կպաշտպանեն Լատվիայի օդային տարածքը Սեյմի ընտրությունների ընթացքում</title>
+      <title>20:29, 17 սեպտեմբերիԱշխարհԳերմանիայի զինված ուժերը կպաշտպանեն Լատվիայի օդային տարածքը Սեյմի ընտրությունների ընթացքում</title>
       <link>https://armenpress.am/hy/article/1260731</link>
-      <description>20:29ԱշխարհԳերմանիայի զինված ուժերը կպաշտպանեն Լատվիայի օդային տարածքը Սեյմի ընտրությունների ընթացքում - Read on armenpress.am.</description>
+      <description>20:29, 17 սեպտեմբերիԱշխարհԳերմանիայի զինված ուժերը կպաշտպանեն Լատվիայի օդային տարածքը Սեյմի ընտրությունների ընթացքում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1260731</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/17/49opgiPmYH0Vzx4CA2n4xvzIl6qoyl0C65bMWP1D.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 17 Sep 2026 16:33:10 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 19:47:03 -0000</pubDate>
     </item>
     <item>
-      <title>20:14ՀայաստանՎարչապետը հրաժեշտի հանդիպում է ունեցել ՀՀ-ում Բրազիլի դեսպանի հետ</title>
+      <title>20:14, 17 սեպտեմբերիՀայաստանՎարչապետը հրաժեշտի հանդիպում է ունեցել ՀՀ-ում Բրազիլի դեսպանի հետ</title>
       <link>https://armenpress.am/hy/article/1260730</link>
-      <description>20:14ՀայաստանՎարչապետը հրաժեշտի հանդիպում է ունեցել ՀՀ-ում Բրազիլի դեսպանի հետ - Read on armenpress.am.</description>
+      <description>20:14, 17 սեպտեմբերիՀայաստանՎարչապետը հրաժեշտի հանդիպում է ունեցել ՀՀ-ում Բրազիլի դեսպանի հետ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1260730</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/17/NdhRdRtwlHB74J4SgT0lUH67cwkXVesuou5KpRkF.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 17 Sep 2026 16:31:10 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 19:45:03 -0000</pubDate>
     </item>
     <item>
-      <title>19:53ԱշխարհՖրանկֆուրտում մեկ շաբաթվա ընթացքում երրորդ անգամ պայթյուններ են որոտացել</title>
+      <title>19:53, 17 սեպտեմբերիԱշխարհՖրանկֆուրտում մեկ շաբաթվա ընթացքում երրորդ անգամ պայթյուններ են որոտացել</title>
       <link>https://armenpress.am/hy/article/1260729</link>
-      <description>19:53ԱշխարհՖրանկֆուրտում մեկ շաբաթվա ընթացքում երրորդ անգամ պայթյուններ են որոտացել - Read on armenpress.am.</description>
+      <description>19:53, 17 սեպտեմբերիԱշխարհՖրանկֆուրտում մեկ շաբաթվա ընթացքում երրորդ անգամ պայթյուններ են որոտացել - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1260729</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/17/71Obfni9UgZQnazdk8sjPAVH6pBsGKfgJ8mlEgCx.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 17 Sep 2026 16:29:10 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 19:43:03 -0000</pubDate>
     </item>
     <item>
-      <title>19:31ԱշխարհՇոտլանդիան շրջակա միջավայրի հետ կապված մտահոգությունների պատճառով դադարեցրել է ԱԲ խոշոր տվյալների կենտրոնների հաստատման ծրագիրը</title>
+      <title>19:31, 17 սեպտեմբերիԱշխարհՇոտլանդիան շրջակա միջավայրի հետ կապված մտահոգությունների պատճառով դադարեցրել է ԱԲ խոշոր տվյալների կենտրոնների հաստատման ծրագիրը</title>
       <link>https://armenpress.am/hy/article/1260728</link>
-      <description>19:31ԱշխարհՇոտլանդիան շրջակա միջավայրի հետ կապված մտահոգությունների պատճառով դադարեցրել է ԱԲ խոշոր տվյալների կենտրոնների հաստատման ծրագիրը - Read on armenpress.am.</description>
+      <description>19:31, 17 սեպտեմբերիԱշխարհՇոտլանդիան շրջակա միջավայրի հետ կապված մտահոգությունների պատճառով դադարեցրել է ԱԲ խոշոր տվյալների կենտրոնների հաստատման ծրագիրը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1260728</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/17/RQCW3qEVDpySJXyPyvqez6AhFIp89fNLTIlmzS6G.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 17 Sep 2026 16:27:10 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 19:41:03 -0000</pubDate>
     </item>
     <item>
-      <title>19:19ՍպորտՖուտբոլիստ Հովհաննես Համբարձումյանն ավարտում է ելույթները Հայաստանի հավաքականում</title>
+      <title>19:19, 17 սեպտեմբերիՍպորտՖուտբոլիստ Հովհաննես Համբարձումյանն ավարտում է ելույթները Հայաստանի հավաքականում</title>
       <link>https://armenpress.am/hy/article/1260727</link>
-      <description>19:19ՍպորտՖուտբոլիստ Հովհաննես Համբարձումյանն ավարտում է ելույթները Հայաստանի հավաքականում - Read on armenpress.am.</description>
+      <description>19:19, 17 սեպտեմբերիՍպորտՖուտբոլիստ Հովհաննես Համբարձումյանն ավարտում է ելույթները Հայաստանի հավաքականում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1260727</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/17/jMwqqLc5qhlmI6ee5saPdQEaoblOLAuGk5LFEw0I.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 17 Sep 2026 16:25:10 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 19:39:03 -0000</pubDate>
     </item>
     <item>
-      <title>19:03ԱշխարհԿիպրոսի նախագահը Նյու Յորքում սպասվող շաբաթն իրենց երկրի հիմնախնդրին առնչվող հետագա զարգացումների տեսանկյունից բնորոշել է վճռորոշ</title>
+      <title>19:03, 17 սեպտեմբերիԱշխարհԿիպրոսի նախագահը Նյու Յորքում սպասվող շաբաթն իրենց երկրի հիմնախնդրին առնչվող հետագա զարգացումների տեսանկյունից բնորոշել է վճռորոշ</title>
       <link>https://armenpress.am/hy/article/1260726</link>
-      <description>19:03ԱշխարհԿիպրոսի նախագահը Նյու Յորքում սպասվող շաբաթն իրենց երկրի հիմնախնդրին առնչվող հետագա զարգացումների տեսանկյունից բնորոշել է վճռորոշ - Read on armenpress.am.</description>
+      <description>19:03, 17 սեպտեմբերիԱշխարհԿիպրոսի նախագահը Նյու Յորքում սպասվող շաբաթն իրենց երկրի հիմնախնդրին առնչվող հետագա զարգացումների տեսանկյունից բնորոշել է վճռորոշ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1260726</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/17/oqHCEpZqNi2TUiEMM9ZP0loiJ4BpDqCYQZaca46c.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 17 Sep 2026 16:23:10 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 19:37:03 -0000</pubDate>
     </item>
     <item>
-      <title>18:31Հայաստան«Սևան» քրեակատարողական հիմնարկի ծառայողները բացահայտել են ներնետման դեպք</title>
+      <title>18:31, 17 սեպտեմբերիՀայաստան«Սևան» քրեակատարողական հիմնարկի ծառայողները բացահայտել են ներնետման դեպք</title>
       <link>https://armenpress.am/hy/article/1260725</link>
-      <description>18:31Հայաստան«Սևան» քրեակատարողական հիմնարկի ծառայողները բացահայտել են ներնետման դեպք - Read on armenpress.am.</description>
+      <description>18:31, 17 սեպտեմբերիՀայաստան«Սևան» քրեակատարողական հիմնարկի ծառայողները բացահայտել են ներնետման դեպք - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1260725</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/17/lEDSowmrY0GD07P9b8RiwDCO8rLtpNmSWxynWlAT.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 17 Sep 2026 16:21:10 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 19:35:03 -0000</pubDate>
     </item>
     <item>
-      <title>18:24Միացյալ ՆահանգներԱՄՆ-ն պատրաստ է հայկական կողմի հետ քննարկել նոր ուղղություններով փոխգործակցության խորացման հնարավորությունները</title>
+      <title>18:24, 17 սեպտեմբերիՄիացյալ ՆահանգներԱՄՆ-ն պատրաստ է հայկական կողմի հետ քննարկել նոր ուղղություններով փոխգործակցության խորացման հնարավորությունները</title>
       <link>https://armenpress.am/hy/article/1260724</link>
-      <description>18:24Միացյալ ՆահանգներԱՄՆ-ն պատրաստ է հայկական կողմի հետ քննարկել նոր ուղղություններով փոխգործակցության խորացման հնարավորությունները - Read on armenpress.am.</description>
+      <description>18:24, 17 սեպտեմբերիՄիացյալ ՆահանգներԱՄՆ-ն պատրաստ է հայկական կողմի հետ քննարկել նոր ուղղություններով փոխգործակցության խորացման հնարավորությունները - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1260724</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/17/4KJ3zrufuJryaQYcMGjeQ24A3yYPY8QOqLkhC9rJ.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 17 Sep 2026 16:19:10 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 19:33:03 -0000</pubDate>
     </item>
     <item>
-      <title>18:22Մշակույթ«Թէատրոն» փառատոնը վերադառնում է բացառիկ ներկայացումներով ու ծրագրերով</title>
+      <title>18:22, 17 սեպտեմբերիՄշակույթ«Թէատրոն» փառատոնը վերադառնում է բացառիկ ներկայացումներով ու ծրագրերով</title>
       <link>https://armenpress.am/hy/article/1260723</link>
-      <description>18:22Մշակույթ«Թէատրոն» փառատոնը վերադառնում է բացառիկ ներկայացումներով ու ծրագրերով - Read on armenpress.am.</description>
+      <description>18:22, 17 սեպտեմբերիՄշակույթ«Թէատրոն» փառատոնը վերադառնում է բացառիկ ներկայացումներով ու ծրագրերով - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1260723</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/17/6o7Bp2a9XnVjIioqA3hdjLkRwac3Sm7tK6C7joae.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 17 Sep 2026 16:17:10 -0000</pubDate>
-    </item>
-    <item>
-      <title>18:18ԱշխարհՍաուդյան նավթամուղի վրա հարձակումից հետո ԵՄ առաջնորդները մտահոգված են վառելիքի գների աճով</title>
-      <link>https://armenpress.am/hy/article/1260722</link>
-      <description>18:18ԱշխարհՍաուդյան նավթամուղի վրա հարձակումից հետո ԵՄ առաջնորդները մտահոգված են վառելիքի գների աճով - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1260722</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/17/ppkBK35t6ipqxfdgqhm9LtnI54JFxPxXMRmmEfgG.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 17 Sep 2026 16:15:10 -0000</pubDate>
-    </item>
-    <item>
-      <title>18:00ԵվրոպաՉարլզ թագավորը նախազգուշացրել է, որ սխալ ձեռքերում հայտնվելու դեպքում ԱԲ-ն կարող է գոյութենական վտանգ ներկայացնել</title>
-      <link>https://armenpress.am/hy/article/1260721</link>
-      <description>18:00ԵվրոպաՉարլզ թագավորը նախազգուշացրել է, որ սխալ ձեռքերում հայտնվելու դեպքում ԱԲ-ն կարող է գոյութենական վտանգ ներկայացնել - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1260721</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/17/CSm1FcVY1mptS3BnRdDc72JLIn7XHbAYE9yzbge8.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 17 Sep 2026 16:13:10 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:58ԱնոնսՍեպտեմբերի 18-ի միջոցառումների անոնս</title>
-      <link>https://armenpress.am/hy/article/1260720</link>
-      <description>17:58ԱնոնսՍեպտեմբերի 18-ի միջոցառումների անոնս - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1260720</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/17/KQAVA91RiGxpB8M0hZUbomC50iPOjdg0tWJkCLZs.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 17 Sep 2026 16:11:10 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:40ԵվրոպաԳինու ազգային օրվա կապակցությամբ Մոլդովայի Մեծ ազգային ժողովի հրապարակում հսկայական խաղողի վազ կտեղադրվի․ Moldpres</title>
-      <link>https://armenpress.am/hy/article/1260719</link>
-      <description>17:40ԵվրոպաԳինու ազգային օրվա կապակցությամբ Մոլդովայի Մեծ ազգային ժողովի հրապարակում հսկայական խաղողի վազ կտեղադրվի․ Moldpres - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1260719</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/17/tZunmq86rnGwbEUVI0VM1J5wznHntG9WY3onTpcZ.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 17 Sep 2026 16:09:10 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 19:31:03 -0000</pubDate>
     </item>
   </channel>
 </rss>
