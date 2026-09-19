@@ -5,19 +5,19 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Sat, 19 Sep 2026 13:19:45 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 16:44:05 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
       <link>https://armenpress.am/hy/articles</link>
     </image>
     <item>
-      <title>Երևան27 °C</title>
+      <title>Երևան23 °C</title>
       <link>https://armenpress.am/hy/articles/weather</link>
-      <description>Երևան27 °C - Read on armenpress.am.</description>
+      <description>Երևան23 °C - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
-      <enclosure url="https://armenpress.am/assets/weather/03d.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 19 Sep 2026 13:19:45 -0000</pubDate>
+      <enclosure url="https://armenpress.am/assets/weather/03n.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Sat, 19 Sep 2026 16:44:05 -0000</pubDate>
     </item>
     <item>
       <title>USD / AMD363.44</title>
@@ -25,28 +25,68 @@
       <description>USD / AMD363.44 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 19 Sep 2026 13:17:45 -0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 16:42:05 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
       <link>https://armenpress.am/hy/articles/fact-check</link>
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Sat, 19 Sep 2026 13:15:45 -0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 16:40:05 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
       <link>https://armenpress.am/hy/articles/projects</link>
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Sat, 19 Sep 2026 13:13:45 -0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 16:38:05 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://armenpress.am/hy/articles/interviews</link>
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Sat, 19 Sep 2026 13:11:45 -0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 16:36:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>20:41ՍպորտՀայաստանի շախմատի տղամարդկանց թիմը չորրորդ անընդմեջ հաղթանակը տոնեց Օլիմպիադայում</title>
+      <link>https://armenpress.am/hy/article/1260876</link>
+      <description>20:41ՍպորտՀայաստանի շախմատի տղամարդկանց թիմը չորրորդ անընդմեջ հաղթանակը տոնեց Օլիմպիադայում - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1260876</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/19/b0YHTmRFD8MoKDNfBbLr3hpWe9MA6DU0PZoOmOAJ.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sat, 19 Sep 2026 16:34:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>17:58ԵվրոպաՀաագայում ծայրահեղ աջերի ցույցի ժամանակ անկարգություններ են եղել</title>
+      <link>https://armenpress.am/hy/article/1260874</link>
+      <description>17:58ԵվրոպաՀաագայում ծայրահեղ աջերի ցույցի ժամանակ անկարգություններ են եղել - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1260874</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/19/50aT9vitWjsKkNI7LEZwlrFsPWtzCNxlO2gnL4xa.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sat, 19 Sep 2026 16:32:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>17:40ԱշխարհԻնտերպոլն ԱԲ-ի օգնությամբ նույնականացրել է ահաբեկչության մեջ կասկածվող 126 անձի</title>
+      <link>https://armenpress.am/hy/article/1260875</link>
+      <description>17:40ԱշխարհԻնտերպոլն ԱԲ-ի օգնությամբ նույնականացրել է ահաբեկչության մեջ կասկածվող 126 անձի - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1260875</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/19/tOKVDSVArXGsezVGdC86bzr9Q6teU3wgliLUpvg8.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sat, 19 Sep 2026 16:30:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>17:30ԱշխարհՍիրիայի Դեյր էզ Զորում զինապահեստի պայթյունից զոհվել է ՊՆ 11 ծառայող</title>
+      <link>https://armenpress.am/hy/article/1260873</link>
+      <description>17:30ԱշխարհՍիրիայի Դեյր էզ Զորում զինապահեստի պայթյունից զոհվել է ՊՆ 11 ծառայող - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1260873</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/19/WzMEMg65WoDXtdEBOYskl8CzZFQXBHnZXm8WXBxY.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sat, 19 Sep 2026 16:28:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>17:20ԱնոնսՍեպտեմբերի 21-ի միջոցառումների անոնս</title>
+      <link>https://armenpress.am/hy/article/1260872</link>
+      <description>17:20ԱնոնսՍեպտեմբերի 21-ի միջոցառումների անոնս - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1260872</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/19/b0YHTmRFD8MoKDNfBbLr3hpWe9MA6DU0PZoOmOAJ.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sat, 19 Sep 2026 16:26:05 -0000</pubDate>
     </item>
     <item>
       <title>17:12ԵվրոպաՀորդառատ անձրևը հեղեղել է Հռոմի փողոցները</title>
@@ -54,7 +94,7 @@
       <description>17:12ԵվրոպաՀորդառատ անձրևը հեղեղել է Հռոմի փողոցները - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1260871</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/19/MOWlydWl8BltDpIOyEptesGT5IYLUOW2wXTbrsW4.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 19 Sep 2026 13:09:45 -0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 16:24:05 -0000</pubDate>
     </item>
     <item>
       <title>17:01ՀայաստանՈստիկանությունում կամ փրկարար ծառայությունում 10 տարի անընդմեջ ծառայած անձանց պարտադիր զինծառայության պարտականությունը կարող է համարվել իրացված</title>
@@ -62,15 +102,15 @@
       <description>17:01ՀայաստանՈստիկանությունում կամ փրկարար ծառայությունում 10 տարի անընդմեջ ծառայած անձանց պարտադիր զինծառայության պարտականությունը կարող է համարվել իրացված - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1260869</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/19/uO6STX51NGOdHb39Aw5dza3ZEhS4nEyqwG2y1IoZ.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 19 Sep 2026 13:07:45 -0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 16:22:05 -0000</pubDate>
     </item>
     <item>
       <title>16:47ԱնոնսՍեպտեմբերի 20-ի միջոցառումների անոնս</title>
       <link>https://armenpress.am/hy/article/1260870</link>
       <description>16:47ԱնոնսՍեպտեմբերի 20-ի միջոցառումների անոնս - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1260870</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/19/MOWlydWl8BltDpIOyEptesGT5IYLUOW2wXTbrsW4.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 19 Sep 2026 13:05:45 -0000</pubDate>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/19/b0YHTmRFD8MoKDNfBbLr3hpWe9MA6DU0PZoOmOAJ.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sat, 19 Sep 2026 16:20:05 -0000</pubDate>
     </item>
     <item>
       <title>16:35Մերձավոր ԱրևելքՀարավային Լիբանանում իսրայելական հրետակոծության հետևանքով երկու մարդ է վիրավորվել</title>
@@ -78,7 +118,7 @@
       <description>16:35Մերձավոր ԱրևելքՀարավային Լիբանանում իսրայելական հրետակոծության հետևանքով երկու մարդ է վիրավորվել - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1260868</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/19/CuOi8Tdy5CZrRysJsiPNQEk7CsK6MAegZNJxTou0.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 19 Sep 2026 13:03:45 -0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 16:18:05 -0000</pubDate>
     </item>
     <item>
       <title>16:23ՄշակույթՍեպտեմբերի 21-ին մի շարք պատմամշակութային վայրեր կաշխատեն մինչև ուշ երեկո</title>
@@ -86,7 +126,7 @@
       <description>16:23ՄշակույթՍեպտեմբերի 21-ին մի շարք պատմամշակութային վայրեր կաշխատեն մինչև ուշ երեկո - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1260867</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/19/1mDnElpplCo9vF9KtJnUSS4Icl5s3DSPX0MXtFDH.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 19 Sep 2026 13:01:45 -0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 16:16:05 -0000</pubDate>
     </item>
     <item>
       <title>16:04ՏնտեսությունՇուկայի վերահսկողության տեսչական մարմնում քննարկվել են թվայնացման և արհեստական բանականության կիրառման հարցեր</title>
@@ -94,7 +134,7 @@
       <description>16:04ՏնտեսությունՇուկայի վերահսկողության տեսչական մարմնում քննարկվել են թվայնացման և արհեստական բանականության կիրառման հարցեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1260866</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/19/egb5b7wELJLk51pN6HtEzlthnQOrgdXOyciehnVa.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 19 Sep 2026 12:59:45 -0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 16:14:05 -0000</pubDate>
     </item>
     <item>
       <title>15:48ԻրավունքՇենգավիթում 48-ամյա տղամարդու մեքենայից հայտնաբերվել են մեթամֆետամին և մարիխուանա</title>
@@ -102,7 +142,7 @@
       <description>15:48ԻրավունքՇենգավիթում 48-ամյա տղամարդու մեքենայից հայտնաբերվել են մեթամֆետամին և մարիխուանա - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1260865</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/19/3nOYLdrDISKWOo1zUDoN16TADGarvlNuZQzWnHRi.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 19 Sep 2026 12:57:45 -0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 16:12:05 -0000</pubDate>
     </item>
     <item>
       <title>15:34ԵվրոպաՄեծ քանակությամբ սնդիկ կրող գերմանական սուզանավը բնապահպանական խնդիր է դարձել Նորվեգիայի համար</title>
@@ -110,7 +150,7 @@
       <description>15:34ԵվրոպաՄեծ քանակությամբ սնդիկ կրող գերմանական սուզանավը բնապահպանական խնդիր է դարձել Նորվեգիայի համար - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1260864</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/19/8NQJ5V32f3hrMEh3N33P90lDT9T9x2syrEqGE1NU.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 19 Sep 2026 12:55:45 -0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 16:10:05 -0000</pubDate>
     </item>
     <item>
       <title>15:25ԱշխարհՊակիստանում ոստիկանական համալիրի վրա հարձակումից հետո սպանվել է 8 զինյալ</title>
@@ -118,7 +158,7 @@
       <description>15:25ԱշխարհՊակիստանում ոստիկանական համալիրի վրա հարձակումից հետո սպանվել է 8 զինյալ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1260863</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/19/MizyjgQv0vXouuZSVVVFYWI4hOiEw69zxoTSM2rv.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 19 Sep 2026 12:53:45 -0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 16:08:05 -0000</pubDate>
     </item>
     <item>
       <title>15:03Քաղաքականություն«Հայաստան» խմբակցության պատգամավորները Շվեդիայի, Նիդեռլանդների և Բելգիայի դեսպանների հետ քննարկել են արտաքին մարտահրավերները</title>
@@ -126,47 +166,7 @@
       <description>15:03Քաղաքականություն«Հայաստան» խմբակցության պատգամավորները Շվեդիայի, Նիդեռլանդների և Բելգիայի դեսպանների հետ քննարկել են արտաքին մարտահրավերները - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1260862</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/19/kqBXoubHargLtgxyWHNZi5GtwDnFRdM22Bqv9kw8.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 19 Sep 2026 12:51:45 -0000</pubDate>
-    </item>
-    <item>
-      <title>14:48Միացյալ ՆահանգներԱՄՆ-ն հաստատել է Ուկրաինային 2,7 միլիարդ դոլար արժողությամբ սպառազինության վաճառքը</title>
-      <link>https://armenpress.am/hy/article/1260860</link>
-      <description>14:48Միացյալ ՆահանգներԱՄՆ-ն հաստատել է Ուկրաինային 2,7 միլիարդ դոլար արժողությամբ սպառազինության վաճառքը - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1260860</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/19/JiotZMnQ16GWozmsc5xHWJVtofoI5Olu5fr1bRgu.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 19 Sep 2026 12:49:45 -0000</pubDate>
-    </item>
-    <item>
-      <title>14:29ՀայաստանՀայաստանի առանձին շրջաններում սպասվում է կարճատև անձրև և ամպրոպ, հնարավոր է նաև կարկուտ</title>
-      <link>https://armenpress.am/hy/article/1260861</link>
-      <description>14:29ՀայաստանՀայաստանի առանձին շրջաններում սպասվում է կարճատև անձրև և ամպրոպ, հնարավոր է նաև կարկուտ - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1260861</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/19/SHLjOkIp3x4I5qRZwc01WXnKnm9ZiIPjsvPdUM4Y.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 19 Sep 2026 12:47:45 -0000</pubDate>
-    </item>
-    <item>
-      <title>14:16Միացյալ ՆահանգներՀայաստանն ու ԱՄՆ-ն ամփոփել են պաշտպանական համագործակցության ծրագրերը և ստորագրել արձանագրություն</title>
-      <link>https://armenpress.am/hy/article/1260859</link>
-      <description>14:16Միացյալ ՆահանգներՀայաստանն ու ԱՄՆ-ն ամփոփել են պաշտպանական համագործակցության ծրագրերը և ստորագրել արձանագրություն - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1260859</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/19/ltjgw3IoMv9bg1HAsTOGF1TUJ7i3bre3yIbhCTuK.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 19 Sep 2026 12:45:45 -0000</pubDate>
-    </item>
-    <item>
-      <title>14:06ՏնտեսությունՌԴ դեսպանը Սյունիքում այցելել է Զանգեզուրի և Ագարակի պղնձամոլիբդենային կոմբինատներ</title>
-      <link>https://armenpress.am/hy/article/1260858</link>
-      <description>14:06ՏնտեսությունՌԴ դեսպանը Սյունիքում այցելել է Զանգեզուրի և Ագարակի պղնձամոլիբդենային կոմբինատներ - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1260858</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/19/h3f9ljzXf8HYZY415k9KvJA82yfnQblziLHG8I9d.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 19 Sep 2026 12:43:45 -0000</pubDate>
-    </item>
-    <item>
-      <title>14:01ԻրավունքՋերմուկ քաղաքում հայտնաբերվել է 24 շիշ կեղծ օղի և 1738 տուփ ծխախոտ. 31-ամյա տղամարդը ձերբակալվել է</title>
-      <link>https://armenpress.am/hy/article/1260855</link>
-      <description>14:01ԻրավունքՋերմուկ քաղաքում հայտնաբերվել է 24 շիշ կեղծ օղի և 1738 տուփ ծխախոտ. 31-ամյա տղամարդը ձերբակալվել է - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1260855</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/19/xvYRJ6mb30j7L0XCZun1lETsClrSsI0II1mkRz5I.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 19 Sep 2026 12:41:45 -0000</pubDate>
+      <pubDate>Sat, 19 Sep 2026 16:06:05 -0000</pubDate>
     </item>
   </channel>
 </rss>
