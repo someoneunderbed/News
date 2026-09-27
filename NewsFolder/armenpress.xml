@@ -5,19 +5,19 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Sun, 27 Sep 2026 07:00:50 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 13:14:05 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
       <link>https://armenpress.am/hy/articles</link>
     </image>
     <item>
-      <title>Երևան22 °C</title>
+      <title>Երևան26 °C</title>
       <link>https://armenpress.am/hy/articles/weather</link>
-      <description>Երևան22 °C - Read on armenpress.am.</description>
+      <description>Երևան26 °C - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
-      <enclosure url="https://armenpress.am/assets/weather/03d.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 07:00:50 -0000</pubDate>
+      <enclosure url="https://armenpress.am/assets/weather/02n.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 27 Sep 2026 13:14:05 -0000</pubDate>
     </item>
     <item>
       <title>USD / AMD363.52</title>
@@ -25,28 +25,76 @@
       <description>USD / AMD363.52 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 06:58:50 -0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 13:12:05 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
       <link>https://armenpress.am/hy/articles/fact-check</link>
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Sun, 27 Sep 2026 06:56:50 -0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 13:10:05 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
       <link>https://armenpress.am/hy/articles/projects</link>
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Sun, 27 Sep 2026 06:54:50 -0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 13:08:05 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://armenpress.am/hy/articles/interviews</link>
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Sun, 27 Sep 2026 06:52:50 -0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 13:06:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>15:57ՀայաստանՀանրապետությունում օդի ջերմաստիճանը կնվազի 3-6 աստիճանով</title>
+      <link>https://armenpress.am/hy/article/1261425</link>
+      <description>15:57ՀայաստանՀանրապետությունում օդի ջերմաստիճանը կնվազի 3-6 աստիճանով - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1261425</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/27/szcQIway29efJwdNpFbnr5kqMKmkReJtEhPQJ9G1.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 27 Sep 2026 13:04:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>15:48ՀայաստանՎարչապետը մասնակցել է պատարագի</title>
+      <link>https://armenpress.am/hy/article/1261424</link>
+      <description>15:48ՀայաստանՎարչապետը մասնակցել է պատարագի - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1261424</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/27/qb856U7tZQ7IQoOb7dKJFM9xAvj3XKaH8jXVE57E.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 27 Sep 2026 13:02:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>13:40ԱշխարհOpenAI-ի և Anthropic-ի գործադիր տնօրենները կանչվել են Ավստրալիայի Սենատ ԱԲ թեմայով լսումների</title>
+      <link>https://armenpress.am/hy/article/1261423</link>
+      <description>13:40ԱշխարհOpenAI-ի և Anthropic-ի գործադիր տնօրենները կանչվել են Ավստրալիայի Սենատ ԱԲ թեմայով լսումների - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1261423</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/27/ALzMwAOYMb9jZ4r5pIUFqh5OGBTTSkiw8W9M9oi0.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 27 Sep 2026 13:00:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>12:46ԱշխարհՀայազգի տիեզերագնաց Հարություն Կիվիրյանը կուղևորվի Միջազգային տիեզերակայան</title>
+      <link>https://armenpress.am/hy/article/1261422</link>
+      <description>12:46ԱշխարհՀայազգի տիեզերագնաց Հարություն Կիվիրյանը կուղևորվի Միջազգային տիեզերակայան - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1261422</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/27/yl5LlnNvpasNhpSWvEBYJIHcxXivGx9MIwhknUDd.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 27 Sep 2026 12:58:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>12:01ՄշակույթՎանաձորում տեղի է ունեցել «Վերջին հանգրվան» ներկայացման պրեմիերան</title>
+      <link>https://armenpress.am/hy/article/1261421</link>
+      <description>12:01ՄշակույթՎանաձորում տեղի է ունեցել «Վերջին հանգրվան» ներկայացման պրեմիերան - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1261421</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/27/ba1jtOpO5GAOvtNg70G4H2E7F6KaTxYBRvsZo8u8.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 27 Sep 2026 12:56:05 -0000</pubDate>
+    </item>
+    <item>
+      <title>11:13ՀայաստանՏԻՄ ընտրությունների շրջանակում շրջիկ սպասարկման գրասենյակները ծառայություններ են մատուցում Լոռու և Կոտայքի մարզերում</title>
+      <link>https://armenpress.am/hy/article/1261420</link>
+      <description>11:13ՀայաստանՏԻՄ ընտրությունների շրջանակում շրջիկ սպասարկման գրասենյակները ծառայություններ են մատուցում Լոռու և Կոտայքի մարզերում - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1261420</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/27/uVzGqp1UeXrSQG0HnkMsHRYgDD4Bjq77QjWfnHfJ.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 27 Sep 2026 12:54:05 -0000</pubDate>
     </item>
     <item>
       <title>10:51ՀայաստանՀայաստանի մի շարք համայնքներում ՏԻՄ ընտրություններ են</title>
@@ -54,7 +102,7 @@
       <description>10:51ՀայաստանՀայաստանի մի շարք համայնքներում ՏԻՄ ընտրություններ են - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1261419</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/27/CFLfUkv0HDgciiaHT7glABY27PidUxZqnJhh8iUj.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 06:50:50 -0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 12:52:05 -0000</pubDate>
     </item>
     <item>
       <title>18:00, 26 սեպտեմբերիՌուսաստանՍանկտ Պետերբուրգում հոկտեմբերի 1-ից կչեղարկվեն կորոնավիրուսային սահմանափակումները</title>
@@ -62,7 +110,7 @@
       <description>18:00, 26 սեպտեմբերիՌուսաստանՍանկտ Պետերբուրգում հոկտեմբերի 1-ից կչեղարկվեն կորոնավիրուսային սահմանափակումները - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1261418</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/26/PEsvqVv1AX9O8CrqvlxrBXeb92Z2GY5PIDxogHCW.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 06:48:50 -0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 12:50:05 -0000</pubDate>
     </item>
     <item>
       <title>17:59, 26 սեպտեմբերիԱշխարհԱրևադարձային անձրևների պատճառով Բանգկոկում ջրհեղեղ է եղել</title>
@@ -70,7 +118,7 @@
       <description>17:59, 26 սեպտեմբերիԱշխարհԱրևադարձային անձրևների պատճառով Բանգկոկում ջրհեղեղ է եղել - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1261415</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/26/aWPKzNmdW3OXG7YggoPA4ptscZ1oqeJpTe8aaHG2.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 06:46:50 -0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 12:48:05 -0000</pubDate>
     </item>
     <item>
       <title>17:46, 26 սեպտեմբերիԱդրբեջանԱդրբեջանի և Ռուսաստանի փոխվարչապետները քննարկել են էներգետիկայի և լոգիստիկ ոլորտներում համագործակցությունը</title>
@@ -78,7 +126,7 @@
       <description>17:46, 26 սեպտեմբերիԱդրբեջանԱդրբեջանի և Ռուսաստանի փոխվարչապետները քննարկել են էներգետիկայի և լոգիստիկ ոլորտներում համագործակցությունը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1261411</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/26/ecCOYdDkfgmtYktFcy72L1faM3J2TqJM8HfzSC9d.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 06:44:50 -0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 12:46:05 -0000</pubDate>
     </item>
     <item>
       <title>17:43, 26 սեպտեմբերիԻրանԻրանի նախագահն օգնություն է առաջարկել Եմենում հակամարտության կարգավորման գործում</title>
@@ -86,7 +134,7 @@
       <description>17:43, 26 սեպտեմբերիԻրանԻրանի նախագահն օգնություն է առաջարկել Եմենում հակամարտության կարգավորման գործում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1261417</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/26/10GQLHP6P62vG1mwc6iLOn51IZlkSDLSellpQ0Dx.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 06:42:50 -0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 12:44:05 -0000</pubDate>
     </item>
     <item>
       <title>17:35, 26 սեպտեմբերիՀայաստանՀայաստանի ԱԳՄԱ նախարարն ու Կիպրոսի ԱԳ նախարարը քննարկել են բարձր տեխնոլոգիաների ու առևտրատնտեսական ոլորտներում համագործակցության ընդլայնումը</title>
@@ -94,7 +142,7 @@
       <description>17:35, 26 սեպտեմբերիՀայաստանՀայաստանի ԱԳՄԱ նախարարն ու Կիպրոսի ԱԳ նախարարը քննարկել են բարձր տեխնոլոգիաների ու առևտրատնտեսական ոլորտներում համագործակցության ընդլայնումը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1261416</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/26/gxVKVrqzRXiEjcdYR4QA5hlkQ21Mqa1nXEvOSfOv.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 06:40:50 -0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 12:42:05 -0000</pubDate>
     </item>
     <item>
       <title>17:28, 26 սեպտեմբերիՀայաստանԴավիթ Կարապետյանը մասնակցել է «Երկու պետություն» սկզբունքի իրականացմանը նվիրված նախարարական հանդիպմանը</title>
@@ -102,7 +150,7 @@
       <description>17:28, 26 սեպտեմբերիՀայաստանԴավիթ Կարապետյանը մասնակցել է «Երկու պետություն» սկզբունքի իրականացմանը նվիրված նախարարական հանդիպմանը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1261414</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/26/jKyf5xNHvjZ6faMF55HQQ3EZAIpDhgDS03CiiVEv.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 06:38:50 -0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 12:40:05 -0000</pubDate>
     </item>
     <item>
       <title>17:14, 26 սեպտեմբերիԱշխարհՄակրոնը չի բացառել 2032 թվականին Ֆրանսիայի նախագահի պաշտոնում վերադառնալու հնարավորությունը</title>
@@ -110,7 +158,7 @@
       <description>17:14, 26 սեպտեմբերիԱշխարհՄակրոնը չի բացառել 2032 թվականին Ֆրանսիայի նախագահի պաշտոնում վերադառնալու հնարավորությունը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1261408</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/26/gMesch33NxZFL3xaEEK2LoleDgZ9253JjsFfvnVY.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 06:36:50 -0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 12:38:05 -0000</pubDate>
     </item>
     <item>
       <title>16:52, 26 սեպտեմբերիՀայաստանՄիրզոյանը ՄԱԿ-ի Փախստականների հարցերով գերագույն հանձնակատարի հետ քննարկել է Ղարաբաղից տեղահանվածների երկարաժամկետ ինտեգրումը</title>
@@ -118,55 +166,7 @@
       <description>16:52, 26 սեպտեմբերիՀայաստանՄիրզոյանը ՄԱԿ-ի Փախստականների հարցերով գերագույն հանձնակատարի հետ քննարկել է Ղարաբաղից տեղահանվածների երկարաժամկետ ինտեգրումը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1261413</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/26/FxugnSzNDAEC63Lv1FZBoZZeTPvKLuqcaAQYp3im.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 06:34:50 -0000</pubDate>
-    </item>
-    <item>
-      <title>16:40, 26 սեպտեմբերիՀայաստանԱրարատ Միրզոյանը Նյու Յորքում մասնակցել է միջազգային խաղաղության և անվտանգության ոլորտում ԱԲ-ի կիրառմանը նվիրված քննարկմանը</title>
-      <link>https://armenpress.am/hy/article/1261412</link>
-      <description>16:40, 26 սեպտեմբերիՀայաստանԱրարատ Միրզոյանը Նյու Յորքում մասնակցել է միջազգային խաղաղության և անվտանգության ոլորտում ԱԲ-ի կիրառմանը նվիրված քննարկմանը - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1261412</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/26/i0tmjOhpsb040YVdPhdskxrnAb8jz3wc0S5GMzI4.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 06:32:50 -0000</pubDate>
-    </item>
-    <item>
-      <title>16:28, 26 սեպտեմբերիՌուսաստանՎուչիչը Պուտինին տեղեկացրել է իր առաջիկա հրաժարականի մասին</title>
-      <link>https://armenpress.am/hy/article/1261407</link>
-      <description>16:28, 26 սեպտեմբերիՌուսաստանՎուչիչը Պուտինին տեղեկացրել է իր առաջիկա հրաժարականի մասին - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1261407</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/26/61Z0hdin67bGJxLMyPgzAZ8bGAU0pZ1MvmhSjXxY.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 06:30:50 -0000</pubDate>
-    </item>
-    <item>
-      <title>16:19, 26 սեպտեմբերիԱնոնսՍեպտեմբերի 28-ի միջոցառումների անոնս</title>
-      <link>https://armenpress.am/hy/article/1261410</link>
-      <description>16:19, 26 սեպտեմբերիԱնոնսՍեպտեմբերի 28-ի միջոցառումների անոնս - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1261410</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/27/CFLfUkv0HDgciiaHT7glABY27PidUxZqnJhh8iUj.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 06:28:50 -0000</pubDate>
-    </item>
-    <item>
-      <title>16:15, 26 սեպտեմբերիՀայաստանՀայաստանում օդի ջերմաստիճանը կնվազի 3-5 աստիճանով</title>
-      <link>https://armenpress.am/hy/article/1261409</link>
-      <description>16:15, 26 սեպտեմբերիՀայաստանՀայաստանում օդի ջերմաստիճանը կնվազի 3-5 աստիճանով - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1261409</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/26/DCfotb2A4MxFEKLKPpjgrK642KHxvtMsCH2lKa1a.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 06:26:50 -0000</pubDate>
-    </item>
-    <item>
-      <title>16:10, 26 սեպտեմբերիԱշխարհԻնքնաթիռն արտակարգ վայրէջք է կատարել Անթալիայում ուղևորի մահվան պատճառով</title>
-      <link>https://armenpress.am/hy/article/1261405</link>
-      <description>16:10, 26 սեպտեմբերիԱշխարհԻնքնաթիռն արտակարգ վայրէջք է կատարել Անթալիայում ուղևորի մահվան պատճառով - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1261405</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/26/8HZFwQINEl6UCUn0Nuq6KmSEP2P2xBjRh577dSuZ.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 06:24:50 -0000</pubDate>
-    </item>
-    <item>
-      <title>15:44, 26 սեպտեմբերիՀայաստանԵՄ անդամ երկրների դեսպանները Սյունիքում քննարկել են «Դիմակայուն Սյունիք» նախաձեռնության հետագա առաջնահերթությունները</title>
-      <link>https://armenpress.am/hy/article/1261406</link>
-      <description>15:44, 26 սեպտեմբերիՀայաստանԵՄ անդամ երկրների դեսպանները Սյունիքում քննարկել են «Դիմակայուն Սյունիք» նախաձեռնության հետագա առաջնահերթությունները - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1261406</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/09/26/yu43GjT1DGz7tdxdhDCbihlOmmpBbJIcUlxep1uk.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 06:22:50 -0000</pubDate>
+      <pubDate>Sun, 27 Sep 2026 12:36:05 -0000</pubDate>
     </item>
   </channel>
 </rss>
