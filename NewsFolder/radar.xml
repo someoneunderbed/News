@@ -5,7 +5,7 @@
     <link>https://radar.am/hy/feed/</link>
     <description>Cleaned RSS feed updated from radar.am.</description>
     <language>hy</language>
-    <lastBuildDate>Sun, 27 Sep 2026 23:53:47 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 05:04:56 -0000</lastBuildDate>
     <image>
       <url>https://radar.am/static/radar/images/logo-white.4c8b6b003ba3.svg</url>
       <title>radar.am</title>
@@ -16,58 +16,82 @@
       <link>https://radar.am/hy/category/social</link>
       <description>Հասարակություն - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/category/social</guid>
-      <pubDate>Sun, 27 Sep 2026 23:53:47 -0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 05:04:56 -0000</pubDate>
     </item>
     <item>
       <title>Միջազգային</title>
       <link>https://radar.am/hy/category/world</link>
       <description>Միջազգային - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/category/world</guid>
-      <pubDate>Sun, 27 Sep 2026 23:51:47 -0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 05:02:56 -0000</pubDate>
     </item>
     <item>
       <title>Վերլուծություն</title>
       <link>https://radar.am/hy/category/opinion</link>
       <description>Վերլուծություն - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/category/opinion</guid>
-      <pubDate>Sun, 27 Sep 2026 23:49:47 -0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 05:00:56 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://radar.am/hy/category/interview</link>
       <description>Հարցազրույց - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/category/interview</guid>
-      <pubDate>Sun, 27 Sep 2026 23:47:47 -0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 04:58:56 -0000</pubDate>
     </item>
     <item>
       <title>Գիտություն</title>
       <link>https://radar.am/hy/category/science</link>
       <description>Գիտություն - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/category/science</guid>
-      <pubDate>Sun, 27 Sep 2026 23:45:47 -0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 04:56:56 -0000</pubDate>
     </item>
     <item>
       <title>Ցուցադրել բոլորը</title>
       <link>https://radar.am/hy/category/armenia</link>
       <description>Ցուցադրել բոլորը - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/category/armenia</guid>
-      <pubDate>Sun, 27 Sep 2026 23:43:47 -0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 04:54:56 -0000</pubDate>
     </item>
     <item>
-      <title>Սերբիայի նախագահ Ալեքսանդր Վուչիչը հրաժարական է տվելԵրեկ, 23:27Ալեքսանդր Վուչիչը հայտարարել է, որ սեպտեմբերի 27-ին հեռանում է պաշտոնից</title>
+      <title>Սպասվում է կարճատև անձրև և ամպրոպԱյսօր, 9:00Օդի ջերմաստիճանը սեպտեմբերի 28-30-ը կնվազի</title>
+      <link>https://radar.am/hy/news/social-2781032375/</link>
+      <description>Սպասվում է կարճատև անձրև և ամպրոպԱյսօր, 9:00Օդի ջերմաստիճանը սեպտեմբերի 28-30-ը կնվազի - Read on radar.am.</description>
+      <guid isPermaLink="false">https://radar.am/hy/news/social-2781032375/</guid>
+      <enclosure url="https://media.radar.am/media/articles/images/0920267635025e7e7b41c88ecb24ac1bc663f1.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 28 Sep 2026 04:52:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Հարավային Կորեան Ուկրաինայից պահանջում է ներողություն խնդրելԱյսօր, 8:30Հարավային Կորեայի նախագահի աշխատակազմը Ուկրաինայից պաշտոնական պարզաբանումներ և ներողություն է պահանջել։</title>
+      <link>https://radar.am/hy/news/world-2781192478/</link>
+      <description>Հարավային Կորեան Ուկրաինայից պահանջում է ներողություն խնդրելԱյսօր, 8:30Հարավային Կորեայի նախագահի աշխատակազմը Ուկրաինայից պաշտոնական պարզաբանումներ և ներողություն է պահանջել։ - Read on radar.am.</description>
+      <guid isPermaLink="false">https://radar.am/hy/news/world-2781192478/</guid>
+      <enclosure url="https://media.radar.am/media/articles/images/092826743d801994ae43f8947a78ee4ffde3d3.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 28 Sep 2026 04:50:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Այսօր, 8:00Նավթի գները կրկին աճել ենԵրկուշաբթի օրը նավթի գները աճել են ավելի քան 1%-ով այն բանից հետո, երբ ԱՄՆ նախագահ Դոնալդ Թրամփը մերժեց Իրանի հակամարտության կարգավորման և Հորմուզի նեղուցի վերաբացման խաղաղության առաջարկը։</title>
+      <link>https://radar.am/hy/news/finance-2781111353/</link>
+      <description>Այսօր, 8:00Նավթի գները կրկին աճել ենԵրկուշաբթի օրը նավթի գները աճել են ավելի քան 1%-ով այն բանից հետո, երբ ԱՄՆ նախագահ Դոնալդ Թրամփը մերժեց Իրանի հակամարտության կարգավորման և Հորմուզի նեղուցի վերաբացման խաղաղության առաջարկը։ - Read on radar.am.</description>
+      <guid isPermaLink="false">https://radar.am/hy/news/finance-2781111353/</guid>
+      <enclosure url="https://media.radar.am/media/articles/images/0529266acec1071c574df8877db13e1a62ca75.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 28 Sep 2026 04:48:56 -0000</pubDate>
+    </item>
+    <item>
+      <title>Երեկ, 23:27Սերբիայի նախագահ Ալեքսանդր Վուչիչը հրաժարական է տվելԱլեքսանդր Վուչիչը հայտարարել է, որ սեպտեմբերի 27-ին հեռանում է պաշտոնից</title>
       <link>https://radar.am/hy/news/world-2781011901/</link>
-      <description>Սերբիայի նախագահ Ալեքսանդր Վուչիչը հրաժարական է տվելԵրեկ, 23:27Ալեքսանդր Վուչիչը հայտարարել է, որ սեպտեմբերի 27-ին հեռանում է պաշտոնից - Read on radar.am.</description>
+      <description>Երեկ, 23:27Սերբիայի նախագահ Ալեքսանդր Վուչիչը հրաժարական է տվելԱլեքսանդր Վուչիչը հայտարարել է, որ սեպտեմբերի 27-ին հեռանում է պաշտոնից - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/world-2781011901/</guid>
       <enclosure url="https://media.radar.am/media/articles/images/050325769f71ea6dde42caad548927537e0101.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 23:41:47 -0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 04:46:56 -0000</pubDate>
     </item>
     <item>
-      <title>Հոսանքազրկված բոլոր հասցեներում էլեկտրամատակարարումը վերականգնվել է՝ բացառությամբ մի քանի շենքի. ՀԷՑԵրեկ, 23:04ՀԷՑ-ից հայտնում են</title>
+      <title>Երեկ, 23:04Հոսանքազրկված բոլոր հասցեներում էլեկտրամատակարարումը վերականգնվել է՝ բացառությամբ մի քանի շենքի. ՀԷՑՀԷՑ-ից հայտնում են</title>
       <link>https://radar.am/hy/news/social-2781011591/</link>
-      <description>Հոսանքազրկված բոլոր հասցեներում էլեկտրամատակարարումը վերականգնվել է՝ բացառությամբ մի քանի շենքի. ՀԷՑԵրեկ, 23:04ՀԷՑ-ից հայտնում են - Read on radar.am.</description>
+      <description>Երեկ, 23:04Հոսանքազրկված բոլոր հասցեներում էլեկտրամատակարարումը վերականգնվել է՝ բացառությամբ մի քանի շենքի. ՀԷՑՀԷՑ-ից հայտնում են - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/social-2781011591/</guid>
       <enclosure url="https://media.radar.am/media/articles/images/03162656d51b062e9843a9b111fcf427a81aa1.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 23:39:47 -0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 04:44:56 -0000</pubDate>
     </item>
     <item>
       <title>Երեկ, 22:31Թրամփն ակնկալում է, որ Իրանի հետ բանակցություններ կանցկացվեն այս շաբաթ․ AxiosԱյդ մասին նա ասել է Axios-ին</title>
@@ -75,68 +99,44 @@
       <description>Երեկ, 22:31Թրամփն ակնկալում է, որ Իրանի հետ բանակցություններ կանցկացվեն այս շաբաթ․ AxiosԱյդ մասին նա ասել է Axios-ին - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/world-2781028950/</guid>
       <enclosure url="https://media.radar.am/media/articles/images/0927264881a06f661b44c3a0c213964ba0907f.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 23:37:47 -0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 04:42:56 -0000</pubDate>
     </item>
     <item>
       <title>Երեկ, 21:39Ավարտվել է ՏԻՄ ընտրությունների քվեարկությունը․ մասնակցության արդյունքները․ ԿԸՀԿենտրոնական ընտրական հանձնաժողովից հայտնում են․</title>
       <link>https://radar.am/hy/news/social-2781023877/</link>
       <description>Երեկ, 21:39Ավարտվել է ՏԻՄ ընտրությունների քվեարկությունը․ մասնակցության արդյունքները․ ԿԸՀԿենտրոնական ընտրական հանձնաժողովից հայտնում են․ - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/social-2781023877/</guid>
-      <enclosure url="https://media.radar.am/media/articles/images/09272609b8ae3a37fc4640bfd1e4d620c975f1.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 23:35:47 -0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 04:40:56 -0000</pubDate>
     </item>
     <item>
       <title>Երեկ, 21:29Սեղանին դրված է գործարքի շատ ողջամիտ ծրագիր․ ԱրաղչիԱրաղչին նաև նշել է, որ ուրանի 60%-անոց հարստացումն անօրինական չէ։</title>
       <link>https://radar.am/hy/news/world-2781013912/</link>
       <description>Երեկ, 21:29Սեղանին դրված է գործարքի շատ ողջամիտ ծրագիր․ ԱրաղչիԱրաղչին նաև նշել է, որ ուրանի 60%-անոց հարստացումն անօրինական չէ։ - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/world-2781013912/</guid>
-      <enclosure url="https://media.radar.am/media/articles/images/091526e0691b0c31c24d1da404fda9f0b526d0.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 23:33:47 -0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 04:38:56 -0000</pubDate>
     </item>
     <item>
-      <title>Երեկ, 21:24Էլեկտրական ենթակայանում բռնկված հրդեհը մարվել է․ ՆԳՆԱյդ մասին հայտնում է ՆԳՆ խոսնակ Նարեկ Սարգսյանը։</title>
+      <title>Էլեկտրական ենթակայանում բռնկված հրդեհը մարվել է․ ՆԳՆԵրեկ, 21:24Այդ մասին հայտնում է ՆԳՆ խոսնակ Նարեկ Սարգսյանը։</title>
       <link>https://radar.am/hy/news/social-2781042789/</link>
-      <description>Երեկ, 21:24Էլեկտրական ենթակայանում բռնկված հրդեհը մարվել է․ ՆԳՆԱյդ մասին հայտնում է ՆԳՆ խոսնակ Նարեկ Սարգսյանը։ - Read on radar.am.</description>
+      <description>Էլեկտրական ենթակայանում բռնկված հրդեհը մարվել է․ ՆԳՆԵրեկ, 21:24Այդ մասին հայտնում է ՆԳՆ խոսնակ Նարեկ Սարգսյանը։ - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/social-2781042789/</guid>
       <enclosure url="https://media.radar.am/media/articles/images/09272691aea319c6a745fdba0ea3d7443530e6.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 23:31:47 -0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 04:36:56 -0000</pubDate>
     </item>
     <item>
-      <title>Երեկ, 21:17Հայաստանի շախմատի հավաքականները՝ օլիմպիադայի բրոնզե մեդալակիրներՀայ շախմատիստները արժանացել են նաև անհատական մեդալների։</title>
+      <title>Հայաստանի շախմատի հավաքականները՝ օլիմպիադայի բրոնզե մեդալակիրներԵրեկ, 21:17Հայ շախմատիստները արժանացել են նաև անհատական մեդալների։</title>
       <link>https://radar.am/hy/news/sport-2781019628/</link>
-      <description>Երեկ, 21:17Հայաստանի շախմատի հավաքականները՝ օլիմպիադայի բրոնզե մեդալակիրներՀայ շախմատիստները արժանացել են նաև անհատական մեդալների։ - Read on radar.am.</description>
+      <description>Հայաստանի շախմատի հավաքականները՝ օլիմպիադայի բրոնզե մեդալակիրներԵրեկ, 21:17Հայ շախմատիստները արժանացել են նաև անհատական մեդալների։ - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/sport-2781019628/</guid>
-      <pubDate>Sun, 27 Sep 2026 23:29:47 -0000</pubDate>
-    </item>
-    <item>
-      <title>Երեկ, 20:30Մակրոնի որոշումը, Կարմիր աֆիշը, ֆրանսիացու բանաձևը, Լուի Արագոնը, Մանուշյանների պանթեոնացումը (ՏԵՍԱՆՅՈՒԹ)«Առանց ֆիլտրի» հաղորդման հյուրն է «Մանուշյանը՝ Պանթեոնում» նախաձեռնության գլխավոր հեղինակներից և առաջ մղողներից Ժան-Պիեռ Սաքունը։</title>
-      <link>https://radar.am/hy/news/unfiltered-2781039273/</link>
-      <description>Երեկ, 20:30Մակրոնի որոշումը, Կարմիր աֆիշը, ֆրանսիացու բանաձևը, Լուի Արագոնը, Մանուշյանների պանթեոնացումը (ՏԵՍԱՆՅՈՒԹ)«Առանց ֆիլտրի» հաղորդման հյուրն է «Մանուշյանը՝ Պանթեոնում» նախաձեռնության գլխավոր հեղինակներից և առաջ մղողներից Ժան-Պիեռ Սաքունը։ - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/news/unfiltered-2781039273/</guid>
-      <pubDate>Sun, 27 Sep 2026 23:27:47 -0000</pubDate>
-    </item>
-    <item>
-      <title>Ո՞ր հասցեներն են հոսանքազրկվել՝ «Ծիծեռնակաբերդ» 110/6 կՎ ենթակայանում հրդեհի հետևանքովԵրեկ, 20:24Ներկա պահին հրդեհի հետևանքով հոսանքազրկվել են</title>
-      <link>https://radar.am/hy/news/social-2781022979/</link>
-      <description>Ո՞ր հասցեներն են հոսանքազրկվել՝ «Ծիծեռնակաբերդ» 110/6 կՎ ենթակայանում հրդեհի հետևանքովԵրեկ, 20:24Ներկա պահին հրդեհի հետևանքով հոսանքազրկվել են - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/news/social-2781022979/</guid>
-      <enclosure url="https://media.radar.am/media/articles/images/062725ef5ac011b2e04d4fa82f354015078ea9.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 23:25:47 -0000</pubDate>
-    </item>
-    <item>
-      <title>Հրդեհը մարելուց հետո ենթակայանում փորձաքննություն կիրականացնենք․ Ռոմանոս ՊետրոսյանԵրեկ, 20:10Այս պահին շուրջ 5 հազար բաժանորդ հոսանքազրկված է</title>
-      <link>https://radar.am/hy/news/social-2781017108/</link>
-      <description>Հրդեհը մարելուց հետո ենթակայանում փորձաքննություն կիրականացնենք․ Ռոմանոս ՊետրոսյանԵրեկ, 20:10Այս պահին շուրջ 5 հազար բաժանորդ հոսանքազրկված է - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/news/social-2781017108/</guid>
-      <enclosure url="https://media.radar.am/media/articles/images/080426b5275a6ada1d444b8239b240d4691a4c.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 23:23:47 -0000</pubDate>
+      <enclosure url="https://media.radar.am/media/articles/images/092726cc8fc20d2fd04cf898fc5bb1be283795.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 28 Sep 2026 04:34:56 -0000</pubDate>
     </item>
     <item>
       <title>Ռադար-Զրույց</title>
       <link>https://radar.am/hy/category/radar-interview/</link>
       <description>Ռադար-Զրույց - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/category/radar-interview/</guid>
-      <pubDate>Sun, 27 Sep 2026 23:21:47 -0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 04:32:56 -0000</pubDate>
     </item>
     <item>
       <title>25 Սեպտեմբերի, 20:33Կեղծ ամսաթվով վկայություններ. ինչ է ներկրվել եկեղեցու անվան տակ (ՏԵՍԱՆՅՈՒԹ)</title>
@@ -144,7 +144,7 @@
       <description>25 Սեպտեմբերի, 20:33Կեղծ ամսաթվով վկայություններ. ինչ է ներկրվել եկեղեցու անվան տակ (ՏԵՍԱՆՅՈՒԹ) - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/radar-interview-2780620928/</guid>
       <enclosure url="https://media.radar.am/media/articles/images/0925262e8011e60bc3400989279922b72002bf.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 23:19:47 -0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 04:30:56 -0000</pubDate>
     </item>
     <item>
       <title>23 Սեպտեմբերի, 20:31Աղետ է. գիրքն ավելի էժան է, քան մատնահարդարումը (ՏԵՍԱՆՅՈՒԹ)</title>
@@ -152,7 +152,7 @@
       <description>23 Սեպտեմբերի, 20:31Աղետ է. գիրքն ավելի էժան է, քան մատնահարդարումը (ՏԵՍԱՆՅՈՒԹ) - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/radar-interview-2780319174/</guid>
       <enclosure url="https://media.radar.am/media/articles/images/092326c288da4bfd21486191491c549492c126.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 23:17:47 -0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 04:28:56 -0000</pubDate>
     </item>
     <item>
       <title>17 Սեպտեմբերի, 20:34Ռուսաստանն այստեղ խառնակչություն կանի. գուցե ՌԴ-Թուրքիա պայմանավորվածություն կա (ՏԵՍԱՆՅՈՒԹ)</title>
@@ -160,7 +160,7 @@
       <description>17 Սեպտեմբերի, 20:34Ռուսաստանն այստեղ խառնակչություն կանի. գուցե ՌԴ-Թուրքիա պայմանավորվածություն կա (ՏԵՍԱՆՅՈՒԹ) - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/radar-interview-2779326538/</guid>
       <enclosure url="https://media.radar.am/media/articles/images/0917263b4a69052fd840f0b4cc68c318782cf0.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 27 Sep 2026 23:15:47 -0000</pubDate>
+      <pubDate>Mon, 28 Sep 2026 04:26:56 -0000</pubDate>
     </item>
   </channel>
 </rss>
