@@ -5,7 +5,7 @@
     <link>https://civic.am/last-news</link>
     <description>Cleaned RSS feed updated from Civic.am.</description>
     <language>hy</language>
-    <lastBuildDate>Fri, 02 Oct 2026 02:30:45 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 09:36:13 -0000</lastBuildDate>
     <image>
       <url>https://civic.am/assets/img/logo.svg</url>
       <title>Civic.am</title>
@@ -17,7 +17,7 @@
       <description>Վերջին լուրեր - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/last-news</guid>
       <enclosure url="https://civic.am/media/2024/06/04/54e0b527ad56ef4fc6dbee0929416a08173e97a2.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 02 Oct 2026 02:30:45 -0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 09:36:13 -0000</pubDate>
     </item>
     <item>
       <title>Քաղաքականություն</title>
@@ -25,7 +25,7 @@
       <description>Քաղաքականություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/politics</guid>
       <enclosure url="https://civic.am/media/2024/06/04/ee9d67f3bae2933126d54f7ed12f02ac869e2746.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 02 Oct 2026 02:28:45 -0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 09:34:13 -0000</pubDate>
     </item>
     <item>
       <title>Տնտեսություն</title>
@@ -33,7 +33,7 @@
       <description>Տնտեսություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/economy</guid>
       <enclosure url="https://civic.am/media/2024/06/04/6250050b286fb0f4d5ca02a2960ff947fae23145.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 02 Oct 2026 02:26:45 -0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 09:32:13 -0000</pubDate>
     </item>
     <item>
       <title>Հասարակություն</title>
@@ -41,7 +41,7 @@
       <description>Հասարակություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/society</guid>
       <enclosure url="https://civic.am/media/2024/06/04/a8c5d5498c6320597fb01c9cdf47748c74e9f67c.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 02 Oct 2026 02:24:45 -0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 09:30:13 -0000</pubDate>
     </item>
     <item>
       <title>Պաշտոնական</title>
@@ -49,7 +49,7 @@
       <description>Պաշտոնական - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/official</guid>
       <enclosure url="https://civic.am/media/2024/06/04/aba87cc2532bd0ceeaa3ca740a996a96c8d862c2.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 02 Oct 2026 02:22:45 -0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 09:28:13 -0000</pubDate>
     </item>
     <item>
       <title>Հաղորդաշարեր</title>
@@ -57,7 +57,31 @@
       <description>Հաղորդաշարեր - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/broadcasts</guid>
       <enclosure url="https://civic.am/media/2024/06/04/2fe324aae22ec12dd2a977f3395175029028444a.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 02 Oct 2026 02:20:45 -0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 09:26:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>ՔաղաքականությունԱՄՆ-ում ՀՀ դեսպանը հայտնել է, թե երբ կսկսի ԹՐԻՓՓ-ի հիմնարկեքը</title>
+      <link>https://civic.am/news/123221</link>
+      <description>ՔաղաքականությունԱՄՆ-ում ՀՀ դեսպանը հայտնել է, թե երբ կսկսի ԹՐԻՓՓ-ի հիմնարկեքը - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/123221</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/10/02/68b10ca551e6d633e94a097f8c2fde5b536b7158.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 02 Oct 2026 09:24:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>ՔաղաքականությունԵկեղեցու խնդիրները նոր չեն, մամուլից գիտեմ, որ կաթողիկոսը զավակ ունի. Լևոն Բարդակչյան</title>
+      <link>https://civic.am/news/123225</link>
+      <description>ՔաղաքականությունԵկեղեցու խնդիրները նոր չեն, մամուլից գիտեմ, որ կաթողիկոսը զավակ ունի. Լևոն Բարդակչյան - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/123225</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/10/02/773e240333793729749c097ce60008bbf6b8553d.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 02 Oct 2026 09:22:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>ՀասարակությունՇաքիում տուժած կնոջ առողջական վիճակը կայուն է. կյանքին սպառնացող վտանգ չունենք․ Ավանեսյան</title>
+      <link>https://civic.am/news/123219</link>
+      <description>ՀասարակությունՇաքիում տուժած կնոջ առողջական վիճակը կայուն է. կյանքին սպառնացող վտանգ չունենք․ Ավանեսյան - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/123219</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/10/02/fd0f46e7ed05170f994fa91d2e7417b2a4feaf33.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 02 Oct 2026 09:20:13 -0000</pubDate>
     </item>
     <item>
       <title>Քաղաքականություն«Ձեր գործերին հաջողություն, կարևորը խաղաղությունը մնա». ՔՊ-ն Ստեփանավանում տվեց քարոզարշավի մեկնարկը</title>
@@ -65,111 +89,87 @@
       <description>Քաղաքականություն«Ձեր գործերին հաջողություն, կարևորը խաղաղությունը մնա». ՔՊ-ն Ստեփանավանում տվեց քարոզարշավի մեկնարկը - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/123207</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/10/01/6a3a904973641ea5c790cdd3b6bbadd02786ea84.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 02 Oct 2026 02:18:45 -0000</pubDate>
+      <pubDate>Fri, 02 Oct 2026 09:18:13 -0000</pubDate>
     </item>
     <item>
-      <title>ՔաղաքականությունԿառլեն Մկրտչյանից շատ գոհ ենք. Արտաշատում բարգավաճումը կշարունակվի</title>
-      <link>https://civic.am/news/123201</link>
-      <description>ՔաղաքականությունԿառլեն Մկրտչյանից շատ գոհ ենք. Արտաշատում բարգավաճումը կշարունակվի - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/123201</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/10/01/4cb3b40791813febba71780b0b26e331927f69ab.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 02 Oct 2026 02:16:45 -0000</pubDate>
+      <title>ԻրավունքԱդրբեջանցի զինծառայող Նասիմի Մուսաևի նկատմամբ կալանավորելու միջնորդություն է ներկայացվել․ ՔԿ</title>
+      <link>https://civic.am/news/123235</link>
+      <description>ԻրավունքԱդրբեջանցի զինծառայող Նասիմի Մուսաևի նկատմամբ կալանավորելու միջնորդություն է ներկայացվել․ ՔԿ - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/123235</guid>
+      <enclosure url="https://civic.am/thumbs/696x444/2026/10/02/835047148b1c89d63871b55248fe0321a42ede56.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 02 Oct 2026 09:16:13 -0000</pubDate>
     </item>
     <item>
-      <title>ՔաղաքականությունԿառլեն Մկրտչյանից շատ գոհ ենք. Արտաշատում բարգավաճումը կշարունակվի</title>
-      <link>https://civic.am/news/123198</link>
-      <description>ՔաղաքականությունԿառլեն Մկրտչյանից շատ գոհ ենք. Արտաշատում բարգավաճումը կշարունակվի - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/123198</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/10/01/6395609802f344fab24b02fbe59815fad481344a.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 02 Oct 2026 02:14:45 -0000</pubDate>
+      <title>ՔաղաքականությունԱյս ընտրությունները խաղաղության մասին էին, Հայաստանի անկախության և ինքնիշխանության մասին. Արուսյակ Ջուլհակյան</title>
+      <link>https://civic.am/news/123234</link>
+      <description>ՔաղաքականությունԱյս ընտրությունները խաղաղության մասին էին, Հայաստանի անկախության և ինքնիշխանության մասին. Արուսյակ Ջուլհակյան - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/123234</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/10/02/186ba250bb94be531aef50c0d4eeac17e69437d3.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 02 Oct 2026 09:14:13 -0000</pubDate>
     </item>
     <item>
-      <title>Քաղաքականություն«Գլուխներս բարձր ենք մտնում համայնքներ». Արտաշատցին ընտրել և ընտրելու է խաղաղություն</title>
-      <link>https://civic.am/news/123193</link>
-      <description>Քաղաքականություն«Գլուխներս բարձր ենք մտնում համայնքներ». Արտաշատցին ընտրել և ընտրելու է խաղաղություն - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/123193</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/10/01/6a2fc3e585952f34dce3380a7b3ca730c8c92bd6.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 02 Oct 2026 02:12:45 -0000</pubDate>
+      <title>ՀասարակությունՀայտնի է Հայաստանի հավաքականի վերջնական հայտացուցակը Կիպրոսի դեմ խաղում</title>
+      <link>https://civic.am/news/123233</link>
+      <description>ՀասարակությունՀայտնի է Հայաստանի հավաքականի վերջնական հայտացուցակը Կիպրոսի դեմ խաղում - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/123233</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/10/02/de71d436d92e1cae9c2b8d049812f21e9d8a4ffb.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 02 Oct 2026 09:12:13 -0000</pubDate>
     </item>
     <item>
-      <title>Գագիկ Ծառուկյանի և ևս 8 անձի վերաբերյալ քրեական վարույթը մեղադրական եզրակացությամբ ուղարկվել է հսկող դատախազին. ՏԵՍԱՆՅՈՒԹ</title>
-      <link>https://civic.am/news/123217</link>
-      <description>Գագիկ Ծառուկյանի և ևս 8 անձի վերաբերյալ քրեական վարույթը մեղադրական եզրակացությամբ ուղարկվել է հսկող դատախազին. ՏԵՍԱՆՅՈՒԹ - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/123217</guid>
-      <enclosure url="https://civic.am/thumbs/696x444/2026/10/01/e2c4b8266c93ed773f0d3914bedd6b1d51283de2.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 02 Oct 2026 02:10:45 -0000</pubDate>
+      <title>ԻրավունքՁերբակալվել է «Հայաստան» դաշինքի Վանաձորի ներկայացուցիչ Արթուր Օհանյանը</title>
+      <link>https://civic.am/news/123232</link>
+      <description>ԻրավունքՁերբակալվել է «Հայաստան» դաշինքի Վանաձորի ներկայացուցիչ Արթուր Օհանյանը - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/123232</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/10/02/5df913532d629f8b4c47b9888841896fa0533ce7.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 02 Oct 2026 09:10:13 -0000</pubDate>
     </item>
     <item>
-      <title>ՀՀ դատախազությունը մանրամասներ է ներկայացրել Շաքիում տեղի ունեցած միջադեպի մասին</title>
-      <link>https://civic.am/news/123216</link>
-      <description>ՀՀ դատախազությունը մանրամասներ է ներկայացրել Շաքիում տեղի ունեցած միջադեպի մասին - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/123216</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/10/01/9c6f9fb4a2212ae1dc8366aa34ba5deb8ed4efb1.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 02 Oct 2026 02:08:45 -0000</pubDate>
+      <title>ՊաշտոնականՔննարկվել է կուտակիչ կայանների գործունեության կարգավորման ենթաօրենսդրական ակտերի մշակման ընթացքը</title>
+      <link>https://civic.am/news/123231</link>
+      <description>ՊաշտոնականՔննարկվել է կուտակիչ կայանների գործունեության կարգավորման ենթաօրենսդրական ակտերի մշակման ընթացքը - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/123231</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/10/02/128b0805de484aa7067511ae668fa01ca5220e6c.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 02 Oct 2026 09:08:13 -0000</pubDate>
     </item>
     <item>
-      <title>Վարչապետ Նիկոլ Փաշինյանը տեսանյութ է հրապարակել ՔՊ նախաձեռնող խմբի նիստից</title>
-      <link>https://civic.am/news/123215</link>
-      <description>Վարչապետ Նիկոլ Փաշինյանը տեսանյութ է հրապարակել ՔՊ նախաձեռնող խմբի նիստից - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/123215</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/10/01/5f348609cb520bcf4ec5298f2a7aeaa86103af77.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 02 Oct 2026 02:06:45 -0000</pubDate>
+      <title>Պետությանը պատճառված վնասի հատուցման վարույթով առգրավվել և ՊՆ-ին է հանձնվել ժամանակակից տեխնիկա՝ իր լրակազմով</title>
+      <link>https://civic.am/news/123230</link>
+      <description>Պետությանը պատճառված վնասի հատուցման վարույթով առգրավվել և ՊՆ-ին է հանձնվել ժամանակակից տեխնիկա՝ իր լրակազմով - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/123230</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/10/02/0c775c0f6f6feb978e423610e4461ae1d923beb2.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 02 Oct 2026 09:06:13 -0000</pubDate>
     </item>
     <item>
-      <title>Երևան-Երասխ ճանապարհին անհայտ ավտոմեքենան վրաերթի է ենթարկել 73-ամյա հեծանվորդին․ վերջինս մահացել է</title>
-      <link>https://civic.am/news/123214</link>
-      <description>Երևան-Երասխ ճանապարհին անհայտ ավտոմեքենան վրաերթի է ենթարկել 73-ամյա հեծանվորդին․ վերջինս մահացել է - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/123214</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/10/01/98d429022c209472ad952ee67e782bbb99138b3e.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 02 Oct 2026 02:04:45 -0000</pubDate>
+      <title>«Սմոք Հաուս»-ում բացահայտվել է ծխախոտային արտադրատեսակների բաց վաճառք</title>
+      <link>https://civic.am/news/123229</link>
+      <description>«Սմոք Հաուս»-ում բացահայտվել է ծխախոտային արտադրատեսակների բաց վաճառք - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/123229</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/10/02/8459b52cc11bb4c8a84942521fb3d180fd90e2c5.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 02 Oct 2026 09:04:13 -0000</pubDate>
     </item>
     <item>
-      <title>Երևանի մետրոպոլիտենի գլխավոր տնօրենի ժ/պ Բաբկեն Սեդրակյանն ընդունել է իրանական պատվիրակությանը</title>
-      <link>https://civic.am/news/123213</link>
-      <description>Երևանի մետրոպոլիտենի գլխավոր տնօրենի ժ/պ Բաբկեն Սեդրակյանն ընդունել է իրանական պատվիրակությանը - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/123213</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/10/01/8f526ec63b000155c9b7c438835b3e83bc685ce6.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 02 Oct 2026 02:02:45 -0000</pubDate>
+      <title>ՀՀ 5 մարզում հոկտեմբերի 3-ի գիշերը սպասվում է -3, -4 աստիճան ցուրտ. հորդոր՝ իրականացնել բերքահավաք</title>
+      <link>https://civic.am/news/123228</link>
+      <description>ՀՀ 5 մարզում հոկտեմբերի 3-ի գիշերը սպասվում է -3, -4 աստիճան ցուրտ. հորդոր՝ իրականացնել բերքահավաք - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/123228</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/10/02/07ae9cd3818ccf97e86fefe3da0e13b1b0472115.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 02 Oct 2026 09:02:13 -0000</pubDate>
     </item>
     <item>
-      <title>Արթուր Մարտիրոսյանը նշանակվել է Ազգային ժողովի աշխատակազմի ղեկավարի առաջին տեղակալ</title>
-      <link>https://civic.am/news/123212</link>
-      <description>Արթուր Մարտիրոսյանը նշանակվել է Ազգային ժողովի աշխատակազմի ղեկավարի առաջին տեղակալ - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/123212</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/10/01/e1021b2a660dcff2c5f5905f25e0c95b46c73d15.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 02 Oct 2026 02:00:45 -0000</pubDate>
+      <title>Շաքիում արձանագրված դեպքով նախաձեռնվել է ևս մեկ քրեական վարույթ. ՀՀ գլխավոր դատախազություն</title>
+      <link>https://civic.am/news/123227</link>
+      <description>Շաքիում արձանագրված դեպքով նախաձեռնվել է ևս մեկ քրեական վարույթ. ՀՀ գլխավոր դատախազություն - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/123227</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/10/02/004ed1589e482cbece1f12c602dc7e0b4db8cfe9.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 02 Oct 2026 09:00:13 -0000</pubDate>
     </item>
     <item>
-      <title>Սարյան փողոցից սրտի կանգով և գլխի վնասվածքով հիվանդանոց տեղափոխված տղամարդը մահացել է․ ինքնությունը պարզվում է</title>
-      <link>https://civic.am/news/123211</link>
-      <description>Սարյան փողոցից սրտի կանգով և գլխի վնասվածքով հիվանդանոց տեղափոխված տղամարդը մահացել է․ ինքնությունը պարզվում է - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/123211</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/10/01/fd33b481296af98eb462060ff5b7807105076d08.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 02 Oct 2026 01:58:45 -0000</pubDate>
-    </item>
-    <item>
-      <title>«Ուժեղ Հայաստան»-ը փորձում է ԵԽԽՎ զեկույցի՝ «խայտառակ» լինելու իմիտացիա ստեղծել</title>
-      <link>https://civic.am/news/123204</link>
-      <description>«Ուժեղ Հայաստան»-ը փորձում է ԵԽԽՎ զեկույցի՝ «խայտառակ» լինելու իմիտացիա ստեղծել - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/123204</guid>
-      <enclosure url="https://civic.am/assets/img/play.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 02 Oct 2026 01:56:45 -0000</pubDate>
-    </item>
-    <item>
-      <title>ՀՀ սահմանը հատած ադրբեջանցի զինծառայողը ծառայության վայրը լքել է սեպտեմբերի 26-ին․ Ադրբեջանի դատախազություն</title>
-      <link>https://civic.am/news/123210</link>
-      <description>ՀՀ սահմանը հատած ադրբեջանցի զինծառայողը ծառայության վայրը լքել է սեպտեմբերի 26-ին․ Ադրբեջանի դատախազություն - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/123210</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/10/01/e2907198ce16820a0d3b2106d409794d410cdeae.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 02 Oct 2026 01:54:45 -0000</pubDate>
-    </item>
-    <item>
-      <title>Հայաստան-Իրան սահմանի «Նորդուզ» անցակետում կայացել է ՀՀ-ԻԻՀ միջգերատեսչական հանդիպում</title>
-      <link>https://civic.am/news/123209</link>
-      <description>Հայաստան-Իրան սահմանի «Նորդուզ» անցակետում կայացել է ՀՀ-ԻԻՀ միջգերատեսչական հանդիպում - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/123209</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/10/01/277db7bdb4283ef7ec8a3f241ab7ec5aac618a90.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 02 Oct 2026 01:52:45 -0000</pubDate>
+      <title>Հայաստանի Սահմանադրության փոփոխությունը ներքին հարց է, մենք ձեռնպահ կմնանք միջամտելուց․ Հաջիև</title>
+      <link>https://civic.am/news/123226</link>
+      <description>Հայաստանի Սահմանադրության փոփոխությունը ներքին հարց է, մենք ձեռնպահ կմնանք միջամտելուց․ Հաջիև - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/123226</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/10/02/c817da5cf21cf4b5575d196ae5b97cbb47436ef1.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 02 Oct 2026 08:58:13 -0000</pubDate>
     </item>
   </channel>
 </rss>
