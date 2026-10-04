@@ -5,40 +5,64 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Sun, 04 Oct 2026 01:56:03 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 08:18:47 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
       <link>https://armenpress.am/hy/articles</link>
     </image>
     <item>
+      <title>Երևան15 °C</title>
+      <link>https://armenpress.am/hy/articles/weather</link>
+      <description>Երևան15 °C - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
+      <enclosure url="https://armenpress.am/assets/weather/01d.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 04 Oct 2026 08:18:47 -0000</pubDate>
+    </item>
+    <item>
       <title>USD / AMD362.55</title>
       <link>https://armenpress.am/hy/articles/economy</link>
       <description>USD / AMD362.55 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 04 Oct 2026 01:56:03 -0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 08:16:47 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
       <link>https://armenpress.am/hy/articles/fact-check</link>
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Sun, 04 Oct 2026 01:54:03 -0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 08:14:47 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
       <link>https://armenpress.am/hy/articles/projects</link>
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Sun, 04 Oct 2026 01:52:03 -0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 08:12:47 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://armenpress.am/hy/articles/interviews</link>
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Sun, 04 Oct 2026 01:50:03 -0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 08:10:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>12:08ՀայաստանԵրևանից դուրս հյուրանոցներ՝ պետության աջակցությամբ</title>
+      <link>https://armenpress.am/hy/article/1261954</link>
+      <description>12:08ՀայաստանԵրևանից դուրս հյուրանոցներ՝ պետության աջակցությամբ - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1261954</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/04/uLKZjnQJSnpajX2kpBIDDejZfLRDtPnRnNlYAoNH.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 04 Oct 2026 08:08:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>11:31ՀայաստանՀՀ տարածքում ավտոճանապարհներն անցանելի են</title>
+      <link>https://armenpress.am/hy/article/1261953</link>
+      <description>11:31ՀայաստանՀՀ տարածքում ավտոճանապարհներն անցանելի են - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1261953</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/04/gdyhxTCpY6SbzKFHObO9BzhiS5HnsHxp1qwzK42k.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 04 Oct 2026 08:06:47 -0000</pubDate>
     </item>
     <item>
       <title>22:13, 3 հոկտեմբերիԻրավունքԱրարատի պարեկները ձերբակալել են մեկնարկային ատրճանակով կրակած երիտասարդին</title>
@@ -46,7 +70,7 @@
       <description>22:13, 3 հոկտեմբերիԻրավունքԱրարատի պարեկները ձերբակալել են մեկնարկային ատրճանակով կրակած երիտասարդին - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1261952</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/03/m3f8vGWT3BD5nJJmDsJDdR6sSCiTECv3GbawM7EF.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 04 Oct 2026 01:48:03 -0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 08:04:47 -0000</pubDate>
     </item>
     <item>
       <title>21:51, 3 հոկտեմբերիՀՀ նախագահՆախագահական նստավայրում տեղի է ունեցել ՀՀ Կառավարության անդամների երդմնակալության արարողությունը</title>
@@ -54,7 +78,7 @@
       <description>21:51, 3 հոկտեմբերիՀՀ նախագահՆախագահական նստավայրում տեղի է ունեցել ՀՀ Կառավարության անդամների երդմնակալության արարողությունը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1261951</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/03/OmtXmikIg6lYcinKGcxGDaqHbMy8GmJnNPwMRikp.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 04 Oct 2026 01:46:03 -0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 08:02:47 -0000</pubDate>
     </item>
     <item>
       <title>17:59, 3 հոկտեմբերիԿրթությունԸնթերցանությունը կրթության կարևորագույն մարտահրավերներից է. ԿԳՄՍ նախարար</title>
@@ -62,7 +86,7 @@
       <description>17:59, 3 հոկտեմբերիԿրթությունԸնթերցանությունը կրթության կարևորագույն մարտահրավերներից է. ԿԳՄՍ նախարար - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1261947</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/03/JFUWNPzKMYaGMWZ4947qfW4o7FXJ0Jj46rykK3o6.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 04 Oct 2026 01:44:03 -0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 08:00:47 -0000</pubDate>
     </item>
     <item>
       <title>17:53, 3 հոկտեմբերիՌուսաստանՌԴ ԱԳՆ-ն կրկին խորհուրդ է տվել օտարերկրյա քաղաքացիներին և դիվանագետներին լքել Կիևը</title>
@@ -70,7 +94,7 @@
       <description>17:53, 3 հոկտեմբերիՌուսաստանՌԴ ԱԳՆ-ն կրկին խորհուրդ է տվել օտարերկրյա քաղաքացիներին և դիվանագետներին լքել Կիևը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1261949</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/03/D1MRzXDcFizOAxKyYMOkW2yP7NHaPMMbeomAjIe4.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 04 Oct 2026 01:42:03 -0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 07:58:47 -0000</pubDate>
     </item>
     <item>
       <title>17:34, 3 հոկտեմբերիԱշխարհԱԹՍ-ներ և հրթիռներ անցել են Մոլդովայի վրայով, իսկ տարբեր բնակավայրերում լսվել են պայթյուններ</title>
@@ -78,7 +102,7 @@
       <description>17:34, 3 հոկտեմբերիԱշխարհԱԹՍ-ներ և հրթիռներ անցել են Մոլդովայի վրայով, իսկ տարբեր բնակավայրերում լսվել են պայթյուններ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1261948</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/03/SzlV5cVJpK1gHBLjVVxPDw6YbbdiHatbFNZmmx2H.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 04 Oct 2026 01:40:03 -0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 07:56:47 -0000</pubDate>
     </item>
     <item>
       <title>17:17, 3 հոկտեմբերիԱշխարհԲեռլինում վերելակի խափանման հետևանքով մոտ 20 մարդ է մնացել հեռուստաաշտարակի 126 մետր բարձրության վրա</title>
@@ -86,7 +110,7 @@
       <description>17:17, 3 հոկտեմբերիԱշխարհԲեռլինում վերելակի խափանման հետևանքով մոտ 20 մարդ է մնացել հեռուստաաշտարակի 126 մետր բարձրության վրա - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1261946</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/03/JSrxPEwK46wFk5xcdETTt3MGuafito3BYraYUuJa.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 04 Oct 2026 01:38:03 -0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 07:54:47 -0000</pubDate>
     </item>
     <item>
       <title>16:51, 3 հոկտեմբերիԱշխարհՂազախստանի նախագահը պաշտոնից ազատել է պաշտպանության նախարարության երեք բարձրաստիճան պաշտոնյայի</title>
@@ -94,23 +118,23 @@
       <description>16:51, 3 հոկտեմբերիԱշխարհՂազախստանի նախագահը պաշտոնից ազատել է պաշտպանության նախարարության երեք բարձրաստիճան պաշտոնյայի - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1261945</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/03/uZhAHzEKUwQAcGiWjQc4a2JslFeG3aoCvMO1YotI.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 04 Oct 2026 01:36:03 -0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 07:52:47 -0000</pubDate>
     </item>
     <item>
       <title>16:33, 3 հոկտեմբերիԱնոնսՀոկտեմբերի 5-ի միջոցառումների անոնս</title>
       <link>https://armenpress.am/hy/article/1261944</link>
       <description>16:33, 3 հոկտեմբերիԱնոնսՀոկտեմբերի 5-ի միջոցառումների անոնս - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1261944</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/03/m3f8vGWT3BD5nJJmDsJDdR6sSCiTECv3GbawM7EF.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 04 Oct 2026 01:34:03 -0000</pubDate>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/04/uLKZjnQJSnpajX2kpBIDDejZfLRDtPnRnNlYAoNH.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 04 Oct 2026 07:50:47 -0000</pubDate>
     </item>
     <item>
       <title>16:24, 3 հոկտեմբերիԱնոնսՀոկտեմբերի 4-ի միջոցառումների անոնս</title>
       <link>https://armenpress.am/hy/article/1261943</link>
       <description>16:24, 3 հոկտեմբերիԱնոնսՀոկտեմբերի 4-ի միջոցառումների անոնս - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1261943</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/03/m3f8vGWT3BD5nJJmDsJDdR6sSCiTECv3GbawM7EF.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 04 Oct 2026 01:32:03 -0000</pubDate>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/04/uLKZjnQJSnpajX2kpBIDDejZfLRDtPnRnNlYAoNH.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 04 Oct 2026 07:48:47 -0000</pubDate>
     </item>
     <item>
       <title>16:15, 3 հոկտեմբերիԱշխարհ«Մեծ յոթնյակի» երկրները պայմանավորվել են արտակարգ կարգով 100 միլիոն բարել նավթ բաց թողնել շուկա</title>
@@ -118,7 +142,7 @@
       <description>16:15, 3 հոկտեմբերիԱշխարհ«Մեծ յոթնյակի» երկրները պայմանավորվել են արտակարգ կարգով 100 միլիոն բարել նավթ բաց թողնել շուկա - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1261942</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/03/BAhyMr9Et89vszw1tNZBdFv1p4Rlh5MJ1ONFcvb9.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 04 Oct 2026 01:30:03 -0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 07:46:47 -0000</pubDate>
     </item>
     <item>
       <title>15:59, 3 հոկտեմբերիԱշխարհՀյուսիսային Կորեան հրթիռ է արձակել Ճապոնական ծովի ուղղությամբ</title>
@@ -126,7 +150,7 @@
       <description>15:59, 3 հոկտեմբերիԱշխարհՀյուսիսային Կորեան հրթիռ է արձակել Ճապոնական ծովի ուղղությամբ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1261939</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/03/odboDuBH95oaAiY8O4SCTUSqQfZuOFPffJMsRAFS.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 04 Oct 2026 01:28:03 -0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 07:44:47 -0000</pubDate>
     </item>
     <item>
       <title>15:38, 3 հոկտեմբերիԿրթությունԴպրոցական ավտոբուսների ծառայությունը մարզերում գործարկվում է. վարչապետը ծանոթացել է ավտոբուսների պայմաններին, անվտանգային ստանդարտներին</title>
@@ -134,7 +158,7 @@
       <description>15:38, 3 հոկտեմբերիԿրթությունԴպրոցական ավտոբուսների ծառայությունը մարզերում գործարկվում է. վարչապետը ծանոթացել է ավտոբուսների պայմաններին, անվտանգային ստանդարտներին - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1261940</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/03/qoDsA8nuhOv76uQfl94Ij1yCqV4iM3yK41vKiapN.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 04 Oct 2026 01:26:03 -0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 07:42:47 -0000</pubDate>
     </item>
     <item>
       <title>15:24, 3 հոկտեմբերիՄարզերԵնոքավան-Կարմիրգյուղ ավտոճանապարհին հոկտեմբերի 4-ին կկատարվեն պայթեցման աշխատանքներ</title>
@@ -142,31 +166,7 @@
       <description>15:24, 3 հոկտեմբերիՄարզերԵնոքավան-Կարմիրգյուղ ավտոճանապարհին հոկտեմբերի 4-ին կկատարվեն պայթեցման աշխատանքներ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1261938</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/03/sufu858n7kJuklnlilwSkvLYF1WPcYUEjo0Rqujm.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 04 Oct 2026 01:24:03 -0000</pubDate>
-    </item>
-    <item>
-      <title>15:06, 3 հոկտեմբերիՀայաստանՀանրապետության տարածքում սպասվում է անձրև և ամպրոպ, հնարավոր է նաև կարկուտ</title>
-      <link>https://armenpress.am/hy/article/1261937</link>
-      <description>15:06, 3 հոկտեմբերիՀայաստանՀանրապետության տարածքում սպասվում է անձրև և ամպրոպ, հնարավոր է նաև կարկուտ - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1261937</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/03/QcW7aTzG9ENQRmIV73UH3SSoT28fRDPSE9BbQScL.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 04 Oct 2026 01:22:03 -0000</pubDate>
-    </item>
-    <item>
-      <title>14:47, 3 հոկտեմբերիՌուսաստան87 տարեկանում մահացել է ռուս հոգեթերապևտ և հեռուստահաղորդավար Անատոլի Կաշպիրովսկին</title>
-      <link>https://armenpress.am/hy/article/1261936</link>
-      <description>14:47, 3 հոկտեմբերիՌուսաստան87 տարեկանում մահացել է ռուս հոգեթերապևտ և հեռուստահաղորդավար Անատոլի Կաշպիրովսկին - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1261936</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/03/yRo4ZQ2AeIKeEvIaAyywAP2avdNsfR2uhrPefVy3.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 04 Oct 2026 01:20:03 -0000</pubDate>
-    </item>
-    <item>
-      <title>14:26, 3 հոկտեմբերիՄերձավոր ԱրևելքԲացահայտվել է Flydubai-ի չվերթում երկրորդ օդաչուին դանակահարած օդաչուի ինքնությունը</title>
-      <link>https://armenpress.am/hy/article/1261933</link>
-      <description>14:26, 3 հոկտեմբերիՄերձավոր ԱրևելքԲացահայտվել է Flydubai-ի չվերթում երկրորդ օդաչուին դանակահարած օդաչուի ինքնությունը - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1261933</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/03/KNHITR9QioB1Sx88W4sTHnuTsCfdgRI92q3f4W0J.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 04 Oct 2026 01:18:03 -0000</pubDate>
+      <pubDate>Sun, 04 Oct 2026 07:40:47 -0000</pubDate>
     </item>
   </channel>
 </rss>
