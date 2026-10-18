@@ -5,19 +5,19 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Sun, 18 Oct 2026 09:49:03 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 13:53:34 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
       <link>https://armenpress.am/hy/articles</link>
     </image>
     <item>
-      <title>Երևան22 °C</title>
+      <title>Երևան23 °C</title>
       <link>https://armenpress.am/hy/articles/weather</link>
-      <description>Երևան22 °C - Read on armenpress.am.</description>
+      <description>Երևան23 °C - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
-      <enclosure url="https://armenpress.am/assets/weather/01d.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 18 Oct 2026 09:49:03 -0000</pubDate>
+      <enclosure url="https://armenpress.am/assets/weather/02n.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 18 Oct 2026 13:53:34 -0000</pubDate>
     </item>
     <item>
       <title>USD / AMD362.34</title>
@@ -25,28 +25,60 @@
       <description>USD / AMD362.34 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 18 Oct 2026 09:47:03 -0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 13:51:34 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
       <link>https://armenpress.am/hy/articles/fact-check</link>
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Sun, 18 Oct 2026 09:45:03 -0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 13:49:34 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
       <link>https://armenpress.am/hy/articles/projects</link>
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Sun, 18 Oct 2026 09:43:03 -0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 13:47:34 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://armenpress.am/hy/articles/interviews</link>
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Sun, 18 Oct 2026 09:41:03 -0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 13:45:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>ՀայաստանCOP17-ի բացման հանդիսավոր արարողություն․ ՈՒՂԻՂ</title>
+      <link>https://armenpress.am/hy/article/1263150</link>
+      <description>ՀայաստանCOP17-ի բացման հանդիսավոր արարողություն․ ՈՒՂԻՂ - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1263150</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/18/2Vzd5dhjDfvcwzSnRrzgow4EgJNKMKW3yBaRnufG.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 18 Oct 2026 13:43:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>17:23ՍպորտՀայաստանի մարմնամարզության հավաքականի անդամներն ԱԱ-ի եզրափակիչում են</title>
+      <link>https://armenpress.am/hy/article/1263149</link>
+      <description>17:23ՍպորտՀայաստանի մարմնամարզության հավաքականի անդամներն ԱԱ-ի եզրափակիչում են - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1263149</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/18/KaieY3dAtXoar1UN2HoUvTxlSazG5D20556ExI4m.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 18 Oct 2026 13:41:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>16:17ՍպորտԾանրորդ Էմմա Պողոսյանը դարձավ Եվրոպայի երիտասարդների առաջնության չեմպիոն</title>
+      <link>https://armenpress.am/hy/article/1263148</link>
+      <description>16:17ՍպորտԾանրորդ Էմմա Պողոսյանը դարձավ Եվրոպայի երիտասարդների առաջնության չեմպիոն - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1263148</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/18/SMLAL1ItMko5mvuso0kHpuCvdDpLXEzplIgJsivb.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 18 Oct 2026 13:39:34 -0000</pubDate>
+    </item>
+    <item>
+      <title>14:08ԱշխարհՖրանսիայում ցուցարարները հրդեհել են Լիմոժի քաղաքապետարանը. 19-րդ դարի շենքը գրեթե ամբողջությամբ ոչնչացվել է</title>
+      <link>https://armenpress.am/hy/article/1263147</link>
+      <description>14:08ԱշխարհՖրանսիայում ցուցարարները հրդեհել են Լիմոժի քաղաքապետարանը. 19-րդ դարի շենքը գրեթե ամբողջությամբ ոչնչացվել է - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1263147</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/18/yjeUTLK2gTnQHSRFGVXa5ognbEc5dPnImfhP0XXk.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 18 Oct 2026 13:37:34 -0000</pubDate>
     </item>
     <item>
       <title>12:18ԱշխարհԼիտվայում հայտնաբերվել են ենթադրյալ անօդաչու թռչող սարքի մնացորդներ</title>
@@ -54,7 +86,7 @@
       <description>12:18ԱշխարհԼիտվայում հայտնաբերվել են ենթադրյալ անօդաչու թռչող սարքի մնացորդներ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1263146</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/18/2ogaRkWiMyJhbe7sNd2bFmxzoTFa84AZj4ieFyjY.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 18 Oct 2026 09:39:03 -0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 13:35:34 -0000</pubDate>
     </item>
     <item>
       <title>10:54ՀայաստանՎարդենիսում էլեկտրաշչակներ են գործարկվելու</title>
@@ -62,7 +94,7 @@
       <description>10:54ՀայաստանՎարդենիսում էլեկտրաշչակներ են գործարկվելու - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1263145</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/18/9Ia7YYGci05utl8pV4W2dvcvO3BplNbyDrombB3s.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 18 Oct 2026 09:37:03 -0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 13:33:34 -0000</pubDate>
     </item>
     <item>
       <title>20:27, 17 հոկտեմբերիՏնտեսությունՎարչապետը ներկա է գտնվել ճարտարապետական ապակու մշակման նոր գործարանի բացման արարողությանը</title>
@@ -70,7 +102,7 @@
       <description>20:27, 17 հոկտեմբերիՏնտեսությունՎարչապետը ներկա է գտնվել ճարտարապետական ապակու մշակման նոր գործարանի բացման արարողությանը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1263144</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/17/KygBNuqkNXfLgH18Y1DZ2J1J54nVJ7o3FygnLGr0.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 18 Oct 2026 09:35:03 -0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 13:31:34 -0000</pubDate>
     </item>
     <item>
       <title>18:15, 17 հոկտեմբերիՏնտեսությունMining Armenia Forum 2026. Ամերիաբանկը՝ հանքարդյունաբերության գործընկեր</title>
@@ -78,7 +110,7 @@
       <description>18:15, 17 հոկտեմբերիՏնտեսությունMining Armenia Forum 2026. Ամերիաբանկը՝ հանքարդյունաբերության գործընկեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1263142</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/17/4afgufcPoMGd2q93bcSczYs7WyRN2gD3a7A5RkNl.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 18 Oct 2026 09:33:03 -0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 13:29:34 -0000</pubDate>
     </item>
     <item>
       <title>17:51, 17 հոկտեմբերիԱսիաԻնչ է նախատեսվում Սևանա և Իսիկ Կուլ լճերի պահպանությանն ուղղված հուշագրով. մանրամասնում է ՀՀ շրջակա միջավայրի նախարարը</title>
@@ -86,7 +118,7 @@
       <description>17:51, 17 հոկտեմբերիԱսիաԻնչ է նախատեսվում Սևանա և Իսիկ Կուլ լճերի պահպանությանն ուղղված հուշագրով. մանրամասնում է ՀՀ շրջակա միջավայրի նախարարը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1263141</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/17/P0UeBSTV5QRVREPYNdJufD1lmlB8v79qRo7K69MI.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 18 Oct 2026 09:31:03 -0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 13:27:34 -0000</pubDate>
     </item>
     <item>
       <title>17:46, 17 հոկտեմբերիՏնտեսությունՆիկոլ Փաշինյանը կարևորել է Հայաստանում հանքարդյունաբերությունը հնարավորինս բարձր ստանդարտների համապատասխանեցնելը</title>
@@ -94,7 +126,7 @@
       <description>17:46, 17 հոկտեմբերիՏնտեսությունՆիկոլ Փաշինյանը կարևորել է Հայաստանում հանքարդյունաբերությունը հնարավորինս բարձր ստանդարտների համապատասխանեցնելը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1263139</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/17/RSE6XEjLVSMtdoqZ84C0Elo5Iy4SNBonZDDyIYWY.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 18 Oct 2026 09:29:03 -0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 13:25:34 -0000</pubDate>
     </item>
     <item>
       <title>17:38, 17 հոկտեմբերիՄշակույթԿԳՄՍ նախարար Ժաննա Անդրեասյանի շնորհավորական ուղերձը Ոչ նյութական մշակութային ժառանգության միջազգային օրվա առթիվ</title>
@@ -102,7 +134,7 @@
       <description>17:38, 17 հոկտեմբերիՄշակույթԿԳՄՍ նախարար Ժաննա Անդրեասյանի շնորհավորական ուղերձը Ոչ նյութական մշակութային ժառանգության միջազգային օրվա առթիվ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1263138</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/17/nLfep3PTWxpGLwOrnfIwBNjLsYvVxB4GSHW2f6rH.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 18 Oct 2026 09:27:03 -0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 13:23:34 -0000</pubDate>
     </item>
     <item>
       <title>17:27, 17 հոկտեմբերիՏնտեսությունՀայաստանում լեռնամետալուրգիական ոլորտի վերլուծական կենտրոն կստեղծվի</title>
@@ -110,7 +142,7 @@
       <description>17:27, 17 հոկտեմբերիՏնտեսությունՀայաստանում լեռնամետալուրգիական ոլորտի վերլուծական կենտրոն կստեղծվի - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1263134</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/17/ZVEWakdOqIsOlpUgxnVRru3dIwIV6abpPp3yI4qm.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 18 Oct 2026 09:25:03 -0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 13:21:34 -0000</pubDate>
     </item>
     <item>
       <title>17:23, 17 հոկտեմբերիՔաղաքականությունՀրապարակվել է ՀՀ վարչապետի և Ղրղզստանի նախագահի ստորագրած համատեղ հայտարարությունը</title>
@@ -118,7 +150,7 @@
       <description>17:23, 17 հոկտեմբերիՔաղաքականությունՀրապարակվել է ՀՀ վարչապետի և Ղրղզստանի նախագահի ստորագրած համատեղ հայտարարությունը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1263137</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/17/OSNaDoAqIZeN53WVyKH9EY3fIMIrYLiNTba5M3dp.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 18 Oct 2026 09:23:03 -0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 13:19:34 -0000</pubDate>
     </item>
     <item>
       <title>17:18, 17 հոկտեմբերիՀայաստանՎերացվել է «Վիլ ֆուդ» ընկերության պահածոների արտադրամասի արտադրական գործունեության կասեցումը</title>
@@ -126,7 +158,7 @@
       <description>17:18, 17 հոկտեմբերիՀայաստանՎերացվել է «Վիլ ֆուդ» ընկերության պահածոների արտադրամասի արտադրական գործունեության կասեցումը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1263136</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/17/ZMsl4SmA8XNAlODHdRo66ZIfDKe7XchmmzqYwgbp.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 18 Oct 2026 09:21:03 -0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 13:17:34 -0000</pubDate>
     </item>
     <item>
       <title>17:14, 17 հոկտեմբերիՀայաստանՎերացվել է «Պիրաժոկ» հանրային սննդի օբյեկտի արտադրական գործունեության կասեցումը</title>
@@ -134,39 +166,7 @@
       <description>17:14, 17 հոկտեմբերիՀայաստանՎերացվել է «Պիրաժոկ» հանրային սննդի օբյեկտի արտադրական գործունեության կասեցումը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1263135</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/17/ybu1J6VeS5iGjLWCnxuxXtZxPJBqC6pYqsYqyHmC.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 18 Oct 2026 09:19:03 -0000</pubDate>
-    </item>
-    <item>
-      <title>16:47, 17 հոկտեմբերիՏեսանյութՀՀ վարչապետի ելույթը Հայաստանի հանքարդյունաբերական ֆորումում</title>
-      <link>https://armenpress.am/hy/article/1263133</link>
-      <description>16:47, 17 հոկտեմբերիՏեսանյութՀՀ վարչապետի ելույթը Հայաստանի հանքարդյունաբերական ֆորումում - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1263133</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/17/MyHGtkOGJmNdn2XmgRm0YWzg3UX3niQP2RaxHtdf.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 18 Oct 2026 09:17:03 -0000</pubDate>
-    </item>
-    <item>
-      <title>16:25, 17 հոկտեմբերիՀայաստանՎերացվել է լիմոնադի արտադրամասի արտադրական գործունեության կասեցումը</title>
-      <link>https://armenpress.am/hy/article/1263132</link>
-      <description>16:25, 17 հոկտեմբերիՀայաստանՎերացվել է լիմոնադի արտադրամասի արտադրական գործունեության կասեցումը - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1263132</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/17/UC4EZexB9fsSkgbW0dM8bebQbOreNh8EVAFq6tCy.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 18 Oct 2026 09:15:03 -0000</pubDate>
-    </item>
-    <item>
-      <title>16:18, 17 հոկտեմբերիՀայաստանCOP17. Հայաստանի տաղավարում ներկայացված է բնության և հայ մարդու դարավոր կապը</title>
-      <link>https://armenpress.am/hy/article/1263127</link>
-      <description>16:18, 17 հոկտեմբերիՀայաստանCOP17. Հայաստանի տաղավարում ներկայացված է բնության և հայ մարդու դարավոր կապը - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1263127</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/17/Do3TgM0xr7CThYYZkoiAcvAE9DbfrsafepeOpn3U.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 18 Oct 2026 09:13:03 -0000</pubDate>
-    </item>
-    <item>
-      <title>16:00, 17 հոկտեմբերիԱշխարհՈւկրաինային լրացուցիչ 70 միլիարդ եվրո է անհրաժեշտ. Զելենսկին դիմել է ԵՄ-ին</title>
-      <link>https://armenpress.am/hy/article/1263130</link>
-      <description>16:00, 17 հոկտեմբերիԱշխարհՈւկրաինային լրացուցիչ 70 միլիարդ եվրո է անհրաժեշտ. Զելենսկին դիմել է ԵՄ-ին - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1263130</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/17/3acY2IxlM7CTgmmuCN2BvGoDr0ePRX6IrbFXeGnI.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 18 Oct 2026 09:11:03 -0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 13:15:34 -0000</pubDate>
     </item>
   </channel>
 </rss>
