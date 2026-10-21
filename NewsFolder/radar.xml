@@ -5,7 +5,7 @@
     <link>https://radar.am/hy/feed/</link>
     <description>Cleaned RSS feed updated from radar.am.</description>
     <language>hy</language>
-    <lastBuildDate>Tue, 20 Oct 2026 23:45:03 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 04:24:03 -0000</lastBuildDate>
     <image>
       <url>https://radar.am/static/radar/images/logo-white.4c8b6b003ba3.svg</url>
       <title>radar.am</title>
@@ -16,42 +16,50 @@
       <link>https://radar.am/hy/category/social</link>
       <description>Հասարակություն - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/category/social</guid>
-      <pubDate>Tue, 20 Oct 2026 23:45:03 -0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 04:24:03 -0000</pubDate>
     </item>
     <item>
       <title>Միջազգային</title>
       <link>https://radar.am/hy/category/world</link>
       <description>Միջազգային - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/category/world</guid>
-      <pubDate>Tue, 20 Oct 2026 23:43:03 -0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 04:22:03 -0000</pubDate>
     </item>
     <item>
       <title>Վերլուծություն</title>
       <link>https://radar.am/hy/category/opinion</link>
       <description>Վերլուծություն - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/category/opinion</guid>
-      <pubDate>Tue, 20 Oct 2026 23:41:03 -0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 04:20:03 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://radar.am/hy/category/interview</link>
       <description>Հարցազրույց - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/category/interview</guid>
-      <pubDate>Tue, 20 Oct 2026 23:39:03 -0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 04:18:03 -0000</pubDate>
     </item>
     <item>
       <title>Գիտություն</title>
       <link>https://radar.am/hy/category/science</link>
       <description>Գիտություն - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/category/science</guid>
-      <pubDate>Tue, 20 Oct 2026 23:37:03 -0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 04:16:03 -0000</pubDate>
     </item>
     <item>
       <title>Ցուցադրել բոլորը</title>
       <link>https://radar.am/hy/category/armenia</link>
       <description>Ցուցադրել բոլորը - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/category/armenia</guid>
-      <pubDate>Tue, 20 Oct 2026 23:35:03 -0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 04:14:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>Անտարկտիդա․ ռեկորդ՝ ռեկորդի հետևիցԱյսօր, 8:00Մինչ այդ ջերմաստիճանային ռեկորդներ էին գրանցվել նաև արգենտինական երեք կայաններում։</title>
+      <link>https://radar.am/hy/news/social-2785023876/</link>
+      <description>Անտարկտիդա․ ռեկորդ՝ ռեկորդի հետևիցԱյսօր, 8:00Մինչ այդ ջերմաստիճանային ռեկորդներ էին գրանցվել նաև արգենտինական երեք կայաններում։ - Read on radar.am.</description>
+      <guid isPermaLink="false">https://radar.am/hy/news/social-2785023876/</guid>
+      <enclosure url="https://media.radar.am/media/articles/images/10202629fa0c21938c4dda829e6c483d287cee.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Wed, 21 Oct 2026 04:12:03 -0000</pubDate>
     </item>
     <item>
       <title>Վստահ եմ՝ սցենարն անձամբ Սամվել Կարապետյանն է գրել․ ԱլեքսանյանԵրեկ, 23:57Ինքը եկել է գործի, բայց իր փոխարեն հարսն է ստորագրե՞լ։ Անբեկանելի տրամաբանություն։</title>
@@ -59,15 +67,15 @@
       <description>Վստահ եմ՝ սցենարն անձամբ Սամվել Կարապետյանն է գրել․ ԱլեքսանյանԵրեկ, 23:57Ինքը եկել է գործի, բայց իր փոխարեն հարսն է ստորագրե՞լ։ Անբեկանելի տրամաբանություն։ - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/viewpoint-2785044419/</guid>
       <enclosure url="https://media.radar.am/media/articles/images/102026dd6d17a33699446f8682ff59fc1a1c64.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 20 Oct 2026 23:33:03 -0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 04:10:03 -0000</pubDate>
     </item>
     <item>
-      <title>Ժաննա Անդրեասյանը հանդիպել է գիտնականների հետԵրեկ, 23:33Հանդիպման ընթացքում գիտնականները ներկայացրել են ոլորտի զարգացմանն ուղղված իրենց մտահոգություններն ու հուզող հարցերը։</title>
+      <title>Երեկ, 23:33Ժաննա Անդրեասյանը հանդիպել է գիտնականների հետՀանդիպման ընթացքում գիտնականները ներկայացրել են ոլորտի զարգացմանն ուղղված իրենց մտահոգություններն ու հուզող հարցերը։</title>
       <link>https://radar.am/hy/news/social-2785017688/</link>
-      <description>Ժաննա Անդրեասյանը հանդիպել է գիտնականների հետԵրեկ, 23:33Հանդիպման ընթացքում գիտնականները ներկայացրել են ոլորտի զարգացմանն ուղղված իրենց մտահոգություններն ու հուզող հարցերը։ - Read on radar.am.</description>
+      <description>Երեկ, 23:33Ժաննա Անդրեասյանը հանդիպել է գիտնականների հետՀանդիպման ընթացքում գիտնականները ներկայացրել են ոլորտի զարգացմանն ուղղված իրենց մտահոգություններն ու հուզող հարցերը։ - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/social-2785017688/</guid>
       <enclosure url="https://media.radar.am/media/articles/images/10202694a30d01da5d4e008474b20f1a2ecda7.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 20 Oct 2026 23:31:03 -0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 04:08:03 -0000</pubDate>
     </item>
     <item>
       <title>Երեկ, 23:14AI-ը բացահայտել է մոռացված նավահանգիստներ և դարավոր առևտրային ուղիներՀետազոտության հիման վրա ստեղծվել է նաև ինտերակտիվ քարտեզ:</title>
@@ -75,7 +83,7 @@
       <description>Երեկ, 23:14AI-ը բացահայտել է մոռացված նավահանգիստներ և դարավոր առևտրային ուղիներՀետազոտության հիման վրա ստեղծվել է նաև ինտերակտիվ քարտեզ: - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/tech-2784966413/</guid>
       <enclosure url="https://media.radar.am/media/articles/images/1020268b4616a88df04c90bb67067ce75ce39e.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 20 Oct 2026 23:29:03 -0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 04:06:03 -0000</pubDate>
     </item>
     <item>
       <title>Երեկ, 22:46Հոկտեմբերի 31-ից կգործարկվի կենսաչափական փաստաթղթերի ստացման նախագրանցման նոր համակարգըԱռանց խիստ նույնականացման նախագրանցման դեպքում ներկայացված տվյալները կհամադրվեն Բնակչության պետական ռեգիստրի տվյալների հետ։</title>
@@ -83,7 +91,7 @@
       <description>Երեկ, 22:46Հոկտեմբերի 31-ից կգործարկվի կենսաչափական փաստաթղթերի ստացման նախագրանցման նոր համակարգըԱռանց խիստ նույնականացման նախագրանցման դեպքում ներկայացված տվյալները կհամադրվեն Բնակչության պետական ռեգիստրի տվյալների հետ։ - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/social-2785064582/</guid>
       <enclosure url="https://media.radar.am/media/articles/images/102026260faaa74b3640a3bd52baaf70a10d42.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 20 Oct 2026 23:27:03 -0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 04:04:03 -0000</pubDate>
     </item>
     <item>
       <title>Երեկ, 22:20Տիգրան Ավինյանը վաղը կայցելի ԴավթաշենՍիրելի դավթաշենցիներ, վաղը՝ 17:30-ից, լինելու եմ Դավթաշեն վարչական շրջանի հետևյալ հասցեներում։</title>
@@ -91,29 +99,29 @@
       <description>Երեկ, 22:20Տիգրան Ավինյանը վաղը կայցելի ԴավթաշենՍիրելի դավթաշենցիներ, վաղը՝ 17:30-ից, լինելու եմ Դավթաշեն վարչական շրջանի հետևյալ հասցեներում։ - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/yerevan-2785023744/</guid>
       <enclosure url="https://media.radar.am/media/articles/images/1020261b1c1ee3ba1f4f0e8d58873fd2aae78a.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 20 Oct 2026 23:25:03 -0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 04:02:03 -0000</pubDate>
     </item>
     <item>
       <title>Երեկ, 21:49Նեթանյահուն մեղադրել է Էրդողանին Օսմանյան կայսրությունը վերականգնելու ձգտման մեջԻսրայելի վարչապետ Բենիամին Նեթանյահուն հայտարարել է, որ չի ցանկանում Թուրքիայի հետ առճակատում, սակայն, իր խոսքով, Թուրքիան է ձգտում դրան։</title>
       <link>https://radar.am/hy/news/world-2785028111/</link>
       <description>Երեկ, 21:49Նեթանյահուն մեղադրել է Էրդողանին Օսմանյան կայսրությունը վերականգնելու ձգտման մեջԻսրայելի վարչապետ Բենիամին Նեթանյահուն հայտարարել է, որ չի ցանկանում Թուրքիայի հետ առճակատում, սակայն, իր խոսքով, Թուրքիան է ձգտում դրան։ - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/world-2785028111/</guid>
-      <enclosure url="https://media.radar.am/media/articles/images/10202673f9c21b9f9840ad8f24deb86e750964.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 20 Oct 2026 23:23:03 -0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 04:00:03 -0000</pubDate>
     </item>
     <item>
       <title>Երեկ, 21:25Ճնշումնե՞ր ՏԻՄ ընտրություններում. ով ում է մեղադրում (ՏԵՍԱՆՅՈՒԹ)Խաչատրյանը նաև հավելել է, որ զրպարտության համար դատի է տալու Դանիել Իոաննիսյանին։</title>
       <link>https://radar.am/hy/news/reportage-2785012847/</link>
       <description>Երեկ, 21:25Ճնշումնե՞ր ՏԻՄ ընտրություններում. ով ում է մեղադրում (ՏԵՍԱՆՅՈՒԹ)Խաչատրյանը նաև հավելել է, որ զրպարտության համար դատի է տալու Դանիել Իոաննիսյանին։ - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/reportage-2785012847/</guid>
-      <pubDate>Tue, 20 Oct 2026 23:21:03 -0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 03:58:03 -0000</pubDate>
     </item>
     <item>
-      <title>Երեկ, 21:10160 մետրանոց աստերոիդն ու միջուկային պայթյունը․ ինչ են պարզել գիտնականներըԳիտնականները նշում են, որ անհրաժեշտ են լրացուցիչ ուսումնասիրություններ:</title>
+      <title>160 մետրանոց աստերոիդն ու միջուկային պայթյունը․ ինչ են պարզել գիտնականներըԵրեկ, 21:10Գիտնականները նշում են, որ անհրաժեշտ են լրացուցիչ ուսումնասիրություններ:</title>
       <link>https://radar.am/hy/news/science-2784931957/</link>
-      <description>Երեկ, 21:10160 մետրանոց աստերոիդն ու միջուկային պայթյունը․ ինչ են պարզել գիտնականներըԳիտնականները նշում են, որ անհրաժեշտ են լրացուցիչ ուսումնասիրություններ: - Read on radar.am.</description>
+      <description>160 մետրանոց աստերոիդն ու միջուկային պայթյունը․ ինչ են պարզել գիտնականներըԵրեկ, 21:10Գիտնականները նշում են, որ անհրաժեշտ են լրացուցիչ ուսումնասիրություններ: - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/science-2784931957/</guid>
-      <pubDate>Tue, 20 Oct 2026 23:19:03 -0000</pubDate>
+      <enclosure url="https://media.radar.am/media/articles/images/102026a2721489a72a48cd8f808b39e25fbb7b.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Wed, 21 Oct 2026 03:56:03 -0000</pubDate>
     </item>
     <item>
       <title>Թրամփի համար ավելի հեշտ է մեղադրել Զելենսկուն, քան Պուտինին․ ԴալլաքյանԵրեկ, 20:45Բոլորն էլ տեսնում են՝ Ռուսաստանի կողմից ցանկություն չկա կանգնեցնել պատերազմը:</title>
@@ -121,22 +129,14 @@
       <description>Թրամփի համար ավելի հեշտ է մեղադրել Զելենսկուն, քան Պուտինին․ ԴալլաքյանԵրեկ, 20:45Բոլորն էլ տեսնում են՝ Ռուսաստանի կողմից ցանկություն չկա կանգնեցնել պատերազմը: - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/interview-2784922568/</guid>
       <enclosure url="https://media.radar.am/media/articles/images/10202637a627ff696f4cba91a390266b596da8.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 20 Oct 2026 23:17:03 -0000</pubDate>
-    </item>
-    <item>
-      <title>Լիլիթ Ստեփանյանը կնշանակվի Կոտայքի մարզպետԵրեկ, 20:21Լիլիթ Ստեփանյանը վայր կդնի ԱԺ պատգամավորի մանդատը և կնշանակվի Կոտայքի մարզպետ։</title>
-      <link>https://radar.am/hy/news/politics-2785018769/</link>
-      <description>Լիլիթ Ստեփանյանը կնշանակվի Կոտայքի մարզպետԵրեկ, 20:21Լիլիթ Ստեփանյանը վայր կդնի ԱԺ պատգամավորի մանդատը և կնշանակվի Կոտայքի մարզպետ։ - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/news/politics-2785018769/</guid>
-      <enclosure url="https://media.radar.am/media/articles/images/10202681c5858901c542eb8f38093bfebfb608.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 20 Oct 2026 23:15:03 -0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 03:54:03 -0000</pubDate>
     </item>
     <item>
       <title>Ռադար-Զրույց</title>
       <link>https://radar.am/hy/category/radar-interview/</link>
       <description>Ռադար-Զրույց - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/category/radar-interview/</guid>
-      <pubDate>Tue, 20 Oct 2026 23:13:03 -0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 03:52:03 -0000</pubDate>
     </item>
     <item>
       <title>16 Հոկտեմբերի, 20:32Սամվել Կարապետյանի գաղափարների շուրջ ենք համախմբվել (ՏԵՍԱՆՅՈՒԹ)</title>
@@ -144,7 +144,7 @@
       <description>16 Հոկտեմբերի, 20:32Սամվել Կարապետյանի գաղափարների շուրջ ենք համախմբվել (ՏԵՍԱՆՅՈՒԹ) - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/radar-interview-2784316658/</guid>
       <enclosure url="https://media.radar.am/media/articles/images/1016260cbec5fea67b43d9ac903e93af6d4409.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 20 Oct 2026 23:11:03 -0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 03:50:03 -0000</pubDate>
     </item>
     <item>
       <title>14 Հոկտեմբերի, 20:33Սկանդալը պատահական չէր. նախկին քաղաքապետերի ժառանգությունից քաղաքը տուժել է (ՏԵՍԱՆՅՈՒԹ)</title>
@@ -152,7 +152,7 @@
       <description>14 Հոկտեմբերի, 20:33Սկանդալը պատահական չէր. նախկին քաղաքապետերի ժառանգությունից քաղաքը տուժել է (ՏԵՍԱՆՅՈՒԹ) - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/radar-interview-2783919294/</guid>
       <enclosure url="https://media.radar.am/media/articles/images/1014265fafe359ad11444bac8a86f41ae4b2b5.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 20 Oct 2026 23:09:03 -0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 03:48:03 -0000</pubDate>
     </item>
     <item>
       <title>9 Հոկտեմբերի, 20:32Դերերը բաշխված են. ընդդիմությունը կուլիսներում պայմանավորվածություն ունի (ՏԵՍԱՆՅՈՒԹ)</title>
@@ -160,7 +160,7 @@
       <description>9 Հոկտեմբերի, 20:32Դերերը բաշխված են. ընդդիմությունը կուլիսներում պայմանավորվածություն ունի (ՏԵՍԱՆՅՈՒԹ) - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/radar-interview-2783014870/</guid>
       <enclosure url="https://media.radar.am/media/articles/images/1009263beb92df88e840aca7e6d5664a918f85.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Tue, 20 Oct 2026 23:07:03 -0000</pubDate>
+      <pubDate>Wed, 21 Oct 2026 03:46:03 -0000</pubDate>
     </item>
   </channel>
 </rss>
