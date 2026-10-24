@@ -5,7 +5,7 @@
     <link>https://radar.am/hy/feed/</link>
     <description>Cleaned RSS feed updated from radar.am.</description>
     <language>hy</language>
-    <lastBuildDate>Sat, 24 Oct 2026 01:53:26 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 07:07:58 -0000</lastBuildDate>
     <image>
       <url>https://radar.am/static/radar/images/logo-white.4c8b6b003ba3.svg</url>
       <title>radar.am</title>
@@ -16,58 +16,82 @@
       <link>https://radar.am/hy/category/social</link>
       <description>Հասարակություն - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/category/social</guid>
-      <pubDate>Sat, 24 Oct 2026 01:53:26 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 07:07:58 -0000</pubDate>
     </item>
     <item>
       <title>Միջազգային</title>
       <link>https://radar.am/hy/category/world</link>
       <description>Միջազգային - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/category/world</guid>
-      <pubDate>Sat, 24 Oct 2026 01:51:26 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 07:05:58 -0000</pubDate>
     </item>
     <item>
       <title>Վերլուծություն</title>
       <link>https://radar.am/hy/category/opinion</link>
       <description>Վերլուծություն - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/category/opinion</guid>
-      <pubDate>Sat, 24 Oct 2026 01:49:26 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 07:03:58 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://radar.am/hy/category/interview</link>
       <description>Հարցազրույց - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/category/interview</guid>
-      <pubDate>Sat, 24 Oct 2026 01:47:26 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 07:01:58 -0000</pubDate>
     </item>
     <item>
       <title>Գիտություն</title>
       <link>https://radar.am/hy/category/science</link>
       <description>Գիտություն - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/category/science</guid>
-      <pubDate>Sat, 24 Oct 2026 01:45:26 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 06:59:58 -0000</pubDate>
     </item>
     <item>
       <title>Ցուցադրել բոլորը</title>
       <link>https://radar.am/hy/category/armenia</link>
       <description>Ցուցադրել բոլորը - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/category/armenia</guid>
-      <pubDate>Sat, 24 Oct 2026 01:43:26 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 06:57:58 -0000</pubDate>
     </item>
     <item>
-      <title>Պապոյանը մասնակցել է Ծաղկունյաց հրապարակի բացմանըԵրեկ, 23:54Նախարարը շնորհավորել է Ծաղկաձորի բնակիչներին քաղաքի օրվա առթիվ՝ ընդգծելով, որ մարզերում տնտեսական ակտիվության խթանումը ՀՀ կառավարության տնտեսական քաղաքականության կարևոր առաջնահերթություններից է։</title>
+      <title>Ավտոճանապարհներն անցանելի ենԱյսօր, 11:00Ստեփանծմինդա-Լարս ավտոճանապարհը բաց է</title>
+      <link>https://radar.am/hy/news/social-2785628626/</link>
+      <description>Ավտոճանապարհներն անցանելի ենԱյսօր, 11:00Ստեփանծմինդա-Լարս ավտոճանապարհը բաց է - Read on radar.am.</description>
+      <guid isPermaLink="false">https://radar.am/hy/news/social-2785628626/</guid>
+      <enclosure url="https://media.radar.am/media/articles/images/1024266216496729154b2b85ecb803b33100b2.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sat, 24 Oct 2026 06:55:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Կդադարեցվի Երևանի և մարզերի որոշ հասցեների էլեկտրամատակարարումըԱյսօր, 10:00ՀԷՑ-ից հայտնում են</title>
+      <link>https://radar.am/hy/news/social-2785620161/</link>
+      <description>Կդադարեցվի Երևանի և մարզերի որոշ հասցեների էլեկտրամատակարարումըԱյսօր, 10:00ՀԷՑ-ից հայտնում են - Read on radar.am.</description>
+      <guid isPermaLink="false">https://radar.am/hy/news/social-2785620161/</guid>
+      <enclosure url="https://media.radar.am/media/articles/images/082326603a6be034be4c99bf1e55ccc00fb7ff.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sat, 24 Oct 2026 06:53:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Այսօր, 9:00Առանձին շրջաններում սպասվում է կարճատև անձրև և ամպրոպԵրևանում հոկտեմբերի 24-ին, 26-ին և 27-ին, 28-ի գիշերն սպասվում է առանց տեղումների եղանակ։</title>
+      <link>https://radar.am/hy/news/social-2785521051/</link>
+      <description>Այսօր, 9:00Առանձին շրջաններում սպասվում է կարճատև անձրև և ամպրոպԵրևանում հոկտեմբերի 24-ին, 26-ին և 27-ին, 28-ի գիշերն սպասվում է առանց տեղումների եղանակ։ - Read on radar.am.</description>
+      <guid isPermaLink="false">https://radar.am/hy/news/social-2785521051/</guid>
+      <enclosure url="https://media.radar.am/media/articles/images/091725919d7c64032c492f9841cbf8f32b41ed.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sat, 24 Oct 2026 06:51:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Երեկ, 23:54Պապոյանը մասնակցել է Ծաղկունյաց հրապարակի բացմանըՆախարարը շնորհավորել է Ծաղկաձորի բնակիչներին քաղաքի օրվա առթիվ՝ ընդգծելով, որ մարզերում տնտեսական ակտիվության խթանումը ՀՀ կառավարության տնտեսական քաղաքականության կարևոր առաջնահերթություններից է։</title>
       <link>https://radar.am/hy/news/social-2785528946/</link>
-      <description>Պապոյանը մասնակցել է Ծաղկունյաց հրապարակի բացմանըԵրեկ, 23:54Նախարարը շնորհավորել է Ծաղկաձորի բնակիչներին քաղաքի օրվա առթիվ՝ ընդգծելով, որ մարզերում տնտեսական ակտիվության խթանումը ՀՀ կառավարության տնտեսական քաղաքականության կարևոր առաջնահերթություններից է։ - Read on radar.am.</description>
+      <description>Երեկ, 23:54Պապոյանը մասնակցել է Ծաղկունյաց հրապարակի բացմանըՆախարարը շնորհավորել է Ծաղկաձորի բնակիչներին քաղաքի օրվա առթիվ՝ ընդգծելով, որ մարզերում տնտեսական ակտիվության խթանումը ՀՀ կառավարության տնտեսական քաղաքականության կարևոր առաջնահերթություններից է։ - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/social-2785528946/</guid>
       <enclosure url="https://media.radar.am/media/articles/images/1023269de5e982c4184b8a93a601200b68aeb4.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 24 Oct 2026 01:41:26 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 06:49:58 -0000</pubDate>
     </item>
     <item>
-      <title>Իրանի վրա նոր հարձակումը կհանգեցնի պատերազմի տարածման․ ՖիդանԵրեկ, 23:28«Կա՛մ պատերազմը պետք է դադարեցվի, կա՛մ, եթե ռազմական գործողությունները շարունակվում են, կողմերը պետք է պայմանավորվեն էներգետիկայի և հացահատիկի ոլորտների վերաբերյալ բացառությունների շուրջ»։</title>
+      <title>Երեկ, 23:28Իրանի վրա նոր հարձակումը կհանգեցնի պատերազմի տարածման․ Ֆիդան«Կա՛մ պատերազմը պետք է դադարեցվի, կա՛մ, եթե ռազմական գործողությունները շարունակվում են, կողմերը պետք է պայմանավորվեն էներգետիկայի և հացահատիկի ոլորտների վերաբերյալ բացառությունների շուրջ»։</title>
       <link>https://radar.am/hy/news/world-2785528105/</link>
-      <description>Իրանի վրա նոր հարձակումը կհանգեցնի պատերազմի տարածման․ ՖիդանԵրեկ, 23:28«Կա՛մ պատերազմը պետք է դադարեցվի, կա՛մ, եթե ռազմական գործողությունները շարունակվում են, կողմերը պետք է պայմանավորվեն էներգետիկայի և հացահատիկի ոլորտների վերաբերյալ բացառությունների շուրջ»։ - Read on radar.am.</description>
+      <description>Երեկ, 23:28Իրանի վրա նոր հարձակումը կհանգեցնի պատերազմի տարածման․ Ֆիդան«Կա՛մ պատերազմը պետք է դադարեցվի, կա՛մ, եթե ռազմական գործողությունները շարունակվում են, կողմերը պետք է պայմանավորվեն էներգետիկայի և հացահատիկի ոլորտների վերաբերյալ բացառությունների շուրջ»։ - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/world-2785528105/</guid>
       <enclosure url="https://media.radar.am/media/articles/images/102326ba10ccf2f6004d6d9796a30d314d06b5.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 24 Oct 2026 01:39:26 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 06:47:58 -0000</pubDate>
     </item>
     <item>
       <title>Երեկ, 23:12Մոսկվան և Կիևը պայմանավորվել են հրադադարի շուրջ՝ խաղաղ բնակիչներին տարհանելու համարԱվելի վաղ Սպիտակ տանը հայտարարել էին, որ Ռուսաստանն ու Ուկրաինան համաձայնել են հրադադարի՝ Ալյոշկի մարդասիրական օգնություն հասցնելու և խաղաղ բնակիչների տարհանումը կազմակերպելու նպատակով։</title>
@@ -75,68 +99,52 @@
       <description>Երեկ, 23:12Մոսկվան և Կիևը պայմանավորվել են հրադադարի շուրջ՝ խաղաղ բնակիչներին տարհանելու համարԱվելի վաղ Սպիտակ տանը հայտարարել էին, որ Ռուսաստանն ու Ուկրաինան համաձայնել են հրադադարի՝ Ալյոշկի մարդասիրական օգնություն հասցնելու և խաղաղ բնակիչների տարհանումը կազմակերպելու նպատակով։ - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/world-2785518819/</guid>
       <enclosure url="https://media.radar.am/media/articles/images/102326778ab796f8af4772bbe8f837ccca0158.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 24 Oct 2026 01:37:26 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 06:45:58 -0000</pubDate>
     </item>
     <item>
       <title>Երեկ, 22:43Մասկը քննադատել է Ուկրաինայի վերնախավին«Առաջիններն անհավանական հարստացել են Ուկրաինա հոսող հարյուրավոր միլիարդների հաշվին, մինչդեռ երկրորդների երեխաներին զորակոչում են և ուղարկում խրամատներում զոհվելու»,+ գրել է նա X սոցիալական ցանցում։</title>
       <link>https://radar.am/hy/news/world-2785515447/</link>
       <description>Երեկ, 22:43Մասկը քննադատել է Ուկրաինայի վերնախավին«Առաջիններն անհավանական հարստացել են Ուկրաինա հոսող հարյուրավոր միլիարդների հաշվին, մինչդեռ երկրորդների երեխաներին զորակոչում են և ուղարկում խրամատներում զոհվելու»,+ գրել է նա X սոցիալական ցանցում։ - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/world-2785515447/</guid>
-      <enclosure url="https://media.radar.am/media/articles/images/102326b3539af2e709415a9c9408cf88a6868f.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 24 Oct 2026 01:35:26 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 06:43:58 -0000</pubDate>
     </item>
     <item>
       <title>Երեկ, 22:21Կարեն Բրուտյանն այցելել է ՊՆ մի շարք զորամասերԲրուտյանը ծանոթացել է իր համակարգման ոլորտում իրականացվող աշխատանքներին, զորամասերում ծառայության կազմակերպման ընթացքին, ինչպես նաև հետևել օրվա կարգացուցակով նախատեսված միջոցառումների կատարմանը։</title>
       <link>https://radar.am/hy/news/social-2785527799/</link>
       <description>Երեկ, 22:21Կարեն Բրուտյանն այցելել է ՊՆ մի շարք զորամասերԲրուտյանը ծանոթացել է իր համակարգման ոլորտում իրականացվող աշխատանքներին, զորամասերում ծառայության կազմակերպման ընթացքին, ինչպես նաև հետևել օրվա կարգացուցակով նախատեսված միջոցառումների կատարմանը։ - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/social-2785527799/</guid>
-      <enclosure url="https://media.radar.am/media/articles/images/102326a3ccdf526cd14269a3e79ad16df6540d.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 24 Oct 2026 01:33:26 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 06:41:58 -0000</pubDate>
     </item>
     <item>
-      <title>Երեկ, 21:58Ինչ գնով է վաճառվել Մոնեի կտավըԿտավը Շլումբերժեների հավաքածուից աճուրդի հանված մի քանի գործերից մեկն էր։</title>
+      <title>Ինչ գնով է վաճառվել Մոնեի կտավըԵրեկ, 21:58Կտավը Շլումբերժեների հավաքածուից աճուրդի հանված մի քանի գործերից մեկն էր։</title>
       <link>https://radar.am/hy/news/entertainment-2785425243/</link>
-      <description>Երեկ, 21:58Ինչ գնով է վաճառվել Մոնեի կտավըԿտավը Շլումբերժեների հավաքածուից աճուրդի հանված մի քանի գործերից մեկն էր։ - Read on radar.am.</description>
+      <description>Ինչ գնով է վաճառվել Մոնեի կտավըԵրեկ, 21:58Կտավը Շլումբերժեների հավաքածուից աճուրդի հանված մի քանի գործերից մեկն էր։ - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/entertainment-2785425243/</guid>
       <enclosure url="https://media.radar.am/media/articles/images/102326a85465099a734544af5bf7c371636aba.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 24 Oct 2026 01:31:26 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 06:39:58 -0000</pubDate>
     </item>
     <item>
-      <title>Երեկ, 21:30Կհեռացնե՞ն, թե՞ ոչ. ի՞նչ է սպասվում Հայաստանին ՀԱՊԿ առաջիկա նիստումԱնդամակցության սառեցումը թույլ է տվել խուսափել ավելի կոշտ քաղաքական հակադրությունից։</title>
+      <title>Կհեռացնե՞ն, թե՞ ոչ. ի՞նչ է սպասվում Հայաստանին ՀԱՊԿ առաջիկա նիստումԵրեկ, 21:30Անդամակցության սառեցումը թույլ է տվել խուսափել ավելի կոշտ քաղաքական հակադրությունից։</title>
       <link>https://radar.am/hy/news/reportage-2785513799/</link>
-      <description>Երեկ, 21:30Կհեռացնե՞ն, թե՞ ոչ. ի՞նչ է սպասվում Հայաստանին ՀԱՊԿ առաջիկա նիստումԱնդամակցության սառեցումը թույլ է տվել խուսափել ավելի կոշտ քաղաքական հակադրությունից։ - Read on radar.am.</description>
+      <description>Կհեռացնե՞ն, թե՞ ոչ. ի՞նչ է սպասվում Հայաստանին ՀԱՊԿ առաջիկա նիստումԵրեկ, 21:30Անդամակցության սառեցումը թույլ է տվել խուսափել ավելի կոշտ քաղաքական հակադրությունից։ - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/reportage-2785513799/</guid>
-      <pubDate>Sat, 24 Oct 2026 01:29:26 -0000</pubDate>
-    </item>
-    <item>
-      <title>Երեկ, 21:17Մեր քաղաքները տարբեր են, բայց շատ խնդիրներ՝ ընդհանուր․ Տիգրան ԱվինյանՆերկայացրել եմ Երևանի փորձը՝ Հրազդանի կիրճին բնության հատուկ պահպանվող համայնքային լանդշաֆտի կարգավիճակ շնորհելուց մինչև փողոցային լուսավորության անցումն էներգաարդյունավետ ԼԵԴ համակարգի։</title>
-      <link>https://radar.am/hy/news/yerevan-2785529683/</link>
-      <description>Երեկ, 21:17Մեր քաղաքները տարբեր են, բայց շատ խնդիրներ՝ ընդհանուր․ Տիգրան ԱվինյանՆերկայացրել եմ Երևանի փորձը՝ Հրազդանի կիրճին բնության հատուկ պահպանվող համայնքային լանդշաֆտի կարգավիճակ շնորհելուց մինչև փողոցային լուսավորության անցումն էներգաարդյունավետ ԼԵԴ համակարգի։ - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/news/yerevan-2785529683/</guid>
-      <pubDate>Sat, 24 Oct 2026 01:27:26 -0000</pubDate>
-    </item>
-    <item>
-      <title>Վան Գոգի «Աստղալից գիշերը» կարող է իրական երկնքի պատկեր լինելԵրեկ, 20:52Հետազոտողները աստղագիտական հաշվարկների միջոցով պարզել են:</title>
-      <link>https://radar.am/hy/news/entertainment-2785417842/</link>
-      <description>Վան Գոգի «Աստղալից գիշերը» կարող է իրական երկնքի պատկեր լինելԵրեկ, 20:52Հետազոտողները աստղագիտական հաշվարկների միջոցով պարզել են: - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/news/entertainment-2785417842/</guid>
-      <enclosure url="https://media.radar.am/media/articles/images/10232682e6fc8d8dd74d648149a8fb77ffbd76.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 24 Oct 2026 01:25:26 -0000</pubDate>
-    </item>
-    <item>
-      <title>Ադրբեջանն ամեն ինչ անում է, որ մեզ մոտ Սահմանադրության փոփոխությունները մերժվեն (ՏԵՍԱՆՅՈՒԹ)Երեկ, 20:31Radar-Զրույցի այսօրվա հյուրն է «Հանուն հավասար իրավունքների» ՀԿ նախագահ Գայանե Աբրահամյանը։</title>
-      <link>https://radar.am/hy/news/radar-interview-2785518112/</link>
-      <description>Ադրբեջանն ամեն ինչ անում է, որ մեզ մոտ Սահմանադրության փոփոխությունները մերժվեն (ՏԵՍԱՆՅՈՒԹ)Երեկ, 20:31Radar-Զրույցի այսօրվա հյուրն է «Հանուն հավասար իրավունքների» ՀԿ նախագահ Գայանե Աբրահամյանը։ - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/news/radar-interview-2785518112/</guid>
-      <enclosure url="https://media.radar.am/media/articles/images/1023261a909d1e6aef4e9a888ae791e6ed0dab.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 24 Oct 2026 01:23:26 -0000</pubDate>
+      <enclosure url="https://media.radar.am/media/articles/images/1023269f2367e4b057440ab08e4c826be5b10b.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sat, 24 Oct 2026 06:37:58 -0000</pubDate>
     </item>
     <item>
       <title>Ռադար-Զրույց</title>
       <link>https://radar.am/hy/category/radar-interview/</link>
       <description>Ռադար-Զրույց - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/category/radar-interview/</guid>
-      <pubDate>Sat, 24 Oct 2026 01:21:26 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 06:35:58 -0000</pubDate>
+    </item>
+    <item>
+      <title>Երեկ, 20:31Ադրբեջանն ամեն ինչ անում է, որ մեզ մոտ Սահմանադրության փոփոխությունները մերժվեն (ՏԵՍԱՆՅՈՒԹ)</title>
+      <link>https://radar.am/hy/news/radar-interview-2785518112/</link>
+      <description>Երեկ, 20:31Ադրբեջանն ամեն ինչ անում է, որ մեզ մոտ Սահմանադրության փոփոխությունները մերժվեն (ՏԵՍԱՆՅՈՒԹ) - Read on radar.am.</description>
+      <guid isPermaLink="false">https://radar.am/hy/news/radar-interview-2785518112/</guid>
+      <enclosure url="https://media.radar.am/media/articles/images/1023261a909d1e6aef4e9a888ae791e6ed0dab.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sat, 24 Oct 2026 06:33:58 -0000</pubDate>
     </item>
     <item>
       <title>21 Հոկտեմբերի, 20:33Թուրքիան կարող է ակտիվացնել ՀՀ-ի հետ հարաբերությունները՝ ի պատասխան Ադրբեջանի վարքագծի (ՏԵՍԱՆՅՈՒԹ)</title>
@@ -144,7 +152,7 @@
       <description>21 Հոկտեմբերի, 20:33Թուրքիան կարող է ակտիվացնել ՀՀ-ի հետ հարաբերությունները՝ ի պատասխան Ադրբեջանի վարքագծի (ՏԵՍԱՆՅՈՒԹ) - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/radar-interview-2785122806/</guid>
       <enclosure url="https://media.radar.am/media/articles/images/102126856052a8928e4e31bc1e206c9a4b24f9.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 24 Oct 2026 01:19:26 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 06:31:58 -0000</pubDate>
     </item>
     <item>
       <title>16 Հոկտեմբերի, 20:32Սամվել Կարապետյանի գաղափարների շուրջ ենք համախմբվել (ՏԵՍԱՆՅՈՒԹ)</title>
@@ -152,14 +160,7 @@
       <description>16 Հոկտեմբերի, 20:32Սամվել Կարապետյանի գաղափարների շուրջ ենք համախմբվել (ՏԵՍԱՆՅՈՒԹ) - Read on radar.am.</description>
       <guid isPermaLink="false">https://radar.am/hy/news/radar-interview-2784316658/</guid>
       <enclosure url="https://media.radar.am/media/articles/images/1016260cbec5fea67b43d9ac903e93af6d4409.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sat, 24 Oct 2026 01:17:26 -0000</pubDate>
-    </item>
-    <item>
-      <title>Առանց ֆիլտրի</title>
-      <link>https://radar.am/hy/category/unfiltered/</link>
-      <description>Առանց ֆիլտրի - Read on radar.am.</description>
-      <guid isPermaLink="false">https://radar.am/hy/category/unfiltered/</guid>
-      <pubDate>Sat, 24 Oct 2026 01:15:26 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 06:29:58 -0000</pubDate>
     </item>
   </channel>
 </rss>
