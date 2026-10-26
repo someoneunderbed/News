@@ -5,7 +5,7 @@
     <link>https://civic.am/last-news</link>
     <description>Cleaned RSS feed updated from Civic.am.</description>
     <language>hy</language>
-    <lastBuildDate>Mon, 26 Oct 2026 01:32:57 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:40:51 -0000</lastBuildDate>
     <image>
       <url>https://civic.am/assets/img/logo.svg</url>
       <title>Civic.am</title>
@@ -17,7 +17,7 @@
       <description>Վերջին լուրեր - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/last-news</guid>
       <enclosure url="https://civic.am/media/2024/06/04/54e0b527ad56ef4fc6dbee0929416a08173e97a2.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 26 Oct 2026 01:32:57 -0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 07:40:51 -0000</pubDate>
     </item>
     <item>
       <title>Քաղաքականություն</title>
@@ -25,7 +25,7 @@
       <description>Քաղաքականություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/politics</guid>
       <enclosure url="https://civic.am/media/2024/06/04/ee9d67f3bae2933126d54f7ed12f02ac869e2746.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 26 Oct 2026 01:30:57 -0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 07:38:51 -0000</pubDate>
     </item>
     <item>
       <title>Տնտեսություն</title>
@@ -33,7 +33,7 @@
       <description>Տնտեսություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/economy</guid>
       <enclosure url="https://civic.am/media/2024/06/04/6250050b286fb0f4d5ca02a2960ff947fae23145.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 26 Oct 2026 01:28:57 -0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 07:36:51 -0000</pubDate>
     </item>
     <item>
       <title>Հասարակություն</title>
@@ -41,7 +41,7 @@
       <description>Հասարակություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/society</guid>
       <enclosure url="https://civic.am/media/2024/06/04/a8c5d5498c6320597fb01c9cdf47748c74e9f67c.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 26 Oct 2026 01:26:57 -0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 07:34:51 -0000</pubDate>
     </item>
     <item>
       <title>Պաշտոնական</title>
@@ -49,7 +49,7 @@
       <description>Պաշտոնական - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/official</guid>
       <enclosure url="https://civic.am/media/2024/06/04/aba87cc2532bd0ceeaa3ca740a996a96c8d862c2.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 26 Oct 2026 01:24:57 -0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 07:32:51 -0000</pubDate>
     </item>
     <item>
       <title>Հաղորդաշարեր</title>
@@ -57,7 +57,15 @@
       <description>Հաղորդաշարեր - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/broadcasts</guid>
       <enclosure url="https://civic.am/media/2024/06/04/2fe324aae22ec12dd2a977f3395175029028444a.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 26 Oct 2026 01:22:57 -0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 07:30:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>ՔաղաքականությունԻնչպիսին են «Քաղաքացիական պայմանագիր» կուսակցության արդյունքները՝ բոլոր 21 համայնքներում</title>
+      <link>https://civic.am/news/124569</link>
+      <description>ՔաղաքականությունԻնչպիսին են «Քաղաքացիական պայմանագիր» կուսակցության արդյունքները՝ բոլոր 21 համայնքներում - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/124569</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/10/26/a48c25bc20c6cb4175e6711b3903528db25e542d.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 26 Oct 2026 07:28:51 -0000</pubDate>
     </item>
     <item>
       <title>ՔաղաքականությունԵղեգնաձորում ՔՊ-ն ստացել է քվեների 47.8%-ը. Հուսիկ Սահակյանը` համայնքի ղեկավար</title>
@@ -65,7 +73,7 @@
       <description>ՔաղաքականությունԵղեգնաձորում ՔՊ-ն ստացել է քվեների 47.8%-ը. Հուսիկ Սահակյանը` համայնքի ղեկավար - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/124563</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/10/26/d4f512720608a64cb3b3b01a8f94b26eb6e97059.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 26 Oct 2026 01:20:57 -0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 07:26:51 -0000</pubDate>
     </item>
     <item>
       <title>ՔաղաքականությունԳորիսում Առուշ Առուշանյանը ստացել է քվեների 93%-ը</title>
@@ -73,7 +81,7 @@
       <description>ՔաղաքականությունԳորիսում Առուշ Առուշանյանը ստացել է քվեների 93%-ը - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/124561</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/10/26/340212df50f7d8042192e12462f0445e4ec79a0d.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 26 Oct 2026 01:18:57 -0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 07:24:51 -0000</pubDate>
     </item>
     <item>
       <title>ՔաղաքականությունՋերմուկ համայնքում ՔՊ-ն ստացել է քվեների 92.7%-ը. Վահագն Արսենյանը` համայնքի ղեկավար</title>
@@ -81,94 +89,87 @@
       <description>ՔաղաքականությունՋերմուկ համայնքում ՔՊ-ն ստացել է քվեների 92.7%-ը. Վահագն Արսենյանը` համայնքի ղեկավար - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/124560</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/10/25/c2e93c60ff76caad83b4ae86e9e7bc8a7c74736e.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 26 Oct 2026 01:16:57 -0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 07:22:51 -0000</pubDate>
     </item>
     <item>
-      <title>ՔաղաքականությունԱրմավիրում ՔՊ-ն Վարշամ Սարգսյանի գլխավորությամբ ստանում է քվեների 96.1%-ը</title>
-      <link>https://civic.am/news/124547</link>
-      <description>ՔաղաքականությունԱրմավիրում ՔՊ-ն Վարշամ Սարգսյանի գլխավորությամբ ստանում է քվեների 96.1%-ը - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/124547</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/10/25/eb3b0ce5bf4a0a1300537515c4933e89ba4fb79c.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 26 Oct 2026 01:14:57 -0000</pubDate>
+      <title>ՏնտեսությունՀայաստանի 1000 խոշոր հարկատուները 9 ամսում պետական բյուջե են վճարել 1 տրլն 638 մլրդ դրամ</title>
+      <link>https://civic.am/news/124574</link>
+      <description>ՏնտեսությունՀայաստանի 1000 խոշոր հարկատուները 9 ամսում պետական բյուջե են վճարել 1 տրլն 638 մլրդ դրամ - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/124574</guid>
+      <enclosure url="https://civic.am/thumbs/696x444/2026/10/26/12d4c77601b872db07ccd988195ddde757294c64.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 26 Oct 2026 07:20:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>ՔաղաքականությունԿենսաբազմազանության կորուստը ոչ միայն բնապահպանական, նաև տնտեսական, պարենային անվտանգության խնդիր է. Կոստանյան</title>
+      <link>https://civic.am/news/124573</link>
+      <description>ՔաղաքականությունԿենսաբազմազանության կորուստը ոչ միայն բնապահպանական, նաև տնտեսական, պարենային անվտանգության խնդիր է. Կոստանյան - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/124573</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/10/26/c637fac299a1d63b3fc2e73545cabd2f8d64f5bc.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 26 Oct 2026 07:18:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>ԻրավունքԴատախազությունը «Երևանի թիվ 7 շուկա» ՍՊ ընկերության օտարման գործընթացում խախտում է հայտնաբերել</title>
+      <link>https://civic.am/news/124571</link>
+      <description>ԻրավունքԴատախազությունը «Երևանի թիվ 7 շուկա» ՍՊ ընկերության օտարման գործընթացում խախտում է հայտնաբերել - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/124571</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/10/26/fa9b6cee68c75a44c34b7681a0f2e03cf4b9c7bd.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 26 Oct 2026 07:16:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>ՀասարակությունՍամվել Գասպարյանի հետ մասնակցում ենք Ծանրամարտի միջազգային ֆեդերացիայի համաժողովին. Հարությունյան</title>
+      <link>https://civic.am/news/124570</link>
+      <description>ՀասարակությունՍամվել Գասպարյանի հետ մասնակցում ենք Ծանրամարտի միջազգային ֆեդերացիայի համաժողովին. Հարությունյան - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/124570</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/10/26/897c609b9fe5a044b4b11e5244e4d566ee5d0a30.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 26 Oct 2026 07:14:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>Անդրանիկ Օզանյանի նկարը դպրոցի ճակատային մասից չի ապամոնտաժվել, այլ տեղափոխվել է. պարզաբանում</title>
+      <link>https://civic.am/news/124568</link>
+      <description>Անդրանիկ Օզանյանի նկարը դպրոցի ճակատային մասից չի ապամոնտաժվել, այլ տեղափոխվել է. պարզաբանում - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/124568</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/10/26/38ee2d50886724fe2d9ca8c36762acc2acc44ddc.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 26 Oct 2026 07:12:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ո՞վ է «Ուժեղ Հայաստան»-ին «դուխ տվել», որ «հա» ասի արտահերթ ընտրություններին</title>
+      <link>https://civic.am/news/124536</link>
+      <description>Ո՞վ է «Ուժեղ Հայաստան»-ին «դուխ տվել», որ «հա» ասի արտահերթ ընտրություններին - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/124536</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/10/25/ba67a540f92022978753673a1ebe4f558d9240da.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 26 Oct 2026 07:10:51 -0000</pubDate>
+    </item>
+    <item>
+      <title>Ողբերգական ավտովթար Մեծամորում. մեքենաներից մեկը գլխիվայր հայտնվել է ձորում, կան զոհ և տուժածներ</title>
+      <link>https://civic.am/news/124567</link>
+      <description>Ողբերգական ավտովթար Մեծամորում. մեքենաներից մեկը գլխիվայր հայտնվել է ձորում, կան զոհ և տուժածներ - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/124567</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/10/26/111c48e45e2d89525ab3abf10d8e482c5715dc94.jpeg" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 26 Oct 2026 07:08:51 -0000</pubDate>
     </item>
     <item>
       <title>Հրազդանում ՔՊ-ն ստացել է քվեների 90.2%-ը. Սևակ Միքայելյանը` համայնքի ղեկավար</title>
       <link>https://civic.am/news/124566</link>
       <description>Հրազդանում ՔՊ-ն ստացել է քվեների 90.2%-ը. Սևակ Միքայելյանը` համայնքի ղեկավար - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/124566</guid>
-      <enclosure url="https://civic.am/thumbs/696x444/2026/10/26/7fd768162f24eca29086913a9f59e32fa6bf184d.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 26 Oct 2026 01:12:57 -0000</pubDate>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/10/26/7fd768162f24eca29086913a9f59e32fa6bf184d.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 26 Oct 2026 07:06:51 -0000</pubDate>
     </item>
     <item>
-      <title>ՔաղաքականությունԱրթիկում ՔՊ-ն ստացել է քվեների 74.9%-ը. Անանիկ Ոսկանյանը` համայնքի ղեկավար</title>
+      <title>Արթիկում ՔՊ-ն ստացել է քվեների 74.9%-ը. Անանիկ Ոսկանյանը` համայնքի ղեկավար</title>
       <link>https://civic.am/news/124565</link>
-      <description>ՔաղաքականությունԱրթիկում ՔՊ-ն ստացել է քվեների 74.9%-ը. Անանիկ Ոսկանյանը` համայնքի ղեկավար - Read on Civic.am.</description>
+      <description>Արթիկում ՔՊ-ն ստացել է քվեների 74.9%-ը. Անանիկ Ոսկանյանը` համայնքի ղեկավար - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/124565</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/10/26/24b2e9b795630a5d8f6a7a9df7cdaafeda4b3518.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 26 Oct 2026 01:10:57 -0000</pubDate>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/10/26/24b2e9b795630a5d8f6a7a9df7cdaafeda4b3518.jpeg" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 26 Oct 2026 07:04:51 -0000</pubDate>
     </item>
     <item>
-      <title>ՔաղաքականությունՄեղրի համայնքում ՔՊ-ն ստացել է քվեների 70%-ը. Սերգո Գալստյանը` համայնքի ղեկավար</title>
+      <title>Մեղրի համայնքում ՔՊ-ն ստացել է քվեների 70%-ը. Սերգո Գալստյանը` համայնքի ղեկավար</title>
       <link>https://civic.am/news/124564</link>
-      <description>ՔաղաքականությունՄեղրի համայնքում ՔՊ-ն ստացել է քվեների 70%-ը. Սերգո Գալստյանը` համայնքի ղեկավար - Read on Civic.am.</description>
+      <description>Մեղրի համայնքում ՔՊ-ն ստացել է քվեների 70%-ը. Սերգո Գալստյանը` համայնքի ղեկավար - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/124564</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/10/26/90cb4a5d73b2ce3fee2d3a14bc62a24b6ad63fec.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 26 Oct 2026 01:08:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>ՔաղաքականությունՄխիթար Մաթևոսյանն ընտրվել է Վայք համայնքի ղեկավար</title>
-      <link>https://civic.am/news/124562</link>
-      <description>ՔաղաքականությունՄխիթար Մաթևոսյանն ընտրվել է Վայք համայնքի ղեկավար - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/124562</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/10/25/d17ecb41852a8528d5744fdbd7cbd3af3466b98b.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 26 Oct 2026 01:06:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>Արաքս համայնքում ՔՊ-ն ստացել է քվեների 71.7%-ը. Ղազար Ղազարյանը` համայնքի ղեկավար</title>
-      <link>https://civic.am/news/124559</link>
-      <description>Արաքս համայնքում ՔՊ-ն ստացել է քվեների 71.7%-ը. Ղազար Ղազարյանը` համայնքի ղեկավար - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/124559</guid>
-      <enclosure url="https://civic.am/media/2026/10/25/8bccfc88cdce23de25fbe28253aa5f674a8555ad.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 26 Oct 2026 01:04:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>Ծաղկաձորում ՔՊ-ն ստացել է քվեների 84.6%-ը. Նարեկ Հարությունյանը` համայնքի ղեկավար</title>
-      <link>https://civic.am/news/124558</link>
-      <description>Ծաղկաձորում ՔՊ-ն ստացել է քվեների 84.6%-ը. Նարեկ Հարությունյանը` համայնքի ղեկավար - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/124558</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/10/25/5a87f98e7576ff358c484cea2f74fd06b8450ea4.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 26 Oct 2026 01:02:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>Մարտունիում ՔՊ-ն ստացել է քվեների 67.6%-ը. Հովհաննես Հովեյանը` համայնքի ղեկավար</title>
-      <link>https://civic.am/news/124557</link>
-      <description>Մարտունիում ՔՊ-ն ստացել է քվեների 67.6%-ը. Հովհաննես Հովեյանը` համայնքի ղեկավար - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/124557</guid>
-      <enclosure url="https://civic.am/media/2026/10/25/591fe31cf08a41f5b60c71109b6a5ef98cee6e5a.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 26 Oct 2026 01:00:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>Արտաշատում ՔՊ-ն ստացել է քվեների 85.6%-ը. Կառլեն Մկրտչյանը` համայնքի ղեկավար</title>
-      <link>https://civic.am/news/124556</link>
-      <description>Արտաշատում ՔՊ-ն ստացել է քվեների 85.6%-ը. Կառլեն Մկրտչյանը` համայնքի ղեկավար - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/124556</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/10/25/555201f3eb4d56a63bb70b252ac16da488997f26.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 26 Oct 2026 00:58:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>Ախուրյանում ՔՊ-ն ստացել է քվեների 92.4%-ը. Զավեն Մանուկյանը` համայնքի ղեկավար</title>
-      <link>https://civic.am/news/124555</link>
-      <description>Ախուրյանում ՔՊ-ն ստացել է քվեների 92.4%-ը. Զավեն Մանուկյանը` համայնքի ղեկավար - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/124555</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/10/25/f553528b0a0c3f63c9bbcfb95054539637973f19.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 26 Oct 2026 00:56:57 -0000</pubDate>
-    </item>
-    <item>
-      <title>374 44 473 732</title>
-      <link>https://civic.am/tel: +37495456789</link>
-      <description>374 44 473 732 - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/tel: +37495456789</guid>
-      <pubDate>Mon, 26 Oct 2026 00:54:57 -0000</pubDate>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/10/26/90cb4a5d73b2ce3fee2d3a14bc62a24b6ad63fec.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Mon, 26 Oct 2026 07:02:51 -0000</pubDate>
     </item>
   </channel>
 </rss>
