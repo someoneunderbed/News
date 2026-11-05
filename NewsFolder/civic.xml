@@ -5,7 +5,7 @@
     <link>https://civic.am/last-news</link>
     <description>Cleaned RSS feed updated from Civic.am.</description>
     <language>hy</language>
-    <lastBuildDate>Thu, 05 Nov 2026 00:17:24 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:15:47 -0000</lastBuildDate>
     <image>
       <url>https://civic.am/assets/img/logo.svg</url>
       <title>Civic.am</title>
@@ -17,7 +17,7 @@
       <description>Վերջին լուրեր - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/last-news</guid>
       <enclosure url="https://civic.am/media/2024/06/04/54e0b527ad56ef4fc6dbee0929416a08173e97a2.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 05 Nov 2026 00:17:24 -0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 07:15:47 -0000</pubDate>
     </item>
     <item>
       <title>Քաղաքականություն</title>
@@ -25,7 +25,7 @@
       <description>Քաղաքականություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/politics</guid>
       <enclosure url="https://civic.am/media/2024/06/04/ee9d67f3bae2933126d54f7ed12f02ac869e2746.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 05 Nov 2026 00:15:24 -0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 07:13:47 -0000</pubDate>
     </item>
     <item>
       <title>Տնտեսություն</title>
@@ -33,7 +33,7 @@
       <description>Տնտեսություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/economy</guid>
       <enclosure url="https://civic.am/media/2024/06/04/6250050b286fb0f4d5ca02a2960ff947fae23145.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 05 Nov 2026 00:13:24 -0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 07:11:47 -0000</pubDate>
     </item>
     <item>
       <title>Հասարակություն</title>
@@ -41,7 +41,7 @@
       <description>Հասարակություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/society</guid>
       <enclosure url="https://civic.am/media/2024/06/04/a8c5d5498c6320597fb01c9cdf47748c74e9f67c.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 05 Nov 2026 00:11:24 -0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 07:09:47 -0000</pubDate>
     </item>
     <item>
       <title>Պաշտոնական</title>
@@ -49,7 +49,7 @@
       <description>Պաշտոնական - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/official</guid>
       <enclosure url="https://civic.am/media/2024/06/04/aba87cc2532bd0ceeaa3ca740a996a96c8d862c2.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 05 Nov 2026 00:09:24 -0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 07:07:47 -0000</pubDate>
     </item>
     <item>
       <title>Հաղորդաշարեր</title>
@@ -57,7 +57,23 @@
       <description>Հաղորդաշարեր - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/broadcasts</guid>
       <enclosure url="https://civic.am/media/2024/06/04/2fe324aae22ec12dd2a977f3395175029028444a.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 05 Nov 2026 00:07:24 -0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 07:05:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>ԻրավունքԳագիկ Ծառուկյանի կալանքը երկարաձգվել է</title>
+      <link>https://civic.am/news/125231</link>
+      <description>ԻրավունքԳագիկ Ծառուկյանի կալանքը երկարաձգվել է - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/125231</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/11/05/15654760a083466ec7c5f1ee935068e007df65f7.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Thu, 05 Nov 2026 07:03:47 -0000</pubDate>
+    </item>
+    <item>
+      <title>ԻրավունքՍամվել Կարապետյանը կալանավորվել է</title>
+      <link>https://civic.am/news/125230</link>
+      <description>ԻրավունքՍամվել Կարապետյանը կալանավորվել է - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/125230</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/11/05/1d4bceeaa018dabca095667e4d89e6e7ec76c770.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Thu, 05 Nov 2026 07:01:47 -0000</pubDate>
     </item>
     <item>
       <title>ԻրավունքՀԷՑ-ին պատճառվել է 64.5 մլրդ դրամի վնաս. ձերբակալվել է Սամվել Կարապետյանը</title>
@@ -65,7 +81,7 @@
       <description>ԻրավունքՀԷՑ-ին պատճառվել է 64.5 մլրդ դրամի վնաս. ձերբակալվել է Սամվել Կարապետյանը - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/125186</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/11/04/e98a849849616d77ea32ecc89512cadc2cf3916a.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 05 Nov 2026 00:05:24 -0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 06:59:47 -0000</pubDate>
     </item>
     <item>
       <title>ՔաղաքականությունՆԳ նախարարը պատասխանել է Սամվել Կարապետյանի՝ այլ քաղաքացիություններից հրաժարման մասին հարցին</title>
@@ -73,31 +89,23 @@
       <description>ՔաղաքականությունՆԳ նախարարը պատասխանել է Սամվել Կարապետյանի՝ այլ քաղաքացիություններից հրաժարման մասին հարցին - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/125166</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/11/04/9a979e3b7b84e4d4c93b0013fc382e586e4e434d.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 05 Nov 2026 00:03:24 -0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 06:57:47 -0000</pubDate>
     </item>
     <item>
-      <title>Քաղաքականություն«Ուժեղ Հայաստան»-ը Լոռիից բացի այլ մարզ չի՞ ճանաչում</title>
-      <link>https://civic.am/news/125130</link>
-      <description>Քաղաքականություն«Ուժեղ Հայաստան»-ը Լոռիից բացի այլ մարզ չի՞ ճանաչում - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/125130</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/11/03/846bade2dd1256b6b4ef99266cfbd6346ecc0932.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Thu, 05 Nov 2026 00:01:24 -0000</pubDate>
-    </item>
-    <item>
-      <title>ՊաշտոնականՎարչապետ Նիկոլ Փաշինյանի անունով տելեգրամում բացվել է կեղծ օգտահաշիվ</title>
-      <link>https://civic.am/news/125156</link>
-      <description>ՊաշտոնականՎարչապետ Նիկոլ Փաշինյանի անունով տելեգրամում բացվել է կեղծ օգտահաշիվ - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/125156</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/11/04/aebb330b8b728d5f876034c5f13d157dc71c79a7.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 04 Nov 2026 23:59:24 -0000</pubDate>
+      <title>ՀասարակությունԵրևանի 8 վարչական շրջանում և 9 մարզերի որոշ հասցեներում լույս չի լինի</title>
+      <link>https://civic.am/news/125208</link>
+      <description>ՀասարակությունԵրևանի 8 վարչական շրջանում և 9 մարզերի որոշ հասցեներում լույս չի լինի - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/125208</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/11/04/083828f4a4f7bcf2593959d9d82a04546da1603f.png" length="1000000" type="image/jpeg" />
+      <pubDate>Thu, 05 Nov 2026 06:55:47 -0000</pubDate>
     </item>
     <item>
       <title>Փաստացի Սամվել Կարապետյանի տանը ձևավորեցին «Սերժի ճակատը»՝ ՍՃ. Ալեքսանյան</title>
       <link>https://civic.am/news/125229</link>
       <description>Փաստացի Սամվել Կարապետյանի տանը ձևավորեցին «Սերժի ճակատը»՝ ՍՃ. Ալեքսանյան - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/125229</guid>
-      <enclosure url="https://civic.am/thumbs/696x444/2026/11/05/98c6ab48ef970b0ed21b7482c18275079a573da2.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 04 Nov 2026 23:57:24 -0000</pubDate>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/11/05/98c6ab48ef970b0ed21b7482c18275079a573da2.jpeg" length="1000000" type="image/jpeg" />
+      <pubDate>Thu, 05 Nov 2026 06:53:47 -0000</pubDate>
     </item>
     <item>
       <title>«ՆարԴոս» դագաղների խանութ-սրահը դատապարտել է հավաքը` կոչ անելով թաղել մեռելներին. «Հուժկու» հայտարարության հումորային արձագանքները</title>
@@ -105,31 +113,31 @@
       <description>«ՆարԴոս» դագաղների խանութ-սրահը դատապարտել է հավաքը` կոչ անելով թաղել մեռելներին. «Հուժկու» հայտարարության հումորային արձագանքները - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/125228</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/11/05/dd9ebfe33f81faf2d469659a8049b43a17aecdc0.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 04 Nov 2026 23:55:24 -0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 06:51:47 -0000</pubDate>
     </item>
     <item>
-      <title>ՔաղաքականությունՇարժում սկսեք՝ անունը դրեք «հոպարի փրկության շարժում», Վազգեն Մանուկյանին էլ բերեք՝ թող առաջնորդի. Մանավազյան</title>
+      <title>Շարժում սկսեք՝ անունը դրեք «հոպարի փրկության շարժում», Վազգեն Մանուկյանին էլ բերեք՝ թող առաջնորդի. Մանավազյան</title>
       <link>https://civic.am/news/125227</link>
-      <description>ՔաղաքականությունՇարժում սկսեք՝ անունը դրեք «հոպարի փրկության շարժում», Վազգեն Մանուկյանին էլ բերեք՝ թող առաջնորդի. Մանավազյան - Read on Civic.am.</description>
+      <description>Շարժում սկսեք՝ անունը դրեք «հոպարի փրկության շարժում», Վազգեն Մանուկյանին էլ բերեք՝ թող առաջնորդի. Մանավազյան - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/125227</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/11/04/b9ae766bb1f9f29c034dbf23229380f7ae4d1d29.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 04 Nov 2026 23:53:24 -0000</pubDate>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/11/04/b9ae766bb1f9f29c034dbf23229380f7ae4d1d29.jpeg" length="1000000" type="image/jpeg" />
+      <pubDate>Thu, 05 Nov 2026 06:49:47 -0000</pubDate>
     </item>
     <item>
-      <title>Քաղաքականություն«Հայտնի» ու մաշված դեմքերով գաղտնի պլան չեք իրագործի, տո ա’յ քաղաքական «բեդովլաթներ». Առաքելյան</title>
+      <title>«Հայտնի» ու մաշված դեմքերով գաղտնի պլան չեք իրագործի, տո ա’յ քաղաքական «բեդովլաթներ». Առաքելյան</title>
       <link>https://civic.am/news/125224</link>
-      <description>Քաղաքականություն«Հայտնի» ու մաշված դեմքերով գաղտնի պլան չեք իրագործի, տո ա’յ քաղաքական «բեդովլաթներ». Առաքելյան - Read on Civic.am.</description>
+      <description>«Հայտնի» ու մաշված դեմքերով գաղտնի պլան չեք իրագործի, տո ա’յ քաղաքական «բեդովլաթներ». Առաքելյան - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/125224</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/11/04/182d1d36edf2f38513c5fe45daf49749113349e6.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 04 Nov 2026 23:51:24 -0000</pubDate>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/11/04/182d1d36edf2f38513c5fe45daf49749113349e6.jpeg" length="1000000" type="image/jpeg" />
+      <pubDate>Thu, 05 Nov 2026 06:47:47 -0000</pubDate>
     </item>
     <item>
-      <title>ՔաղաքականությունՍամվել Կարարապետյանի տանը քաղաքական պանիխիդա է, հավաքվել են քաղաքական դիակները. Չախոյան</title>
+      <title>Սամվել Կարարապետյանի տանը քաղաքական պանիխիդա է, հավաքվել են քաղաքական դիակները. Չախոյան</title>
       <link>https://civic.am/news/125223</link>
-      <description>ՔաղաքականությունՍամվել Կարարապետյանի տանը քաղաքական պանիխիդա է, հավաքվել են քաղաքական դիակները. Չախոյան - Read on Civic.am.</description>
+      <description>Սամվել Կարարապետյանի տանը քաղաքական պանիխիդա է, հավաքվել են քաղաքական դիակները. Չախոյան - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/125223</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/11/04/8e29911b814800b4eacaca5521fcbc9587268d17.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 04 Nov 2026 23:49:24 -0000</pubDate>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/11/04/8e29911b814800b4eacaca5521fcbc9587268d17.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Thu, 05 Nov 2026 06:45:47 -0000</pubDate>
     </item>
     <item>
       <title>Դուք պետքա ֆորբսում հայտնվեք որպես՝ փողամեռ, անհայրենիք, կոռումպացված օտարերկրյա գործակալներ. Խաչատրյանը՝ «ուժեղներին»</title>
@@ -137,7 +145,7 @@
       <description>Դուք պետքա ֆորբսում հայտնվեք որպես՝ փողամեռ, անհայրենիք, կոռումպացված օտարերկրյա գործակալներ. Խաչատրյանը՝ «ուժեղներին» - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/125222</guid>
       <enclosure url="https://civic.am/thumbs/540x362/2026/11/04/828f1553548c6d3c69dc9a595a08678a2337fa30.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 04 Nov 2026 23:47:24 -0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 06:43:47 -0000</pubDate>
     </item>
     <item>
       <title>ԱՄՆ միջանկյալ ընտրություններում հանրապետականների պարտության հիմնական պատճառը Իրանի դեմ պատերազմն է. Վենս</title>
@@ -145,7 +153,7 @@
       <description>ԱՄՆ միջանկյալ ընտրություններում հանրապետականների պարտության հիմնական պատճառը Իրանի դեմ պատերազմն է. Վենս - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/125221</guid>
       <enclosure url="https://civic.am/thumbs/540x362/2026/11/04/9584cc2af09113895b0ad2698b64e41d6f91a87e.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 04 Nov 2026 23:45:24 -0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 06:41:47 -0000</pubDate>
     </item>
     <item>
       <title>Համայնքային ոստիկանության բաժիններ են տեղափոխվել նախկինում դատապարտված և հանցավոր հակումներ ունեցող 65 անձ</title>
@@ -153,7 +161,7 @@
       <description>Համայնքային ոստիկանության բաժիններ են տեղափոխվել նախկինում դատապարտված և հանցավոր հակումներ ունեցող 65 անձ - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/125220</guid>
       <enclosure url="https://civic.am/thumbs/540x362/2026/11/04/92aa2c395cc626d2bf0dbf23f1a086ad347010d6.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 04 Nov 2026 23:43:24 -0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 06:39:47 -0000</pubDate>
     </item>
     <item>
       <title>4 մլն դրամի գողություն Լոռու մարզում․ 20-ամյա որդին հորից պարբերաբար գումար է գողացել և պարտվել բուքմեյքերական կայքում</title>
@@ -161,15 +169,7 @@
       <description>4 մլն դրամի գողություն Լոռու մարզում․ 20-ամյա որդին հորից պարբերաբար գումար է գողացել և պարտվել բուքմեյքերական կայքում - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/125219</guid>
       <enclosure url="https://civic.am/thumbs/540x362/2026/11/04/c7f169d11df9c0de1641ae0e632638372e23ea0f.png" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 04 Nov 2026 23:41:24 -0000</pubDate>
-    </item>
-    <item>
-      <title>Քաղաքացիների անուններով բանկային հաշիվներ են բացում և վարկեր ձևակերպում. ԿԲ-ն զգուշացնում է նոր խարդախության սխեմայի մասին</title>
-      <link>https://civic.am/news/125218</link>
-      <description>Քաղաքացիների անուններով բանկային հաշիվներ են բացում և վարկեր ձևակերպում. ԿԲ-ն զգուշացնում է նոր խարդախության սխեմայի մասին - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/125218</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/11/04/13ed5e4a30826e132c41b4fe5f2bedaf6fe2be0b.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Wed, 04 Nov 2026 23:39:24 -0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 06:37:47 -0000</pubDate>
     </item>
   </channel>
 </rss>
