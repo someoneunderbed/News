@@ -5,40 +5,48 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Mon, 09 Nov 2026 20:37:16 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 03:22:26 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
       <link>https://armenpress.am/hy/articles</link>
     </image>
     <item>
+      <title>Երևան-2 °C</title>
+      <link>https://armenpress.am/hy/articles/weather</link>
+      <description>Երևան-2 °C - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
+      <enclosure url="https://armenpress.am/assets/weather/01d.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Tue, 10 Nov 2026 03:22:26 -0000</pubDate>
+    </item>
+    <item>
       <title>USD / AMD360.43</title>
       <link>https://armenpress.am/hy/articles/economy</link>
       <description>USD / AMD360.43 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 09 Nov 2026 20:37:16 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 03:20:26 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
       <link>https://armenpress.am/hy/articles/fact-check</link>
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Mon, 09 Nov 2026 20:35:16 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 03:18:26 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
       <link>https://armenpress.am/hy/articles/projects</link>
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Mon, 09 Nov 2026 20:33:16 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 03:16:26 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://armenpress.am/hy/articles/interviews</link>
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Mon, 09 Nov 2026 20:31:16 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 03:14:26 -0000</pubDate>
     </item>
     <item>
       <title>21:57, 9 նոյեմբերիՎրաստանՌԴ ԱԽ քարտուղարը ողջունել է Ռուսաստանի և Վրաստանի առևտրատնտեսական կապերի զարգացումը</title>
@@ -46,7 +54,7 @@
       <description>21:57, 9 նոյեմբերիՎրաստանՌԴ ԱԽ քարտուղարը ողջունել է Ռուսաստանի և Վրաստանի առևտրատնտեսական կապերի զարգացումը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265200</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/09/vCAzNvrMJqWpFLYQAQwOT916GpmQNCaYZWpUr6M0.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 09 Nov 2026 20:29:16 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 03:12:26 -0000</pubDate>
     </item>
     <item>
       <title>21:34, 9 նոյեմբերիՔաղաքականությունՀայաստանն ու Էստոնիան կարևորել են Երևանում և Տալլինում մշտական դիվանագիտական ներկայության ընդլայնումը</title>
@@ -54,7 +62,7 @@
       <description>21:34, 9 նոյեմբերիՔաղաքականությունՀայաստանն ու Էստոնիան կարևորել են Երևանում և Տալլինում մշտական դիվանագիտական ներկայության ընդլայնումը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265199</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/09/Vr30PgeXDkWp9u2Uz86OfYNTNpJZvP6PJ3GNBQnk.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 09 Nov 2026 20:27:16 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 03:10:26 -0000</pubDate>
     </item>
     <item>
       <title>21:30, 9 նոյեմբերիԹուրքիաԹուրքիայի հետախուզության ղեկավարը հայտնել է Դոհայում Վենսի և Ռեզայիի հնարավոր հանդիպման մասին</title>
@@ -62,7 +70,7 @@
       <description>21:30, 9 նոյեմբերիԹուրքիաԹուրքիայի հետախուզության ղեկավարը հայտնել է Դոհայում Վենսի և Ռեզայիի հնարավոր հանդիպման մասին - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265197</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/09/5e3DZhNjbJyUMpLTxtyjgUNvJwSbxmxL2JBZvjXT.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 09 Nov 2026 20:25:16 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 03:08:26 -0000</pubDate>
     </item>
     <item>
       <title>21:15, 9 նոյեմբերիՀայաստանՀակակոռուպցիոն կոմիտեի վարույթներով ինն ամսում արգելադրվել է շուրջ 24,3 միլիարդ դրամի գույք</title>
@@ -70,7 +78,7 @@
       <description>21:15, 9 նոյեմբերիՀայաստանՀակակոռուպցիոն կոմիտեի վարույթներով ինն ամսում արգելադրվել է շուրջ 24,3 միլիարդ դրամի գույք - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265196</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/09/6Z1SP4Vg00gxybfTjTgZpgCtiY4cj9mrPpn6Pk0T.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 09 Nov 2026 20:23:16 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 03:06:26 -0000</pubDate>
     </item>
     <item>
       <title>20:57, 9 նոյեմբերիՔաղաքականությունՎարչապետն աշխատանքային այցով մեկնել է Ֆրանսիա</title>
@@ -78,7 +86,7 @@
       <description>20:57, 9 նոյեմբերիՔաղաքականությունՎարչապետն աշխատանքային այցով մեկնել է Ֆրանսիա - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265195</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/09/OoWofItfMGmaz1xnj6YlLkMQgzugDnBWJNWaOFHk.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 09 Nov 2026 20:21:16 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 03:04:26 -0000</pubDate>
     </item>
     <item>
       <title>20:49, 9 նոյեմբերիԱշխարհՄեծ Բրիտանիան ռազմական մասնագետներ է ուղարկում արտերկիր՝ կիբերհարձակումները կանխելու համար</title>
@@ -86,7 +94,7 @@
       <description>20:49, 9 նոյեմբերիԱշխարհՄեծ Բրիտանիան ռազմական մասնագետներ է ուղարկում արտերկիր՝ կիբերհարձակումները կանխելու համար - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265194</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/09/GZVdZoeU5VVGXh8kTDCVOuaN01jPeqqfwBSjz1y9.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 09 Nov 2026 20:19:16 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 03:02:26 -0000</pubDate>
     </item>
     <item>
       <title>20:28, 9 նոյեմբերիՄիացյալ ՆահանգներՀայաստանն ու ԱՄՆ-ն քննարկել են փրկարարների համատեղ ուսումնավարժություններ անցկացնելու հնարավորությունը</title>
@@ -94,7 +102,7 @@
       <description>20:28, 9 նոյեմբերիՄիացյալ ՆահանգներՀայաստանն ու ԱՄՆ-ն քննարկել են փրկարարների համատեղ ուսումնավարժություններ անցկացնելու հնարավորությունը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265193</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/09/aE4oYSs2Cbu5o3O2lVVbOQCNQEZL1CYKq0gJ4vO2.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 09 Nov 2026 20:17:16 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 03:00:26 -0000</pubDate>
     </item>
     <item>
       <title>20:10, 9 նոյեմբերիՄիացյալ ՆահանգներՔուշներն ու Ուիթքոֆը Աբու Դաբիի բանակցություններից առաջ կհանդիպեն Ուկրաինայի և նրա գործընկերների ներկայացուցիչներին</title>
@@ -102,7 +110,7 @@
       <description>20:10, 9 նոյեմբերիՄիացյալ ՆահանգներՔուշներն ու Ուիթքոֆը Աբու Դաբիի բանակցություններից առաջ կհանդիպեն Ուկրաինայի և նրա գործընկերների ներկայացուցիչներին - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265192</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/09/zJZ4Kqvl0ZuhMs3255jnNXoLo4ujct1PY5DaQM5n.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 09 Nov 2026 20:15:16 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 02:58:26 -0000</pubDate>
     </item>
     <item>
       <title>19:56, 9 նոյեմբերիԹուրքիաԹուրքիայի պողպատի գործարանում պայթյունի հետևանքով 10 աշխատակից է զոհվել</title>
@@ -110,7 +118,7 @@
       <description>19:56, 9 նոյեմբերիԹուրքիաԹուրքիայի պողպատի գործարանում պայթյունի հետևանքով 10 աշխատակից է զոհվել - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265191</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/09/pUcEqrlA44GDX7wgLVkJ64H0ciuAX2Xr3gXjrzLU.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 09 Nov 2026 20:13:16 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 02:56:26 -0000</pubDate>
     </item>
     <item>
       <title>19:49, 9 նոյեմբերիԱշխարհՄԱԿ-ի Անվտանգության խորհուրդն արտահերթ նիստում քննարկում է Ուկրաինայում իրավիճակը</title>
@@ -118,7 +126,7 @@
       <description>19:49, 9 նոյեմբերիԱշխարհՄԱԿ-ի Անվտանգության խորհուրդն արտահերթ նիստում քննարկում է Ուկրաինայում իրավիճակը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265190</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/09/EzkSDLdyKncj3ggyYtVFbbMX0FF9nUeQZmqqqcwi.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 09 Nov 2026 20:11:16 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 02:54:26 -0000</pubDate>
     </item>
     <item>
       <title>19:16, 9 նոյեմբերիԻրավունքՓարաքարի Սուրբ Հարություն եկեղեցու գույքը վնասելու դեպքով 31-ամյա տղամարդ է ձերբակալվել</title>
@@ -126,7 +134,7 @@
       <description>19:16, 9 նոյեմբերիԻրավունքՓարաքարի Սուրբ Հարություն եկեղեցու գույքը վնասելու դեպքով 31-ամյա տղամարդ է ձերբակալվել - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265189</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/10/01/mss7VaafAoyPbks1lZbET2CMVke5pjJhegUG2iQJ.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 09 Nov 2026 20:09:16 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 02:52:26 -0000</pubDate>
     </item>
     <item>
       <title>18:58, 9 նոյեմբերիՍփյուռքՀունաստանի Լարիսա քաղաքում Հայաստանի անկախության 35-ամյակը նշել են մանկական նկարների ցուցահանդեսով</title>
@@ -134,7 +142,7 @@
       <description>18:58, 9 նոյեմբերիՍփյուռքՀունաստանի Լարիսա քաղաքում Հայաստանի անկախության 35-ամյակը նշել են մանկական նկարների ցուցահանդեսով - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265188</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/09/dipgc2fmS7Dc7wvKiB58dzAdNLnp3bovUJnFJa5n.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 09 Nov 2026 20:07:16 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 02:50:26 -0000</pubDate>
     </item>
     <item>
       <title>18:31, 9 նոյեմբերիԻրավունքԱջափնյակում սպանության գործով հետախուզվող տղամարդը Վրաստանից տեղափոխվել է Հայաստան</title>
@@ -142,7 +150,7 @@
       <description>18:31, 9 նոյեմբերիԻրավունքԱջափնյակում սպանության գործով հետախուզվող տղամարդը Վրաստանից տեղափոխվել է Հայաստան - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265187</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/09/yUhRviN5cDv4bCL0JZw0SIwntUUTwqUqYntvcJNO.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 09 Nov 2026 20:05:16 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 02:48:26 -0000</pubDate>
     </item>
     <item>
       <title>18:28, 9 նոյեմբերիՄշակույթՀայաստանն ու Հնդկաստանը քննարկել են կրթության, գիտության և մշակույթի ոլորտներում համագործակցության ընդլայնումը</title>
@@ -150,7 +158,7 @@
       <description>18:28, 9 նոյեմբերիՄշակույթՀայաստանն ու Հնդկաստանը քննարկել են կրթության, գիտության և մշակույթի ոլորտներում համագործակցության ընդլայնումը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265186</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/09/zalrIpUcpq6eL4vmol9huIsOGqhVBX04oCvFfVIB.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 09 Nov 2026 20:03:16 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 02:46:26 -0000</pubDate>
     </item>
     <item>
       <title>18:24, 9 նոյեմբերիՔաղաքականությունՀՀ ԱԳՄԱ նախարարությունն ու ReSPA-ն քննարկել են համատեղ կրթական ծրագրերի և վերապատրաստումների հնարավորությունները</title>
@@ -158,15 +166,7 @@
       <description>18:24, 9 նոյեմբերիՔաղաքականությունՀՀ ԱԳՄԱ նախարարությունն ու ReSPA-ն քննարկել են համատեղ կրթական ծրագրերի և վերապատրաստումների հնարավորությունները - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265185</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/09/eUxbpVtVwN1sqUva9jEYhUSJ3zNaOX43PCOlPGLH.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 09 Nov 2026 20:01:16 -0000</pubDate>
-    </item>
-    <item>
-      <title>18:22, 9 նոյեմբերիԲարձր տեխնոլոգիաներՆորարարության հայկական հիմնադրամը իրականացրել է Հայաստանի արհեստական բանականության էկոհամակարգի քարտեզագրում</title>
-      <link>https://armenpress.am/hy/article/1265184</link>
-      <description>18:22, 9 նոյեմբերիԲարձր տեխնոլոգիաներՆորարարության հայկական հիմնադրամը իրականացրել է Հայաստանի արհեստական բանականության էկոհամակարգի քարտեզագրում - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1265184</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/09/G0WmUKCZXJIhTF7Ay1Z9xJ1eoXkjd9aD2DMw3htf.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Mon, 09 Nov 2026 19:59:16 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 02:44:26 -0000</pubDate>
     </item>
   </channel>
 </rss>
