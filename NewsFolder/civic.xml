@@ -5,7 +5,7 @@
     <link>https://civic.am/last-news</link>
     <description>Cleaned RSS feed updated from Civic.am.</description>
     <language>hy</language>
-    <lastBuildDate>Fri, 13 Nov 2026 01:24:37 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 08:40:17 -0000</lastBuildDate>
     <image>
       <url>https://civic.am/assets/img/logo.svg</url>
       <title>Civic.am</title>
@@ -17,7 +17,7 @@
       <description>Վերջին լուրեր - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/last-news</guid>
       <enclosure url="https://civic.am/media/2024/06/04/54e0b527ad56ef4fc6dbee0929416a08173e97a2.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 13 Nov 2026 01:24:37 -0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 08:40:17 -0000</pubDate>
     </item>
     <item>
       <title>Քաղաքականություն</title>
@@ -25,7 +25,7 @@
       <description>Քաղաքականություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/politics</guid>
       <enclosure url="https://civic.am/media/2024/06/04/ee9d67f3bae2933126d54f7ed12f02ac869e2746.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 13 Nov 2026 01:22:37 -0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 08:38:17 -0000</pubDate>
     </item>
     <item>
       <title>Տնտեսություն</title>
@@ -33,7 +33,7 @@
       <description>Տնտեսություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/economy</guid>
       <enclosure url="https://civic.am/media/2024/06/04/6250050b286fb0f4d5ca02a2960ff947fae23145.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 13 Nov 2026 01:20:37 -0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 08:36:17 -0000</pubDate>
     </item>
     <item>
       <title>Հասարակություն</title>
@@ -41,7 +41,7 @@
       <description>Հասարակություն - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/society</guid>
       <enclosure url="https://civic.am/media/2024/06/04/a8c5d5498c6320597fb01c9cdf47748c74e9f67c.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 13 Nov 2026 01:18:37 -0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 08:34:17 -0000</pubDate>
     </item>
     <item>
       <title>Պաշտոնական</title>
@@ -49,7 +49,7 @@
       <description>Պաշտոնական - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/official</guid>
       <enclosure url="https://civic.am/media/2024/06/04/aba87cc2532bd0ceeaa3ca740a996a96c8d862c2.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 13 Nov 2026 01:16:37 -0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 08:32:17 -0000</pubDate>
     </item>
     <item>
       <title>Հաղորդաշարեր</title>
@@ -57,7 +57,15 @@
       <description>Հաղորդաշարեր - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/broadcasts</guid>
       <enclosure url="https://civic.am/media/2024/06/04/2fe324aae22ec12dd2a977f3395175029028444a.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 13 Nov 2026 01:14:37 -0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 08:30:17 -0000</pubDate>
+    </item>
+    <item>
+      <title>ԱշխարհՌԴ միջամտությունը ՀՀ ընտրություններին, աճող տնտեսական ճնշումները․ ԵՄ-ն պատրաստ է աջակցել ՀՀ-ի տնտեսական և էներգետիկ անկախությանը. հայտարարություն</title>
+      <link>https://civic.am/news/125653</link>
+      <description>ԱշխարհՌԴ միջամտությունը ՀՀ ընտրություններին, աճող տնտեսական ճնշումները․ ԵՄ-ն պատրաստ է աջակցել ՀՀ-ի տնտեսական և էներգետիկ անկախությանը. հայտարարություն - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/125653</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/11/13/aef30ffd5c336345fcb3649f0f93ec3e55111a94.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 13 Nov 2026 08:28:17 -0000</pubDate>
     </item>
     <item>
       <title>ՔաղաքականությունՄեր թիմը հայտնի է իր բազմակարծությամբ. Հակոբյանը՝ Արմեն Գրիգորյանի հոդվածի մասին</title>
@@ -65,7 +73,7 @@
       <description>ՔաղաքականությունՄեր թիմը հայտնի է իր բազմակարծությամբ. Հակոբյանը՝ Արմեն Գրիգորյանի հոդվածի մասին - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/125614</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/11/12/0012fbc36437c7baa46d01eed39082fa286c666f.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 13 Nov 2026 01:12:37 -0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 08:26:17 -0000</pubDate>
     </item>
     <item>
       <title>ՔաղաքականությունՊարզվում է՝ ընդդիմությունը «դիվիդիի» համար է պայքարում, պարտված են․ Չախոյան</title>
@@ -73,7 +81,7 @@
       <description>ՔաղաքականությունՊարզվում է՝ ընդդիմությունը «դիվիդիի» համար է պայքարում, պարտված են․ Չախոյան - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/125586</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/11/12/68e162fdd4680c1205869d3f4e54fc2116ca5e5c.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 13 Nov 2026 01:10:37 -0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 08:24:17 -0000</pubDate>
     </item>
     <item>
       <title>ՔաղաքականությունՄատենադարանի հարակից տարածքը ավտոկայանատեղիի չի վերածվի. նախատեսված է լինելու բացառապես ուղևորների իջեցման և նստեցման համար․ Ազարյան</title>
@@ -81,95 +89,87 @@
       <description>ՔաղաքականությունՄատենադարանի հարակից տարածքը ավտոկայանատեղիի չի վերածվի. նախատեսված է լինելու բացառապես ուղևորների իջեցման և նստեցման համար․ Ազարյան - Read on Civic.am.</description>
       <guid isPermaLink="false">https://civic.am/news/125585</guid>
       <enclosure url="https://civic.am/thumbs/108x108/2026/11/12/d677f084acb80a6b2437ab8594368ea30a2fc3e0.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 13 Nov 2026 01:08:37 -0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 08:22:17 -0000</pubDate>
     </item>
     <item>
-      <title>ՔաղաքականությունՍոնա Ղազարյանը՝ Արմեն Գրիգորյանի հոդվածի և Հայաստանին ՀԱՊԿ-ում ձայնի իրավունքից զրկելու մասին</title>
-      <link>https://civic.am/news/125584</link>
-      <description>ՔաղաքականությունՍոնա Ղազարյանը՝ Արմեն Գրիգորյանի հոդվածի և Հայաստանին ՀԱՊԿ-ում ձայնի իրավունքից զրկելու մասին - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/125584</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/11/12/4a736e06df60df9dfc368fa776f7bd531e084576.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 13 Nov 2026 01:06:37 -0000</pubDate>
+      <title>ՊաշտոնականՍպիտակի ԲԿ-ն հայ-ճապոնական արդյունավետ համագործակցության գեղեցիկ օրինակներից է. Ավանեսյանն այցելել է այնտեղ</title>
+      <link>https://civic.am/news/125655</link>
+      <description>ՊաշտոնականՍպիտակի ԲԿ-ն հայ-ճապոնական արդյունավետ համագործակցության գեղեցիկ օրինակներից է. Ավանեսյանն այցելել է այնտեղ - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/125655</guid>
+      <enclosure url="https://civic.am/thumbs/696x444/2026/11/13/2e8d90c78b774df5f34e06b583e05b09588faf11.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 13 Nov 2026 08:20:17 -0000</pubDate>
     </item>
     <item>
-      <title>Մհեր Գրիգորյանը կարևորել է Երևանի ու Լոնդոնի միջև ռազմավարական գործընկերության հաստատումը</title>
-      <link>https://civic.am/news/125642</link>
-      <description>Մհեր Գրիգորյանը կարևորել է Երևանի ու Լոնդոնի միջև ռազմավարական գործընկերության հաստատումը - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/125642</guid>
-      <enclosure url="https://civic.am/thumbs/696x444/2026/11/12/f7ff4911cc788aad39fb71555831a5254784c383.jpg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 13 Nov 2026 01:04:37 -0000</pubDate>
+      <title>ԱշխարհՀայաստան-Թուրքիա սահմանին շարունակվում են երկաթուղու աշխատանքները</title>
+      <link>https://civic.am/news/125654</link>
+      <description>ԱշխարհՀայաստան-Թուրքիա սահմանին շարունակվում են երկաթուղու աշխատանքները - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/125654</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/11/13/3097c554484c13701ee8b7e968c4d5a0a5057674.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 13 Nov 2026 08:18:17 -0000</pubDate>
     </item>
     <item>
-      <title>Վլադիմիր Կիրակոսյանն ու Սեդրակ Թևոնյանը քննարկել են Արարատի մարզում բնապահպանական հսկողության հարցերը</title>
-      <link>https://civic.am/news/125641</link>
-      <description>Վլադիմիր Կիրակոսյանն ու Սեդրակ Թևոնյանը քննարկել են Արարատի մարզում բնապահպանական հսկողության հարցերը - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/125641</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/11/12/fd9e33c7c77177699e54177224f7b0172b6fe453.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 13 Nov 2026 01:02:37 -0000</pubDate>
+      <title>Պայթյուն գազալցակայանում․ տուժածներ չկան</title>
+      <link>https://civic.am/news/125652</link>
+      <description>Պայթյուն գազալցակայանում․ տուժածներ չկան - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/125652</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/11/13/71d02c64217185243eb374bdc92b4137ace81b76.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 13 Nov 2026 08:16:17 -0000</pubDate>
     </item>
     <item>
-      <title>Շախմատիստ Նարե Իսախանյանը դարձել է Եվրոպայի փոխչեմպիոն</title>
-      <link>https://civic.am/news/125640</link>
-      <description>Շախմատիստ Նարե Իսախանյանը դարձել է Եվրոպայի փոխչեմպիոն - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/125640</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/11/12/c0ee6b5ba1eabc9fe0a127b7cb18c1d46edaf74d.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 13 Nov 2026 01:00:37 -0000</pubDate>
+      <title>ԱշխարհՊատերազմի ավարտի հույս կա. Զելենսկին՝ ԱՄՆ-ՌԴ բանակցությունների արդյունքների մասին</title>
+      <link>https://civic.am/news/125651</link>
+      <description>ԱշխարհՊատերազմի ավարտի հույս կա. Զելենսկին՝ ԱՄՆ-ՌԴ բանակցությունների արդյունքների մասին - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/125651</guid>
+      <enclosure url="https://civic.am/thumbs/108x108/2026/11/13/f6019d5ce34315df1fb9777bae07d75f80101542.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 13 Nov 2026 08:14:17 -0000</pubDate>
     </item>
     <item>
-      <title>Դուբլինում Ալեն Սիմոնյանն ու Հիքմեթ Հաջիևը շփումներ են ունեցել․ ԱԽ քարտուղարի գրասենյակ</title>
-      <link>https://civic.am/news/125638</link>
-      <description>Դուբլինում Ալեն Սիմոնյանն ու Հիքմեթ Հաջիևը շփումներ են ունեցել․ ԱԽ քարտուղարի գրասենյակ - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/125638</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/11/12/a350b509073ad5b642ec197148ee941329055f68.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 13 Nov 2026 00:58:37 -0000</pubDate>
+      <title>Ամանորյա ձևավորման աշխատանքներով պայմանավորված՝ ժամանակավոր կփակվեն «Հաղթանակ» կամուրջն ու Աբովյան փողոցը</title>
+      <link>https://civic.am/news/125650</link>
+      <description>Ամանորյա ձևավորման աշխատանքներով պայմանավորված՝ ժամանակավոր կփակվեն «Հաղթանակ» կամուրջն ու Աբովյան փողոցը - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/125650</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/11/13/a3aa312a40789acc9abb44f0327f606947e7447f.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 13 Nov 2026 08:12:17 -0000</pubDate>
     </item>
     <item>
-      <title>Լիտվայի նախագահը` Հայաստանի և Ադրբեջանի հարաբերությունների մասին</title>
-      <link>https://civic.am/news/125635</link>
-      <description>Լիտվայի նախագահը` Հայաստանի և Ադրբեջանի հարաբերությունների մասին - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/125635</guid>
-      <enclosure url="https://civic.am/thumbs/108x108/2026/11/12/da23937a6d70aadfcd6fec0eb4c2ffa7d46c9bc8.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 13 Nov 2026 00:56:37 -0000</pubDate>
+      <title>Նոյեմբերի 15-ից ձմեռային անվադողերով երթևեկելը պարտադիր է. որ դեպքում մեքենայի շահագործումը կարգելվի</title>
+      <link>https://civic.am/news/125649</link>
+      <description>Նոյեմբերի 15-ից ձմեռային անվադողերով երթևեկելը պարտադիր է. որ դեպքում մեքենայի շահագործումը կարգելվի - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/125649</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/11/13/c15752b5ac8768b3ac2583cdcdf27a148851b6ab.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 13 Nov 2026 08:10:17 -0000</pubDate>
     </item>
     <item>
-      <title>Դուբլինում Միրզոյանն ու Կալասը քննարկել են Հայաստան-ԵՄ գործընկերության զարգացման հարցեր</title>
-      <link>https://civic.am/news/125637</link>
-      <description>Դուբլինում Միրզոյանն ու Կալասը քննարկել են Հայաստան-ԵՄ գործընկերության զարգացման հարցեր - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/125637</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/11/12/9c5e6ef58e335bbcd742c4ca324dce43af116573.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 13 Nov 2026 00:54:37 -0000</pubDate>
+      <title>«Արաբկիր» բժշկական կենտրոնում 12-ամյա տղա է մահացել</title>
+      <link>https://civic.am/news/125648</link>
+      <description>«Արաբկիր» բժշկական կենտրոնում 12-ամյա տղա է մահացել - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/125648</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/11/13/a43994c5922e8a60d632234b2e9d9454e91f580c.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 13 Nov 2026 08:08:17 -0000</pubDate>
     </item>
     <item>
-      <title>Լոռու մարզում դադարեցվել է երկու էլեկտրատեղակայանքի շահագործումը․ ՔՏՀԱՏՄ</title>
-      <link>https://civic.am/news/125630</link>
-      <description>Լոռու մարզում դադարեցվել է երկու էլեկտրատեղակայանքի շահագործումը․ ՔՏՀԱՏՄ - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/125630</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/11/12/4bae0a7a75550848e2a9d7ab700265641662d7cf.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 13 Nov 2026 00:52:37 -0000</pubDate>
+      <title>ՌԴ-ն և Ուկրաինան համաձայնել են եվրոպացիներին ներառել բանակցությունների հաջորդ փուլում. Քուշներ</title>
+      <link>https://civic.am/news/125646</link>
+      <description>ՌԴ-ն և Ուկրաինան համաձայնել են եվրոպացիներին ներառել բանակցությունների հաջորդ փուլում. Քուշներ - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/125646</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/11/13/e79937d2ca6b738674183b86ff0c205ad3a2d151.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 13 Nov 2026 08:06:17 -0000</pubDate>
     </item>
     <item>
-      <title>Քննարկվել են հանրակրթության ոլորտի բարեփոխումների ընթացքին առնչվող հարցեր</title>
-      <link>https://civic.am/news/125629</link>
-      <description>Քննարկվել են հանրակրթության ոլորտի բարեփոխումների ընթացքին առնչվող հարցեր - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/125629</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/11/12/01af2f2e9c52b335c93d2e6c164d35ce453ecf1e.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 13 Nov 2026 00:50:37 -0000</pubDate>
+      <title>Նախարարը և IISD նախագահը քննարկել են ՀՀ-ում կենսաբազմազանության ուղղությամբ ֆինանսավորման հնարավորությունները</title>
+      <link>https://civic.am/news/125645</link>
+      <description>Նախարարը և IISD նախագահը քննարկել են ՀՀ-ում կենսաբազմազանության ուղղությամբ ֆինանսավորման հնարավորությունները - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/125645</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/11/13/d9c6c9c337cf1db6daa9e93e356b049281ea514c.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 13 Nov 2026 08:04:17 -0000</pubDate>
     </item>
     <item>
-      <title>Ներկայացված նախագիծը երբևէ չի ներկայացվել Երևանի քաղաքապետարան և չի եղել քննարկման կամ համաձայնեցման առարկա. Ազարյան</title>
-      <link>https://civic.am/news/125636</link>
-      <description>Ներկայացված նախագիծը երբևէ չի ներկայացվել Երևանի քաղաքապետարան և չի եղել քննարկման կամ համաձայնեցման առարկա. Ազարյան - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/125636</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/11/12/006515985553502477e72132d39a3165e23ce95d.jpeg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 13 Nov 2026 00:48:37 -0000</pubDate>
-    </item>
-    <item>
-      <title>Հայաստանի և Ադրբեջանի ԱԳ նախարարները կարճատև զրույց են ունեցել Դուբլինում</title>
-      <link>https://civic.am/news/125639</link>
-      <description>Հայաստանի և Ադրբեջանի ԱԳ նախարարները կարճատև զրույց են ունեցել Դուբլինում - Read on Civic.am.</description>
-      <guid isPermaLink="false">https://civic.am/news/125639</guid>
-      <enclosure url="https://civic.am/thumbs/540x362/2026/11/12/08b4cf06ae2383f7125b2275ce8d31635c7f7fdf.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 13 Nov 2026 00:46:37 -0000</pubDate>
+      <title>Հարձակում թիվ 2 տրոլեյբուսի վրա. թքել են վարորդի ուղղությամբ, փորձել հաշվեհարդար տեսնել. քաշքշոց է սկսվել</title>
+      <link>https://civic.am/news/125644</link>
+      <description>Հարձակում թիվ 2 տրոլեյբուսի վրա. թքել են վարորդի ուղղությամբ, փորձել հաշվեհարդար տեսնել. քաշքշոց է սկսվել - Read on Civic.am.</description>
+      <guid isPermaLink="false">https://civic.am/news/125644</guid>
+      <enclosure url="https://civic.am/thumbs/540x362/2026/11/13/094d0dc6224464450f45ec1bcdfe7f85ec25d384.jpg" length="1000000" type="image/jpeg" />
+      <pubDate>Fri, 13 Nov 2026 08:02:17 -0000</pubDate>
     </item>
   </channel>
 </rss>
