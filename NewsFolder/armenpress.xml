@@ -5,40 +5,80 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Sun, 15 Nov 2026 01:14:21 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 08:21:24 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
       <link>https://armenpress.am/hy/articles</link>
     </image>
     <item>
+      <title>Երևան11 °C</title>
+      <link>https://armenpress.am/hy/articles/weather</link>
+      <description>Երևան11 °C - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
+      <enclosure url="https://armenpress.am/assets/weather/01d.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 15 Nov 2026 08:21:24 -0000</pubDate>
+    </item>
+    <item>
       <title>USD / AMD360.54</title>
       <link>https://armenpress.am/hy/articles/economy</link>
       <description>USD / AMD360.54 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 15 Nov 2026 01:14:21 -0000</pubDate>
+      <pubDate>Sun, 15 Nov 2026 08:19:24 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
       <link>https://armenpress.am/hy/articles/fact-check</link>
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Sun, 15 Nov 2026 01:12:21 -0000</pubDate>
+      <pubDate>Sun, 15 Nov 2026 08:17:24 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
       <link>https://armenpress.am/hy/articles/projects</link>
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Sun, 15 Nov 2026 01:10:21 -0000</pubDate>
+      <pubDate>Sun, 15 Nov 2026 08:15:24 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://armenpress.am/hy/articles/interviews</link>
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Sun, 15 Nov 2026 01:08:21 -0000</pubDate>
+      <pubDate>Sun, 15 Nov 2026 08:13:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>11:09ՀայաստանԳործնական հմտությունների կատարելագործում․ Մալիշկա գյուղի դպրոցում անցկացվել է հատուկ-տակտիկական ուսումնավարժություն</title>
+      <link>https://armenpress.am/hy/article/1265697</link>
+      <description>11:09ՀայաստանԳործնական հմտությունների կատարելագործում․ Մալիշկա գյուղի դպրոցում անցկացվել է հատուկ-տակտիկական ուսումնավարժություն - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1265697</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/15/vifJZyzudOkxa4plPTNHtFNomltDSrehYmIgWnEq.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 15 Nov 2026 08:11:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>11:04ՀայաստանՀՀ տարածքում ավտոճանապարհները հիմնականում անցանելի են</title>
+      <link>https://armenpress.am/hy/article/1265696</link>
+      <description>11:04ՀայաստանՀՀ տարածքում ավտոճանապարհները հիմնականում անցանելի են - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1265696</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/15/QQJWuNBL302XYHXaE9g3uollIqqJmycitcTVW6bw.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 15 Nov 2026 08:09:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>11:02ՄշակույթԼույս է տեսել Հովհաննես Շիրազի «Անտիպ էջեր» մատենաշարի վեցերորդ հատորը</title>
+      <link>https://armenpress.am/hy/article/1265695</link>
+      <description>11:02ՄշակույթԼույս է տեսել Հովհաննես Շիրազի «Անտիպ էջեր» մատենաշարի վեցերորդ հատորը - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1265695</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/15/GIvpHOOs0baumeMGoCDBjunPdaJmR8IYP43nqBtV.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 15 Nov 2026 08:07:24 -0000</pubDate>
+    </item>
+    <item>
+      <title>10:29ՀայաստանՎարչապետը ներկա է գտնվել ՖՄԿ 20-րդ գագաթնաժողովի բացման արարողությանը</title>
+      <link>https://armenpress.am/hy/article/1265694</link>
+      <description>10:29ՀայաստանՎարչապետը ներկա է գտնվել ՖՄԿ 20-րդ գագաթնաժողովի բացման արարողությանը - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/article/1265694</guid>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/15/CVcEuC26W5usJrxHcTkdJlpRC9AcDPbhkaI5Cpbq.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 15 Nov 2026 08:05:24 -0000</pubDate>
     </item>
     <item>
       <title>23:49, 14 նոյեմբերիՔաղաքականությունՆիկոլ Փաշինյանը ժամանել է Կամբոջա</title>
@@ -46,7 +86,7 @@
       <description>23:49, 14 նոյեմբերիՔաղաքականությունՆիկոլ Փաշինյանը ժամանել է Կամբոջա - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265693</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/14/SJWEyXmv2CUBAbhZApKygp4aCohhpyHeJqrt88oz.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 15 Nov 2026 01:06:21 -0000</pubDate>
+      <pubDate>Sun, 15 Nov 2026 08:03:24 -0000</pubDate>
     </item>
     <item>
       <title>21:25, 14 նոյեմբերիԻրավունքԲԴԽ-ն կասեցրել է դատավորներ Գևորգ Պողոսյանի և Մասիս Մելքոնյանի լիազորությունները</title>
@@ -54,7 +94,7 @@
       <description>21:25, 14 նոյեմբերիԻրավունքԲԴԽ-ն կասեցրել է դատավորներ Գևորգ Պողոսյանի և Մասիս Մելքոնյանի լիազորությունները - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265692</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/14/gwu25QheHQ631T1yM3PkjNdWCtCt0MV0VlBXPf4X.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 15 Nov 2026 01:04:21 -0000</pubDate>
+      <pubDate>Sun, 15 Nov 2026 08:01:24 -0000</pubDate>
     </item>
     <item>
       <title>20:22, 14 նոյեմբերիՍպորտԺաննա Անդրեասյանը և Միխայիլ Դեգտյարևը քննարկել են սպորտի ոլորտում Հայաստան-Ռուսաստան համագործակցության հեռանկարները</title>
@@ -62,7 +102,7 @@
       <description>20:22, 14 նոյեմբերիՍպորտԺաննա Անդրեասյանը և Միխայիլ Դեգտյարևը քննարկել են սպորտի ոլորտում Հայաստան-Ռուսաստան համագործակցության հեռանկարները - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265691</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/14/SwlBjn3Fs4SAjz1os8TQ12oZ0kNjy7ihUCdOkE2N.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 15 Nov 2026 01:02:21 -0000</pubDate>
+      <pubDate>Sun, 15 Nov 2026 07:59:24 -0000</pubDate>
     </item>
     <item>
       <title>19:47, 14 նոյեմբերիՍպորտՄենք թիմային ոգի ունենք, հաղթական ոգի էլ ենք ուզում ունենալ. Եղիշե Մելիքյան</title>
@@ -70,7 +110,7 @@
       <description>19:47, 14 նոյեմբերիՍպորտՄենք թիմային ոգի ունենք, հաղթական ոգի էլ ենք ուզում ունենալ. Եղիշե Մելիքյան - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265690</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/14/FmgzIBEFyLyaEyoUCbi7tYUY2IhEsFjBPfFtiItf.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 15 Nov 2026 01:00:21 -0000</pubDate>
+      <pubDate>Sun, 15 Nov 2026 07:57:24 -0000</pubDate>
     </item>
     <item>
       <title>19:27, 14 նոյեմբերիՍպորտՀայաստանի հավաքականն ունի ֆուտբոլային գաղափար. Արթուր Սերոբյան</title>
@@ -78,7 +118,7 @@
       <description>19:27, 14 նոյեմբերիՍպորտՀայաստանի հավաքականն ունի ֆուտբոլային գաղափար. Արթուր Սերոբյան - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265689</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/14/FNQ8S0K4CBIZP9zsSrIHzSjQdMwsD36QnJhmCXtM.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 15 Nov 2026 00:58:21 -0000</pubDate>
+      <pubDate>Sun, 15 Nov 2026 07:55:24 -0000</pubDate>
     </item>
     <item>
       <title>18:00, 14 նոյեմբերիՏնտեսությունՀայաստանը ներառվել է հեղինակավոր Condé Nast Traveller Middle East-ի՝ 2027 թվականին այցելելու աշխարհի լավագույն ուղղությունների ցանկում</title>
@@ -86,7 +126,7 @@
       <description>18:00, 14 նոյեմբերիՏնտեսությունՀայաստանը ներառվել է հեղինակավոր Condé Nast Traveller Middle East-ի՝ 2027 թվականին այցելելու աշխարհի լավագույն ուղղությունների ցանկում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265688</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/14/JpkOQknp4rXv3N3UaB9pUYAFYGjTp9cr2BA3kNCb.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 15 Nov 2026 00:56:21 -0000</pubDate>
+      <pubDate>Sun, 15 Nov 2026 07:53:24 -0000</pubDate>
     </item>
     <item>
       <title>17:55, 14 նոյեմբերիՄերձավոր ԱրևելքԳազայում զոհերի թիվը հասել է 74 695-ի</title>
@@ -94,15 +134,15 @@
       <description>17:55, 14 նոյեմբերիՄերձավոր ԱրևելքԳազայում զոհերի թիվը հասել է 74 695-ի - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265686</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/14/l9aCWf1qYascwW3OCCnbRjQ1TZakma3kOQF4oR26.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 15 Nov 2026 00:54:21 -0000</pubDate>
+      <pubDate>Sun, 15 Nov 2026 07:51:24 -0000</pubDate>
     </item>
     <item>
       <title>17:46, 14 նոյեմբերիԱնոնսՆոյեմբերի 16-ի միջոցառումների անոնս</title>
       <link>https://armenpress.am/hy/article/1265687</link>
       <description>17:46, 14 նոյեմբերիԱնոնսՆոյեմբերի 16-ի միջոցառումների անոնս - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265687</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/14/SJWEyXmv2CUBAbhZApKygp4aCohhpyHeJqrt88oz.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 15 Nov 2026 00:52:21 -0000</pubDate>
+      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/15/vifJZyzudOkxa4plPTNHtFNomltDSrehYmIgWnEq.webp" length="1000000" type="image/jpeg" />
+      <pubDate>Sun, 15 Nov 2026 07:49:24 -0000</pubDate>
     </item>
     <item>
       <title>17:45, 14 նոյեմբերիՔաղաքականությունՓաշինյանն ու Ջայշանկարը քննարկել են Հայաստան-Հնդկաստան համագործակցությանը վերաբերող հարցեր</title>
@@ -110,7 +150,7 @@
       <description>17:45, 14 նոյեմբերիՔաղաքականությունՓաշինյանն ու Ջայշանկարը քննարկել են Հայաստան-Հնդկաստան համագործակցությանը վերաբերող հարցեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265684</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/14/3YrRDl0UQdcv4ifi3dIiwk1IHlDpS7FnzJ8nTGf9.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 15 Nov 2026 00:50:21 -0000</pubDate>
+      <pubDate>Sun, 15 Nov 2026 07:47:24 -0000</pubDate>
     </item>
     <item>
       <title>17:15, 14 նոյեմբերիՔաղաքականությունՌոբերտ Աբիսողոմոնյանը կարևորել է Ֆրանկոֆոնիայի միջազգային կազմակերպության դերը՝ որպես երկխոսության և համագործակցության հարթակ</title>
@@ -118,7 +158,7 @@
       <description>17:15, 14 նոյեմբերիՔաղաքականությունՌոբերտ Աբիսողոմոնյանը կարևորել է Ֆրանկոֆոնիայի միջազգային կազմակերպության դերը՝ որպես երկխոսության և համագործակցության հարթակ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265683</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/14/NCTubYVvS57AKX522LW0aDhL68jCC5lQynpIdwAM.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 15 Nov 2026 00:48:21 -0000</pubDate>
+      <pubDate>Sun, 15 Nov 2026 07:45:24 -0000</pubDate>
     </item>
     <item>
       <title>17:10, 14 նոյեմբերիՔաղաքականությունՆիկոլ Փաշինյանը Նյու Դելիում հանդիպել է Հնդկաստանի ԱԳ նախարարի հետ</title>
@@ -126,47 +166,7 @@
       <description>17:10, 14 նոյեմբերիՔաղաքականությունՆիկոլ Փաշինյանը Նյու Դելիում հանդիպել է Հնդկաստանի ԱԳ նախարարի հետ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1265682</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/14/yWJmE1fUava46L1AGw8Jrg8fdsaikR6rRmwR19Fd.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 15 Nov 2026 00:46:21 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:01, 14 նոյեմբերիԻրավունքՈստիկանության գվարդիան մեկ տարում շուրջ 1000 հանցագործության դեպք է բացահայտել․ ՆԳ նախարարը հետևել է վարժանքին և պարգևներ հանձնել</title>
-      <link>https://armenpress.am/hy/article/1265681</link>
-      <description>17:01, 14 նոյեմբերիԻրավունքՈստիկանության գվարդիան մեկ տարում շուրջ 1000 հանցագործության դեպք է բացահայտել․ ՆԳ նախարարը հետևել է վարժանքին և պարգևներ հանձնել - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1265681</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/14/kIh6lXetoRxia3ltElbzKKnNltfjXfwMLfiQ3lai.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 15 Nov 2026 00:44:21 -0000</pubDate>
-    </item>
-    <item>
-      <title>16:47, 14 նոյեմբերիՄշակույթLed Zeppelin ռոք խմբի վոկալիստ Ռոբերտ Փլանթն առաջին անգամ համերգով հանդես կգա Հայաստանում</title>
-      <link>https://armenpress.am/hy/article/1265680</link>
-      <description>16:47, 14 նոյեմբերիՄշակույթLed Zeppelin ռոք խմբի վոկալիստ Ռոբերտ Փլանթն առաջին անգամ համերգով հանդես կգա Հայաստանում - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1265680</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/14/wDu0zJDaNEK0uTR8qS6BRilOTs75ZYFblnBWsIqo.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 15 Nov 2026 00:42:21 -0000</pubDate>
-    </item>
-    <item>
-      <title>16:35, 14 նոյեմբերիԻրանԹրամփը կարող է հետաձգել Իրանին նոր հարվածները․ Reuters</title>
-      <link>https://armenpress.am/hy/article/1265679</link>
-      <description>16:35, 14 նոյեմբերիԻրանԹրամփը կարող է հետաձգել Իրանին նոր հարվածները․ Reuters - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1265679</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/13/oySsV75cl7XjojTNZtDoWjmS4kj6HagfM006PoX5.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 15 Nov 2026 00:40:21 -0000</pubDate>
-    </item>
-    <item>
-      <title>16:21, 14 նոյեմբերիՄիացյալ ՆահանգներԱՄՆ-ում վերացվել է օդանավերի մեկնումների համազգային սահմանափակումը</title>
-      <link>https://armenpress.am/hy/article/1265678</link>
-      <description>16:21, 14 նոյեմբերիՄիացյալ ՆահանգներԱՄՆ-ում վերացվել է օդանավերի մեկնումների համազգային սահմանափակումը - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1265678</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/14/4rU5gyzw9mJoXV2X5DPexzQ5dNWgdoYEdQQWTzq9.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 15 Nov 2026 00:38:21 -0000</pubDate>
-    </item>
-    <item>
-      <title>16:09, 14 նոյեմբերիԱշխարհԶապորոժիեում ռուսական հարվածներից յոթ մարդ է վիրավորվել այդ թվում՝ նորածին․ մարզային վարչակազմ</title>
-      <link>https://armenpress.am/hy/article/1265677</link>
-      <description>16:09, 14 նոյեմբերիԱշխարհԶապորոժիեում ռուսական հարվածներից յոթ մարդ է վիրավորվել այդ թվում՝ նորածին․ մարզային վարչակազմ - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1265677</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/14/MFEKLkypdemOyvQfbuMo5ptNPcj5BXsmIaug2niM.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Sun, 15 Nov 2026 00:36:21 -0000</pubDate>
+      <pubDate>Sun, 15 Nov 2026 07:43:24 -0000</pubDate>
     </item>
   </channel>
 </rss>
