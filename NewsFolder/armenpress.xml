@@ -5,40 +5,48 @@
     <link>https://armenpress.am/hy/articles</link>
     <description>Cleaned RSS feed updated from armenpress.am.</description>
     <language>hy</language>
-    <lastBuildDate>Fri, 27 Nov 2026 20:12:58 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 02:54:46 -0000</lastBuildDate>
     <image>
       <url>https://armenpress.am/assets/companies/armenpress-indigo-hy.svg</url>
       <title>armenpress.am</title>
       <link>https://armenpress.am/hy/articles</link>
     </image>
     <item>
+      <title>Երևան-4 °C</title>
+      <link>https://armenpress.am/hy/articles/weather</link>
+      <description>Երևան-4 °C - Read on armenpress.am.</description>
+      <guid isPermaLink="false">https://armenpress.am/hy/articles/weather</guid>
+      <enclosure url="https://armenpress.am/assets/weather/04n.svg" length="1000000" type="image/jpeg" />
+      <pubDate>Sat, 28 Nov 2026 02:54:46 -0000</pubDate>
+    </item>
+    <item>
       <title>USD / AMD360.12</title>
       <link>https://armenpress.am/hy/articles/economy</link>
       <description>USD / AMD360.12 - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/economy</guid>
       <enclosure url="https://armenpress.am/assets/icons/statisticsArrowIcon.svg" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 27 Nov 2026 20:12:58 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 02:52:46 -0000</pubDate>
     </item>
     <item>
       <title>Փաստերի ստուգում</title>
       <link>https://armenpress.am/hy/articles/fact-check</link>
       <description>Փաստերի ստուգում - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/fact-check</guid>
-      <pubDate>Fri, 27 Nov 2026 20:10:58 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 02:50:46 -0000</pubDate>
     </item>
     <item>
       <title>Հատուկ նախագծեր</title>
       <link>https://armenpress.am/hy/articles/projects</link>
       <description>Հատուկ նախագծեր - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/projects</guid>
-      <pubDate>Fri, 27 Nov 2026 20:08:58 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 02:48:46 -0000</pubDate>
     </item>
     <item>
       <title>Հարցազրույց</title>
       <link>https://armenpress.am/hy/articles/interviews</link>
       <description>Հարցազրույց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/articles/interviews</guid>
-      <pubDate>Fri, 27 Nov 2026 20:06:58 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 02:46:46 -0000</pubDate>
     </item>
     <item>
       <title>21:52, 27 նոյեմբերիՔաղաքականությունՀՀ ԱԳՄԱ փոխնախարարն ԱՄԷ արտաքին գործերի պետնախարարի հետ քննարկել է երկկողմ հարաբերությունների օրակարգը</title>
@@ -46,7 +54,7 @@
       <description>21:52, 27 նոյեմբերիՔաղաքականությունՀՀ ԱԳՄԱ փոխնախարարն ԱՄԷ արտաքին գործերի պետնախարարի հետ քննարկել է երկկողմ հարաբերությունների օրակարգը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1266878</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/27/jgjXYXT8qhyjqrKEPzWwhvNTAHDriqKKM6x90jOK.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 27 Nov 2026 20:04:58 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 02:44:46 -0000</pubDate>
     </item>
     <item>
       <title>21:28, 27 նոյեմբերիԱշխարհՖիլիպիններում նախատեսում են ավարտին հասցնել գործող փոխնախագահի դատավարությունը</title>
@@ -54,7 +62,7 @@
       <description>21:28, 27 նոյեմբերիԱշխարհՖիլիպիններում նախատեսում են ավարտին հասցնել գործող փոխնախագահի դատավարությունը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1266876</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/27/hZi7uEwsq93wsipFqBxM57GbrcqjkxBAjdc3AolC.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 27 Nov 2026 20:02:58 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 02:42:46 -0000</pubDate>
     </item>
     <item>
       <title>21:09, 27 նոյեմբերիՄիացյալ ՆահանգներՈւկրաինայում բանակցությունների նոր փուլից հետո ԱՄՆ-ն հայտնել է խաղաղության ուղղությամբ արձանագրված առաջընթացի մասին</title>
@@ -62,7 +70,7 @@
       <description>21:09, 27 նոյեմբերիՄիացյալ ՆահանգներՈւկրաինայում բանակցությունների նոր փուլից հետո ԱՄՆ-ն հայտնել է խաղաղության ուղղությամբ արձանագրված առաջընթացի մասին - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1266875</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/27/3pwtlDZGbQQtMVWP1MJ410Q5KxBWtzE3oUOJe6gB.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 27 Nov 2026 20:00:58 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 02:40:46 -0000</pubDate>
     </item>
     <item>
       <title>20:40, 27 նոյեմբերիԱշխարհԲունդեսթագը հաստատել է Գերմանիայի դաշնային բյուջեն, որը նախատեսում է պաշտպանական ծախսերի ռեկորդային ցուցանիշ</title>
@@ -70,7 +78,7 @@
       <description>20:40, 27 նոյեմբերիԱշխարհԲունդեսթագը հաստատել է Գերմանիայի դաշնային բյուջեն, որը նախատեսում է պաշտպանական ծախսերի ռեկորդային ցուցանիշ - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1266874</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/27/8hYDbXpEqDaZaleFafmNhBqMYiSgtecVaQ4xFn7l.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 27 Nov 2026 19:58:58 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 02:38:46 -0000</pubDate>
     </item>
     <item>
       <title>20:19, 27 նոյեմբերիՌուսաստանԱնօդաչու թռչող սարքը խախտել է Լատվիայի օդային տարածքը</title>
@@ -78,7 +86,7 @@
       <description>20:19, 27 նոյեմբերիՌուսաստանԱնօդաչու թռչող սարքը խախտել է Լատվիայի օդային տարածքը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1266873</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/27/w8jQ1KpvgkcCe5EierLGVWjrdceo253Y2hTh83ZH.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 27 Nov 2026 19:56:58 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 02:36:46 -0000</pubDate>
     </item>
     <item>
       <title>19:45, 27 նոյեմբերիՀայաստանՀՀ ՆԳՆ կրթահամալիրում անցկացվել է «Փաստաթղթերի կեղծում» թեմայով մասնագիտական դասընթաց</title>
@@ -86,7 +94,7 @@
       <description>19:45, 27 նոյեմբերիՀայաստանՀՀ ՆԳՆ կրթահամալիրում անցկացվել է «Փաստաթղթերի կեղծում» թեմայով մասնագիտական դասընթաց - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1266872</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/27/IwM17SjYBU9bPuXBNmdL8M3mOihrmwa86ECi6wIF.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 27 Nov 2026 19:54:58 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 02:34:46 -0000</pubDate>
     </item>
     <item>
       <title>19:31, 27 նոյեմբերիՔաղաքականությունԱբու Դաբիում քննարկվել են Հայաստանի և ԱՄԷ-ի միջև հետագա համագործակցության ուղիները</title>
@@ -94,7 +102,7 @@
       <description>19:31, 27 նոյեմբերիՔաղաքականությունԱբու Դաբիում քննարկվել են Հայաստանի և ԱՄԷ-ի միջև հետագա համագործակցության ուղիները - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1266871</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/27/f5rybLBDICqmr8sD0LdNxqQ7T1V54wHEuhsR0Jlr.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 27 Nov 2026 19:52:58 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 02:32:46 -0000</pubDate>
     </item>
     <item>
       <title>19:14, 27 նոյեմբերիՀայաստանՏիգրան Մեծի պողոտա-Ագաթանգեղոսի փողոց խաչմերուկից մինչև Խորենացու փողոցի հատվածը ժամանակավորապես փակ է լինելու երթևեկության համար</title>
@@ -102,7 +110,7 @@
       <description>19:14, 27 նոյեմբերիՀայաստանՏիգրան Մեծի պողոտա-Ագաթանգեղոսի փողոց խաչմերուկից մինչև Խորենացու փողոցի հատվածը ժամանակավորապես փակ է լինելու երթևեկության համար - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1266870</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/27/nvt31ca2MMDq7rHaUFtTPwD56U9uwTRxZfd2A3WB.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 27 Nov 2026 19:50:58 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 02:30:46 -0000</pubDate>
     </item>
     <item>
       <title>19:01, 27 նոյեմբերիԻրավունքՎճռաբեկ դատարանը բեկանել է Դավիթ և Գոռ Համբարձումյաններին վերաբերող Վերաքննիչ դատարանի որոշումը</title>
@@ -110,7 +118,7 @@
       <description>19:01, 27 նոյեմբերիԻրավունքՎճռաբեկ դատարանը բեկանել է Դավիթ և Գոռ Համբարձումյաններին վերաբերող Վերաքննիչ դատարանի որոշումը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1266869</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/27/Qxo2ABLUpo0Tko1YI3HL1IpXoa25lCcc5Kxa5oXb.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 27 Nov 2026 19:48:58 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 02:28:46 -0000</pubDate>
     </item>
     <item>
       <title>18:51, 27 նոյեմբերիՀայաստանՄեկնարկել է «Հայաստան» համահայկական հիմնադրամի դրամահավաք-արշավը</title>
@@ -118,7 +126,7 @@
       <description>18:51, 27 նոյեմբերիՀայաստանՄեկնարկել է «Հայաստան» համահայկական հիմնադրամի դրամահավաք-արշավը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1266868</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/27/7HRusmY8HIKUogP3zC1V1E7ItphqtzAmrXeB9B1U.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 27 Nov 2026 19:46:58 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 02:26:46 -0000</pubDate>
     </item>
     <item>
       <title>18:40, 27 նոյեմբերիՀայաստանԱշտարակ քաղաքի շինանյութի խանութներից մեկում բռնկված հրդեհը մեկուսացվել և մարվել է</title>
@@ -126,7 +134,7 @@
       <description>18:40, 27 նոյեմբերիՀայաստանԱշտարակ քաղաքի շինանյութի խանութներից մեկում բռնկված հրդեհը մեկուսացվել և մարվել է - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1266867</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/27/HZrrqGM3wOO8eXeoIzmDvPskUsyqhSbXK5n5Gc1Q.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 27 Nov 2026 19:44:58 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 02:24:46 -0000</pubDate>
     </item>
     <item>
       <title>18:32, 27 նոյեմբերիՀայաստանԵրևանում կայացավ «Ընդդեմ գենդերային բռնության ակտիվության 16-օրյակի» մեկնարկային միջոցառումը</title>
@@ -134,7 +142,7 @@
       <description>18:32, 27 նոյեմբերիՀայաստանԵրևանում կայացավ «Ընդդեմ գենդերային բռնության ակտիվության 16-օրյակի» մեկնարկային միջոցառումը - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1266866</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/27/6yplrdbNxLKxUmtTw8Zh1x6CWcjkPYN1J140fmoi.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 27 Nov 2026 19:42:58 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 02:22:46 -0000</pubDate>
     </item>
     <item>
       <title>17:58, 27 նոյեմբերիԵվրոպաՍոֆիայի համալսարանում բացվում է աշխարհագրական հետազոտությունների և տեխնոլոգիաների ինստիտուտ. BTA</title>
@@ -142,7 +150,7 @@
       <description>17:58, 27 նոյեմբերիԵվրոպաՍոֆիայի համալսարանում բացվում է աշխարհագրական հետազոտությունների և տեխնոլոգիաների ինստիտուտ. BTA - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1266865</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/27/sDymBu2Tb4r4Yu5idgBvzIpvpyjkunXybGbrldrU.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 27 Nov 2026 19:40:58 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 02:20:46 -0000</pubDate>
     </item>
     <item>
       <title>17:56, 27 նոյեմբերիԱնոնսՆոյեմբերի 28-ի միջոցառումների անոնս</title>
@@ -150,7 +158,7 @@
       <description>17:56, 27 նոյեմբերիԱնոնսՆոյեմբերի 28-ի միջոցառումների անոնս - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1266864</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/27/jgjXYXT8qhyjqrKEPzWwhvNTAHDriqKKM6x90jOK.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 27 Nov 2026 19:38:58 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 02:18:46 -0000</pubDate>
     </item>
     <item>
       <title>17:53, 27 նոյեմբերիՏնտեսությունԱրարատԲանկը, GGF-ը և EFSE-ն ընդլայնում են համագործակցությունը՝ ՄՓՄՁ ու կանաչ ֆինանսավորումը խթանելու նպատակով</title>
@@ -158,15 +166,7 @@
       <description>17:53, 27 նոյեմբերիՏնտեսությունԱրարատԲանկը, GGF-ը և EFSE-ն ընդլայնում են համագործակցությունը՝ ՄՓՄՁ ու կանաչ ֆինանսավորումը խթանելու նպատակով - Read on armenpress.am.</description>
       <guid isPermaLink="false">https://armenpress.am/hy/article/1266863</guid>
       <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/27/wG45QGB3BW23ZLOnPcmoi3rz89hLIiQcv8MBuyT0.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 27 Nov 2026 19:36:58 -0000</pubDate>
-    </item>
-    <item>
-      <title>17:50, 27 նոյեմբերիԵվրոպաՄոլդովայի վարչապետը հայտարարել է, որ իր երկիրը կարող է արտադրել կալանիչ ԱԹՍ-ներ. Moldpres</title>
-      <link>https://armenpress.am/hy/article/1266862</link>
-      <description>17:50, 27 նոյեմբերիԵվրոպաՄոլդովայի վարչապետը հայտարարել է, որ իր երկիրը կարող է արտադրել կալանիչ ԱԹՍ-ներ. Moldpres - Read on armenpress.am.</description>
-      <guid isPermaLink="false">https://armenpress.am/hy/article/1266862</guid>
-      <enclosure url="https://armenpress.am//armenpress.am/resized/480/storage/images/articles/2026/11/27/AO0BiIT18UjhhHILABaEk3UNn5Eu7NylFuhe7uum.webp" length="1000000" type="image/jpeg" />
-      <pubDate>Fri, 27 Nov 2026 19:34:58 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 02:16:46 -0000</pubDate>
     </item>
   </channel>
 </rss>
